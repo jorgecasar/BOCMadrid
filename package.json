@@ -1,0 +1,18 @@
+{
+  "name": "BOCM",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "write": "node ./scripts/saveLastBulletinData.js",
+    "new": "node ./scripts/newBulletin.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "dotenv": "^10.0.0",
+    "node-fetch": "^2.6.1",
+    "scrape-it": "^5.3.1",
+    "twit": "^2.2.11"
+  }
+}
