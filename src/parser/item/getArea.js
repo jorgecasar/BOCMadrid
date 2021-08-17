@@ -1,3 +1,5 @@
+import { titleCase } from '../utils/titleCase.js';
+
 export const getArea = ($, context) => {
 	let { previousSibling } = context
 	let subsection;
@@ -8,5 +10,5 @@ export const getArea = ($, context) => {
 			previousSibling = previousSibling.previousSibling;
 		}
 	}
-	return subsection;
+	return titleCase(subsection);
 };

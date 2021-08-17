@@ -1,3 +1,6 @@
+import { parseSection } from './parseSection.js';
+import { parseSubsection } from './parseSubsection.js';
+
 export const getSection = ($, context) => {
 	let { parentNode } = context
 	let text = '';
@@ -9,7 +12,7 @@ export const getSection = ($, context) => {
 		}
 	}
 	let [ section, subsection = '' ] = text.split('|');
-	section = section.trim().replace(/:$/g, '').split('. ')[1] || undefined;
-	subsection = subsection.trim().replace(/:$/ , '').split(') ')[1] || undefined;
+	section = parseSection(section);
+	subsection = parseSubsection(subsection);
 	return { section, subsection };
 };
