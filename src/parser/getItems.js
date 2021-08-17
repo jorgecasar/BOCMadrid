@@ -15,12 +15,11 @@ export const getItems = ($) => {
 		let organism = getOrganism($, context);
 		let area = getArea($, context);
 		const files = getFiles($, context);
-		({ heading, description, city, area = area } = parseExtract($, context, section));
+		({ heading, description, subsection, area = area } = parseExtract($, context, section));
 		items.push({
 			section,
 			subsection,
 			organism,
-			city,
 			area,
 			heading,
 			description,
