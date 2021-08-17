@@ -3,7 +3,11 @@ import { sendNewBulletin } from '../src/telegram/sendNewBulletin.js';
 import { tweetNewBulletin } from '../src/twitter/tweetNewBulletin.js';
 
 export const newBulletinNotification = async () => {
-	const { number, items, summary } = await getLastBulletinData();
+	const { date, number, items, summary } = await getLastBulletinData();
+	// Check if the latest bulletin is from current day (today).
+	if(new Date(date).toLocaleDateString() !== new Date().toLocaleDateString()) {
+		return;
+	}
 	const total = items.length;
 	// const path = resolve(`./data/20210816.json`);
 	// const { number, items, summary } = JSON.parse(readFileSync(path));
