@@ -5,8 +5,11 @@ import { tweetNewBulletin } from '../src/twitter/tweetNewBulletin.js';
 export const newBulletinNotification = async () => {
 	const { date, number, items, summary } = await getLastBulletinData();
 	// Check if the latest bulletin is from current day (today).
-	if(new Date(date).toLocaleDateString() !== new Date().toLocaleDateString()) {
-		return;
+	const bulletingDate = new Date(date.split('T')[0]).toLocaleDateString();
+	const today = new Date().toLocaleDateString();
+	console.log(`Today ${today} / Bulletin: ${bulletingDate} - ${number}`);
+	if(bulletingDate !== today) {
+		throw new Error('Bulletin is not from current day.');
 	}
 	const total = items.length;
 	// const path = resolve(`./data/20210816.json`);
