@@ -5,8 +5,8 @@
   "type": "module",
   "license": "MIT",
   "scripts": {
-    "write": "node ./scripts/saveLastBulletinData.js",
-    "new": "node ./scripts/newBulletin.js"
+    "fetch": "node ./scripts/saveLastBulletinData.js",
+    "start": "node ./scripts/newBulletin.js"
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.10",

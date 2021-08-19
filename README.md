@@ -4,12 +4,12 @@ Este proyecto es personal, no oficial, cuya finalidad es dar mayor difusión al 
 
 Si quieres ver el resultado, las notificaciones que genera este proyecto se publicarán en la cuenta de Twitter [@BOCMadrid](https://twitter.com/BOCMadrid) y en el canal de Telegram [t.me/BOCMadrid](t.me/BOCMadrid).
 
-## Scrapper
+## Recolección
 
-Para usar el scrapper no es necesario ninguna API key. Puede probar la recolección de datos ejecutando el siguiente comando:
+Para usar el scrapper y recolectar la información del último boletín puedes ejecutando el siguiente comando:
 
 ```bash
-npm run write
+npm run fetch
 ```
 
 Este script conectará con bocm.es y escribirá un json con la fecha del boletín en la carpeta `data`.
@@ -19,7 +19,7 @@ Este script conectará con bocm.es y escribirá un json con la fecha del boletí
 Para enviar las notificaciones a Twitter y Telegram hay que ejecutar el siguiente comando:
 
 ```bash
-npm run new
+npm run start
 ```
 
 ### Requisitos

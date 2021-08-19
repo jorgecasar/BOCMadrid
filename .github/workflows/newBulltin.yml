@@ -31,7 +31,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: New bulletin
-        run: npm run mew
+        run: npm run start
         env:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
