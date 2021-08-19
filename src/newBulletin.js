@@ -1,8 +1,8 @@
-import { getLastBulletinData } from '../src/parser/getLastBulletinData.js';
-import { sendNewBulletin } from '../src/telegram/sendNewBulletin.js';
-import { tweetNewBulletin } from '../src/twitter/tweetNewBulletin.js';
+import { getLastBulletinData } from './parser/getLastBulletinData.js';
+import { sendNewBulletin } from './telegram/sendNewBulletin.js';
+import { tweetNewBulletin } from './twitter/tweetNewBulletin.js';
 
-export const newBulletinNotification = async () => {
+export const newBulletin = async () => {
 	const { date, number, items, summary } = await getLastBulletinData();
 	// Check if the latest bulletin is from current day (today).
 	const bulletingDate = new Date(date.split('T')[0]).toLocaleDateString();

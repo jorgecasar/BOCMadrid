@@ -1,3 +1,3 @@
-import { newBulletinNotification } from '../src/newBulletinNotification.js';
+import { newBulletin } from '../src/newBulletinNotification.js';
 
-newBulletinNotification();
+newBulletin();
