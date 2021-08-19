@@ -1,2 +1,2 @@
-export * from './saveLastBulletinData.js';
-export * from './newBulletinNotification.js';
+export * from './fetch.js';
+export * from './start.js';

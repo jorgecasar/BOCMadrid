@@ -5,8 +5,9 @@
   "type": "module",
   "license": "MIT",
   "scripts": {
-    "fetch": "node ./scripts/saveLastBulletinData.js",
-    "start": "node ./scripts/newBulletin.js"
+    "fetch": "node -r dotenv/config ./scripts/fetch.js",
+    "start": "node -r dotenv/config ./scripts/start.js",
+		"send-next": "node -r dotenv/config ./scripts/sendNext.js dotenv_config_path=.env "
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.10",

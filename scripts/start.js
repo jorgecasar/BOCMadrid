@@ -1,9 +1,9 @@
 #!/usr/bin/env node
 
-import { newBulletin } from '../src/newBulletinNotification.js';
+import { start } from '../src/start.js';
 
 try {
-	newBulletin();
+	start();
 } catch (e) {
 	console.error(`${e.name}: ${e.message}`);
 	process.exit(1);

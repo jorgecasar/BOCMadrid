@@ -1,7 +1,7 @@
 import Twit from 'twit';
 import { apiKey, apiSecret, accessToken, accessTokenSecret } from './constants.js';
 
-export const twit = new Twit({
+export const createTwitter = () => new Twit({
   consumer_key: apiKey,
   consumer_secret: apiSecret,
 	access_token: accessToken,

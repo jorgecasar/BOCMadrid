@@ -11,6 +11,9 @@ export const request = async (method, data) => {
 	const response = await fetch(url, options);
 	const result = await response.json();
 	if(!result.ok) {
-		console.error(`${result.errorCode}: ${result.description}`);
+		const error = new Error(result.errorCode);
+		error.message = result.description;
+		throw error;
 	}
+	return result;
 }
