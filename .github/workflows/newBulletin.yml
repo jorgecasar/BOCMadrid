@@ -1,18 +1,12 @@
-# This is a basic workflow to help you get started with Actions
+
 
 name: New bulletin
-
-# Controls when the workflow will run
 on:
   schedule:
     - cron:  '0,15,30,45 7-9 * * 1-6'
 
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
   setup:
     name: Setup
     runs-on: ubuntu-latest
@@ -20,7 +14,6 @@ jobs:
       date: ${{ steps.date.outputs.date }}
       branch: ${{ steps.branch.outputs.branch }}
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Get current date
         id: date
@@ -32,7 +25,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         with:
-          fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
+          fetch-depth: 0
 
       - name: Switch to ${{ steps.branch.outputs.branch }}
         run: (git show-branch ${{ steps.branch.outputs.branch }} &>/dev/null) && (git checkout ${{ steps.branch.outputs.branch }}) || (git checkout -b ${{ steps.branch.outputs.branch }})
@@ -55,7 +48,7 @@ jobs:
         with:
           ref: ${{ needs.setup.outputs.branch }}
           persist-credentials: true
-          fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
+          fetch-depth: 0
 
       - name: Install Dependencies
         run: npm ci
@@ -81,7 +74,7 @@ jobs:
         with:
           ref: ${{ needs.setup.outputs.branch }}
           persist-credentials: true
-          fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
+          fetch-depth: 0
 
       - name: Install Dependencies
         run: npm ci
