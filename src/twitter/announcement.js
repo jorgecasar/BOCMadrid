@@ -2,14 +2,11 @@ import twitterText from 'twitter-text';
 import { sendMessage } from './utils/sendMessage.js';
 
 const announcementTemplate = ({title, description, footer}) => `${title}
-
 ${description}
-
 ${footer}`;
 
 export const announcement = ({ title, description, file }) => {
-	const footer = `Ver sumario 👇
-${file}`;
+	const footer = `👉 ${file}`;
 	let message = announcementTemplate({title, description, footer});
 	const { valid, displayRangeEnd, validRangeEnd } = twitterText.parseTweet(message);
 	if (!valid) {
