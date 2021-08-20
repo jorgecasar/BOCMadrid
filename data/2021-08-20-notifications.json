@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Meco",
-      "description": "Régimen económico. Extracto convocatoria subvenciones",
-      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/20/BOCM-20210820-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Miraflores de la Sierra",
       "description": "Régimen económico. Precio público",
       "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/20/BOCM-20210820-36.PDF"
