@@ -1,4 +1,4 @@
-const SMALL_WORDS = /\b(?:o|y|e|de|lo|el|la|lo)\b/i;
+const SMALL_WORDS = /\b(?:o|y|e|de|del|lo|el|la|lo)\b/i;
 
 const capitalize = str => {
 	if (str.length) {
@@ -14,5 +14,5 @@ const escape = str => str.replace(/./g, c => `\\${c}`);
 
 export const titleCase = (sentence = '', seps = ' _-/') => {
   const wordPattern = new RegExp(`[^${escape(seps)}]+`, 'g');
-  return sentence.replace(wordPattern, capitalize);
+  return sentence.replace(wordPattern, capitalize).replace(/\s{2,}/g, ' ');
 };

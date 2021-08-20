@@ -7,13 +7,14 @@
   "scripts": {
     "fetch": "node -r dotenv/config ./scripts/fetch.js",
     "start": "node -r dotenv/config ./scripts/start.js",
-		"send-next": "node -r dotenv/config ./scripts/sendNext.js dotenv_config_path=.env "
+    "send-next": "node -r dotenv/config ./scripts/sendNext.js dotenv_config_path=.env "
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.10",
     "dotenv": "^10.0.0",
     "node-fetch": "^2.6.1",
     "scrape-it": "^5.3.1",
-    "twit": "^2.2.11"
+    "twit": "^2.2.11",
+    "twitter-text": "^3.1.0"
   }
 }

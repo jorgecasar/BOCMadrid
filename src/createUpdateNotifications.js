@@ -3,6 +3,7 @@ import { writeFileSync, readFileSync, existsSync } from 'fs';
 import { notificationFileName } from './utils/constants.js';
 import { ensureDataDir } from './utils/ensureDataDir.js';
 import { summary } from './notifications/summary.js';
+import { announcements } from './notifications/announcements.js';
 import { fetch } from './fetch.js';
 
 export const createUpdateNotifications = async notifications => {
@@ -16,6 +17,7 @@ export const createUpdateNotifications = async notifications => {
 		console.log(`Creating notifications...`);
 		notifications = [
 			summary(data),
+			...announcements(data),
 		];
 	}
 	console.log(`Write ${path}`);
