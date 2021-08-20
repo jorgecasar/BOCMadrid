@@ -17,6 +17,10 @@ export const parseExtract = ($, context, section) => {
 	}
 	if (section.startsWith('Administración Local')) {
 		[ subsection, area, heading, description = description ] = description.split(SPLIT_BY_DOT);
+		description = description
+			.replace(`${subsection} .`, '')
+			.replace(`${area} .`, '')
+			.replace(`${heading} .`, '');
 	} else if (section.startsWith('Administración de Justicia')) {
 		[heading, description = description] = description.split(SPLIT_BY_DOT);
 	}
