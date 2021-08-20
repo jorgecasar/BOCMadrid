@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcobendas",
-      "description": "Régimen económico. Modificación presupuestaria",
-      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/20/BOCM-20210820-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alpedrete",
       "description": "Ofertas de empleo. Oferta empleo publico",
       "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/20/BOCM-20210820-27.PDF"
