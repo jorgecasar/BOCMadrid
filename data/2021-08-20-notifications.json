@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Miraflores de la Sierra",
-      "description": "Régimen económico. Precio público",
-      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/20/BOCM-20210820-37.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Nuevo Baztán",
       "description": "Régimen económico. Cuenta general",
       "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/20/BOCM-20210820-38.PDF"
