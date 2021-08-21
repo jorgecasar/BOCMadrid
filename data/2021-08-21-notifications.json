@@ -1,17 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 199,
-      "summary": "http://www.bocm.es/boletin/CM_Boletin_BOCM/2021/08/21/BOCM-20210821.PDF",
-      "total": 13,
-      "items": {
-        "Comunidad de Madrid": 3,
-        "Administración de Justicia": 10
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
