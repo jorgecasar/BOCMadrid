@@ -8,9 +8,10 @@ import { fetch } from './fetch.js';
 
 export const createUpdateNotifications = async notifications => {
 	const dir = ensureDataDir();
-	const path = resolve(dir, notificationFileName);
+	let path = resolve(dir, notificationFileName());
 	if (!notifications) {
 		const data = await fetch();
+		path = resolve(dir, notificationFileName(data.date));
 		if(existsSync(path)) {
 			return JSON.parse(readFileSync(path));
 		}

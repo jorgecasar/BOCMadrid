@@ -6,14 +6,15 @@ import { getLastBulletinData } from './parser/getLastBulletinData.js';
 
 export const fetch = async () => {
 	const dir = ensureDataDir();
-	const path = resolve(dir, `${fileBasename}.json`);
+	let path = resolve(dir, `${fileBasename()}.json`);
 	if(existsSync(path)) {
 		return JSON.parse(readFileSync(path));
 	}
 	console.log(`Fetching data...`);
 	const data = await getLastBulletinData();
 	const newFileBasename = data.date.split('T')[0];
-	if(fileBasename === newFileBasename) {
+	path = resolve(dir, `${newFileBasename}.json`);
+	if(fileBasename(data.date) === newFileBasename) {
 		console.log(`Write ${path}`);
 		writeFileSync(path, JSON.stringify(data, null, 2));
 		return data;
