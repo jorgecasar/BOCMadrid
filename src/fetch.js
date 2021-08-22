@@ -18,5 +18,5 @@ export const fetch = async () => {
 		writeFileSync(path, JSON.stringify(data, null, 2));
 		return data;
 	}
-	return null;
+	throw new Error(`No bulletin data yet`);
 };
