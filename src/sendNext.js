@@ -24,6 +24,8 @@ export const sendNext = async () => {
 
 		if(someFulfilled) {
 			createUpdateNotifications(notifications);
+		} else {
+			throw new Error('No notifications sent');
 		}
 	}
 }
