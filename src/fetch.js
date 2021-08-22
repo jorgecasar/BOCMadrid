@@ -4,14 +4,14 @@ import { ensureDataDir } from './utils/ensureDataDir.js';
 import { fileBasename } from './utils/constants.js';
 import { getLastBulletinData } from './parser/getLastBulletinData.js';
 
-export const fetch = async () => {
+export const fetch = async url => {
 	const dir = ensureDataDir();
 	let path = resolve(dir, `${fileBasename()}.json`);
-	if(existsSync(path)) {
+	if(!url && existsSync(path)) {
 		return JSON.parse(readFileSync(path));
 	}
 	console.log(`Fetching data...`);
-	const data = await getLastBulletinData();
+	const data = await getLastBulletinData(url);
 	const newFileBasename = data.date.split('T')[0];
 	path = resolve(dir, `${newFileBasename}.json`);
 	if(fileBasename(data.date) === newFileBasename) {
