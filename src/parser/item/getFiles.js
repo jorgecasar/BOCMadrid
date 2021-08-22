@@ -5,7 +5,7 @@ export const getFiles = ($, context) => {
 	const items = [];
 	for(let node of nodes) {
 		const item = {
-			type: $(node).text().trim(),
+			type: $(node).text().trim().toLowerCase(),
 			url: getAbsoluteUrl(node.attribs.href),
 		};
 		items.push(item);
