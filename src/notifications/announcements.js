@@ -30,7 +30,7 @@ const section3 = (data) => data.items
 		name: 'announcement',
 		params: {
 			title: item.subsection,
-			description: item.description.replace(`${item.subsection}. `, ''),
+			description: `${item.area}: ${item.heading}`,
 			file: item.files.find(file => file.type === 'pdf').url,
 		}
 	}));

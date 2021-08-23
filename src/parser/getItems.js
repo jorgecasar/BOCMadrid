@@ -9,20 +9,19 @@ export const getItems = ($) => {
 	const items = [];
 	for(let context of nodes) {
 		let heading;
-		let city;
 		let description;
 		let { section, subsection } = getSection($, context);
 		let organism = getOrganism($, context);
 		let area = getArea($, context);
 		const files = getFiles($, context);
-		({ heading, description, subsection, area = area } = parseExtract($, context, section));
+		({ heading, description, subsection = subsection, area = area } = parseExtract($, context, section));
 		items.push({
-			section,
-			subsection,
-			organism,
-			area,
-			heading,
-			description,
+			section: section.trim(),
+			subsection: subsection.trim(),
+			organism: organism.trim(),
+			area: area.trim(),
+			heading: heading.trim(),
+			description: description.trim(),
 			files
 		});
 	}

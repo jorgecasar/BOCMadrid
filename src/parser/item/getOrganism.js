@@ -1,1 +1,1 @@
-export const getOrganism = ($, context) => $('.sub-organismo', context).text().trim() || undefined;
+export const getOrganism = ($, context) => $('.sub-organismo', context).text().trim() || '';
