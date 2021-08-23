@@ -1,20 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 200,
-      "summary": "http://www.bocm.es/boletin/CM_Boletin_BOCM/2021/08/23/BOCM-20210823.PDF",
-      "total": 50,
-      "items": {
-        "Comunidad de Madrid": 16,
-        "Disposiciones y Anuncios del Estado": 3,
-        "Administración Local Ayuntamientos": 21,
-        "Administración de Justicia": 9,
-        "Otros Anuncios": 1
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
