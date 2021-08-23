@@ -7,6 +7,11 @@ ${footer}`;
 
 export const announcement = ({ title, description, file }) => {
 	const footer = `👉 ${file}`;
+	const resolutionRegexp = /, por la que /gi;
+	if(description.match(resolutionRegexp)) {
+		description = description.split(resolutionRegexp)[1];
+		description = description[0].toUpperCase() + description.slice(1);
+	}
 	let message = announcementTemplate({title, description, footer});
 	const { valid, displayRangeEnd, validRangeEnd } = twitterText.parseTweet(message);
 	if (!valid) {
