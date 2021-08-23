@@ -1,0 +1,337 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 200,
+      "summary": "http://www.bocm.es/boletin/CM_Boletin_BOCM/2021/08/23/BOCM-20210823.PDF",
+      "total": 50,
+      "items": {
+        "Comunidad de Madrid": 16,
+        "Disposiciones y Anuncios del Estado": 3,
+        "Administración Local Ayuntamientos": 21,
+        "Administración de Justicia": 9,
+        "Otros Anuncios": 1
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Puesto libre designación: Orden de 28 de julio de 2021, del Consejero de Presidencia, Justicia e Interior, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la citada Consejería por el procedimiento de Libre Designación",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Puesto libre designación: Orden 752/2021, de 2 de agosto, de la Consejería de Cultura, Turismo y Deportes, por la que se resuelve la convocatoria aprobada por Orden 539/2021, de 7 de junio, de la entonces Consejería de Cultura y Turismo (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 16 de junio), para la provisión de un puesto de trabajo vacante en la citada Consejería por el procedimiento de Libre Designación",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Extracto convocatoria subvenciones: Extracto de la Orden 575/2021, de 21 de julio, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se procede a la convocatoria de ayudas para el fomento de la agricultura compatible con la conservación de las aves esteparias de la Red Natura 2000 para el programa agroambiental 2022-2026, cofinanciadas por el Fondo Europeo Agrícola de Desarrollo Rural (FEADER) y la Administración General del Estado",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Extracto convocatoria subvenciones: Extracto de la Orden de 21 de junio de 2021, de la Consejería de Transportes e Infraestructuras, por la que se convocan subvenciones para la realización de actividades formativas en el sector del transporte público por carretera en el año 2021",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Programa de colaboración institucional: Orden 728/2021, de 2 de agosto, de la Consejería de Cultura, Turismo y Deporte, por la que se convoca la VI Edición del Programa de colaboración institucional en proyectos de actividad física y salud, para el curso escolar 2021-2022",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Vías pecuarias: Resolución de 10 de agosto de 2021, del Director General de Agricultura, Ganadería y Alimentación, por la que se anuncia la exposición pública relativa a la autorización de ocupación temporal de la vía pecuaria Cordel de la Matapiñonera al Arroyo de la Vega, en el término municipal de San Sebastián de los Reyes, para acometida de agua en la avenida Matapiñonera, número 15, actuación promovida por Canal de Isabel II, S. A. Exp. Ocup. 879/19",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Vías pecuarias: Resolución de 10 de agosto de 2021, del Director General de Agricultura, Ganadería y Alimentación, por la que se anuncia la exposición pública relativa a la autorización de ocupación temporal de la vía pecuaria Cañada Real Leonesa en los términos municipales de El Escorial y Valdemorillo, para la instalación de una conducción de agua potable a la EDAR Peralejo, actuación promovida por Canal de Isabel II, S. A. Exp. Ocup. 513/19",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Vías pecuarias: Resolución de 10 de agosto de 2021, del Director General de Agricultura, Ganadería y Alimentación, por la que se anuncia la exposición pública relativa a la autorización de ocupación temporal de la vía pecuaria Cordel de la Hoya del Enebral en el término municipal de Redueña, para la ejecución de la canalización para el soterramiento de línea de baja tensión y línea telefónica dentro del proyecto “Soterramiento de redes línea 4 baja tensión y telefonía y acondicionamiento de zonas de aparcamiento”, actuación promovida por Ayuntamiento de Redueña",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-8.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Formalización contrato: Resolución de 12 de agosto de 2021, de la Secretaría General Técnica de la Consejería de Familia, Juventud y Política Social, por la que se dispone la publicación de la formalización de los contratos de servicios de los lotes 5, 6, 7 y 8 del contrato denominado: “Realización del Programa de Centros de Participación e Integración de Inmigrantes (8 lotes)”, cofinanciado al 50 por 100 por el Fondo Social Europeo, programa operativo de la Comunidad de Madrid (2014-2020), eje 2, objetivo temático 9, prioridad de inversión 9.3, objetivo específico 9.3.2”",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-9.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Formalización contrato: Resolución de 9 de agosto de 2021, de la Gerencia de la Agencia Madrileña de Atención Social, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato para el “Mantenimiento higiénico-sanitario de las instalaciones de riesgo para legionella (lote 1) y realización de analíticas para el control de la legionella (lote 2) en 99 centros adscritos a la Agencia Madrileña de Atención Social”",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-10.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Formalización contrato: Resolución de 11 de agosto de 2021, de la Gerencia del Hospital Universitario “Príncipe de Asturias”, de formalización del contrato de “Suministro de Gilenya cap 0,5 mg C/28”",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-11.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Formalización contrato: Resolución de 11 de agosto de 2021, de la Gerencia del Hospital Universitario “Príncipe de Asturias”, de formalización del contrato «Mantenimiento integral (full service) de equipos marca General Electric de diagnóstico por imagen con alta especificidad técnica instalados en el Hospital Universitario “Príncipe de Asturias” y Centro Integral de Diagnóstico y Tratamiento “Francisco Díaz”»",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-12.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Convocatoria contrato: Resolución de 13 de agosto de 2021, del Órgano de Contratación del Hospital Universitario Fundación Alcorcón, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en internet de la convocatoria de la licitación del contrato titulado “Servicio de mantenimiento integral y conservación de aparatos elevadores y escaleras mecánicas del Hospital Universitario Fundación Alcorcón a adjudicar por procedimiento abierto con pluralidad de criterios”, expediente SARA-SER 032/21",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-13.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Formalización contrato: Resolución de 5 de agosto de 2021, de la Dirección-Gerencia del Hospital Universitario de Getafe, por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante”, de la prórroga del contrato de material de osteosíntesis en el Hospital Universitario de Getafe",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-14.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Convocatoria contrato: Resolución de 16 de agosto de 2021, de la Gerencia del Hospital Universitario “Severo Ochoa”, por la que se dispone la publicación de la corrección de errores en el pliego de prescripciones técnicas y apertura de un nuevo plazo de presentación de ofertas de la convocatoria del contrato de «Suministro del material necesario para la realización de determinaciones analíticas para la detección del Sars-CoV-2 y extracción de ácidos nucleicos en el Laboratorio de Microbiología del Hospital Universitario “Severo Ochoa”» (PA 51-2021)",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-15.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Convocatoria contrato: Anuncio de 19 de agosto de 2021, por el que se convoca la licitación para la contratación de un servicio de mantenimiento de software de virtualización del Área de Comunicaciones y Tecnologías de la Información (expediente 6012100226)",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-16.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Disposiciones y Anuncios del Estado",
+      "description": "Ministerio de Transportes, Movilidad y Agenda Urbana. Secretaría de Estado de Transportes, Movilidad y Agenda Urbana. Expropiación",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-17.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Disposiciones y Anuncios del Estado",
+      "description": "Ministero de Política Territorial y Función Pública. Delegación del Gobierno en Castilla-La Mancha. Autorización adminstrativa",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-18.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Disposiciones y Anuncios del Estado",
+      "description": "Ministerio para la Transición Ecológica y el Reto Demográfico. Confederación Hidrográfica del Tajo. Concesión aguas",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-19.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcorcón",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-20.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcorcón",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-21.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Batres",
+      "description": "Régimen económico: Cuenta general",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-22.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Batres",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-23.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Batres",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-24.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Berzosa del Lozoya",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-25.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Daganzo de Arriba",
+      "description": "Organización y funcionamiento: Ordenanzas",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-26.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Fuenlabrada",
+      "description": "Contratación: Licitación espacios escénicos",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-27.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Guadalix de la Sierra",
+      "description": "Licencias: Margarita Huerta Colao",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-28.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Leganés",
+      "description": "Organización y funcionamiento: Denpros, S. L.",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-29.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Leganés",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-30.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Leganés",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-31.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Los Molinos",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-32.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Los Molinos",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-33.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Nuevo Baztán",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-34.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Pinto",
+      "description": "Organización y funcionamiento: Reglamento uso abono deportivo",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-35.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Lorenzo de El Escorial",
+      "description": "Régimen económico: Padrones fiscales",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-36.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Martín de Valdeiglesias",
+      "description": "Otros anuncios: Candidaturas juez de paz",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-37.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrejón de Ardoz",
+      "description": "Urbanismo: Estudio detalle parcelas",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-38.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Valdemaqueda",
+      "description": "Organización y funcionamiento: Estatutos Mancomunidad",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-39.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Valdemoro",
+      "description": "Personal: Plantilla de personal",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-40.PDF"
+    }
+  }
+]
