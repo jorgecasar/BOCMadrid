@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Disposiciones y Anuncios del Estado",
-      "description": "Ministerio para la Transición Ecológica y el Reto Demográfico. Confederación Hidrográfica del Tajo. Concesión aguas",
-      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcorcón",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/23/BOCM-20210823-20.PDF"
