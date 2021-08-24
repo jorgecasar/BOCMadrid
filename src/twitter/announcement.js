@@ -1,17 +1,21 @@
 import twitterText from 'twitter-text';
 import { sendMessage } from './utils/sendMessage.js';
 
+const replacements = {
+	"BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID": "BOCM",
+}
+
 const announcementTemplate = ({title, description, footer}) => `${title}
 ${description}
 ${footer}`;
 
 export const announcement = ({ title, description, file }) => {
 	const footer = `👉 ${file}`;
-	const resolutionRegexp = /, por la que /gi;
-	if(description.match(resolutionRegexp)) {
-		description = description.split(resolutionRegexp)[1];
-		description = description[0].toUpperCase() + description.slice(1);
-	}
+	description = description.replace(/^(.*?)(?:,.*?,)( por la que)/, "$1$2");
+	Object.entries(replacements).forEach((value, key) => {
+		description = description.replace(key, value);
+	});
+
 	let message = announcementTemplate({title, description, footer});
 	const { valid, displayRangeEnd, validRangeEnd } = twitterText.parseTweet(message);
 	if (!valid) {
