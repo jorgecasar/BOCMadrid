@@ -1,18 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 201,
-      "summary": "http://www.bocm.es/boletin/CM_Boletin_BOCM/2021/08/24/BOCM-20210824.PDF",
-      "total": 55,
-      "items": {
-        "Comunidad de Madrid": 10,
-        "Administración Local Ayuntamientos": 18,
-        "Administración de Justicia": 27
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
