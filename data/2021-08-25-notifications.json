@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "El Molar",
-      "description": "Organización y funcionamiento: Ordenanza servicio público cementerio municipal",
-      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/24/BOCM-20210824-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Fresno de Torote",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/24/BOCM-20210824-20.PDF"
