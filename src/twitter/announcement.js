@@ -19,9 +19,10 @@ export const announcement = ({ title, description, file }) => {
 	description = replaceFullNameCouncilByAccount(description);
 
 	let message = announcementTemplate({title, description, footer});
-	const { valid, validRangeEnd } = twitterText.parseTweet(message);
+	const { valid, validRangeEnd, displayRangeEnd } = twitterText.parseTweet(message);
 	if (!valid) {
-		description = elipsisText(description, validRangeEnd)
+		const extraCharacters = displayRangeEnd - validRangeEnd;
+		description = elipsisText(description, description.length - extraCharacters)
 		message = announcementTemplate({title, description, footer});
 	}
 	console.log(`Tweet:\n${message}`);
