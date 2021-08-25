@@ -1,9 +1,9 @@
 import twitterText from 'twitter-text';
 import { sendMessage } from './utils/sendMessage.js';
-
-const replacements = {
-	"BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID": "BOCM",
-}
+import { replaceByAcronym } from './utils/replaceByAcronym.js';
+import { replaceByAccounts, replaceFullNameCouncilByAccount } from './utils/replaceByAccounts.js';
+import { replaceByHashtags } from './utils/replaceByHashtags.js';
+import { elipsisText } from './utils/elipsisText.js';
 
 const announcementTemplate = ({title, description, footer}) => `${title}
 ${description}
@@ -11,19 +11,19 @@ ${footer}`;
 
 export const announcement = ({ title, description, file }) => {
 	const footer = `👉 ${file}`;
-	description = description.replace(/^(.*?)(?:,.*?,)( por la que)/, "$1$2");
-	Object.entries(replacements).forEach((value, key) => {
-		description = description.replace(key, value);
-	});
+	title = `🏛 ${replaceByAccounts(title)}`;
+
+	description = description.replace(/^(.*?)(?:,.*?,)( [por la que|sobre la])/, "$1$2");
+	description = replaceByAcronym(description);
+	description = replaceByHashtags(description);
+	description = replaceFullNameCouncilByAccount(description);
 
 	let message = announcementTemplate({title, description, footer});
-	const { valid, displayRangeEnd, validRangeEnd } = twitterText.parseTweet(message);
+	const { valid, validRangeEnd } = twitterText.parseTweet(message);
 	if (!valid) {
-		const elipsis = '…';
-		const extraCharacters = displayRangeEnd - validRangeEnd;
-		description = description.substr(0, description.length - extraCharacters - elipsis.length);
-		description = description.substr(0, Math.min(description.length, description.lastIndexOf(" "))) + elipsis;
+		description = elipsisText(description, validRangeEnd)
 		message = announcementTemplate({title, description, footer});
 	}
+	console.log(`Tweet:\n${message}`);
 	return sendMessage(message);
 }

@@ -8,7 +8,7 @@ const section1 = (data) => data.items
 		name: 'announcement',
 		params: {
 			title: item.area,
-			description: `${item.heading}: ${item.description}`,
+			description: item.description,
 			file: item.files.find(file => file.type === 'pdf').url,
 		}
 	}));
@@ -18,7 +18,7 @@ const section2 = (data) => data.items
 	.map(item => ({
 		name: 'announcement',
 		params: {
-			title: item.section,
+			title: item.organism ? `${item.section} - ${item.organism}`: item.section,
 			description: item.description,
 			file: item.files.find(file => file.type === 'pdf').url,
 		}
