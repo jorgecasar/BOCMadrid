@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcobendas",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/26/BOCM-20210826-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcorcón",
       "description": "Organización y funcionamiento: Ordenanza terrazas de veladores",
       "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/26/BOCM-20210826-20.PDF"
