@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
-      "description": "Resolución de 17 de agosto de 2021, de la Viceconsejería de Organización Educativa, por la que se aprueba el Plan General Plurianual de Actuación de la Inspección Educativa",
-      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/26/BOCM-20210826-4.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación y Juventud",
       "description": "Convenio interadministrativo de colaboración de 14 de junio de 2021, entre la Comunidad de Madrid, Consejería de Educación y Juventud, y el Ayuntamiento de Buitrago del Lozoya, para la prevención y control del absentismo escolar",
       "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/26/BOCM-20210826-5.PDF"
