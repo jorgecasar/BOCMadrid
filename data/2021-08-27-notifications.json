@@ -1,18 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 204,
-      "summary": "http://www.bocm.es/boletin/CM_Boletin_BOCM/2021/08/27/BOCM-20210827.PDF",
-      "total": 41,
-      "items": {
-        "Comunidad de Madrid": 16,
-        "Administración Local Ayuntamientos": 19,
-        "Administración de Justicia": 6
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
