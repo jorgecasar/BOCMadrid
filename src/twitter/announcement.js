@@ -13,10 +13,11 @@ export const announcement = ({ title, description, file }) => {
 	const footer = `👉 ${file}`;
 	title = `🏛 ${replaceByAccounts(title)}`;
 
-	description = description.replace(/^(.*?)(?:,.*?,)( [por la que|sobre la])/, "$1$2");
+	description = description.replace(/^(.*?)(?:,.*?,)( (por la que|sobre la))/, "$1$2");
 	description = replaceByAcronym(description);
 	description = replaceByHashtags(description);
 	description = replaceFullNameCouncilByAccount(description);
+	description = replaceByAccounts(description);
 
 	let message = announcementTemplate({title, description, footer});
 	const { valid, validRangeEnd, displayRangeEnd } = twitterText.parseTweet(message);

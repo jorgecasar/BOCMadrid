@@ -6,6 +6,7 @@ export const councils = {
 	"Arganda del Rey": "@Arganda_Ayto",
 	"Becerril de la Sierra": "@BecerrilSierra",
 	"Boadilla del Monte": "@Ayto_Boadilla",
+	"Buitrago del Lozoya": "@AytoBuitrago",
 	"Brunete": "@AytoBrunete",
 	"Cercedilla": "@AytoCercedilla",
 	"Collado Villalba": "@AyuntamientoCV",
@@ -47,6 +48,7 @@ export const councils = {
 export const counseling = {
 	"Consejería de Economía, Hacienda y Empleo": "@HaciendaCMadrid",
 	// "Economía y Empleo Comunidad de Madrid": "@EmpleoCMadrid",
+	"Consejería de Educación y Juventud": "@JuventudCMadrid",
 	"Consejería de Medio Ambiente, Vivienda y Agricultura": "@MedioAmbienteCM",
 	"Consejería de Administración Local y Digitalización": "@AdmonLocalCM",
 	"Consejería de Familia, Juventud y Política Social": "@FamiliaCMadrid",
@@ -73,13 +75,12 @@ export const accounts = {
 	// "Mujer Comunidad de Madrid": "@MujerCMadrid",
 	// "Delegación del Gobierno en Madrid": "@DGobiernoMadrid",
 	// "Discapacidad Comunidad de Madrid": "@DiscapacidadCM",
-	// "Juventud Comunidad de Madrid": "@JuventudCMadrid",
 	// "Bibliotecas Comunidad de Madrid": "@LibrosCMadrid",
 	// "Dirección General de Vivienda": "@ViviendaCMadrid",
 	// "112 Comunidad Madrid":	"@112CMadrid",
 }
 
-export const accountNamesRegexp = new RegExp(Object.keys(accounts).join("|"), 'i');
-export const councilFullNames = new RegExp(`(?:(?:(?:el|del)\\s+)?(?:Ayuntamiento de)\\s+)?(${Object.keys(councils).join("|")})`, 'gi');
+export const accountNamesRegexp = new RegExp(Object.keys(accounts).join("|"), 'gi');
+export const councilFullNames = new RegExp(`(?:(?:(?:el|del)\\s+)?(?:Ayuntamiento de)\\s+)(${Object.keys(councils).join("|")})`, 'gi');
 export const replaceByAccounts = str => str.replace(accountNamesRegexp, match => accounts[match]);
 export const replaceFullNameCouncilByAccount = str => str.replace(councilFullNames, (match, $1) => councils[$1]);
