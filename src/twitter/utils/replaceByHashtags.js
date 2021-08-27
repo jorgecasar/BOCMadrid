@@ -1,5 +1,5 @@
 export const hashtags = {
-	"Ofertas de empleo": "#OfertaDeEmpleo",
+	"Ofertas de empleo": "#Empleo",
 }
 
 export const hashtagsRegexp = new RegExp(Object.keys(hashtags).join("|"), 'i');
