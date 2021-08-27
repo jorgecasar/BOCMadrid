@@ -1,18 +1,46 @@
 // Ayuntamientos
 export const councils = {
+	"Alcobendas": "@ALCBDS_Ayto",
+	"Alcorcón": "@AytoAlcorcon",
 	"Algete": "@AytoDeAlgete",
+	"Arganda del Rey": "@Arganda_Ayto",
 	"Becerril de la Sierra": "@BecerrilSierra",
+	"Boadilla del Monte": "@Ayto_Boadilla",
+	"Brunete": "@AytoBrunete",
 	"Cercedilla": "@AytoCercedilla",
 	"Collado Villalba": "@AyuntamientoCV",
+	"Colmenarejo": "@ColmenarejoAyto",
 	"El Molar": "@AytoElMolar",
 	"Fresno de Torote": "@FresnoDeTorote",
-	"Galapagar": "AytoGalapagar",
+	"Fuenlabrada": "@AytoFuenlabrada",
+	"Galapagar": "@AytoGalapagar",
+	"Gargantilla del Lozoya y Pinilla de Buitrago": "#GargantillaDelLozoya y #PinillaDeBuitrago", //No twitter account
+	"Getafe": "@AytoGetafe",
 	"Guadarrama": "@Ayto_Guadarrama",
+	"Horcajo de la Sierra-Aoslos": "@HorcajoAoslos",
+	"Hoyo de Manzanares": "@Ayto_Hoyo",
+	"La Acebeda": "#LaAcebeda", //No twitter account
 	"Las Rozas de Madrid": "@Ayto_Las_Rozas",
-	"Parla": "@AytoParla",
-	"Villaviciosa de Odón": "@AytoVillaDeOdon",
 	"Leganés": "@AytoLeganes",
+	"Loeches": "@AytoDeLoeches",
 	"Madrid": "@Madrid",
+	"Meco": "@AytoMeco",
+	"Morata de Tajuña": "@Ayto_Morata",
+	"Navacerrada": "@AytoNavacerrada",
+	"Navas del Rey": "#NavasDelRey", //No twitter account
+	"Olmeda de las Fuentes": "#OlmedaDeLasFuentes", //No twitter account
+	"Pozuelo de Alarcón": "@Ayto_Pozuelo",
+	"Parla": "@AytoParla",
+	"Quijorna": "#Quijorna", //No twitter account
+	"San Agustín del Guadalix": "@AytoSanAgustin",
+	"Santorcaz": "#Santorcaz", //No twitter account
+	"Torrelodones": "@Ayto_Torre",
+	"Tres Cantos": "@Ayto3Cantos",
+	"Valdeolmos-Alalpardo": "@Alalpardo_Ayto",
+	"Villamanrique de Tajo": "#VillamanriqueDeTajo", //No twitter account
+	"Villamantilla": "#Villamantilla", //No twitter account
+	"Villanueva de Perales": "#VillanuevaDePerales", //No twitter account
+	"Villaviciosa de Odón": "@AytoVillaDeOdon",
 };
 
 // Consejerías
@@ -41,14 +69,14 @@ export const accounts = {
 	...organizations,
 
 	// Otras
-	// "Asamblea de Madrid": "@asambleamadrid",
+	// "Asamblea de Madrid": "@AsambleaMadrid",
 	// "Mujer Comunidad de Madrid": "@MujerCMadrid",
 	// "Delegación del Gobierno en Madrid": "@DGobiernoMadrid",
 	// "Discapacidad Comunidad de Madrid": "@DiscapacidadCM",
-	// "Juventud Comunidad de Madrid": "@juventudcmadrid",
+	// "Juventud Comunidad de Madrid": "@JuventudCMadrid",
 	// "Bibliotecas Comunidad de Madrid": "@LibrosCMadrid",
-	// "Dirección General de Vivienda": "@viviendaCMadrid",
-	// "112 Comunidad Madrid":	"@112cmadrid",
+	// "Dirección General de Vivienda": "@ViviendaCMadrid",
+	// "112 Comunidad Madrid":	"@112CMadrid",
 }
 
 export const accountNamesRegexp = new RegExp(Object.keys(accounts).join("|"), 'i');
