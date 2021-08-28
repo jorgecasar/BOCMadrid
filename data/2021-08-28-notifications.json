@@ -1,0 +1,46 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 205,
+      "summary": "http://www.bocm.es/boletin/CM_Boletin_BOCM/2021/08/28/BOCM-20210828.PDF",
+      "total": 11,
+      "items": {
+        "Comunidad de Madrid": 4,
+        "Administración de Justicia": 7
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 2 de agosto de 2021, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa Compañía Europea de Cospeles, S. A. (código número 28100212012012)",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/28/BOCM-20210828-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Convenio de colaboración de 28 de julio de 2021, entre la Comunidad de Madrid e IFEMA Madrid para la promoción económica e internacional de la Comunidad de Madrid",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/28/BOCM-20210828-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Convenio de colaboración de 29 de julio de 2021, entre la Comunidad de Madrid y la Cámara Oficial de Comercio, Industria y Servicios de Madrid, para el fomento de la internacionalización de las empresas madrileñas y para incrementar la actividad exportadora de la Comunidad de Madrid a través de la oficina denominada “Ventanilla Única de Internacionalización”",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/28/BOCM-20210828-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Convenio de colaboración de 2 de agosto de 2021, entre la Comunidad de Madrid (Consejería de Familia, Juventud y Política Social) y el Ayuntamiento de Valdetorres de Jarama, para la expedición de Carné Joven Comunidad de Madrid",
+      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/28/BOCM-20210828-4.PDF"
+    }
+  }
+]
