@@ -1,0 +1,15 @@
+export const organizations = {
+	'Comunidad de Madrid': '@ComunidadMadrid',
+	'HOSPITAL UNIVERSITARIO “12 DE OCTUBRE”': '@Hospital12deOct',
+	'HOSPITAL UNIVERSITARIO “LA PAZ”': '@HospitalULaPaz',
+	'METRO DE MADRID, S. A.': '@metro_madrid',
+	"Cámara Oficial de Comercio, Industria y Servicios de Madrid": "@CamaraDeMadrid",
+	"IFEMA Madrid": "@IFEMA",
+	// "Asamblea de Madrid": "@AsambleaMadrid",
+	// "Mujer Comunidad de Madrid": "@MujerCMadrid",
+	// "Delegación del Gobierno en Madrid": "@DGobiernoMadrid",
+	// "Discapacidad Comunidad de Madrid": "@DiscapacidadCM",
+	// "Bibliotecas Comunidad de Madrid": "@LibrosCMadrid",
+	// "Dirección General de Vivienda": "@ViviendaCMadrid",
+	// "112 Comunidad Madrid":	"@112CMadrid",
+};
