@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Coslada",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/30/BOCM-20210830-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Getafe",
       "description": "Régimen económico: Extracto convocatoria subvenciones",
       "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/30/BOCM-20210830-31.PDF"
