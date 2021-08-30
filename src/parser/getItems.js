@@ -1,3 +1,4 @@
+import {decode} from 'html-entities';
 import { getSection } from "./item/getSection.js";
 import { getArea } from "./item/getArea.js";
 import { parseExtract } from "./item/parseExtract.js";
@@ -16,12 +17,12 @@ export const getItems = ($) => {
 		const files = getFiles($, context);
 		({ heading, description, subsection = subsection, area = area } = parseExtract($, context, section));
 		items.push({
-			section: section.trim(),
-			subsection: subsection.trim(),
-			organism: organism.trim(),
-			area: area.trim(),
-			heading: heading.trim(),
-			description: description.trim(),
+			section: decode(section.trim()),
+			subsection: decode(subsection.trim()),
+			organism: decode(organism.trim()),
+			area: decode(area.trim()),
+			heading: decode(heading.trim()),
+			description: decode(description.trim()),
 			files
 		});
 	}
