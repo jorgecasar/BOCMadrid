@@ -80,7 +80,7 @@ export const accounts = {
 	// "112 Comunidad Madrid":	"@112CMadrid",
 }
 
-export const accountNamesRegexp = new RegExp(Object.keys(accounts).join("|"), 'gi');
+export const accountNamesRegexp = new RegExp(`\b(${Object.keys(accounts).join("|")})\b`, 'gi');
 export const councilFullNames = new RegExp(`(?:(?:(?:el|del)\\s+)?(?:Ayuntamiento de)\\s+)(${Object.keys(councils).join("|")})`, 'gi');
 export const replaceByAccounts = str => str.replace(accountNamesRegexp, match => accounts[match]);
 export const replaceFullNameCouncilByAccount = str => str.replace(councilFullNames, (match, $1) => councils[$1]);
