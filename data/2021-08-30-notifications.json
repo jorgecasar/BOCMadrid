@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Navas del Rey",
-      "description": "Régimen económico: Padrones fiscales",
-      "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/30/BOCM-20210830-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Navas del Rey",
       "description": "Régimen económico: Ordenanza fiscal",
       "file": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/30/BOCM-20210830-36.PDF"
     }
