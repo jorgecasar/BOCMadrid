@@ -1,3 +1,6 @@
+import { councils } from '../twitter/utils/replacements/councils.js';
+import { getRegex } from '../twitter/utils/replacements.js';
+
 const section1DisabledHeadings = [
 	'Notificación'
 ];
@@ -26,6 +29,12 @@ const section2 = (data) => data.items
 
 const section3 = (data) => data.items
 	.filter(item => item.section === 'Administración Local Ayuntamientos')
+	.map(item => {
+		if(!getRegex(councils).test(item.subsection)) {
+			console.log(item.subsection);
+		}
+		return item;
+	})
 	.map(item => ({
 		name: 'announcement',
 		params: {

@@ -4,7 +4,7 @@ import { councils } from './replacements/councils.js';
 import { counseling } from './replacements/counseling.js';
 import { organizations } from './replacements/organizations.js';
 
-const getRegex = (replacements) => new RegExp(`(?:^|\\b)(${Object.keys(replacements).join("|")})(?:$|\\b)`, 'gi');
+export const getRegex = (replacements) => new RegExp(`(?:^|\\b)(${Object.keys(replacements).join("|")})(?:$|\\b)`, 'gi');
 const makeReplacement = (str, replacements) => str.replace(getRegex(replacements), match => replacements[match]);
 
 
