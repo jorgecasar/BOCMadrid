@@ -23,7 +23,7 @@ export const sendNext = async () => {
 		const someFulfilled = results.some(result => result.status === 'fulfilled');
 
 		if(someFulfilled) {
-			createUpdateNotifications(notifications);
+			createUpdateNotifications({notifications});
 		} else {
 			throw new Error('No notifications sent');
 		}

@@ -1,9 +1,9 @@
 import { fetch } from './fetch.js';
 import { createUpdateNotifications } from './createUpdateNotifications.js';
 
-export const start = async () => {
-	const data = await fetch();
+export const start = async (url) => {
+	const data = await fetch(url);
 	if(data) {
-		await createUpdateNotifications();
+		await createUpdateNotifications({data});
 	}
 }
