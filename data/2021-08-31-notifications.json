@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Carlos Iii",
-      "description": "Resolución de 28 de julio de 2021, del Rector de la Universidad Carlos III de Madrid, por la que se convoca a concurso de acceso plazas de los Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/31/BOCM-20210831-3.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Carlos Iii",
       "description": "Resolución de 5 de agosto de 2021, de la Universidad Carlos III de Madrid, por la que se nombran Profesores y Profesoras Titulares de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/31/BOCM-20210831-4.PDF"
     }
