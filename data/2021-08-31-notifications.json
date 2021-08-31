@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos Iii",
-      "description": "Resolución de 5 de agosto de 2021, de la Universidad Carlos III de Madrid, por la que se nombran Profesores y Profesoras Titulares de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/31/BOCM-20210831-4.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Resolución de 23 de julio de 2021, de la Dirección General de Seguridad, Protección Civil y Formación, por la que se hace pública la relación definitiva de aspirantes declarados aptos en las pruebas para renovación de los certificados acreditativos del personal de control de acceso a espectáculos públicos y actividades recreativas expedidos en el año 2015",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/31/BOCM-20210831-5.PDF"
