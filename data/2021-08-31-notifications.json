@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Urbanismo: Distrito de Salamanca. Plan especial control urbanístico de usos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/31/BOCM-20210831-33.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "El Álamo",
       "description": "Régimen económico: Presupuesto general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/08/31/BOCM-20210831-34.PDF"
