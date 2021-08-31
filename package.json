@@ -5,9 +5,9 @@
   "type": "module",
   "license": "MIT",
   "scripts": {
-    "fetch": "node -r dotenv/config ./scripts/fetch.js",
-    "start": "node -r dotenv/config ./scripts/start.js",
-    "send-next": "node -r dotenv/config ./scripts/sendNext.js dotenv_config_path=.env "
+    "fetch": "node --inspect -r dotenv/config ./scripts/fetch.js",
+    "start": "node --inspect -r dotenv/config ./scripts/start.js",
+    "send-next": "node --inspect -r dotenv/config ./scripts/sendNext.js dotenv_config_path=.env "
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.10",

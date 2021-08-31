@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import { fetch } from '../src/fetch.js';
 
 try {
