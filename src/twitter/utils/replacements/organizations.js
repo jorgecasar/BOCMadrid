@@ -5,6 +5,7 @@ export const organizations = {
 	'METRO DE MADRID, S. A.': '@metro_madrid',
 	"Cámara Oficial de Comercio, Industria y Servicios de Madrid": "@CamaraDeMadrid",
 	"IFEMA Madrid": "@IFEMA",
+	"Universidad Carlos III": "@uc3m",
 	// "Asamblea de Madrid": "@AsambleaMadrid",
 	// "Mujer Comunidad de Madrid": "@MujerCMadrid",
 	// "Delegación del Gobierno en Madrid": "@DGobiernoMadrid",
