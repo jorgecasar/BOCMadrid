@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 20 de julio de 2021, de la Universidad Autónoma de Madrid, por la que se nombran funcionarios de carrera de la Escala de Ayudantes de Archivos, Bibliotecas y Museos de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/01/BOCM-20210901-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 26 de julio de 2021, de la Rectora de la Universidad Autónoma de Madrid, por la que se convoca un puesto de trabajo para su provisión por el sistema de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/01/BOCM-20210901-20.PDF"
     }
