@@ -1,19 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 209,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2021/09/02/BOCM-20210902.PDF",
-      "total": 105,
-      "items": {
-        "Comunidad de Madrid": 41,
-        "Disposiciones y Anuncios del Estado": 2,
-        "Administración Local Ayuntamientos": 32,
-        "Administración de Justicia": 30
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
