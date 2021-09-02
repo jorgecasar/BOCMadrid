@@ -1,0 +1,616 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 209,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2021/09/02/BOCM-20210902.PDF",
+      "total": 105,
+      "items": {
+        "Comunidad de Madrid": 41,
+        "Disposiciones y Anuncios del Estado": 2,
+        "Administración Local Ayuntamientos": 32,
+        "Administración de Justicia": 30
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
+      "description": "Acuerdo de 1 de septiembre de 2021, del Consejo de Gobierno, por el que se dispone el cese de don Daniel Martín Huestamendía como vocal del Consejo Social de la Universidad Autónoma de Madrid, en representación de los estudiantes, y el nombramiento, en su sustitución, de don Álvaro Muñoz Murillo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
+      "description": "Resolución de 30 de agosto de 2021, de la Dirección General de Recursos Humanos de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se modifica la Resolución de 1 de junio de 2021, de la Dirección General de Recursos Humanos de la Consejería de Educación y Juventud, por la que se publica la relación definitiva de aspirantes que han superado el procedimiento de acceso a los Cuerpos de Catedráticos de Enseñanza Secundaria y de Escuelas Oficiales de Idiomas, convocado por Resolución de 13 de mayo de 2019",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 2 de agosto de 2021, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden del Consejero de Hacienda y Función Pública de 5 de abril de 2021 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 19 de abril), para la provisión de cinco puestos de trabajo vacantes en la Consejería de Sanidad, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 2 de agosto de 2021, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden del Consejero de Hacienda y Función Pública de 26 de abril de 2021 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 13 de mayo), para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 4 de agosto de 2021, de la Dirección-Gerencia del Hospital Universitario “La Paz” del Servicio Madrileño de Salud, por la que se publica la relación provisional de admitidos y excluidos al proceso de provisión convocado para la cobertura de un puesto de Jefe de Sección de Pediatría y sus Áreas Específicas, Hepatología Infantil, en ese centro asistencial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 4 de agosto de 2021, de la Dirección-Gerencia del Hospital Universitario “La Paz” del Servicio Madrileño de Salud, por la que se publica la relación provisional de admitidos y excluidos al proceso de provisión convocado para la cobertura de un puesto de Jefe de Sección de Angiología y Cirugía Vascular en ese centro asistencial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 4 de agosto de 2021, de la Dirección-Gerencia del Hospital Universitario “La Paz” del Servicio Madrileño de Salud, por la que se publica la relación provisional de admitidos y excluidos al proceso de provisión convocado para la cobertura de un puesto de Jefe de Sección de Medicina Física y Rehabilitación, en ese centro asistencial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 4 de agosto de 2021, de la Dirección-Gerencia del Hospital Universitario “La Paz” del Servicio Madrileño de Salud, por la que se publica la relación provisional de admitidos y excluidos al proceso de provisión convocado para la cobertura de un puesto de Jefe de Sección de Obstetricia y Ginecología, Hospitalización Obstétrica de Alto Riesgo, en ese centro asistencial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-8.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Corrección de errores de la Resolución de 11 de junio de 2021, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre” del Servicio Madrileño de Salud, por la que se publica la relación definitiva de admitidos y excluidos al proceso de provisión convocado para la cobertura de un puesto de Jefe de Sección de Cirugía Cardiovascular en ese centro asistencial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-9.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 6 de agosto de 2021, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre” del Servicio Madrileño de Salud, por la que se resuelve la convocatoria de fecha 19 de enero de 2021 de un puesto de Jefe de Sección de Medicina Intensiva",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-10.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 6 de agosto de 2021, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre” del Servicio Madrileño de Salud, por la que se resuelve la convocatoria de 19 de enero de 2021, de un puesto de Jefe de Sección de Anestesiología y Reanimación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-11.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 3 de agosto de 2021, de la Dirección-Gerencia del Hospital Universitario “Ramón y Cajal” del Servicio Madrileño de Salud, por la que se publica la relación definitiva de admitidos y excluidos al proceso de provisión convocado para la cobertura de un puesto de Jefe de Sección de Farmacia Hospitalaria (Gestión de la Farmacoterapia) en este centro asistencial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-12.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 6 de agosto de 2021, de la Dirección-Gerencia del Hospital Universitario “Puerta de Hierro Majadahonda” del Servicio Madrileño de Salud, por la que se publica la relación definitiva de admitidos/as y excluidos/as al proceso de provisión convocado para la cobertura de un puesto de Jefe de Sección de Dermatología Médico-Quirúrgica y Venereología en este centro asistencial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-13.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 6 de agosto de 2021, de la Dirección-Gerencia del Hospital Universitario “Puerta de Hierro Majadahonda” del Servicio Madrileño de Salud, por la que se publica la relación definitiva de admitidos/as y excluidos/as al proceso de provisión convocado para la cobertura de un puesto de Jefe de Sección de Cardiología (Cardiopatías Familiares) en este centro asistencial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-14.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 6 de agosto de 2021, de la Dirección-Gerencia del Hospital Universitario “Puerta de Hierro Majadahonda” del Servicio Madrileño de Salud, por la que se publica la relación definitiva de admitidos/as y excluidos/as al proceso de provisión convocado para la cobertura de un puesto de Jefe de Sección de Oftalmología (Neuroftalmología y Oculoplástica) en este centro asistencial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-15.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 6 de agosto de 2021, de la Dirección-Gerencia del Hospital Universitario “Puerta de Hierro Majadahonda” del Servicio Madrileño de Salud, por la que se publica la relación definitiva de admitidos/as y excluidos/as al proceso de provisión convocado para la cobertura de un puesto de Jefe de Sección de Otorrinolaringología en este centro asistencial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-16.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 6 de agosto de 2021, de la Dirección-Gerencia del Hospital Universitario “Puerta de Hierro Majadahonda” del Servicio Madrileño de Salud, por la que se publica la relación definitiva de admitidos/as y excluidos/as al proceso de provisión convocado para la cobertura de un puesto de Jefe de Servicio de Neurología en este centro asistencial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-17.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 9 de agosto de 2021, de la Dirección-Gerencia del Hospital Universitario “Puerta de Hierro Majadahonda” del Servicio Madrileño de Salud, por la que se publica la relación provisional de admitidos/as y excluidos/as al proceso de provisión convocado para la cobertura de un puesto de Jefe de Sección de Cirugía General y Aparato Digestivo en ese centro asistencial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-18.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 2 de agosto de 2021, de la Dirección-Gerencia del Hospital Central de la Cruz Roja “San José y Santa Adela” del Servicio Madrileño de Salud, por la que se publica la relación definitiva de admitidos y excluidos al proceso de provisión convocado para la cobertura de un puesto de Jefe de Sección de Medicina Interna en ese centro asistencial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-19.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 9 de agosto de 2021, de la Dirección-Gerencia del Hospital Universitario “Príncipe de Asturias” del Servicio Madrileño de Salud, por la que se publica la relación provisional de admitidos y excluidos al proceso de provisión convocado para la cobertura de un puesto de Jefe de Sección de Radiodiagnóstico, en ese centro asistencial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-20.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 4 de agosto de 2021, de la Dirección-Gerencia del Hospital Universitario de Getafe del Servicio Madrileño de Salud, por la que se publica la relación definitiva de admitidos y excluidos al proceso de provisión convocado para la cobertura de un puesto de Jefe de Sección de Pediatría y sus Áreas Específicas (Neonatología) en este centro asistencial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-21.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 5 de agosto de 2021, de la Dirección-Gerencia del Hospital Universitario “Severo Ochoa” del Servicio Madrileño de Salud, por la que se publica la relación provisional de admitidos y excluidos al proceso de provisión convocado para la cobertura de un puesto de Jefe de Sección de Medicina Física y Rehabilitación en ese centro asistencial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-22.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 2 de agosto de 2021, de la Dirección-Gerencia del Hospital Universitario de Móstoles del Servicio Madrileño de la Salud, por la que se resuelve la convocatoria de 26 de enero de 2021, de un puesto de Jefe de Servicio de la especialidad de Cirugía Ortopédica y Traumatología",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-23.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 2 de agosto de 2021, de la Dirección-Gerencia del Hospital Universitario de Móstoles del Servicio Madrileño de Salud, por la que se publica la relación provisional de admitidos y excluidos al proceso de provisión convocado para la cobertura de un puesto de Jefe de Sección de Radiodiagnóstico en ese centro asistencial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-24.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Acuerdo de 1 de septiembre de 2021, del Consejo de Gobierno, por el que se nombra al vocal del Consejo de Administración del Consorcio Regional de Transportes Públicos Regulares de Madrid, en representación del sindicato Comisiones Obreras de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-25.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Acuerdo de 1 de septiembre de 2021, del Consejo de Gobierno, por el que se nombra a los vocales del Consejo de Administración del Consorcio Regional de Transportes Públicos Regulares de Madrid, en representación de la Administración General del Estado",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-26.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Anuncio de 31 de agosto de 2021, por el que se hace pública la convocatoria de tres procesos selectivos de Metro de Madrid, S. A., para cubrir un puesto de Técnico/a de Prevención de Riesgos Laborales adscrito al Servicio de Prevención Laboral, un puesto de Coordinador/a de Actividades MCA y un puesto de Técnico/a de Soporte de Actividades MCA, ambos adscritos al Área de Mantenimiento de Material Móvil, mediante un contrato laboral indefinido y a jornada completa",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-27.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Autónoma de Madrid",
+      "description": "Resolución de 6 de agosto de 2021, de la Universidad Autónoma de Madrid, por la que se convoca concurso de acceso a plazas de Docentes Universitarios entre Acreditados: Profesores Contratados Doctores y Profesoras Contratadas Doctoras",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-28.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Rey Juan Carlos",
+      "description": "Resolución de 29 de julio de 2021, del Rector de la Universidad Rey Juan Carlos, por la que se convoca concurso público para la contratación de dos programadores para el Proyecto Erasmus+, acción clave 1: Movilidad de las personas por motivos de aprendizaje (número de convenio 2020-1-es01-ka103-078257)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-29.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
+      "description": "Orden 2493/2021, de 19 de agosto, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se resuelve la convocatoria de los premios “Dolores Escribano” dirigidos a alumnos que cursan enseñanzas de dibujo en los Institutos de Educación Secundaria “Ramiro de Maeztu” y “Cardenal Cisneros” de Madrid, para el curso 2020-2021",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-30.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Acuerdo de 3 de agosto de 2021, del Consejo de Gobierno, por el que se aprueban las normas reguladoras del procedimiento de concesión directa de ayudas destinadas al sector de transformación de productos de la pesca y de la acuicultura de la Comunidad de Madrid por pérdida de ingresos derivados del COVID-19, cofinanciadas por el Fondo Europeo Marítimo y de Pesca (FEMP)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-31.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Administración Local y Digitalización",
+      "description": "Resolución de 10 de agosto de 2021, de la Dirección General de Reequilibrio Territorial, sobre la clasificación del puesto de Tesorería, reservado a funcionarios de la Administración Local con habilitación de carácter nacional, en el Ayuntamiento de Brunete",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-32.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 24 de agosto de 2021, de la Dirección-Gerencia del Hospital General Universitario “Gregorio Marañón”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet, de la formalización del contrato denominado: «Suministro e instalación de veinte mesas quirúrgicas para el Nuevo Bloque Quirúrgico del Hospital General Universitario “Gregorio Marañón”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-33.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 30 de julio de 2021, de la Dirección-Gerencia del Hospital Clínico “San Carlos”, de Madrid, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización de la prórroga del contrato PNSP 2020-1-128 de «Suministro del medicamento Cerezyme (Imiglucerasa 400 ui inyectable perfusión 5 ml), de distribución exclusiva, para el Servicio de Farmacia del Hospital Clínico “San Carlos”. de Madrid»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-34.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 23 de agosto de 2021, de la Dirección-Gerencia del Hospital Clínico “San Carlos” de Madrid, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización de la modificación del contrato de «Suministro de toallitas antisépticas para el Servicio de Medicina Preventiva del Hospital Clínico “San Carlos”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-35.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 23 de agosto de 2021, de la Dirección-Gerencia del Hospital Clínico “San Carlos”, de Madrid, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización de la prórroga del contrato de «Suministro de Zejula (Niraparib 100 mg cápsulas), de distribución exclusiva, con destino al Servicio de Farmacia del Hospital Clínico “San Carlos”, de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-36.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 24 de agosto de 2021, de la Dirección-Gerencia del Hospital Clínico “San Carlos” de Madrid, por la que se dispone la publicación en los boletines oficiales y en el “Perfil del contratante” de la formalización de la prórroga del contrato para el «Suministro de Eylea vial 40 mg/ml jeringa de distribución exclusiva, con destino al Servicio de Farmacia del Hospital Clínico “San Carlos”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-37.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 24 de agosto de 2021, de la Dirección-Gerencia del Hospital Clínico “San Carlos” de Madrid, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización de la prórroga del contrato para el «Suministro de Xeljanz (Tofacitinib 5 mg comprimidos), de distribución exclusiva, con destino al Servicio de Farmacia del Hospital Clínico “San Carlos”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-38.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 25 de agosto de 2021, del Director-Gerente del Hospital Clínico “San Carlos”, por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante”, de la licitación del contrato por procedimiento abierto PA 2021-0-001 «Suministro de prótesis valvulares cardíacas transcatéter para el Hospital Clínico “San Carlos” de Madrid»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-39.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 24 de agosto de 2021, de la Gerencia del Hospital Universitario “Severo Ochoa”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la convocatoria del contrato de: Suministro material para bisturí sellador vascular en el Hospital Universitario “Severo Ochoa” (PA 47-2021)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-40.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 23 de agosto de 2021, de la Gerencia del Hospital Universitario “Infanta Sofía”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la formalización de la primera prórroga de contrato: “Suministro detocilizumab (Roactemra), hierro carboximaltosa (Ferinject) y emtricitabinatenofovir alafenamida-bictegravir (Biktarvy)”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-41.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Disposiciones y Anuncios del Estado",
+      "description": "Ministerio para la Transición Ecológica y el Reto Demográfico. Confederación Hidrográfica del Tajo. Concesión aguas",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-42.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Disposiciones y Anuncios del Estado",
+      "description": "Ministerio para la Transición Ecológica y el Reto Demográfico. Confederación Hidrográfica del Tajo. Autorización vertido de aguas",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-43.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Régimen económico: Agencia para el Empleo de Madrid. Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-44.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Régimen económico: O. A",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-45.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Urbanismo: Área de Gobierno de Obras y Equipamientos. Proyecto urbanización",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-46.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcobendas",
+      "description": "Ofertas de empleo: Convocatorias procesos selectivos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-47.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcobendas",
+      "description": "Urbanismo: Modificación puntual Plan General Ordenación Urbana",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-48.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alpedrete",
+      "description": "Organización y funcionamiento: Delegación de funciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-49.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Aranjuez",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-50.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Boadilla del Monte",
+      "description": "Licencias: Janet Magaly Abanto Álvarez",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-51.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Boadilla del Monte",
+      "description": "Licencias: Estética Dental Los Molinos, S. L. P.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-52.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Cenicientos",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-53.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Cenicientos",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-54.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Coslada",
+      "description": "Organización y funcionamiento: Delegación de funciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-55.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Coslada",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-56.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "El Molar",
+      "description": "Personal: Nombramiento",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-57.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Getafe",
+      "description": "Organización y funcionamiento: Ordenanza tenencia de animales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-58.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Getafe",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-59.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Getafe",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-60.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Getafe",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-61.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Humanes de Madrid",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-62.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Mejorada del Campo",
+      "description": "Régimen económico: Ordenanza ayudas punto municipal observatorio violencia género",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-63.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Mejorada del Campo",
+      "description": "Licencias: Princesitas Factory, S. L.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-64.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Miraflores de la Sierra",
+      "description": "Organización y funcionamiento: Reglamento control horario empleados",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-65.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Móstoles",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-66.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Pedrezuela",
+      "description": "Régimen económico: Ordenanza fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-67.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Pinto",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-68.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Pozuelo de Alarcón",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-69.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Valdetorres de Jarama",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-70.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Velilla de San Antonio",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-71.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Velilla de San Antonio",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-72.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villalbilla",
+      "description": "Organización y funcionamiento: Ordenanza de atención domiciliaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-73.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villalbilla",
+      "description": "Régimen económico: Ordenanza de prestaciones sociales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-74.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Mancomunidad de Servicios de Arquitectura y Urbanismo de la Sierra Norte",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-75.PDF"
+    }
+  }
+]
