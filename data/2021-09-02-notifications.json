@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Disposiciones y Anuncios del Estado",
-      "description": "Ministerio para la Transición Ecológica y el Reto Demográfico. Confederación Hidrográfica del Tajo. Concesión aguas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-42.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Disposiciones y Anuncios del Estado",
       "description": "Ministerio para la Transición Ecológica y el Reto Demográfico. Confederación Hidrográfica del Tajo. Autorización vertido de aguas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/02/BOCM-20210902-43.PDF"
     }
