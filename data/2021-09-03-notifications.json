@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 26 de julio de 2021, de la Universidad Rey Juan Carlos, por la que se nombra Profesor Titular de Universidad a don Francisco José Valverde Albacete",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/03/BOCM-20210903-28.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Extracto de la Orden 2061/2021, de 12 de julio, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se aprueba la convocatoria de becas para el estudio de Programas de Segunda Oportunidad, correspondiente al curso 2021-2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/03/BOCM-20210903-29.PDF"
