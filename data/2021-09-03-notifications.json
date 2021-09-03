@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Resolución de 4 de agosto de 2021, de la Dirección-Gerencia del Hospital Clínico “San Carlos”, del Servicio Madrileño de la Salud, por la que se resuelve la convocatoria de fecha 26 de enero de 2021 de un puesto de Jefe de Servicio de Oncología Médica",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/03/BOCM-20210903-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 4 de agosto de 2021, de la Dirección-Gerencia del Hospital Clínico “San Carlos”, del Servicio Madrileño de Salud, por la que se resuelve la convocatoria de fecha 10 de marzo de 2021 de un puesto de Jefe de Servicio de Cardiología",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/03/BOCM-20210903-24.PDF"
     }
