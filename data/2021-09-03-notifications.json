@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
-      "description": "Extracto de la Orden 2061/2021, de 12 de julio, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se aprueba la convocatoria de becas para el estudio de Programas de Segunda Oportunidad, correspondiente al curso 2021-2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/03/BOCM-20210903-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Extracto de la Orden 718/2021, de 2 de agosto, de la Consejería de Cultura, Turismo y Deporte, por la que se aprueba la convocatoria para el año 2021 de subvenciones destinadas a Asociaciones Deportivas Madrileñas, excepto Federaciones Deportivas, para la participación en competiciones deportivas oficiales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/03/BOCM-20210903-30.PDF"
