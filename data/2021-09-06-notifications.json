@@ -1,18 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 212,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2021/09/06/BOCM-20210906.PDF",
-      "total": 70,
-      "items": {
-        "Comunidad de Madrid": 34,
-        "Administración Local Ayuntamientos": 25,
-        "Administración de Justicia": 11
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
