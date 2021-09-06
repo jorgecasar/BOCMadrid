@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcorcón",
-      "description": "Personal: Nombramiento",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/06/BOCM-20210906-42.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alpedrete",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/06/BOCM-20210906-43.PDF"
