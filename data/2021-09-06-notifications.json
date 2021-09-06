@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Urbanismo: Área de Gobierno de Desarrollo Urbano. Plan especial control de usos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/06/BOCM-20210906-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcalá de Henares",
       "description": "Ofertas de empleo: Oferta de empleo público",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/06/BOCM-20210906-36.PDF"
