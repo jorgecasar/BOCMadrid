@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia e Interior",
-      "description": "Orden de 1 de septiembre de 2021, de la Consejería de Presidencia, Justicia e Interior, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la citada Consejería por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/07/BOCM-20210907-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Corrección de errores de la Resolución de 4 de agosto de 2021, de la Dirección General de Recursos Humanos de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que estima la solicitud de rehabilitación presentada por doña Sonia López Gurumeta",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/07/BOCM-20210907-3.PDF"
