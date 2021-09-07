@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "San Lorenzo de El Escorial",
-      "description": "Organización y funcionamiento: Reglamento cementerio municipal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/07/BOCM-20210907-44.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Sevilla la Nueva",
       "description": "Ofertas de empleo: Oferta de empleo público",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/07/BOCM-20210907-45.PDF"
