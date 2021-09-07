@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Política Social",
-      "description": "Decreto 208/2021, de 1 de septiembre, del Consejo de Gobierno, por el que se establece la estructura orgánica de la Consejería de Familia, Juventud y Política Social",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/07/BOCM-20210907-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Orden de 1 de septiembre de 2021, de la Consejería de Presidencia, Justicia e Interior, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la citada Consejería por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/07/BOCM-20210907-2.PDF"
