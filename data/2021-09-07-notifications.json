@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Rascafría",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/07/BOCM-20210907-42.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "San Lorenzo de El Escorial",
       "description": "Organización y funcionamiento: Ordenanza ocupación vía pública",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/07/BOCM-20210907-43.PDF"
