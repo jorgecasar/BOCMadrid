@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
-      "description": "Resolución de 30 de agosto de 2021, de la Viceconsejería de Organización Educativa, por la que se aprueba el Plan Anual de Actuación de la Inspección Educativa para el curso 2021-2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/07/BOCM-20210907-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Política Social",
       "description": "Orden 1319/2021, de 18 de agosto, de la Consejera de Familia, Juventud y Política Social, por la que se resuelve la convocatoria de ayudas a municipios de la Comunidad de Madrid destinadas al equipamiento, obras y mejoras de locales juveniles de titularidad municipal para el año 2021",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/07/BOCM-20210907-15.PDF"
