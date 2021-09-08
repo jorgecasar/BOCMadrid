@@ -13,6 +13,7 @@ export const councils = {
 	"Boadilla del Monte": "@Ayto_Boadilla",
 	"Brunete": "@AytoBrunete",
 	"Buitrago del Lozoya": "@AytoBuitrago",
+	"Cadalso de los Vidrios": "@Cadalso_Opina",
 	"Casarrubuelos": "@AytoCasarru",
 	"Cercedilla": "@AytoCercedilla",
 	"Chapinería": "@AytoChapineria",
@@ -62,6 +63,7 @@ export const councils = {
 	"Pelayos de la Presa": "@PelayosPresa",
 	"Pinto": "@AytoPinto",
 	"Pozuelo de Alarcón": "@Ayto_Pozuelo",
+	"Prádena del Rincón": "@PradenaRincon",
 	"Puentes Viejas": "@PuentesViejas",
 	"Rivas-Vaciamadrid": "@AytoRivas",
 	"San Agustín del Guadalix": "@AytoSanAgustin",
@@ -69,6 +71,7 @@ export const councils = {
 	"San Lorenzo de El Escorial": "@aytosanlorenzo",
 	"San Martín de la Vega": "@Ayto_SMV",
 	"San Sebastián de los Reyes": "@SanseComunica",
+	"Sevilla la Nueva": "@AytoSLN",
 	"Torrejón de Ardoz": "@Ayto_Torrejon",
 	"Torrejón de la Calzada": "@ayto_calzada",
 	"Torrelaguna": "@AytoTorrelagun",
@@ -88,10 +91,12 @@ export const councils = {
 	"Villaviciosa de Odón": "@AytoVillaDeOdon",
 	"Zarzalejo": "@AytoZarzalejo",
 	//No twitter account
+	"Anchuelo": "#Anchuelo",
 	"Batres": "#Batres",
 	"Belmonte de Tajo": "#BelmonteDeTajo",
 	"Berzosa del Lozoya": "#BerzosaDelLozoya",
 	"Bustarviejo": "#Bustarviejo",
+	"Camarma de Esteruelas": "#CamarmaDeEsteruelas",
 	"Canencia": "#Canencia",
 	"Carabaña": "#Carabaña",
 	"Corpa": "#Corpa",
@@ -127,4 +132,3 @@ export const councils = {
 	"Villarejo de Salvanés": "#VillarejoDeSalvanés",
 	"Villavieja del Lozoya": "#VillaviejaDelLozoya",
 };
-
