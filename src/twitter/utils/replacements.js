@@ -19,5 +19,12 @@ export const replaceFullNameCouncil = str => str.replace(councilFullNames, (matc
 
 
 const months = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "noviembre", "diciembre"];
-export const longFormatDate = /(\d{1,2})\sde\s(\w{3,9})(:?\sde\s(\d{4}))?/gi;
-export const longToShortDate = str => str.replace(longFormatDate, (match, dd, month, aaaa = (new Date()).getFullYear()) => `${parseInt(dd)}/${months.indexOf(month.toLowerCase()) + 1}/${aaaa}`);
+export const longFormatDate = new RegExp(`(\\d{1,2})\\sde\\s(${months.join('|')})(?:\\sde\\s(\\d{4}))?`, 'gi');
+export const longToShortDate = str => str.replace(longFormatDate, (match, dd, month, aaaa) => {
+	dd = parseInt(dd);
+	if(aaaa) {
+		return `${dd}/${months.indexOf(month.toLowerCase()) + 1}/${aaaa}`;
+	}else {
+		return `${dd} ${month.substring(0, 3).toUpperCase()}`;
+	}
+});
