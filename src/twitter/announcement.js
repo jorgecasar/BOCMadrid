@@ -7,6 +7,7 @@ import {
 	replaceOrganizationsAccounts,
 	replaceCounselingAccounts,
 	replaceCouncilsAccounts,
+	longToShortDate
 } from './utils/replacements.js';
 import { elipsisText } from './utils/elipsisText.js';
 
@@ -26,6 +27,7 @@ export const announcement = ({ title, description, file }) => {
 	description = replaceOrganizationsAccounts(description);
 	description = replaceCounselingAccounts(description);
 	description = replaceFullNameCouncil(description);
+	description = longToShortDate(description);
 
 	let message = announcementTemplate({title, description, footer});
 	const { valid, validRangeEnd, displayRangeEnd } = twitterText.parseTweet(message);
