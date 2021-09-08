@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
-      "description": "Decreto 202/2021, de 1 de septiembre, del Consejo de Gobierno, por el que se establece para la Comunidad de Madrid el plan de estudios del ciclo formativo de grado superior correspondiente al título de Técnico Superior en Organización y Control de Obras de Construcción",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/08/BOCM-20210908-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Decreto 203/2021, de 1 de septiembre, del Consejo de Gobierno, por el que se modifica el Decreto 86/2012, de 30 de agosto, del Consejo de Gobierno, por el que se establece para la Comunidad de Madrid el plan de estudios de grado superior correspondiente al título de Técnico Superior en Proyectos de Obra Civil",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/08/BOCM-20210908-3.PDF"
     }
