@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Pinto",
-      "description": "Régimen económico: Precios públicos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/09/BOCM-20210909-41.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Pinto",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/09/BOCM-20210909-42.PDF"
     }
