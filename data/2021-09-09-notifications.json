@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Extracto de la Resolución de 30 de agosto de 2021, del Rector de la Universidad Rey Juan Carlos, por la que se aprueba y hace pública la convocatoria pública para la concesión de ayudas para la realización de proyectos de I + D para investigadores de la Universidad Rey Juan Carlos beneficiarios de una ayuda correspondiente al programa “Beatriz Galindo”, del Ministerio de Ciencia, Innovación y Universidades, dentro del programa de apoyo y estímulo de la Comunidad de Madrid a investigadores beneficiarios “Beatriz Galindo” y el Convenio Plurianual para la Regulación del Marco de Cooperación en el Sistema Regional de Investigación Científica e Innovación Tecnológica, suscrito entre dicha entidad pública y la Universidad Rey Juan Carlos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/09/BOCM-20210909-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Convenio de colaboración de 23 de julio de 2021 entre la Comunidad de Madrid (Consejería de Presidencia, Justicia e Interior) y el Ayuntamiento de Pinto para establecer un protocolo de actuación de la Agrupación Municipal de Voluntarios de Protección Civil y Servicio de Primera Intervención Municipal de Emergencia y Rescate-Protección Civil (PIMER-PC) en el ámbito de la extinción de incendios y salvamento",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/09/BOCM-20210909-17.PDF"
