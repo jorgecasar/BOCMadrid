@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
-      "description": "Orden 2544/2021, de 1 de septiembre, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se corrigen errores materiales de la Orden 2155/2021, de 21 de julio, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se establece el calendario escolar para el curso 2021-2022 en los centros públicos de enseñanzas artísticas superiores de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/09/BOCM-20210909-5.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Acuerdo de 1 de septiembre de 2021, del Consejo de Gobierno, por el que se aprueba definitivamente la modificación puntual no sustancial número 10 del Plan General de Ordenación Urbana de Alcobendas, de mejora de las condiciones de regulación urbanística de los locales municipales de la calle Bulevar Salvador Allende",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/09/BOCM-20210909-6.PDF"
