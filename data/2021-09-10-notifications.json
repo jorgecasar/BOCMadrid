@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Decreto 209/2021, de 8 de septiembre, del Consejo de Gobierno, por el que se establece el control financiero permanente respecto de las ayudas directas del programa de incentivo a la demanda de productos turísticos de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/10/BOCM-20210910-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 1126/2021, de 9 de septiembre, de la Consejería de Sanidad, por la que se  modifica la Orden 572/2021, de 7 de mayo, por la que se establecen medidas preventivas para hacer frente a la crisis sanitaria ocasionada por el COVID-19 una vez finalizada la prórroga del estado de alarma declarado por el Real Decreto 926/2020, de 25 de octubre",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/10/BOCM-20210910-2.PDF"
