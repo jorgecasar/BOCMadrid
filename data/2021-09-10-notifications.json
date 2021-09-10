@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Urbanismo: Área de Gobierno de Desarrollo Urbano. Plan parcial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/10/BOCM-20210910-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcalá de Henares",
       "description": "Contratación: Ente Público Empresarial Alcalá Desarrollo. Bases bolsa tutores de apoyo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/10/BOCM-20210910-30.PDF"
