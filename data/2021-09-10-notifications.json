@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Camarma de Esteruelas",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/10/BOCM-20210910-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Camarma de Esteruelas",
       "description": "Otros anuncios: Candidatura juez de paz",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/10/BOCM-20210910-36.PDF"
     }
