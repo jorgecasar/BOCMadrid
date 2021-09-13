@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 1 de septiembre de 2021, por la que se publican el plan de estudios del Máster Universitario en Optometría Clínica Hospitalaria de la Universidad Complutense de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/13/BOCM-20210913-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 1 de septiembre de 2021, por la que se publican el plan de estudios del Máster Universitario en Ciudades Inteligentes y Sostenibles (Smart Cities) de la Universidad Complutense de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/13/BOCM-20210913-12.PDF"
     }
