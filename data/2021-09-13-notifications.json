@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 1 de septiembre de 2021, por la que se publican el plan de estudios del Máster Universitario en Ciudades Inteligentes y Sostenibles (Smart Cities) de la Universidad Complutense de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/13/BOCM-20210913-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Adenda de 27 de julio de 2021, al convenio de colaboración en materia de Educación Infantil suscrito entre la Comunidad de Madrid (Consejería de Educación, Universidades, Ciencia y Portavocía) y el Ayuntamiento de Ajalvir",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/13/BOCM-20210913-13.PDF"
