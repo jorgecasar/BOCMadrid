@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Urbanismo: Área de Gobierno de Desarrollo Urbano. Plan Especial control de usos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/13/BOCM-20210913-37.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Licencias: O. A",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/13/BOCM-20210913-38.PDF"
     }
