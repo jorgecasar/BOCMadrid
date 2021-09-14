@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Alcalá de Henares",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/14/BOCM-20210914-42.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Alcalá de Henares",
       "description": "Urbanismo: Proyecto urbanización",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/14/BOCM-20210914-43.PDF"
     }
