@@ -1,19 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 219,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2021/09/14/BOCM-20210914.PDF",
-      "total": 68,
-      "items": {
-        "Comunidad de Madrid": 41,
-        "Administración Local Ayuntamientos": 23,
-        "Administración de Justicia": 2,
-        "Otros Anuncios": 2
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Asamblea de Madrid",
