@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
-      "description": "Extracto de la Orden 2601/2021, de 3 de septiembre, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se aprueba la convocatoria de ayudas destinadas a los investigadores de la modalidad 1 del programa de atracción de talento investigador de la Comunidad de Madrid, para su contratación y realización de actividades de I+D durante un período adicional de un año",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/14/BOCM-20210914-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Transportes e Infraestructuras",
       "description": "Resolución de 2 de septiembre de 2021, de la Dirección General de Transportes y Movilidad, por la que se establece la fecha y lugar de celebración de las pruebas para la obtención del certificado de aptitud profesional acreditativo de la cualificación inicial de los conductores de determinados vehículos destinados al transporte por carretera, correspondiente a la quinta convocatoria del año 2021",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/14/BOCM-20210914-15.PDF"
