@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "El Escorial",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/15/BOCM-20210915-44.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Fuenlabrada",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/15/BOCM-20210915-45.PDF"
