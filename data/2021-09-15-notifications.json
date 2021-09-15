@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Boadilla del Monte",
-      "description": "Otros anuncios: Candidatura juez de paz",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/15/BOCM-20210915-43.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "El Escorial",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/15/BOCM-20210915-44.PDF"
