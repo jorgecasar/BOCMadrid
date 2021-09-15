@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 3 de septiembre de 2021, de la Universidad Rey Juan Carlos, por la que se nombra Profesor Titular de Universidad a don Luis Miguel Romero Rodríguez",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/15/BOCM-20210915-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Orden 2619/2021, de 3 de septiembre, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se aprueba el traslado de domicilio de la Escuela Infantil-Casa de Niños de Daganzo de Arriba",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/15/BOCM-20210915-20.PDF"
