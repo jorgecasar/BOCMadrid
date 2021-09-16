@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 7 de septiembre de 2021, de la Universidad Complutense de Madrid, por la que se convocan procesos selectivos para ingreso, por el sistema general de acceso libre, en Escalas del Grupo A, Subgrupo A2 de la Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/15/BOCM-20210915-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 3 de septiembre de 2021, de la Universidad Rey Juan Carlos, por la que se nombra Profesor Titular de Universidad a don Luis Miguel Romero Rodríguez",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/15/BOCM-20210915-19.PDF"
