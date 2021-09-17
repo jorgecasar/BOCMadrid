@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Decreto 215/2021, de 15 de septiembre, del Consejo de Gobierno, por el que se nombra Directora General de Recursos Humanos a doña María Belén Anaut Escudero",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/16/BOCM-20210916-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Acuerdo de 15 de septiembre de 2021, del Consejo de Gobierno, por el que se nombran vocales del Consejo para el Diálogo Social de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/16/BOCM-20210916-10.PDF"
     }
