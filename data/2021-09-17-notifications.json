@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Extracto de la Orden de 11 de septiembre de 2021, del Consejero de Economía, Hacienda y Empleo, por la que se convocan subvenciones en el año 2021 para la realización del Programa de Cualificación Profesional para personas jóvenes desempleadas de larga duración, cofinanciadas por el fondo social europeo y la iniciativa de empleo juvenil dentro del programa operativo de empleo juvenil",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/16/BOCM-20210916-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Política Social",
       "description": "Extracto de la Orden 1394/2021, de 7 de septiembre, de la Consejera de Familia, Juventud y Política Social, por la que se convocan, para el año 2021, subvenciones a entidades sin fin de lucro para acciones dirigidas a la inserción sociolaboral de personas con discapacidad, línea cofinanciable en un 50 por 100 por el Fondo Social Europeo en el marco del Programa Operativo de la Comunidad de Madrid (2014-2020), Eje 2, Objetivo Temático 9. Prioridad de Inversión 9.3, Objetivo Específico 9.3.2",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/16/BOCM-20210916-32.PDF"
