@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia e Interior",
-      "description": "Decreto 212/2021, de 15 de septiembre, del Consejo de Gobierno, por el que se modifica el Decreto 88/2021, de 30 de junio, del Consejo de Gobierno, por el que se modifica la estructura orgánica básica de las Consejerías de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/16/BOCM-20210916-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Administración Local y Digitalización",
       "description": "Decreto 211/2021, de 15 de septiembre, por el que se modifica el Decreto 118/2020, de 23 de diciembre, del Consejo de Gobierno, por el que se aprueba el Programa de Inversión Regional de la Comunidad de Madrid para el período 2021-2025, con una dotación de 1.000.000.000 de euros (PIR 2021-2025)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/16/BOCM-20210916-2.PDF"
