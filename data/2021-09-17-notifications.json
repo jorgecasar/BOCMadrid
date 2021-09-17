@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Decreto 217/2021, de 15 de septiembre, del Consejo de Gobierno, por el que se nombra Director General de Asistencia Sanitaria y Aseguramiento del Servicio Madrileño de Salud a don Jesús Vázquez Castro",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/16/BOCM-20210916-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Decreto 218/2021, de 15 de septiembre, del Consejo de Gobierno, por el que se nombra Director General de Hospitales e Infraestructuras Sanitarias del Servicio Madrileño de Salud a don Fernando Prados Roa",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/16/BOCM-20210916-21.PDF"
     }
