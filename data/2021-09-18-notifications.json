@@ -1,0 +1,54 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 223,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2021/09/18/BOCM-20210918.PDF",
+      "total": 11,
+      "items": {
+        "Comunidad de Madrid": 5,
+        "Administración de Justicia": 6
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Convenio de 16 de agosto de 2021, entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo y la Federación de Usuarios - Consumidores Independientes de la Comunidad de Madrid (CICM) para garantizar el funcionamiento del sistema arbitral de consumo en el ámbito de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/18/BOCM-20210918-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Convenio de 16 de agosto de 2021, entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo, y Amacfor Cecap Madrid “Asociación Madrileña de Empresas y Centros de Formación y Agencias de Colocación”, para garantizar el funcionamiento del sistema arbitral de consumo en el ámbito de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/18/BOCM-20210918-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Convenio de 16 de agosto de 2021, entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo, y la Asociación Nacional de Vendedores de Vehículos a Motor, Reparación y Recambios (GANVAM) para garantizar el funcionamiento del Sistema Arbitral de Consumo en el ámbito de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/18/BOCM-20210918-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Convenio de 20 de agosto de 2021, entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo, y la Asociación Nacional de Distribuidores e Importadores de Neumáticos (ADINE), para garantizar el funcionamiento del Sistema Arbitral de Consumo en el ámbito de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/18/BOCM-20210918-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Convenio de 1 de septiembre de 2021, entre el Consorcio Regional de Transportes Públicos Regulares de Madrid y Metro de Madrid, S. A., para la comercialización de títulos de transporte (periodo 2021-2024)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/18/BOCM-20210918-5.PDF"
+    }
+  }
+]
