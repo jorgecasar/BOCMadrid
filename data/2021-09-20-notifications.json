@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Contratación: Área de Gobierno de Desarrollo Urbano. Enajenación de parcela",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/20/BOCM-20210920-40.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcalá de Henares",
       "description": "Urbanismo: Modificación puntual Plan parcial Ciudad del Aire",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/20/BOCM-20210920-41.PDF"
