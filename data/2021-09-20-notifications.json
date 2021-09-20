@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Resolución de 8 de septiembre de 2021, de la Dirección-Gerencia del Hospital Universitario de Móstoles, por la que se dispone la publicación de la modificación del contrato de “Medicamentos antiinflamatorios exclusivos”, lote 15",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/20/BOCM-20210920-37.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Disposiciones y Anuncios del Estado",
       "description": "Ministerio para la Transición Ecológica y el Reto Demográfico. Confederación Hidrográfica del Tajo. Extinción aguas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/20/BOCM-20210920-38.PDF"
