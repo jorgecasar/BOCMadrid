@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
-      "description": "Orden 2751/2021, de 14 de septiembre, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se dispone la puesta en funcionamiento de dos institutos de Educación Secundaria en los municipios de Alcobendas y Alcalá de Henares, a partir del curso escolar 2021-2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/21/BOCM-20210921-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 7 de septiembre de 2021, del Consejero de Economía, Hacienda y Empleo, por la que se regulan las operaciones de fin de ejercicio y cierre contable para 2021",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/21/BOCM-20210921-8.PDF"
