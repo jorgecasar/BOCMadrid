@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Urbanismo: Área de Gobierno de Desarrollo Urbano. Plan especial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/21/BOCM-20210921-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Urbanismo: Área de Gobierno de Obras y Equipamientos. Proyecto urbanización",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/21/BOCM-20210921-28.PDF"
     }
