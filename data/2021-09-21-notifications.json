@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Disposiciones y Anuncios del Estado",
-      "description": "Ministerio de Transportes, Movilidad y Agenda Urbana. ADIF Administrador de Infraestructuras Ferroviarias. Expropiación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/21/BOCM-20210921-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Disposiciones y Anuncios del Estado",
       "description": "Ministerio de Política Territorial y Administración Pública. Delegación del Gobierno en Castilla-La Mancha. Autorización administrativa plantas solares fotovoltaicas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/21/BOCM-20210921-24.PDF"
     }
