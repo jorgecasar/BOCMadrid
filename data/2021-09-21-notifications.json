@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Organización y funcionamiento: Pleno del Ayuntamiento. Ordenanza Movilidad Sostenible",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/21/BOCM-20210921-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Régimen económico: Distrito de Tetuán. Extracto convocatoria subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/21/BOCM-20210921-26.PDF"
     }
