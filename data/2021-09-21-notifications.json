@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 12 de agosto de 2021, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden del Consejero de Hacienda y Función Pública, de 1 de junio de 2021 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 17 de junio), para la provisión de un puesto de trabajo vacante en la entonces Consejería de Políticas Sociales, Familias, Igualdad y Natalidad, actual Consejería de Familia, Juventud y Política Social, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/21/BOCM-20210921-5.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Orden de 30 de agosto de 2021, del Consejero de Presidencia, Justicia e Interior, por la que se nombran Registradores de la Propiedad, Mercantiles y de Bienes Muebles con destino en el territorio de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/21/BOCM-20210921-6.PDF"
