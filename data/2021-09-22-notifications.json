@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Resolución de 6 de septiembre de 2021, de la Directora General de Inspección y Ordenación Sanitaria, por la que se establecen las bases de la convocatoria del concurso público para la autorización de nuevas oficinas de farmacia en la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/22/BOCM-20210922-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 8 de septiembre de 2021, de la Gerencia del Hospital Universitario “La Paz”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de servicio de mantenimiento de zonas ajardinadas e instalaciones afines en el Hospital Universitario “La Paz” y centros dependientes. PA 19/2020",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/22/BOCM-20210922-17.PDF"
     }
