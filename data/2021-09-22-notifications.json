@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Orden 1104/2021, de 6 de septiembre, de la Consejería de Sanidad, por la que se renueva la autorización de funcionamiento de centros sanitarios adscritos a la Consejería de Sanidad de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/22/BOCM-20210922-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Resolución 22/2021, de 2 de septiembre, de la Directora General de Deportes, sobre las subvenciones concedidas a esta Dirección General, adscrita a la Consejería de Cultura, Turismo y Deporte, durante el periodo del 1 de abril al 30 de junio de 2021",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/22/BOCM-20210922-12.PDF"
