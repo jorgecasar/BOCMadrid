@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Belmonte de Tajo",
-      "description": "Régimen económico: Padrones fiscales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/22/BOCM-20210922-33.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Collado Mediano",
       "description": "Régimen económico: Padrón fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/22/BOCM-20210922-34.PDF"
