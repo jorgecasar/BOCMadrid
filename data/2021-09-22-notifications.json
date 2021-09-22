@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Fuenlabrada",
-      "description": "Régimen económico: Extracto convocatoria subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/22/BOCM-20210922-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Fuenlabrada",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/22/BOCM-20210922-36.PDF"
     }
