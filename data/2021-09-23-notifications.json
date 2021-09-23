@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Coslada",
-      "description": "Personal: Plantilla personal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/23/BOCM-20210923-39.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Getafe",
       "description": "Régimen económico: Extracto convocatoria subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/23/BOCM-20210923-40.PDF"
