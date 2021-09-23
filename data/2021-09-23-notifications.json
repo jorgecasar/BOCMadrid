@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Extracto de la Orden de 7 de septiembre de 2021, de la Consejería de Economía, Hacienda y Empleo, por la que se convocan subvenciones para la financiación de acciones de formación profesional para el empleo, con compromiso de contratación de los trabajadores desempleados para el año 2021",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/23/BOCM-20210923-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Política Social",
       "description": "Orden 1430/2021, de 13 de septiembre, de la Consejería de Familia, Juventud y Política Social, por la que se aprueban las bases reguladoras de subvenciones a entidades sin ánimo de lucro para la realización de campos de voluntariado juvenil en la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/23/BOCM-20210923-17.PDF"
