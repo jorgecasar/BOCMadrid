@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
-      "description": "Orden 2722/2021, de 13 de septiembre, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se conceden los premios relativos al XII Torneo Escolar de Debate de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/23/BOCM-20210923-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Corrección de errores de la Resolución de 4 de marzo de 2021, de la Dirección General de Agricultura, Ganadería y Alimentación, por la que se acuerda el inicio del procedimiento de deslinde de las vías pecuarias del término municipal de Cenicientos (Madrid)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/23/BOCM-20210923-14.PDF"
