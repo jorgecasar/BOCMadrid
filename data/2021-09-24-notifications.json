@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 6 de septiembre de 2021, de la Universidad Complutense de Madrid, por la que se nombra a doña Sara Iglesias Sánchez Profesora Titular de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/24/BOCM-20210924-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 16 de septiembre de 2021, de la Rectora de la Universidad Autónoma de Madrid, por la que se procede a la corrección de errores de la Resolución del Rector de 25 de septiembre de 2020, por la que se publica la modificación parcial de la relación de puestos de trabajo del personal de administración y servicios funcionario de esta universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/24/BOCM-20210924-14.PDF"
