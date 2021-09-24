@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 16 de septiembre de 2021, de la Rectora de la Universidad Autónoma de Madrid, por la que se procede a la corrección de errores de la Resolución del Rector de 25 de septiembre de 2020, por la que se publica la modificación parcial de la relación de puestos de trabajo del personal de administración y servicios funcionario de esta universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/24/BOCM-20210924-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Resolución de 28 de julio de 2021, de la Directora General de Vivienda y Rehabilitación, por la que se publica el modelo de solicitud del procedimiento denominado “Declaración responsable de laboratorio de ensayos para el control de calidad de la edificación”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/24/BOCM-20210924-15.PDF"
