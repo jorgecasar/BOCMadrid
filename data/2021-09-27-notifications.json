@@ -1,20 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 230,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2021/09/27/BOCM-20210927.PDF",
-      "total": 88,
-      "items": {
-        "Comunidad de Madrid": 30,
-        "Disposiciones y Anuncios del Estado": 1,
-        "Administración Local Ayuntamientos": 27,
-        "Administración de Justicia": 25,
-        "Otros Anuncios": 5
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
