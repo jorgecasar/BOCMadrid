@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 16 de septiembre de 2021, de la Universidad Autónoma de Madrid, por la que se nombran funcionarios de carrera de la Escala Técnica Superior de Administración de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/27/BOCM-20210927-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Carlos III",
       "description": "Resolución de 28 de julio de 2021, de la Universidad Carlos III de Madrid, por la que se anuncia convocatoria de concurso específico de méritos para la provisión de puestos de trabajo de personal funcionario de Administración y Servicios adscritos a los Subgrupos A1, A2, C1 y C2 en esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/27/BOCM-20210927-16.PDF"
