@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 28 de julio de 2021, de la Universidad Carlos III de Madrid, por la que se anuncia convocatoria de concurso específico de méritos para la provisión de puestos de trabajo de personal funcionario de Administración y Servicios adscritos a los Subgrupos A1, A2, C1 y C2 en esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/27/BOCM-20210927-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Orden 2815/2021, de 21 de septiembre, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se resuelve la convocatoria de becas para el estudio de Bachillerato en la Comunidad de Madrid para el curso 2021-2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/27/BOCM-20210927-17.PDF"
