@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
-      "description": "Orden 2778/2021, de 20 de septiembre, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se conceden los premios correspondientes al XXVIII Certamen de Teatro Escolar de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/28/BOCM-20210928-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 1057/2021, de 14 de septiembre, de la Consejería de Cultura, Turismo y Deporte, por la que se hace pública la declaración del crédito presupuestario disponible para financiar las ayudas del programa de incentivo de la demanda de productos turísticos de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/28/BOCM-20210928-19.PDF"
