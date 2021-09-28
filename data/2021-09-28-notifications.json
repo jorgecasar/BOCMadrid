@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 6 de septiembre de 2021, por la que se publican las modificaciones del Plan de Estudios de Máster Universitario en Derecho Parlamentario, Elecciones y Estudios Legislativos de la Universidad Complutense de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/28/BOCM-20210928-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Resolución de 17 de septiembre de 2021, del Director General de Educación Infantil, Primaria y Especial, por la que se emplaza a los posibles interesados para que se personen en el recurso contencioso-administrativo interpuesto por la Federación Regional de Enseñanza de Comisiones Obreras",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/28/BOCM-20210928-23.PDF"
