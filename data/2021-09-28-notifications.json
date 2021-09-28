@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 6 de septiembre de 2021, por la que se publican las modificaciones del Plan de Estudios de Máster Universitario en Finanzas de Empresa de la Universidad Complutense de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/28/BOCM-20210928-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 6 de septiembre de 2021, por la que se publican las modificaciones del Plan de Estudios de Máster Universitario en Logística y Gestión Económica de la Defensa de la Universidad Complutense de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/28/BOCM-20210928-21.PDF"
     }
