@@ -1,20 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 231,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2021/09/28/BOCM-20210928.PDF",
-      "total": 94,
-      "items": {
-        "Comunidad de Madrid": 47,
-        "Disposiciones y Anuncios del Estado": 2,
-        "Administración Local Ayuntamientos": 23,
-        "Administración de Justicia": 21,
-        "Otros Anuncios": 1
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
