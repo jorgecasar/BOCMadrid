@@ -1,19 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 232,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2021/09/29/BOCM-20210929.PDF",
-      "total": 109,
-      "items": {
-        "Comunidad de Madrid": 46,
-        "Disposiciones y Anuncios del Estado": 22,
-        "Administración Local Ayuntamientos": 18,
-        "Administración de Justicia": 23
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
