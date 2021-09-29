@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
-      "description": "Acuerdo de 15 de julio de 2021, del Consejo de Administración del Consorcio Urbanístico “El Bañuelo” de Fuenlabrada (Madrid), por el que se modifica la delegación de competencias conferidas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/29/BOCM-20210929-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Resolución de 16 de septiembre de 2021, de la Secretaría General Técnica de la Consejería Presidencia, Justicia e Interior, por la que se anuncia la formalización del contrato “Concesión de servicios de máquinas dispensadoras de Vending en las sedes judiciales de la Comunidad de Madrid”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/29/BOCM-20210929-21.PDF"
