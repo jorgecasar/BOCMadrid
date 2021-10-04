@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 30 de septiembre de 2021, del Gerente de la Universidad de Alcalá, por la que se publica la Oferta de Empleo Público de personal de administración y servicios para el año 2021, resultante de la tasa de reposición de efectivos prevista en la Ley 11/2020, de 30 de diciembre, de Presupuestos Generales del Estado para el año 2021",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/04/BOCM-20211004-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 23 de septiembre de 2021, de la Universidad Rey Juan Carlos, por la que se convoca proceso selectivo para cubrir, mediante nombramiento interino, una plaza correspondiente a la Escala de Oficial de Oficios de la Universidad, especialidad Laboratorios-Anatomía Patológica y Experimentación Animal, y constituir una bolsa de empleo para nombramientos temporales de funcionarios interinos de la citada escala y especialidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/04/BOCM-20211004-20.PDF"
