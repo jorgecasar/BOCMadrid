@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
-      "description": "Orden 1000/2021, de 23 de septiembre, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicha Consejería, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/04/BOCM-20211004-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 20 de septiembre de 2021, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicha Consejería por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/04/BOCM-20211004-8.PDF"
