@@ -1,18 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 236,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2021/10/04/BOCM-20211004.PDF",
-      "total": 86,
-      "items": {
-        "Comunidad de Madrid": 44,
-        "Administración Local Ayuntamientos": 30,
-        "Administración de Justicia": 12
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
