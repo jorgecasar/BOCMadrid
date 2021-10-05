@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 27 de septiembre de 2021, por la que se publica la oferta de empleo para el ejercicio 2021 de Personal Docente e Investigador de la Universidad Rey Juan Carlos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/05/BOCM-20211005-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Orden 2832/2021, de 24 de septiembre, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno por la que se conceden los Premios Extraordinarios de Bachillerato de la Comunidad de Madrid correspondientes al año académico 2020-2021",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/05/BOCM-20211005-23.PDF"
