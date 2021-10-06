@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Resolución de 15 de septiembre de 2021, de la Universidad de Alcalá, por la que se nombra Catedrática de Universidad del Área de Conocimiento de “Literatura Española”, a doña Julia Barella Vigal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/06/BOCM-20211006-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Resolución de 15 de septiembre de 2021, de la Universidad de Alcalá, por la que se nombra Catedrático de Universidad del Área de Conocimiento de “Filología Inglesa”, a don Antonio García Gómez",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/06/BOCM-20211006-13.PDF"
     }
