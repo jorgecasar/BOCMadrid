@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Resolución de 7 de septiembre de 2021, de la Universidad de Alcalá, por la que se nombra Profesora Titular de Universidad del Área de Conocimiento de “Química Analítica”, a doña María Castro Puyana",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/06/BOCM-20211006-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Resolución de 15 de septiembre 2021, de la Universidad de Alcalá, por la que se nombra Profesora Titular de Universidad del Área de Conocimiento de “Traducción e Interpretación”, a doña María del Mar Sánchez Ramos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/06/BOCM-20211006-11.PDF"
     }
