@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 27 de septiembre de 2021, del Rector de la Universidad Carlos III de Madrid por la que se publica la Oferta de Empleo Público para el ejercicio 2021",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/06/BOCM-20211006-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 27 de septiembre de 2021, de la Universidad Rey Juan Carlos, por la que se convocan pruebas selectivas para ingreso en la escala de Oficial de Oficios previstas en las ofertas de empleo público de 2018 y 2020",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/06/BOCM-20211006-15.PDF"
