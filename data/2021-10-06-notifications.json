@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 27 de septiembre de 2021, de la Universidad Rey Juan Carlos, por la que se convoca concurso de acceso a plazas de cuerpos docentes universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/06/BOCM-20211006-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 10 de septiembre de 2021, de la Dirección General de Tributos, por la que se aprueba la Carta de Servicios de la Dirección General de Tributos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/06/BOCM-20211006-17.PDF"
