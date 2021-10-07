@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
-      "description": "Anuncio de 4 de octubre de 2021, de la Resolución de Canal de Isabel II, S. A., relativo a la modificación del anuncio de licitación del contrato de suministros de material de laboratorio y reactivos químicos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-41.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 14 de septiembre de 2021, de la Directora General de Trabajo, sobre depósito de los estatutos modificados de la organización denominada Asprima-Asociación de Promotores Inmobiliarios de Madrid (número de registro de la asociación 28000492)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-42.PDF"
