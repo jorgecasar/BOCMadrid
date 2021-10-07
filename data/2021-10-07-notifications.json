@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 29 de septiembre de 2021, de la Rectora de la Universidad Autónoma de Madrid, por la que se convoca un puesto de trabajo para su provisión por el sistema de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Modificación de 30 de septiembre de 2021 del extracto y anuncio por el que se da publicidad a la ampliación del crédito asignado a la convocatoria para la concesión de ayudas por la Fundación de la Energía de la Comunidad de Madrid para el desarrollo del Plan Renove de Ventanas de la Comunidad de Madrid-año 2020",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-28.PDF"
