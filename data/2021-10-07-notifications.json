@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Corrección de errores de la Resolución de 10 de septiembre de 2021, de la Dirección General de Tributos, por la que se aprueba la Carta de Servicios de la Dirección General de Tributos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Política Social",
       "description": "Orden 1558/2021, de 28 de septiembre, de la Consejera de Familia, Juventud y Política Social, por la que delega el ejercicio de competencias en diferentes órganos de la Consejería y se desconcentran las competencias en materia de protectorado de fundaciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-31.PDF"
