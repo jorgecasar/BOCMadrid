@@ -1,0 +1,655 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 239,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2021/10/07/BOCM-20211007.PDF",
+      "total": 95,
+      "items": {
+        "Comunidad de Madrid": 53,
+        "Administración Local Ayuntamientos": 27,
+        "Administración de Justicia": 15
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Decreto 225/2021, de 6 de octubre, del Consejo de Gobierno, por el que se crean y regulan el registro de profesionales sanitarios objetores de conciencia a realizar la ayuda para morir y la comisión de garantía y evaluación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 24 de septiembre de 2021, del Consejero de Economía, Hacienda y Empleo, por la que se resuelve la convocatoria aprobada por Orden de 3 de agosto de 2021 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 11 de agosto de 2021), para la provisión de un puesto de trabajo en dicha Consejería por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 24 de septiembre de 2021, del Consejero de Economía, Hacienda y Empleo, por la que se resuelve la convocatoria aprobada por Orden de 17 de junio de 2021 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 28 de junio de 2021), de la entonces Consejería de Economía, Empleo y Competitividad para la provisión de puestos de trabajo en la citada Consejería por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 29 de septiembre de 2021, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacantes en la Consejería Economía, Hacienda y Empleo por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 29 de septiembre de 2021, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería Economía, Hacienda y Empleo por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 29 de septiembre de 2021, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacantes en la Consejería de Economía, Hacienda y Empleo por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 29 de septiembre de 2021, del Consejero de Economía, Hacienda y Empleo por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en la Consejería de Economía, Hacienda y Empleo por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 29 de septiembre de 2021, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería Economía, Hacienda y Empleo por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-8.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 29 de septiembre de 2021, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería Economía, Hacienda y Empleo por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-9.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 29 de septiembre de 2021, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacantes en la Consejería de Economía, Hacienda y Empleo por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-10.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 23 de septiembre de 2021, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden del Consejero de Economía, Hacienda y Empleo de 19 de julio de 2021 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 28 de julio), para la provisión de un puesto de trabajo vacante en la Consejería de Administración Local y Digitalización, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-11.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 23 de septiembre de 2021 de la Dirección General de Función Pública, por la que se resuelve el proceso selectivo para el ingreso en el Cuerpo de Ingenieros y Arquitectos Superiores, Escala Arquitectura Superior, de Administración Especial, Grupo A, Subgrupo A1, de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-12.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 24 de septiembre de 2021, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden del Consejero de Hacienda y Función Pública, de 17 de junio de 2021 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 29 de junio), para la provisión de un puesto de trabajo vacante en la entonces Consejería de Cultura y Turismo, actual Consejería de Cultura, Turismo y Deporte, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-13.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 24 de septiembre de 2021, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden del Consejero de Economía, Hacienda y Empleo de 29 de julio de 2021 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 9 de agosto), para la provisión de un puesto de trabajo vacante en la Consejería de Presidencia, Justicia e Interior (Organismo Autónomo Agencia de la Comunidad de Madrid para la Reeducación y Reinserción del Menor Infractor), de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-14.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 25 de septiembre de 2021, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden del Consejero de Economía, Hacienda y Empleo, de 8 de julio de 2021 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 28 de julio), para la provisión de un puesto de trabajo vacante en la Consejería de Presidencia, Justicia e Interior, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-15.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 25 de septiembre de 2021, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden del Consejero de Economía, Hacienda y Empleo de 2 de agosto de 2021 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 13 de agosto), para la provisión de un puesto de trabajo vacante en la Consejería de Educación, Universidades, Ciencia y Portavocía, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-16.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 25 de septiembre de 2021, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden del Consejero de Hacienda y Función Pública, de 21 de mayo de 2021 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 9 de junio), para la provisión de un puesto de trabajo vacante en la entonces Consejería de Políticas Sociales, Familias, Igualdad y Natalidad, actual Consejería de Familia, Juventud y Política Social, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-17.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Orden de 27 de septiembre de 2021, de Consejera de Familia, Juventud y Política Social, por la que se resuelve la convocatoria aprobada por Orden de 9 de agosto de 2021, de la Consejera de Familia, Juventud y Política Social (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 18 de agosto), para la provisión de un puesto de trabajo vacante en la citada Consejería por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-18.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Orden 1216/2021, de 28 de septiembre, del Consejero de Sanidad, por la que se resuelve la convocatoria aprobada por Orden 667/2021, de 25 de mayo, de esta Consejería de Sanidad (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 8 de junio de 2021), para la provisión de un puesto de trabajo vacante en la citada Consejería por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-19.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Orden 1217/2021, de 28 de septiembre, del Consejero de Sanidad, por la que se resuelve la convocatoria aprobada por Orden 795/2021, de 22 de junio, de esta Consejería de Sanidad (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 2 de julio de 2021), para la provisión de un puesto de trabajo vacante en la citada Consejería por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-20.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 24 de septiembre de 2021, de la Directora General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se adjudica el puesto subdirector/a médico en el Hospital General Universitario “Gregorio Marañón”, adscrito al Servicio Madrileño de Salud",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-21.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Orden de 24 de septiembre de 2021, de la Consejería de Transportes e Infraestructuras, por la que se procede a designar nuevos vocales en la Junta Arbitral de Transporte de Mercancías y Viajeros de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-22.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Orden de 27 de septiembre de 2021, de la Consejería de Transportes e Infraestructuras, por la que se resuelve la convocatoria aprobada por Orden de fecha 29 de julio de 2021 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 6 de agosto), para la provisión de varios puestos de trabajo vacantes en dicha Consejería por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-23.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Orden de 27 de septiembre de 2021, de la Consejería de Transportes e Infraestructuras, por la que se resuelve la convocatoria aprobada por Orden de 24 de junio de 2021 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 6 de julio) para la provisión de varios puestos de trabajo vacantes en dicha Consejería por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-24.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Orden de 27 de septiembre de 2021, de la Consejería de Transportes e Infraestructuras, por la que se resuelve la convocatoria aprobada mediante Orden de la entonces Consejería de Transportes, Movilidad e Infraestructuras, de 28 de mayo de 2021 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 8 de junio), para la provisión de varios puestos de trabajo vacantes en dicha Consejería por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-25.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Complutense de Madrid",
+      "description": "Resolución de 22 de septiembre de 2021, de la Universidad Complutense de Madrid, por la que se convoca proceso selectivo, mediante el sistema de concurso-oposición libre, para la provisión de cuatro plazas de personal laboral fijo de administración y servicios del Grupo y Nivel salarial D para personas con discapacidad intelectual",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-26.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Autónoma de Madrid",
+      "description": "Resolución de 29 de septiembre de 2021, de la Rectora de la Universidad Autónoma de Madrid, por la que se convoca un puesto de trabajo para su provisión por el sistema de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-27.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Modificación de 30 de septiembre de 2021 del extracto y anuncio por el que se da publicidad a la ampliación del crédito asignado a la convocatoria para la concesión de ayudas por la Fundación de la Energía de la Comunidad de Madrid para el desarrollo del Plan Renove de Ventanas de la Comunidad de Madrid-año 2020",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-28.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Modificación de 30 de septiembre de 2021 del extracto y anuncio por el que se da publicidad a la ampliación del crédito asignado a la convocatoria de la Fundación de la Energía de la Comunidad de Madrid dirigida a reducir el consumo de energía en el sector de la edificación, velando por los efectos medioambientales que se produzcan en el aprovechamiento de los recursos energéticos y promoviendo la implantación en los ascensores de sistemas que permiten incrementar su seguridad para prevenir accidentes a través del Plan Renove de Ascensores de la Comunidad de Madrid, Año 2020",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-29.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Corrección de errores de la Resolución de 10 de septiembre de 2021, de la Dirección General de Tributos, por la que se aprueba la Carta de Servicios de la Dirección General de Tributos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-30.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Orden 1558/2021, de 28 de septiembre, de la Consejera de Familia, Juventud y Política Social, por la que delega el ejercicio de competencias en diferentes órganos de la Consejería y se desconcentran las competencias en materia de protectorado de fundaciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-31.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
+      "description": "Resolución de 24 de septiembre de 2021, de la Dirección General de Infraestructuras y Servicios de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de “Servicios de transporte escolar de la Dirección de Área Territorial de Madrid-Capital para los cursos 2021-2022, 2022-2023 y 2023-2024 (Código: Madrid-Capital Plurianual-21)”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-32.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
+      "description": "Adenda de 22 de julio de 2021, al convenio de colaboración en materia de educación infantil suscrito entre la Comunidad de Madrid (Consejería de Educación, Universidades, Ciencia y Portavocía) y la Universidad Autónoma de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-33.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
+      "description": "Convenio interadministrativo de colaboración de 23 de agosto de 2021, entre la Comunidad de Madrid, Consejería de Educación, Universidades, Ciencia y Portavocía, y el Ayuntamiento de Sevilla la Nueva para la prevención y control del absentismo escolar",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-34.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
+      "description": "Convenio interadministrativo de colaboración de 24 de agosto de 2021, entre la Comunidad de Madrid, Consejería de Educación, Universidades, Ciencia y Portavocía, y el Ayuntamiento de Pozuelo de Alarcón para la prevención y control del absentismo escolar",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-35.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
+      "description": "Convenio interadministrativo de colaboración de 26 de agosto de 2021, entre la Comunidad de Madrid, Consejería de Educación, Universidades, Ciencia y Portavocía, y el Ayuntamiento de Tres Cantos para la prevención y control del absentismo escolar",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-36.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 8 de septiembre de 2021, de la Dirección General de Descarbonización y Transición Energética por la que se somete a información pública la petición de autorización administrativa y aprobación del proyecto para la ampliación de la subestación S.T.R. Cerro Buenavista en URB. Sector 3, PARC. 183 en el término municipal de Getafe, solicitada por I-DE Redes Eléctricas Inteligentes, S. A. U.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-37.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 16 de septiembre de 2021, del Director General de Descarbonización y Transición Energética de la Comunidad de Madrid, por la que se somete a información pública la documentación de la revisión de la Autorización Ambiental Integrada relativa a la actividad de avicultura situada en la carretera Olmeda a Pezuela (M-234), km 9,9, en el término municipal de Pezuela de las Torres, promovido por Granja Ancla, S .L. (Expediente: 10-IPPC-00027.0/20).",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-38.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 24 de septiembre de 2021, del Director General de Descarbonización y Transición Energética de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se acuerda hacer público el Informe Ambiental Estratégico de la Modificación Puntual número 17 del Plan General de Ordenación Urbana de Getafe entre el Polígono Industrial “Los Ángeles” y el Sector “Los Molinos”, en el término municipal de Getafe, promovido por el Ayuntamiento de Getafe. (Expediente: 10-UB2-00085.7/2021, SIA 21/081)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-39.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 24 de septiembre de 2021, del Director General de Descarbonización y Transición Energética de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se acuerda hacer público el Informe Ambiental Estratégico de la Modificación Puntual No Sustancial de las Normas Subsidiarias de la parcela situada en la calle Madrid, número 7, del municipio de Villa del Prado, promovido por el Ayuntamiento de Villa del Prado (expediente: 10-UB2-00133.7/2021, SIA 21/129)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-40.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Anuncio de 4 de octubre de 2021, de la Resolución de Canal de Isabel II, S. A., relativo a la modificación del anuncio de licitación del contrato de suministros de material de laboratorio y reactivos químicos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-41.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 14 de septiembre de 2021, de la Directora General de Trabajo, sobre depósito de los estatutos modificados de la organización denominada Asprima-Asociación de Promotores Inmobiliarios de Madrid (número de registro de la asociación 28000492)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-42.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 28 de septiembre de 2021, de la Dirección-Gerencia del Hospital General Universitario “Gregorio Marañón”, por la que se dispone la publicación en el boletín y en el “perfil del contratante” en Internet de la convocatoria del contrato de: «Suministro e instalación de mobiliario general para el nuevo bloque quirúrgico del Hospital General Universitario “Gregorio Marañón” a adjudicar por procedimiento abierto mediante pluralidad de criterios». Exp: A-SUM-030515-2021",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-43.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 27 de septiembre de 2021, de la Gerencia del Hospital Universitario “La Paz”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la convocatoria del contrato de: «Suministro de mobiliario general para el Hospital Universitario “La Paz”, Hospital de Cantoblanco y Hospital “Carlos III”». P. A. (Acuerdo Marco) 40/2021",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-44.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 27 de septiembre de 2021, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de 2021-0-97 «Suministro de sistemas de extracción de cables y catéteres de dispositivos implantados para el control del ritmo cardiaco (marcapasos y desfibriladores) con destino el Servicio de Cardiología del Hospital Universitario “12 de Octubre”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-45.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 27 de septiembre de 2021, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en internet de la convocatoria del contrato 2021-0-161 para el «Suministro de guías e introductores y catéteres diagnóstico para la Unidad de Hemodinámica del Hospital Universitario “12 de Octubre”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-46.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 27 de septiembre de 2021, de la Dirección-Gerencia del Hospital Universitario “Ramón y Cajal”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de adquisición de reactivos distribuidos por Abbott Laboratories, S. A., para la detección del SARS-COV-2",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-47.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 27 de septiembre de 2021, de la Dirección-Gerencia del Hospital Universitario “Ramón y Cajal”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de adquisición de reactivos distribuidos por Roche Diagnostics, S. L. U., para la detección del SARS-COV-2",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-48.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 24 de septiembre de 2021, de la Dirección-Gerencia del Hospital Clínico “San Carlos” de Madrid, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de suministro Cyramza (Ramucirumab 10 mg/ml inyectable perfusión de 10 ml y 50 ml), de distribución exclusiva para el Servicio de Farmacia del Hospital Clínico “San Carlos” de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-49.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 27 de septiembre de 2021, la Dirección-Gerencia del Hospital Clínico “San Carlos” de Madrid, por la que se dispone la publicación, en los boletines oficiales y en el “perfil del contratante”, de la formalización de la modificación del contrato de «Suministro de Darzalex (1800 mg, solución inyectable), de distribución exclusiva, con destino al Servicio de Farmacia del Hospital Clínico “San Carlos” de Madrid»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-50.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 22 de septiembre de 2021, de la Gerencia del Hospital Universitario “Príncipe de Asturias”, de formalización del contrato «Mantenimiento integral (Full Service) de equipos marca Philips de diagnóstico por imagen con alta especificidad técnica instalados en el Hospital Universitario “Príncipe de Asturias” y Centro Integral de Diagnóstico y Tratamiento “Francisco Díaz”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-51.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 22 de septiembre de 2021, de la Gerencia del Hospital Universitario “Príncipe de Asturias”, de formalización del contrato P. A. HUPA 09/21 “Material necesario para el procesamiento de la citología líquida”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-52.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 24 de septiembre de 2021, de la Gerencia del Hospital Universitario “Príncipe de Asturias”, de formalización del contrato P. A. HUPA 13/21: «Mantenimiento integral de equipos de alta tecnología marca “Siemens”: Telemando digital, tomógrafo y angiógrafo instalados en el Hospital Universitario “Príncipe de Asturias” y Centro de Especialidades “Francisco Díaz”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-53.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Urbanismo: Pleno del Ayuntamiento. Plan especial control usos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-54.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Contratación: Distrito de Moncloa-Aravaca. Licitación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-55.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Contratación: Distrito de Moncloa-Aravaca. Licitación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-56.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcalá de Henares",
+      "description": "Licencias: R2P Fisioterapia Deportiva",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-57.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcobendas",
+      "description": "Régimen económico: Ordenanzas fiscales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-58.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcobendas",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-59.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Arroyomolinos",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-60.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Arroyomolinos",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-61.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Becerril de la Sierra",
+      "description": "Régimen económico: Ordenanza tasa utilización privativa dominio público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-62.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Boadilla del Monte",
+      "description": "Licencias: Galp Energía España, S. A. U.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-63.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Boadilla del Monte",
+      "description": "Licencias: Alborea Salud, S. L. U.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-64.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Cabanillas de la Sierra",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-65.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Cabanillas de la Sierra",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-66.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Collado Villalba",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-67.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "El Escorial",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-68.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Fuenlabrada",
+      "description": "Personal: Modificación relación puestos trabajo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-69.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Getafe",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-70.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Miraflores de la Sierra",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-71.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Miraflores de la Sierra",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-72.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Moraleja de Enmedio",
+      "description": "Régimen económico: Cuenta general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-73.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Móstoles",
+      "description": "Organización y funcionamiento: Catálogo modelos normalizados",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-74.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Pozuelo de Alarcón",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-75.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Sevilla la Nueva",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-76.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Valdemorillo",
+      "description": "Régimen económico: Ordenanza impuesto vehículos tracción mecánica",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-77.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villaconejos",
+      "description": "Régimen económico: Cuenta general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-78.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villalbilla",
+      "description": "Régimen económico: Precios públicos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-79.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villalbilla",
+      "description": "Régimen económico: Precios públicos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-80.PDF"
+    }
+  }
+]
