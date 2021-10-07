@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Resolución de 24 de septiembre de 2021, de la Directora General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se adjudica el puesto subdirector/a médico en el Hospital General Universitario “Gregorio Marañón”, adscrito al Servicio Madrileño de Salud",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Transportes e Infraestructuras",
       "description": "Orden de 24 de septiembre de 2021, de la Consejería de Transportes e Infraestructuras, por la que se procede a designar nuevos vocales en la Junta Arbitral de Transporte de Mercancías y Viajeros de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/07/BOCM-20211007-22.PDF"
