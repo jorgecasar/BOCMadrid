@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
-      "description": "Orden 2874/2021, de 30 de septiembre, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se autoriza la cuantía del precio de comedor en escuelas infantiles pertenecientes a la Red Pública de Escuelas Infantiles de la Comunidad de Madrid gestionadas mediante contrato de servicio público educativo (modalidad de financiación por costes) para el curso escolar 2021-2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/08/BOCM-20211008-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Resolución de 5 de octubre de 2021, de la Dirección General de Vivienda y Rehabilitación, por la que se aprueba el listado de solicitudes con requerimiento de documentación a fecha 28 de septiembre de 2021, susceptibles de subsanación, para la obtención de ayudas económicas correspondientes al programa de fomento de la conservación, de la mejora de la seguridad de utilización y de la accesibilidad en viviendas, convocadas para el año 2021 mediante Orden 224/2021, de 28 de abril, de la Consejería de Vivienda y Administración Local",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/08/BOCM-20211008-18.PDF"
