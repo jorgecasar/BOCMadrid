@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Licencias: O. A",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/08/BOCM-20211008-40.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcalá de Henares",
       "description": "Personal: Relación puestos de trabajo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/08/BOCM-20211008-41.PDF"
