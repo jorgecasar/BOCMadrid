@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 29 de septiembre de 2021, del Sr. Rector Magnífico de la Universidad Rey Juan Carlos, por la que se convoca concurso específico de méritos para la provisión de determinados puestos de trabajo entre personal de administración y servicios funcionario",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/08/BOCM-20211008-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Resolución de 29 de septiembre de 2021, de la Dirección General de Seguridad, Protección Civil y Formación, por la que se hace pública la relación definitiva de aspirantes declarados aptos en las pruebas para la obtención del Certificado Acreditativo del Personal de Control de Acceso a Espectáculos Públicos y Actividades Recreativas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/08/BOCM-20211008-16.PDF"
