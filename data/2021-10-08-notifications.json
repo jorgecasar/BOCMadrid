@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 27 de septiembre de 2021, de la Universidad de Alcalá, por la que se nombra Profesora Titular de Universidad del área de conocimiento de “Química Inorgánica” a doña Paula Ortega López",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/08/BOCM-20211008-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 29 de septiembre de 2021, del Sr. Rector Magnífico de la Universidad Rey Juan Carlos, por la que se convoca concurso específico de méritos para la provisión de determinados puestos de trabajo entre personal de administración y servicios funcionario",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/08/BOCM-20211008-15.PDF"
