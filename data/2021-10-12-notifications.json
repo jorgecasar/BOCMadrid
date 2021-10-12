@@ -1,17 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 243,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2021/10/12/BOCM-20211012.PDF",
-      "total": 18,
-      "items": {
-        "Comunidad de Madrid": 8,
-        "Administración de Justicia": 10
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
