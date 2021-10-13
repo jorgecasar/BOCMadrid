@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 8 de octubre de 2021, de la Universidad de Alcalá, por la que anuncia publicación de convocatorias de concurso-oposición por el sistema de acceso libre para la provisión de puestos vacantes de personal laboral de diferentes categorías profesionales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/13/BOCM-20211013-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Orden 2901/2021, de 1 de octubre, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se autoriza la implantación y supresión de enseñanzas universitarias oficiales de grado, máster y doctorado en las universidades de la Comunidad de Madrid a partir del curso 2021-2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/13/BOCM-20211013-30.PDF"
