@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
-      "description": "Orden 2984/2021, de 5 de octubre, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se adjudican los Premios Extraordinarios de la Comunidad de Madrid de Enseñanzas Artísticas Profesionales de Artes Plásticas y Diseño, de Danza y de Música correspondientes al curso académico 2020-2021",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Extracto de la Orden 1192/2021, de 7 de octubre, de la Consejería de Cultura, Turismo y Deporte, por la que se convocan ayudas a personas físicas y empresas audiovisuales para la producción de cortometrajes en la Comunidad de Madrid en 2021",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-26.PDF"
