@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia e Interior",
-      "description": "Orden de 29 de septiembre de 2021, del Consejero de Presidencia, Justicia e Interior, por la que se nombran registradores de la propiedad, mercantiles y de bienes muebles con destino en el territorio de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Orden 2970/2021, de 4 de octubre, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se conceden los Premios Extraordinarios de Educación Secundaria Obligatoria de la Comunidad de Madrid correspondientes al año académico 2020-2021",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-23.PDF"
