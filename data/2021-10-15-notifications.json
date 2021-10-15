@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Decreto 229/2021, de 13 de octubre, del Consejo de Gobierno, por el que se establece la estructura orgánica de la Consejería de Cultura, Turismo y Deporte",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Orden de 6 de octubre de 2021, de la Consejería de Presidencia, Justicia e Interior, por la que se resuelve la convocatoria aprobada mediante Orden 173/2021, de 21 de mayo de 2021 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 2 de junio), por la que se convocaba, para su cobertura interina, un puesto de trabajo vacante en la entonces Consejería de Presidencia, adscrito a la Abogacía General de la Comunidad de Madrid y se preveía la constitución de lista de espera",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-2.PDF"
