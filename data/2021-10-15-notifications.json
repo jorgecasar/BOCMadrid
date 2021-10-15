@@ -1,0 +1,633 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 246,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2021/10/15/BOCM-20211015.PDF",
+      "total": 127,
+      "items": {
+        "Comunidad de Madrid": 43,
+        "Disposiciones y Anuncios del Estado": 1,
+        "Administración Local Ayuntamientos": 33,
+        "Administración de Justicia": 48,
+        "Otros Anuncios": 2
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Decreto 229/2021, de 13 de octubre, del Consejo de Gobierno, por el que se establece la estructura orgánica de la Consejería de Cultura, Turismo y Deporte",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Orden de 6 de octubre de 2021, de la Consejería de Presidencia, Justicia e Interior, por la que se resuelve la convocatoria aprobada mediante Orden 173/2021, de 21 de mayo de 2021 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 2 de junio), por la que se convocaba, para su cobertura interina, un puesto de trabajo vacante en la entonces Consejería de Presidencia, adscrito a la Abogacía General de la Comunidad de Madrid y se preveía la constitución de lista de espera",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Resolución de 27 de septiembre de 2021, de la Dirección General de Recursos Humanos y Relaciones con la Administración de Justicia de la Consejería de Justicia, por la que se convoca concurso de traslado para la provisión de puestos de trabajo en el Instituto de Medicina Legal y Ciencias Forenses de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Orden 1126/2021, de 6 de octubre, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacantes en la Consejería de Medio Ambiente, Vivienda y Agricultura, por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 1 de octubre de 2021, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en la Consejería de Economía, Hacienda y Empleo, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 1 de octubre de 2021, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Economía, Hacienda y Empleo, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 5 de octubre de 2021, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacantes en la Consejería Economía, Hacienda y Empleo por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 5 de octubre de 2021, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería Economía, Hacienda y Empleo por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-8.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 5 de octubre de 2021, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacantes en la Consejería de Economía, Hacienda y Empleo por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-9.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 4 de octubre de 2021, de la Dirección General de Función Pública, por la que se modifica y publica la lista de espera de personal funcionario interino del Cuerpo de Técnicos y Diplomados Especialistas, Escala de Asistentes Sociales, de Administración Especial, Grupo A, Subgrupo A2, de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-10.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Orden de 5 de octubre de 2021, de la Consejera de Familia, Juventud y Política Social, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Familia, Juventud y Política Social, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-11.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Orden de 5 de octubre de 2021, de la Consejería de Familia, Juventud y Política Social, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacantes en la Consejería de Familia, Juventud y Política Social por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-12.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Orden de 5 de octubre de 2021, de la Consejera de Familia, Juventud y Política Social, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Familia, Juventud y Política Social, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-13.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Orden de 5 de octubre de 2021, de la Consejera de Familia, Juventud y Política Social, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Familia, Juventud y Política Social por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-14.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Acuerdo 2867/2021, de 21 de septiembre, del Consejo de Administración de la Agencia Madrileña de Atención Social, por la que se adjudican, con carácter definitivo, los puestos de carrera convocados mediante Resolución 559/2021, de 29 de abril, del Gerente de la Agencia Madrileña de Atención Social, por la que se aprueba convocatoria pública para la provisión, por el procedimiento de Libre Designación, de puestos de carrera vacantes en el organismo (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 6 de mayo)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-15.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Administración Local y Digitalización",
+      "description": "Orden de 6 de octubre de 2021, de la Consejería de Administración Local y Digitalización, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicha Consejería por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-16.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 29 de septiembre de 2021, de la Dirección-Gerencia del Hospital General Universitario “Gregorio Marañón” del Servicio Madrileño de Salud, por la que se convoca un puesto de Jefe de Sección de Radiodiagnóstico (Patología mamaria y ginecológica) en este centro asistencial para su cobertura mediante nombramiento provisional",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-17.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 27 de septiembre de 2021, de la Dirección-Gerencia del Hospital Universitario “Severo Ochoa” del Servicio Madrileño de Salud, por la que se convoca un puesto de Jefe de Sección de Dermatología Médico-Quirúrgica y Venereología en este centro asistencial, para su cobertura mediante nombramiento provisional",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-18.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 29 de septiembre de 2021, de la Dirección-Gerencia del Hospital Universitario del Henares del Servicio Madrileño de Salud, por la que se convoca un puesto de Jefe de Servicio de Anestesiología y Reanimación en este centro asistencial, para su cobertura mediante nombramiento provisional",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-19.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Orden 1181/2021, de 5 de octubre, de la Consejería de Cultura, Turismo y Deporte, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicha Consejería, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-20.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Orden 1184/2021, de 5 de octubre, de la Consejería de Cultura, Turismo y Deporte, por la que se resuelve la convocatoria aprobada mediante Orden 487/2021, de 27 de mayo (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 10 de junio), de la entonces Consejería de Cultura y Turismo, para la provisión de puestos de trabajo por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-21.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Orden de 29 de septiembre de 2021, del Consejero de Presidencia, Justicia e Interior, por la que se nombran registradores de la propiedad, mercantiles y de bienes muebles con destino en el territorio de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-22.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
+      "description": "Orden 2970/2021, de 4 de octubre, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se conceden los Premios Extraordinarios de Educación Secundaria Obligatoria de la Comunidad de Madrid correspondientes al año académico 2020-2021",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-23.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
+      "description": "Orden 2971/2021, de 4 de octubre, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se conceden los premios del XII Concurso de Narración y de Recitado de Poesía correspondientes al año académico 2020-2021 para los alumnos de Educación Primaria en la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-24.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
+      "description": "Orden 2984/2021, de 5 de octubre, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se adjudican los Premios Extraordinarios de la Comunidad de Madrid de Enseñanzas Artísticas Profesionales de Artes Plásticas y Diseño, de Danza y de Música correspondientes al curso académico 2020-2021",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-25.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Extracto de la Orden 1192/2021, de 7 de octubre, de la Consejería de Cultura, Turismo y Deporte, por la que se convocan ayudas a personas físicas y empresas audiovisuales para la producción de cortometrajes en la Comunidad de Madrid en 2021",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-26.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
+      "description": "Resolución de 1 de octubre de 2021, de la Dirección General de Infraestructuras y Servicios de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de “Servicios de Transporte Escolar de la Dirección de Área Territorial de Madrid-Norte para los cursos 2021-2022, 2022-2023 y 2023-2024” (Código: Madrid-Norte Plurianual-21)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-27.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
+      "description": "Resolución de 1 de octubre de 2021, de la Dirección General de Infraestructuras y Servicios de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de servicios de Transporte Escolar de la Dirección de Área Territorial de Madrid-Sur para los cursos 2021/2022, 2022/2023 y 2023/2024 (código: Madrid-Sur Plurianual-21)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-28.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Acuerdo de 4 de octubre de 2021, de prórroga del convenio de colaboración entre la Comunidad de Madrid (Consejería de Medio Ambiente, Vivienda y Agricultura) y el Ayuntamiento de Aldea del Fresno para la adhesión de información relativa a su patrimonio de suelo disponible al Portal de Suelo de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-29.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Adenda de 29 de septiembre de 2021, de prórroga del convenio entre la Universidad de Alcalá y el Instituto Madrileño de Investigación y Desarrollo Rural, Agrario y Alimentario",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-30.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 6 de octubre de 2021, de Canal de Isabel II, S. A., por la que se hace pública la convocatoria del contrato, por procedimiento abierto, para los “Servicios de soporte técnico a las Juntas Generales de Accionistas de Canal de Isabel II, S. A.”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-31.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 4 de octubre de 2021, de la Gerencia del Hospital Universitario “La Paz”, por la que se dispone la publicación en los boletines oficiales y en el “perfil de contratante” en Internet de la convocatoria del contrato de “Suministro de dispositivo para asistencia ventricular. P. A. número 2021-0-59",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-32.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 5 de octubre de 2021, del Director-Gerente del Hospital Clínico “San Carlos”, por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante”, de la licitación del contrato por procedimiento abierto P. A. 2021-0-111 del «Suministro de catéter central de acceso periférico, línea media y dispositivos de fijación, para el Hospital Clínico “San Carlos” de Madrid»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-33.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 4 de octubre de 2021, de la Dirección-Gerencia del Hospital Universitario de Móstoles, por la que se hace pública la convocatoria de licitación del contrato de arrendamiento de bombas de infusión y suministro del material fungible",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-34.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Anuncio de 13 de octubre de 2021, de corrección de errores del anuncio de la licitación para la contratación de obras del Plan de Reforma y Modernización de los Centros de Tracción de Línea 6 (expediente 6012100270)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-35.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 21 de julio de 2021, entre la Comunidad de Madrid, Consejería de Cultura, Turismo y Deporte, y la Federación Madrileña de Voleibol, para el desarrollo de la sexta edición del Programa “Institutos Promotores de la Actividad Física y el Deporte de la Comunidad de Madrid”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-36.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 22 de julio de 2021, entre la Comunidad de Madrid, Consejería de Cultura, Turismo y Deporte y la Federación Madrileña de Piragüismo, para el desarrollo de la sexta edición del Programa “Institutos Promotores de la Actividad Física y el Deporte de la Comunidad de Madrid”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-37.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 22 de julio de 2021, entre la Comunidad de Madrid, Consejería de Cultura, Turismo y Deporte y la Federación Madrileña de Luchas Asociadas, para el desarrollo de la sexta edición del Programa “Institutos Promotores de la Actividad Física y el Deporte de la Comunidad de Madrid”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-38.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 22 de julio de 2021, entre la Comunidad de Madrid, Consejería de Cultura, Turismo y Deporte, y la Federación Madrileña de Taekwondo, para el desarrollo de la sexta edición del Programa “Institutos Promotores de la Actividad Física y el Deporte de la Comunidad de Madrid”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-39.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 22 de julio de 2021, entre la Comunidad de Madrid (Consejería de Cultura, Turismo y Deporte) y la Federación Madrileña de Tenis de Mesa, para el desarrollo de la sexta edición del Programa “Institutos Promotores de la Actividad Física y el Deporte de la Comunidad de Madrid”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-40.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 22 de julio de 2021, entre la Comunidad de Madrid (Consejería de Cultura, Turismo y Deporte) y la Federación Madrileña de Salvamento y Socorrismo, para el desarrollo de la sexta edición del Programa “Institutos Promotores de la Actividad Física y el Deporte de la Comunidad de Madrid”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-41.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 22 de julio de 2021, entre la Comunidad de Madrid, Consejería de Cultura, Turismo y Deporte, y la Federación de Atletismo de Madrid, para el desarrollo de la sexta edición del Programa “Institutos Promotores de la Actividad Física y el Deporte de la Comunidad de Madrid”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-42.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 22 de julio de 2021, entre la Comunidad de Madrid, Consejería de Cultura, Turismo y Deporte, y la Federación Madrileña de Tiro con Arco, para el desarrollo de la sexta edición del Programa “Institutos Promotores de la Actividad Física y el Deporte de la Comunidad de Madrid”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-43.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Disposiciones y Anuncios del Estado",
+      "description": "Ministerio para la Transición Ecológica y el Reto Demográfico. Confederación Hidrográfica del Tajo. Concesión aguas",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-44.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Urbanismo: Área de Gobierno de Desarrollo Urbano. Estatutos Junta de Compensación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-45.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Ajalvir",
+      "description": "Licencias: Afarvi Sistemas, S. L.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-46.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcalá de Henares",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-47.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Aranjuez",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-48.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Arroyomolinos",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-49.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Cenicientos",
+      "description": "Régimen económico: Ordenanza tasa licencia auto taxi",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-50.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Chapinería",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-51.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Ciempozuelos",
+      "description": "Organización y funcionamiento: Ordenanza instalación terrazas",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-52.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Colmenar Viejo",
+      "description": "Regimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-53.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Corpa",
+      "description": "Organización y funcionamiento: Ordenanza reguladora del régimen de licencia",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-54.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Coslada",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-55.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Coslada",
+      "description": "Otros anuncios: Inmuebles sujetos a informe evaluación edificios",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-56.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Cubas de la Sagra",
+      "description": "Urbanismo: Cambio de denominación vial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-57.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Cubas de la Sagra",
+      "description": "Urbanismo: Numeración de parcelas UE-2",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-58.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "El Álamo",
+      "description": "Organización y funcionamiento: Ordenanza régimen licencia y declaración responsable",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-59.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Fuenlabrada",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-60.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Fuenlabrada",
+      "description": "Personal: Nombramiento personal eventual",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-61.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Leganés",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-62.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Leganés",
+      "description": "Personal: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-63.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Meco",
+      "description": "Urbanismo: Plan Especial de Plan General",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-64.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Móstoles",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-65.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Patones",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-66.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Fernando de Henares",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-67.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Martín de la Vega",
+      "description": "Personal: Plantilla personal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-68.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Martín de Valdeiglesias",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-69.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Titulcia",
+      "description": "Organización y funcionamiento: Régimen de dedicación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-70.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrelodones",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-71.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Valdemaqueda",
+      "description": "Organización y funcionamiento: Ordenanza régimen de licencias y declaración responsable",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-72.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villarejo de Salvanés",
+      "description": "Urbanismo: Convenio urbanístico",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-73.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Mancomunidad de Servicios Sociales Mejorada-Velilla",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-74.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Mancomunidad de Servicios del Suroeste de Madrid",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-75.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Mancomunidad de Servicios del Suroeste de Madrid",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-76.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Mancomunidad de Servicios del Suroeste de Madrid",
+      "description": "Régimen económico: Modificación anexo inversiones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/15/BOCM-20211015-77.PDF"
+    }
+  }
+]
