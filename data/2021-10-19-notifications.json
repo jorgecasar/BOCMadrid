@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
-      "description": "Decreto 228/2021, de 13 de octubre, del Consejo de Gobierno, por el que se establece para la Comunidad de Madrid el plan de estudios del ciclo formativo de grado superior correspondiente al título de Técnico Superior en Educación y Control Ambiental",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/18/BOCM-20211018-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Acuerdo de 13 de octubre de 2021, del Consejo de Gobierno, por el que se cesa y nombra a un vocal de la Comisión Regional de Coordinación de las Policías Locales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/18/BOCM-20211018-3.PDF"
