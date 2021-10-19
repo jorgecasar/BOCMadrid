@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Política Social",
-      "description": "Orden 1670/202, de 15 de octubre, de la Consejera de Familia, Juventud y Política Social por la que se modifica el Plan Estratégico de Subvenciones 2021 de la Consejería de Familia, Juventud y Política Social de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/18/BOCM-20211018-42.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 1239/21, de 30 de septiembre, de la Consejería de Sanidad, por la que se regula la formación mínima necesaria para prestar servicios como socorrista en piscinas, instalaciones acuáticas y medio natural de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/18/BOCM-20211018-43.PDF"
