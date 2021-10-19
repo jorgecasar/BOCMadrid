@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Orden 1239/21, de 30 de septiembre, de la Consejería de Sanidad, por la que se regula la formación mínima necesaria para prestar servicios como socorrista en piscinas, instalaciones acuáticas y medio natural de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/18/BOCM-20211018-43.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación y Juventud",
       "description": "Convenio de colaboración de 14 de junio de 2021, entre la Comunidad de Madrid (Consejería de Educación y Juventud) y la Fundación Bankia por la Formación Dual, por el que se establece un marco genérico de actuación para el desarrollo de acciones de impulso y mejora de la Formación Profesional Dual en la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/18/BOCM-20211018-44.PDF"
