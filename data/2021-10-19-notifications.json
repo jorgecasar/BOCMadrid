@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 6 de octubre de 2021, de la Universidad Autónoma de Madrid, por la que se convocan pruebas selectivas para el ingreso en la Escala Especial Superior de Sistemas y Tecnologías de la Información de esta universidad, por el sistema general de concurso-oposición libre",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/18/BOCM-20211018-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 6 de octubre de 2021, de la Universidad Autónoma de Madrid, por la que se convocan pruebas selectivas para el ingreso en la Escala Especial Técnica de Sistemas y Tecnologías de la Información de esta universidad, por el sistema general de concurso-oposición libre",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/18/BOCM-20211018-33.PDF"
     }
