@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Resolución de 27 de septiembre de 2021, de la Dirección-Gerencia del Hospital Universitario de “La Princesa” del Servicio Madrileño de Salud, por la que se resuelve la convocatoria de 25 de enero de 2021, de un puesto de Jefe de Sección de Neurología",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/18/BOCM-20211018-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 20 de septiembre de 2021, de la Dirección-Gerencia del Hospital Clínico “San Carlos” del Servicio Madrileño de Salud, por la que se resuelve la convocatoria de fecha 2 de febrero de 2021 de un puesto de Jefe de Sección de Cirugía Cardiovascular",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/18/BOCM-20211018-22.PDF"
     }
