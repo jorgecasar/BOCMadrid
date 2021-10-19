@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
-      "description": "Acuerdo de 13 de octubre de 2021, del Consejo de Gobierno, por el que se cesa y nombra a un vocal de la Comisión Regional de Coordinación de las Policías Locales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/18/BOCM-20211018-3.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Resolución de 29 de septiembre de 2021, de la Dirección General de Recursos Humanos y Relaciones con la Administración de Justicia, de la Consejería de Presidencia, Justicia e Interior, por la que se resuelve la convocatoria de provisión de varios puestos de trabajo mediante concurso específico en la Oficina Fiscal de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/18/BOCM-20211018-4.PDF"
     }
