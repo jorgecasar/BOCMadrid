@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Extracto del Acuerdo de Consejo de Gobierno de 22 de septiembre de 2021, por el que se modifica el Acuerdo de 28 de abril de 2021, por el que se convoca la Línea COVID complementaria de ayudas directas a autónomos y empresas financiada por el Gobierno de España",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/18/BOCM-20211018-40.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 6 de octubre de 2021, del Presidente de la Junta Arbitral de Consumo de la Comunidad de Madrid, por la que se dispone la publicación de las empresas a las que se ha concedido el distintivo público de adhesión al Sistema Arbitral de Consumo durante el tercer trimestre de 2021",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/18/BOCM-20211018-41.PDF"
     }
