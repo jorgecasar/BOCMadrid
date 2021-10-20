@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
-      "description": "Orden 2993/2021, de 6 de octubre, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se aprueba el plan estratégico para la concesión directa de ayudas vinculadas a los fondos NextGenerationEU",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/19/BOCM-20211019-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Orden 1108/2021, de 7 de octubre, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se aprueba definitivamente la modificación puntual de las normas subsidiarias del Planeamiento Municipal de Chinchón, relativa a la regulación de infraestructuras de tratamiento y depósito de residuos inertes y no peligrosos, para la restauración de suelos degradados o potencialmente degradables por actividades extractivas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/19/BOCM-20211019-31.PDF"
