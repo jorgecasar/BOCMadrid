@@ -1,19 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 251,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2021/10/21/BOCM-20211021.PDF",
-      "total": 100,
-      "items": {
-        "Comunidad de Madrid": 48,
-        "Disposiciones y Anuncios del Estado": 2,
-        "Administración Local Ayuntamientos": 28,
-        "Administración de Justicia": 22
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
