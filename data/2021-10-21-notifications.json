@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 7 de octubre de 2021, de la Universidad Carlos III de Madrid, por la que se corrigen errores en la convocatoria del concurso-oposición, por el sistema general de acceso libre, para la provisión de puestos de trabajo vacantes en la relación de puestos de trabajo de personal laboral de administración y servicios de esta Universidad, aprobada por Resolución de 29 de junio de 2021",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/21/BOCM-20211021-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 13 de octubre del 2021, del Rector de la Universidad Rey Juan Carlos, por la que se anuncia convocatoria pública para la provisión de dos puestos de trabajo reservados a personal funcionario mediante el sistema de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/21/BOCM-20211021-15.PDF"
