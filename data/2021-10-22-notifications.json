@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Política Social",
-      "description": "Acuerdo de 13 de octubre de 2021, del Consejo de Gobierno, por el que se dispone el cese y el nombramiento de miembros del Consejo de Administración de la Agencia Madrileña para la Tutela de Adultos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/21/BOCM-20211021-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Carlos III",
       "description": "Resolución de 7 de octubre de 2021, de la Universidad Carlos III de Madrid, por la que se corrigen errores en la convocatoria del concurso-oposición, por el sistema general de acceso libre, para la provisión de puestos de trabajo vacantes en la relación de puestos de trabajo de personal laboral de administración y servicios de esta Universidad, aprobada por Resolución de 29 de junio de 2021",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/21/BOCM-20211021-14.PDF"
