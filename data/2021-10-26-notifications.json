@@ -1,20 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 255,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2021/10/26/BOCM-20211026.PDF",
-      "total": 118,
-      "items": {
-        "Comunidad de Madrid": 42,
-        "Disposiciones y Anuncios del Estado": 2,
-        "Administración Local Ayuntamientos": 34,
-        "Administración de Justicia": 39,
-        "Otros Anuncios": 1
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
