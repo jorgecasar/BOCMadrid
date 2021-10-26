@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 26 de julio de 2021, de la Universidad Complutense de Madrid, por la que se convoca concurso de acceso a plazas de Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/26/BOCM-20211026-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 4 de octubre de 2021, de la Universidad Politécnica de Madrid, por la que se declaran desiertas las plazas convocadas en el proceso selectivo para el ingreso en la Escala Técnica de Gestión, Grupo A, Subgrupo A1 (Asesor Letrado), de la Universidad Politécnica de Madrid, por el sistema general de acceso libre, convocadas por Resolución de 30 de octubre de 2020",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/26/BOCM-20211026-21.PDF"
