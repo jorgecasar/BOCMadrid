@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 21 de octubre de 2021, de la Universidad Rey Juan Carlos, por la que se convoca concurso de acceso a plazas de Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/29/BOCM-20211029-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Orden 3126/2021, de 20 de octubre, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se aprueba la reconversión de la Escuela Infantil-Casa de Niños “El Sastrecillo Valiente” de Torres de la Alameda en escuela infantil",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/10/29/BOCM-20211029-18.PDF"
