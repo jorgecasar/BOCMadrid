@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
-      "description": "Acuerdo 50/2021, de 27 de octubre, de la Comisión de Urbanismo de Madrid, relativo al catálogo de espacios y bienes protegidos de Las Rozas de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/03/BOCM-20211103-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 22 de octubre de 2021, de la Universidad Complutense de Madrid, por la que se publica el del Plan de Estudios del Grado en Ciencias de las Religiones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/03/BOCM-20211103-26.PDF"
