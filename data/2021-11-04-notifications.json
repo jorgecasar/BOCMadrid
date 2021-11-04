@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 20 de octubre de 2021, de la Universidad Autónoma de Madrid, por la que se publica la Oferta de Empleo Público para el ejercicio 2021 del Personal Docente e Investigador",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/03/BOCM-20211103-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 22 de octubre de 2021, de la Rectora de la Universidad Autónoma de Madrid, por la que se procede a la corrección de errores de la Resolución de la Rectora, de 16 de septiembre de 2021, por la que se procedió a la corrección de errores de la Resolución del Rector, de 25 de septiembre de 2020, por la que se publicó la modificación parcial de la Relación de Puestos de Trabajo del Personal de Administración y Servicios Funcionario de esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/03/BOCM-20211103-20.PDF"
     }
