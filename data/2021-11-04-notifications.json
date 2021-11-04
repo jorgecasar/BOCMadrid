@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
-      "description": "Orden 3166/2021, de 22 de octubre, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se resuelve la convocatoria para la concesión de ayudas a alumnos con discapacidad que cursan estudios en centros de enseñanzas artísticas superiores o universidades y centros adscritos a las mismas con sede en la Comunidad de Madrid, durante el curso 2020-2021 y se dispone un gasto de 212.936 euros para tal fin",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/03/BOCM-20211103-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Orden 1260/2021, de 20 de octubre, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se autoriza a la Fundación de la Energía de la Comunidad de Madrid a conceder subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/03/BOCM-20211103-23.PDF"
