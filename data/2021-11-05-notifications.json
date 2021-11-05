@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
-      "description": "Orden 3172/2021, de 29 de octubre, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se resuelve el procedimiento de concesión directa de ayudas individualizadas de transporte escolar para el curso 2020-2021",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/04/BOCM-20211104-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Corrección de errores de la Orden de 18 de octubre de 2021, de la Consejería de Economía, Hacienda y Empleo, por la que se convoca procedimiento de evaluación y acreditación de las competencias profesionales en determinadas cualificaciones profesionales en el ámbito de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/04/BOCM-20211104-14.PDF"
