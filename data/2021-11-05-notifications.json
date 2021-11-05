@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 6 de octubre de 2021, conjunta de la Universidad Autónoma de Madrid y la Consejería de Sanidad de la Comunidad de Madrid por la que se nombra Personal Docente e Investigador Funcionario Universitario vinculado con institución sanitaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/04/BOCM-20211104-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Extracto de la Orden de 15 de octubre de 2021, de la Consejería de Presidencia, Justicia e Interior, por la que se convocan subvenciones en especie para el año 2021 para la compra de vehículos policiales destinados a los Cuerpos de Policía Local de la Comunidad de Madrid, previstas en el Acuerdo de Consejo de Gobierno de 29 de diciembre de 2020, por el que se aprueba el Programa de Apoyo a las Policías Locales de la Comunidad de Madrid para los años 2021 a 2024, y se autoriza el otorgamiento de la subvención por concesión directa para gastos de personal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/04/BOCM-20211104-12.PDF"
