@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Urbanismo: Área de Gobierno de Desarrollo Urbano. Catálogo edificios protegidos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/05/BOCM-20211105-40.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Otros anuncios: Área de Gobierno de Desarrollo Urbano. Inmuebles sujetos a informe de evaluación edificios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/05/BOCM-20211105-41.PDF"
     }
