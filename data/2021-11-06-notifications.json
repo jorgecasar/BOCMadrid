@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Urbanismo: Área de Gobierno de Desarrollo Urbano. Plan especial control ambiental usos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/05/BOCM-20211105-38.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Urbanismo: Área de Gobierno de Desarrollo Urbano. Estudio de Detalle",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/05/BOCM-20211105-39.PDF"
     }
