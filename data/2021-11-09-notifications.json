@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Resolución de 19 de octubre de 2021, de la Universidad de Alcalá, por la que se nombra Catedrática de Universidad del Área de Conocimiento de “Física Aplicada” a doña Consuelo Cid Tortuero",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/08/BOCM-20211108-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Resolución de 21 de octubre de 2021, de la Universidad de Alcalá, por la que se nombra Catedrático de Universidad del Área de Conocimiento de “Teoría de la Señal y Comunicaciones” a don Roberto Gómez García",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/08/BOCM-20211108-24.PDF"
     }
