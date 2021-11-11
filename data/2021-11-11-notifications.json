@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Corrección de errores de la Resolución de 8 de octubre de 2021, de la Universidad Rey Juan Carlos, por la que se nombra Profesora Titular de Universidad a doña Diana Fernández Romero",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/10/BOCM-20211110-36.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Orden 3231/2021, de 27 de octubre, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se aprueba la ampliación de unidades en la Escuela Infantil-Casa de Niños de Valdeolmos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/10/BOCM-20211110-37.PDF"
