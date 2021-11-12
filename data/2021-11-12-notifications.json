@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Convenio de 13 de octubre de 2021, entre la Comunidad de Madrid, a través de la Consejería de Sanidad y el Instituto de Salud Carlos III (O. A., M. P.), para el mantenimiento del Centro Español para los Cuidados de Salud basados en la Evidencia (2021-2024)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/11/BOCM-20211111-37.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Convenio de 14 de octubre de 2021, entre la Comunidad de Madrid a través de la Consejería de Sanidad y Boehringer Ingelheim España, S. A., para la realización de material formativo sobre autocuidado en enfermedad cerebrovascular (ICTUS) en el marco de la Escuela Madrileña de Salud",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/11/BOCM-20211111-38.PDF"
     }
