@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Orden 1469/2021, de 8 de noviembre, de la Consejería de Sanidad, de corrección de errores de la Orden 1244/2021, de 1 de octubre, de la Consejería de Sanidad, por la que se establecen medidas preventivas para hacer frente a la crisis sanitaria ocasionada por el COVID-19",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/11/BOCM-20211111-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Acuerdo de 10 de noviembre de 2021, del Consejo de Gobierno, por el que se nombran Vocales del Consejo Asesor de Asuntos Europeos de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/11/BOCM-20211111-3.PDF"
