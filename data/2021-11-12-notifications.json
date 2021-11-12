@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 2 de noviembre de 2021, de la Universidad Complutense de Madrid, por la que se publica la Oferta de Empleo para el ejercicio 2021 del Personal Docente e Investigador",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/11/BOCM-20211111-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 3 noviembre de 2021, por la que se modifica la composición del Tribunal Calificador correspondiente al proceso selectivo para ingreso, por el sistema de promoción interna, en la Escala Facultativa de Archivos, Bibliotecas y Museos de la Universidad Complutense de Madrid convocadas por Resolución de 27 de abril de 2021 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y “Boletín Oficial de la Universidad Complutense” de 7 de mayo)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/11/BOCM-20211111-23.PDF"
     }
