@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia e Interior",
-      "description": "Decreto 233/2021, de 10 de noviembre, del Consejo de Gobierno, por el que se modifica el Decreto 21/2020, de 26 de febrero, del Consejo de Gobierno, por el que se dispone la suspensión de la concesión de autorizaciones de comercialización y de apertura y funcionamiento de los establecimientos de juego y de la emisión de informes de consultas previas de viabilidad, en tanto se realiza la planificación de los mismos en el territorio de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/11/BOCM-20211111-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 1469/2021, de 8 de noviembre, de la Consejería de Sanidad, de corrección de errores de la Orden 1244/2021, de 1 de octubre, de la Consejería de Sanidad, por la que se establecen medidas preventivas para hacer frente a la crisis sanitaria ocasionada por el COVID-19",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/11/BOCM-20211111-2.PDF"
