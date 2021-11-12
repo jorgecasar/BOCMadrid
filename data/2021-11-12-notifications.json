@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 25 de octubre de 2021, de la Universidad Politécnica de Madrid, por la que, en ejecución de sentencia, se nombran funcionarias de carrera de la Escala Auxiliar Administrativa de la Universidad Politécnica de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/11/BOCM-20211111-28.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Orden 3270/2021, de 2 de noviembre, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se autoriza a la Universidad Alfonso X el Sabio a impartir el Máster Universitario en Psicología General Sanitaria de la Facultad de Medicina en el campus de Chamartín, además de en el campus de Villanueva de la Cañada",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/11/BOCM-20211111-29.PDF"
