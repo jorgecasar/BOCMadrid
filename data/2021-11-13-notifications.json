@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 5 de noviembre de 2021, de la Universidad Rey Juan Carlos, por la que se convocan pruebas selectivas para ingreso en la escala de Oficial de Oficios de la Universidad Rey Juan Carlos (turno promoción interna), previstas en la oferta de empleo público de 2018",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/12/BOCM-20211112-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Orden 3247/2021, de 2 de noviembre, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se aprueba el Plan Estratégico para la Realización de Programas de Fomento de la I+D+I Empresarial en la Comunidad de Madrid 2022-2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/12/BOCM-20211112-17.PDF"
