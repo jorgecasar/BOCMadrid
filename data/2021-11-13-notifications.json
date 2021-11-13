@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 3 de noviembre de 2021, de la Rectora de la Universidad Autónoma de Madrid, por la que se resuelve la convocatoria pública para la provisión de un puesto de trabajo vacante mediante el sistema de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/12/BOCM-20211112-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 5 de noviembre de 2021, de la Universidad Rey Juan Carlos, por la que se convocan pruebas selectivas para ingreso en la escala de Oficial de Oficios de la Universidad Rey Juan Carlos (turno promoción interna), previstas en la oferta de empleo público de 2018",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/12/BOCM-20211112-16.PDF"
