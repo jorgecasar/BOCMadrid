@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 1346/2021, de 8 de noviembre, de la Consejería de Cultura, Turismo y Deporte, por la que se resuelve la convocatoria aprobada por Orden 1086/2021, de 17 de septiembre, de la Consejería de Cultura, Turismo y Deporte (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 28 de septiembre), para la provisión de un puesto de trabajo vacante en la citada Consejería por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/17/BOCM-20211117-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 29 de octubre de 2021, de la Universidad Complutense de Madrid, por la que se convocan concursos de acceso a plazas de cuerpos docentes universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/17/BOCM-20211117-16.PDF"
