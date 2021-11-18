@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 5 de noviembre de 2021, de la Universidad Politécnica de Madrid, por la que se convocan concursos para la provisión de plazas de personal docente e investigador contratado: Profesores Contratados Doctores",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/17/BOCM-20211117-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Orden 3293/2021, de 5 de noviembre, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se resuelve la convocatoria para el año 2020 de las ayudas cofinanciadas por el Fondo Europeo de desarrollo regional para contribuir a la mejora de la cooperación público-privada en materia de I+D+I mediante el apoyo a proyectos de innovación tecnológica de efecto tractor elaborados por núcleos de innovación abierta en la Comunidad de Madrid, en el marco de la estrategia regional de investigación e innovación para una especialización inteligente (RIS3), dentro del Programa Operativo FEDER de la Comunidad de Madrid para el período 2014-2020",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/17/BOCM-20211117-19.PDF"
