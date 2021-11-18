@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Extracto del Acuerdo de Consejo de Gobierno de la Universidad de Alcalá de 28 de octubre de 2021, por el que se convocan las Ayudas para la Extensión Internacional de Patentes por el Procedimiento PCT. Convocatoria 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/17/BOCM-20211117-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Resolución de 18 de octubre de 2021, de la Dirección General de Descarbonización y Transición Energética, por la que se somete a información pública la petición de autorización administrativa y aprobación del proyecto para la reforma de línea aérea de 20 kV, situada en coordenadas UTM (X: 391313; Y: 4492435), en el término municipal de Santa María de la Alameda, solicitada por I-DE Redes Eléctricas Inteligentes, S. A. U.",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/17/BOCM-20211117-22.PDF"
