@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcobendas",
-      "description": "Ofertas de empleo: Convocatorias procesos selectivos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/18/BOCM-20211118-39.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Ambite",
       "description": "Régimen económico: Ordenanza tasa utilización privativa dominio público",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/18/BOCM-20211118-40.PDF"
