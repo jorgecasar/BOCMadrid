@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
-      "description": "Decreto 236/2021, de 17 de noviembre, del Consejo de Gobierno, por el que se establece la estructura orgánica de la Consejería de Educación, Universidades, Ciencia y Portavocía",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/18/BOCM-20211118-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Decreto 237/2021, de 17 de noviembre, del Consejo de Gobierno, por el que se establece la estructura orgánica de la Consejería de Medio Ambiente, Vivienda y Agricultura",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/18/BOCM-20211118-2.PDF"
