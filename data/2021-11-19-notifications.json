@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
-      "description": "Decreto 237/2021, de 17 de noviembre, del Consejo de Gobierno, por el que se establece la estructura orgánica de la Consejería de Medio Ambiente, Vivienda y Agricultura",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/18/BOCM-20211118-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Orden de 4 de noviembre de 2021, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Presidencia, Justicia e Interior, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/18/BOCM-20211118-3.PDF"
