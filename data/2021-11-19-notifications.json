@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Disposiciones y Anuncios del Estado",
-      "description": "Ministerio de Política Territorial. Delegación del Gobierno en Castilla-La Mancha. Autorización administrativa y declaración impacto ambiental",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/18/BOCM-20211118-33.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Madrid",
       "description": "Régimen económico: Área de Gobierno de Desarrollo Urbano. Concesión subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/18/BOCM-20211118-34.PDF"
