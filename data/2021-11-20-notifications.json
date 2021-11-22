@@ -1,0 +1,54 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 277,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2021/11/20/BOCM-20211120.PDF",
+      "total": 11,
+      "items": {
+        "Comunidad de Madrid": 5,
+        "Administración de Justicia": 6
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 25 de octubre de 2021, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del Acta de 21 de julio de 2021, de la Comisión Negociadora del Convenio Colectivo del Real Madrid Club de Fútbol (excluidos fijos discontinuos) (código número 28011640012002)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/20/BOCM-20211120-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 26 de octubre de 2021, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa Dalka Expert, S. L. (código 28103182012021)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/20/BOCM-20211120-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 4 de noviembre de 2021, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa Entidad Urbanística Conservadora El Bosque (código número 28100222012012)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/20/BOCM-20211120-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 5 de noviembre de 2021, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo del Sector de Hostelería y Actividades Turísticas, suscrito por la Asociación Empresarial de Hostelería, la Asociación Madrileña de Empresas de Restauración y la Asociación de Empresarios de Ocio Nocturno de la Comunidad de Madrid y por la representación sindical de la Federación de Servicios de CC OO de Madrid y la Federación de Servicios, Movilidad y Consumo de UGT de Madrid (código número 28002085011981)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/20/BOCM-20211120-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Publicación de 29 de octubre de 2021, del Anexo al convenio marco entre la Comunidad de Madrid, Consejería de Familia, Juventud y Política Social, y la Universidad Complutense de Madrid, para la realización de prácticas académicas de alumnos del Máster Universitario en Psicología de la Educación, en centros y/o servicios de la Consejería de Familia, Juventud y Política Social, correspondiente al curso 2021-2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/20/BOCM-20211120-5.PDF"
+    }
+  }
+]
