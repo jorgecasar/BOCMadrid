@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Resolución de 4 de noviembre de 2021, de la Universidad de Alcalá, por la que se nombra Catedrático de Universidad del Área de Conocimiento de “Tecnología Electrónica” a don Daniel Pizarro Pérez",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/22/BOCM-20211122-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Resolución 9 de noviembre de 2021, de la Universidad de Alcalá, por la que se anuncia convocatoria pública para la provisión, mediante el sistema de Libre Designación, de un puesto de trabajo vacante en esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/22/BOCM-20211122-13.PDF"
     }
