@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 12 de noviembre de 2021, de la Rectora de la Universidad Autónoma de Madrid, por la que se convocan varios puestos de trabajo para su provisión por el sistema de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/22/BOCM-20211122-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 4 de noviembre de 2021, de la Universidad de Alcalá, por la que se nombra Catedrático de Universidad del Área de Conocimiento de “Tecnología Electrónica” a don Daniel Pizarro Pérez",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/22/BOCM-20211122-12.PDF"
