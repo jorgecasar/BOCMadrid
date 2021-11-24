@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
-      "description": "Resolución de 5 de noviembre de 2021, del Director General de Descarbonización y Transición Energética de la Comunidad de Madrid, por la que se hace público las resoluciones emitidas por esta Dirección General desde 6 de mayo de 2021 hasta 18 de octubre de 2021, relativas a Autorización Ambiental Integrada",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/23/BOCM-20211123-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Resolución de 5 de noviembre de 2021, del Director General de Descarbonización y Transición Energética de la Comunidad de Madrid, por la que se hace público el listado de resoluciones por las que se revisan las correspondientes Autorizaciones Ambientales Integradas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/23/BOCM-20211123-19.PDF"
     }
