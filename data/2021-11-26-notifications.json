@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Extracto de la Orden 1399/2021, de 17 de noviembre de la Consejería de Cultura, Turismo y Deporte, por la que se establece la convocatoria de ayudas bienales para el fomento de estructuras de empresas en las artes escénicas, de salas de teatro, salas de música y tablaos flamencos de 2021 y 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/25/BOCM-20211125-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Adenda de 25 de junio de 2021, de modificación y prórroga al convenio de colaboración entre la Comunidad de Madrid (Consejería de Educación, Juventud y Deporte) y la Academia de París para el desarrollo de programas de cooperación educativa en el año 2017-2018",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/25/BOCM-20211125-25.PDF"
