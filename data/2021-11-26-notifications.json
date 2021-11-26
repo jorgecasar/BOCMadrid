@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 17 de noviembre de 2021, del Rector de la Universidad Rey Juan Carlos por la que se resuelve la provisión de dos puestos de trabajo reservados a personal funcionario mediante el sistema de Libre Designación convocada por Resolución de fecha 13 de octubre de 2021 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID del día 21)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/25/BOCM-20211125-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Acuerdo 12/2021, de 27 de octubre, del administrador provisional de Radio Televisión Madrid, S. A. U., sobre la creación de la sede electrónica",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/25/BOCM-20211125-20.PDF"
