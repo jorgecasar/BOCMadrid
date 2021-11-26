@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 16 de noviembre de 2021, de la Rectora de la Universidad Autónoma de Madrid, por la que se publica la modificación parcial de la Relación de Puestos de Trabajo del Personal de Administración y Servicios Funcionario de esta Universidad, aprobada en Consejo de Gobierno de 12 de noviembre de 2021",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/25/BOCM-20211125-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 17 de noviembre de 2021, de la Rectora de la Universidad Autónoma de Madrid por la que se publica la modificación parcial de la Relación de Puestos de Trabajo del Personal de Administración y Servicios Laboral de esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/25/BOCM-20211125-18.PDF"
     }
