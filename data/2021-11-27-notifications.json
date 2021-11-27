@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 24 de noviembre de 2021, del Gerente de la Universidad de Alcalá, por la que se hace pública la anulación de la Resolución de 8 de octubre de 2021, de la Universidad de Alcalá, por la que se convoca concurso-oposición para la provisión, por el sistema general de acceso libre, de plaza de personal laboral de la categoría de Técnico Especialista (Especialidad Laboratorios de Humanidades) publicada en el “Boletín Oficial del Estado” número 247, de 15 de octubre de 2021",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/26/BOCM-20211126-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 17 de noviembre de 2021, de la Universidad Rey Juan Carlos, por la que se convoca concurso de acceso a plazas de Cuerpos Docentes Universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/26/BOCM-20211126-15.PDF"
