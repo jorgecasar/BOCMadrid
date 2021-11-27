@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Resolución de 15 de noviembre de 2021, de la Dirección-Gerencia del Hospital Universitario de Móstoles, por la que se dispone la publicación de la prórroga del expediente de “Medicamentos antirretrovirales exclusivos”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/26/BOCM-20211126-37.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 15 de noviembre de 2021, de la Dirección-Gerencia del Hospital Universitario de Móstoles, por la que se dispone la publicación de la prórroga del expediente de “Medicamentos antiinflamatorios exclusivos”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/26/BOCM-20211126-38.PDF"
     }
