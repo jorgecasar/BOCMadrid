@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 26 de noviembre de 2021, de la Universidad Carlos III de Madrid, por la que se publica reseña de la Resolución de 16 de noviembre de 2021, de convocatoria del proceso selectivo para el ingreso en la Escala de Auxiliar Administrativa de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/29/BOCM-20211129-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 1389/2021, de 16 de noviembre, de la Consejería de Cultura, Turismo y Deporte, por la que se delega el ejercicio de determinadas competencias, la firma de convenios y se desconcentra el Protectorado de Fundaciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/29/BOCM-20211129-17.PDF"
