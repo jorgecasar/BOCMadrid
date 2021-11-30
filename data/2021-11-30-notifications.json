@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Otros anuncios: Distrito de Retiro. Autorización demanial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/29/BOCM-20211129-43.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcalá de Henares",
       "description": "Régimen económico: Estudio de detalle",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/29/BOCM-20211129-44.PDF"
