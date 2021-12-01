@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 17 de noviembre de 2021, conjunta de la Universidad Rey Juan Carlos de Madrid y la Consejería de Sanidad de la Comunidad de Madrid, por la que se convoca concurso de acceso a plazas vinculadas de Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/30/BOCM-20211130-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Encomienda de gestión de 15 de noviembre de 2021, de la Dirección General de Infraestructuras Judiciales de la Consejería de Presidencia, Justicia e Interior a la Dirección General de Función Pública de la Consejería de Economía, Hacienda y Empleo, por la que se acuerda la prórroga de la suscrita el 22 de enero de 2021 y prorrogada hasta 31 de diciembre de 2021",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/11/30/BOCM-20211130-24.PDF"
