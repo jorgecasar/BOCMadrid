@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 1419/2021, de 19 de noviembre, de la Consejería de Cultura, Turismo y Deporte por la que se aprueba la convocatoria pública para la provisión de puestos de trabajo vacantes en la citada Consejería por el procedimiento de Concurso de Méritos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/01/BOCM-20211201-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Resolución de 23 de noviembre de 2021, del Abogado General de la Comunidad de Madrid, por la que se revoca la Resolución de 1 de octubre de 2013, de delegación de determinadas competencias",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/01/BOCM-20211201-18.PDF"
