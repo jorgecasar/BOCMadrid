@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Administración Local y Digitalización",
-      "description": "Resolución 561/20211, de 23 de noviembre, de la Consejera-Delegada de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se hace pública la ampliación de plazas convocadas en el proceso selectivo para la selección de personal laboral ordinario indefinido (laborar fijo), en turno libre, convocado mediante Resolución 605/2020, de 10 de noviembre",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/01/BOCM-20211201-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Administración Local y Digitalización",
       "description": "Resolución 562/20211, de 23 de noviembre, de la Consejera-Delegada de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se aprueban y declaran las listas definitivas de aspirantes admitidos y excluidos del proceso selectivo, convocado mediante Resolución 605/2020, de 10 de noviembre",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/01/BOCM-20211201-13.PDF"
     }
