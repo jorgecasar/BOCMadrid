@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 25 de noviembre de 2021, de la Universidad Rey Juan Carlos, por la que se nombra funcionario de carrera de la Escala Técnica Auxiliar de Informática de la Universidad Rey Juan Carlos a don Santiago Rodríguez Ortego",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/02/BOCM-20211202-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Orden 1682/2021, de 27 de noviembre, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que conceden subvenciones del programa de fomento de la conservación, de la mejora de la seguridad de utilización y de la accesibilidad en viviendas, convocadas para el año 2021, previstas en el Real Decreto 106/2018, de 9 de marzo, por el que se regula el Plan Estatal de Vivienda 2018-2021, y el listado definitivo de solicitantes excluidos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/02/BOCM-20211202-36.PDF"
