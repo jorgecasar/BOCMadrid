@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Política Social",
-      "description": "Acuerdo de 24 de noviembre de 2021, del Consejo de Gobierno, por el que se nombran Vocales del Consejo de Atención a la Infancia y la Adolescencia de la Comunidad de Madrid en representación de la Administración de la Comunidad de Madrid, de la Administración General del Estado y de las Corporaciones Locales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/02/BOCM-20211202-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 1480/2021, de 11 de noviembre, del Consejero de Sanidad, por la que se aprueba la relación definitiva del personal laboral fijo y funcionario de carrera que presta servicios en el Hospital “El Escorial” del Servicio Madrileño de Salud que se integra con carácter voluntario en el régimen del personal estatutario",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/02/BOCM-20211202-15.PDF"
