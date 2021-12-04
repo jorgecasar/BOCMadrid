@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 22 de noviembre de 2021, de la Universidad Carlos III de Madrid, por la que se nombran Catedráticos y Catedráticas de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/03/BOCM-20211203-37.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Orden 3429/2021, de 29 de noviembre, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se resuelve la convocatoria 2020 de ayudas para potenciar la innovación tecnológica e impulsar la transferencia de tecnología al sector productivo comprendido en las prioridades de la Estrategia Regional de Investigación e Innovación para una Especialización Inteligente (RIS3) de la Comunidad de Madrid a través de entidades de enlace de la innovación tecnológica",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/03/BOCM-20211203-38.PDF"
