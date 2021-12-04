@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Administración Local y Digitalización",
-      "description": "Resolución 568/2021, de 24 de noviembre, de la Consejera-Delegada de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se aprueba la relación provisional de admitidos y excluidos en el proceso selectivo para la adscripción a la Agencia de diverso personal, por procedimiento restringido, conforme a la Orden de 16 de junio de 2014 del Consejero de Economía y Hacienda (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 2 de julio de 2014), convocado mediante Resolución 299/2021, de 6 de julio, y se fija el período de subsanación de la documentación presentada",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/03/BOCM-20211203-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 1571/2021, de 24 de noviembre, del Consejero de Sanidad, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/03/BOCM-20211203-30.PDF"
