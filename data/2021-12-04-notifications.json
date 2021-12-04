@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Resolución de 1 de diciembre de 2021, del Gerente de la Universidad de Alcalá, por la que se hace pública la anulación de la Resolución de 8 de octubre de 2021, de la Universidad de Alcalá, por la que se convoca concurso-oposición para la provisión, por el sistema general de acceso libre, de plaza de personal laboral de la categoría de Titulado/a Medio (Especialidad “Mantenimiento. Multifunción”), publicada en el “Boletín Oficial del Estado” número 247, de 15 de octubre de 2021",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/03/BOCM-20211203-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Resolución de 1 de diciembre de 2021, del Gerente de la Universidad de Alcalá, por la que se hace pública la anulación de la Resolución de 8 de octubre de 2021, de la Universidad de Alcalá, por la que se convoca concurso-oposición para la provisión, por el sistema general de acceso libre, de plaza de personal laboral de la categoría de Titulado/a Medio (Especialidad “C.E.M.A.E.T.A”), publicada en el “Boletín Oficial del Estado” número 247, de 15 de octubre de 2021",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/03/BOCM-20211203-36.PDF"
     }
