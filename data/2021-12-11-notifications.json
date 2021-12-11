@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Urbanismo: Distrito de Moncloa-Aravaca. Plan especial control ambiental usos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/10/BOCM-20211210-39.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Licencias: O. A",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/10/BOCM-20211210-40.PDF"
     }
