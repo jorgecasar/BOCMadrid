@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 24 de noviembre de 2021, de la Universidad Complutense de Madrid, por la que se nombran funcionarios de los Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/13/BOCM-20211213-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Resolución de 26 de noviembre de 2021, de la Dirección General de Educación Secundaria, Formación Profesional y Régimen Especial, por la que se convocan en la Comunidad de Madrid en el curso académico 2021-2022 las pruebas de acceso a ciclos formativos de Formación Profesional y a las enseñanzas profesionales de Artes Plásticas y Diseño, así como la prueba sustitutiva de los requisitos académicos establecidos para el acceso a las enseñanzas deportivas de régimen especial y a las formaciones deportivas en período transitorio",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/13/BOCM-20211213-18.PDF"
