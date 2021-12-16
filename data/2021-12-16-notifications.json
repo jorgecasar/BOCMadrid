@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 2 de diciembre de 2021, de la Universidad Complutense de Madrid, por la que se nombran funcionarios de carrera de la Escala Auxiliar Administrativa de la Universidad Complutense, Grupo C, Subgrupo C2",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 1 de diciembre de 2021, de la Universidad Politécnica de Madrid, por la que se amplía el plazo de resolución del proceso selectivo para ingreso en la Escala de Gestión de Sistemas e Informática, Grupo A, Subgrupo A2, de la Universidad Politécnica de Madrid, por el sistema de acceso libre y por el sistema de promoción interna, convocado por Resolución de 11 de septiembre de 2020",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-28.PDF"
