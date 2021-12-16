@@ -1,0 +1,729 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 298,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2021/12/15/BOCM-20211215.PDF",
+      "total": 113,
+      "items": {
+        "Comunidad de Madrid": 58,
+        "Disposiciones y Anuncios del Estado": 1,
+        "Administración Local Ayuntamientos": 30,
+        "Administración de Justicia": 23,
+        "Otros Anuncios": 1
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Decreto 239/2021, de 9 de diciembre, del Consejo de Gobierno, por el que se adaptan las intervenciones delegadas al número y denominación de las Consejerías de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Orden de 10 de diciembre de 2021, del Consejero de Presidencia, Justicia e Interior, por la que se resuelve la convocatoria aprobada mediante Orden de 22 de septiembre de 2021 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 1 de octubre de 2021), de la Consejería de Presidencia, Justicia e Interior, por la que se aprobó la convocatoria pública para la provisión de un puesto de trabajo por el procedimiento de Libre Designación.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Resolución de 18 de noviembre de 2021, de la Dirección General de Recursos Humanos y Relaciones con la Administración de Justicia de la Consejería de Justicia, Interior y Víctimas, por la que se convoca concurso específico para la provisión de dos puestos de trabajo singularizados en la Nueva Oficina Fiscal de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
+      "description": "Orden 3285/2021, de 2 de diciembre, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se resuelve la convocatoria aprobada mediante Orden 1786/2021, de 22 de junio (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 5 de julio de 2021), de la entonces Consejería de Educación y Juventud, para la provisión de puestos de trabajo por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
+      "description": "Orden 3401/2021, de 2 de diciembre, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se resuelve la convocatoria aprobada mediante Orden 2114/2021, de 15 de julio (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 6 de septiembre de 2021), de la Consejería de Educación, Universidades, Ciencia y Portavocía, para la provisión de puestos de trabajo por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
+      "description": "Orden 3514/2021, de 30 de noviembre, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno por la que se resuelve la convocatoria aprobada por Orden 2851/2021, de 28 de septiembre, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 8 de octubre), para la provisión de un puesto de trabajo vacante en la citada Consejería por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Orden 1731/2021, de 3 de diciembre, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se resuelve la convocatoria aprobada por Orden 1033/2021, de 27 de septiembre (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 6 de octubre de 2021), para la provisión de un puesto de trabajo vacante en dicha Consejería por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Corrección de errores de la Orden de 1 de diciembre de 2021, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacantes en la Consejería Economía, Hacienda y Empleo, por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-8.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 1 de diciembre de 2021, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convocan pruebas selectivas por el turno libre para el acceso a la condición de personal estatutario fijo en la categoría de Facultativo Especialista en Medicina del Trabajo del Servicio Madrileño de Salud",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-9.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 1 de diciembre de 2021, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convocan pruebas selectivas por el turno libre para el acceso a la condición de personal estatutario fijo en la categoría de Facultativo Especialista en Microbiología y Parasitología del Servicio Madrileño de Salud",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-10.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 1 de diciembre de 2021, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convocan pruebas selectivas por el turno libre para el acceso a la condición de personal estatutario fijo en la categoría de Facultativo Especialista en Nefrología del Servicio Madrileño de Salud",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-11.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 1 de diciembre de 2021, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convocan pruebas selectivas por el turno libre para el acceso a la condición de personal estatutario fijo en la categoría de Facultativo Especialista en Neumología del Servicio Madrileño de Salud",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-12.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 1 de diciembre de 2021, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convocan pruebas selectivas por el turno libre para el acceso a la condición de personal estatutario fijo en la categoría de Facultativo Especialista en Neurocirugía del Servicio Madrileño de Salud",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-13.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 1 de diciembre de 2021, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convocan pruebas selectivas por el turno libre para el acceso a la condición de personal estatutario fijo en la categoría de Facultativo Especialista en Neurofisiología del Servicio Madrileño de Salud",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-14.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 1 de diciembre de 2021, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convocan pruebas selectivas por el turno libre para el acceso a la condición de personal estatutario fijo en la categoría de Facultativo Especialista en Neurología del Servicio Madrileño de Salud",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-15.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 1 de diciembre de 2021, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convocan pruebas selectivas por el turno libre para el acceso a la condición de personal estatutario fijo en la categoría de Facultativo Especialista en Obstetricia y Ginecología del Servicio Madrileño de Salud",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-16.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 1 de diciembre de 2021, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convocan pruebas selectivas por el turno libre para el acceso a la condición de personal estatutario fijo en la categoría de Facultativo Especialista en Oftalmología del Servicio Madrileño de Salud",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-17.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 1 de diciembre de 2021, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convocan pruebas selectivas por el turno libre para el acceso a la condición de personal estatutario fijo en la categoría de Facultativo Especialista en Oncología Médica del Servicio Madrileño de Salud",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-18.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 1 de diciembre de 2021, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se procede a convocar el puesto directivo de Subdirector/a Médico en el Hospital Universitario “Puerta de Hierro Majadahonda” adscrito al Servicio Madrileño de Salud",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-19.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 30 de noviembre de 2021, de la Dirección-Gerencia del Hospital Universitario “La Paz” del Servicio Madrileño de Salud, por la que se convoca un puesto de Jefe de Sección de Pediatría y sus Áreas Específicas, Patología Crónica Compleja, en este centro asistencial para su cobertura mediante nombramiento provisional",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-20.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 29 de noviembre de 2021, de la Dirección-Gerencia del Hospital Universitario “Ramón y Cajal” del Servicio Madrileño de Salud, por la que se convoca un puesto de Jefe de Sección de Dermatología Médico-Quirúrgica y Venereología (Cirugía Dermatológica) en este centro asistencial para su cobertura mediante nombramiento provisional",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-21.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 24 de noviembre de 2021, de la Dirección-Gerencia del Hospital Guadarrama del Servicio Madrileño de Salud, por la que se convoca un puesto de Coordinador Asistencial en este centro hospitalario para su cobertura mediante nombramiento provisional",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-22.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 22 de noviembre de 2021, de la Dirección-Gerencia del Hospital Universitario “Infanta Cristina” del Servicio Madrileño de Salud, por la que se convoca un puesto de Jefe de Servicio de Medicina Interna en este centro asistencial para su cobertura mediante nombramiento provisional",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-23.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Orden de 2 de diciembre de 2021, de la Consejería de Transportes e Infraestructuras, por la que se resuelve la convocatoria aprobada por Orden de 3 de septiembre de 2021 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 14 de septiembre), para la provisión de un puesto de trabajo vacante en dicha Consejería por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-24.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Resolución de 1 de diciembre de 2021, de la Dirección-Gerencia, por la que se dispone la publicación del Acuerdo del Consejo de Administración, de 12 de noviembre de 2021, por el que se modifica parcialmente la composición de su Comisión Delegada",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-25.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Orden 1473/2021 de 1 de diciembre, de la Consejería de Cultura, Turismo y Deporte, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicha Consejería, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-26.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Complutense de Madrid",
+      "description": "Resolución de 2 de diciembre de 2021, de la Universidad Complutense de Madrid, por la que se nombran funcionarios de carrera de la Escala Auxiliar Administrativa de la Universidad Complutense, Grupo C, Subgrupo C2",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-27.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Politécnica de Madrid",
+      "description": "Resolución de 1 de diciembre de 2021, de la Universidad Politécnica de Madrid, por la que se amplía el plazo de resolución del proceso selectivo para ingreso en la Escala de Gestión de Sistemas e Informática, Grupo A, Subgrupo A2, de la Universidad Politécnica de Madrid, por el sistema de acceso libre y por el sistema de promoción interna, convocado por Resolución de 11 de septiembre de 2020",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-28.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Carlos III",
+      "description": "Resolución de 13 de diciembre de 2021, de la Universidad Carlos III de Madrid, por la que se publica reseña de la Resolución de 30 de noviembre de 2021, de convocatoria del proceso selectivo para el ingreso en la Escala Superior de Técnicos Facultativos de Biblioteca de esta Universidad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-29.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Rey Juan Carlos",
+      "description": "Resolución de 2 de diciembre de 2021, de la Universidad Rey Juan Carlos, por la que se convoca concurso de traslado para cubrir plazas vacantes en la relación de puestos de trabajo de personal laboral de esta Universidad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-30.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
+      "description": "Orden 3613/2021, de 13 de diciembre, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se aprueba el plan estratégico para la concesión directa de subvenciones a las seis universidades públicas de la Comunidad de Madrid, destinadas a la compensación de las cantidades dejadas de percibir por aplicación a los estudiantes de las becas ministeriales de matrícula y de las bonificaciones y exenciones en el pago de los precios públicos universitarios en el curso 2020-2021",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-31.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 17 de noviembre de 2021, del Director General de Política Financiera y Tesorería, por la que se aprueba la aplicación informática Servicio Electrónico de Garantías (SEDA) y se dispone su entrada en funcionamiento para la constitución y cancelación telemática de garantías en la Caja de Depósitos de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-32.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
+      "description": "Resolución de 30 de noviembre de 2021, de la Dirección General de Infraestructuras y Servicios de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de servicios de Transporte Escolar de la Dirección de Área Territorial de Madrid-Este para los cursos 2021/2022, 2022/2023 y 2023/2024 (código: Madrid-Este Plurianual-21)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-33.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Orden 1807/2021, de 9 de diciembre, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se somete a información pública la relación de bienes y derechos afectados por el “Proyecto de conexión del alcantarillado municipal al sistema de colectores del Canal de Isabel”, en el término municipal de Venturada (expediente de expropiación forzosa número 401. Entidad beneficiaria: Canal de Isabel II)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-34.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 15 de diciembre de 2020, de la Directora General de Sostenibilidad y Cambio Climático de la Comunidad de Madrid, por la que se somete a información pública la documentación de la revisión de Autorización Ambiental Integrada, relativa a la actividad de fabricación de productos farmacéuticos de base, a realizar en las instalaciones situadas en avenida de los Reyes, número 1. Polígono industrial “La Mina-Norte”, en el término municipal de Colmenar Viejo, promovido por Pharma Mar, S. A. (Expediente: 10-IPPC-00028.3/2019)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-35.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 26 de noviembre de 2021, del Director General de Descarbonización y Transición Energética, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se acuerda hacer público el Informe Ambiental Estratégico de la Modificación Puntual número 11 para modificación de la delimitación de la actuación conjunta AC23 en suelo urbano consolidado del término municipal de Alcobendas, promovido por el Ayuntamiento de Alcobendas (expediente: 10-UB2-00178.2/2021, SIA 21/174)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-36.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 26 de noviembre de 2021, del Director General de Descarbonización y Transición Energética de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se acuerda hacer público el Informe Ambiental Estratégico de la Modificación Puntual número 18 del ámbito aplazado de las Normas Subsidiarias del término municipal de Miraflores de la Sierra, promovido por el Ayuntamiento de Miraflores de la Sierra (expediente: 10-UB2-00148.5/2021, SIA 21/144)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-37.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 26 de noviembre de 2021, del Director General de Descarbonización y Transición Energética de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se acuerda hacer público el Informe Ambiental Estratégico de la modificación número 3 del Plan Parcial de Reforma Interior de la UE 124 Área Centralidad del Plan General de Ordenación Urbana del término municipal de Arganda del Rey, promovido por la Junta de Compensación Área de Centralidad UE-124 (expediente: 10-UB2-00200.1/2021, SIA 21/197)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-38.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 30 de noviembre de 2021, del Director General de Descarbonización y Transición Energética de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se acuerda hacer público el Informe de Impacto Ambiental del proyecto de “Actividad de gestión de residuos peligrosos, no peligrosos y centro de tratamiento de vehículos al final de su vida útil, situada en el camino de Valdetorres, número 30-A”, en el término municipal de Fuente el Saz de Jarama, promovido por Recuperaciones Pormer, S. L. (Expediente: 10-EIA-00037.2/2020)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-39.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 3 de diciembre de 2021, de Canal de Isabel II, S. A., por la que se hace pública la convocatoria del contrato por procedimiento abierto, para el suministro de equipos y material informático",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-40.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Adenda de 25 de noviembre de 2021, de modificación del convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Política Social, y el Ayuntamiento de El Álamo, para el desarrollo de la atención social primaria y otros programas por los servicios sociales de las entidades locales para el año 2021",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-41.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Adenda de 25 de noviembre de 2021, de modificación del convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Política Social, y la Mancomunidad de Servicios El Alberche, para el desarrollo de la atención social primaria y otros programas por los servicios sociales de las entidades locales para el año 2021",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-42.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Adenda de 25 de noviembre de 2021, de modificación del convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Política Social, y la Mancomunidad de “La Encina” para el desarrollo de la atención social primaria y otros programas por los servicios sociales de las entidades locales para el año 2021",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-43.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Adenda de 25 de noviembre de 2021, de modificación del convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Política Social, y la Mancomunidad de Servicios Sociales Vega del Guadalix, para el desarrollo de la atención social primaria y otros programas por los servicios sociales de las entidades locales para el año 2021",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-44.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Adenda de 25 de noviembre de 2021, de modificación del convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Política Social, y la Mancomunidad del Sudeste de la Comunidad de Madrid (MISECAM) para el desarrollo de la atención social primaria y otros programas por los servicios sociales de las entidades locales para el año 2021",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-45.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 3 de diciembre de 2021, de la Viceconsejería de Asistencia Sanitaria y Salud Pública del Servicio Madrileño de Salud, por la que se hace pública la convocatoria de licitación del contrato de servicio denominado “Mantenimiento y soporte de determinadas aplicaciones departamentales para centros dependientes del Servicio Madrileño de Salud”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-46.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 1 de diciembre de 2021, de la Dirección-Gerencia del Hospital General Universitario “Gregorio Marañón”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de «Suministro de ocho dispositivos de asistencia ventricular izquierdo implantable de flujo centrífugo exclusivo de la firma Abbott Medical España, S. A., para el Hospital General Universitario “Gregorio Marañón”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-47.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 1 de diciembre de 2021, de la Dirección-Gerencia del Hospital General Universitario “Gregorio Marañón”, por la que se dispone la publicación, en los boletines oficiales y en el “perfil del contratante”, de la formalización del contrato de «Suministro de doce unidades del sistema de perfusión de órganos para trasplante denominado “organox metra” para transportar y conservar el hígado del donante antes del transplante, durante un máximo de 24 horas, distribuido en exclusiva por la firma Dismeval, S. L.»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-48.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 29 de noviembre de 2021, de la Gerencia del Hospital Universitario “La Paz”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de bombas de infusión implantables, así como el equipamiento/material necesario para su implantación. 1.a Prórroga 2021-7-6 (P. A. 2020-0-38)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-49.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 1 de diciembre de 2021, de la Gerencia del Hospital Universitario “La Paz”, por la que se dispone la publicación, en los boletines oficiales y en el “perfil del contratante”, de la formalización del contrato de “Suministro de medicamentos exclusivos: Rilpivirina (Edurant), Etravirina (Intelence) y Darunavir/Cobicistat (Rezolsta)”. Segunda prórroga P.N.S.P. 19/2019",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-50.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 30 de noviembre de 2021, de la Dirección-Gerencia del Hospital Universitario “Ramón y Cajal”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato para el «Servicio de Farmacia del Hospital Universitario “Ramón y Cajal” de la especialidad farmacéutica Yervoy 5 mg/ml vial 10 y 40 ml (Ipilimumab)»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-51.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 26 de noviembre de 2021, de la Dirección-Gerencia del Hospital Clínico “San Carlos” de Madrid, por la que se dispone la publicación, en los boletines oficiales y en el “perfil del contratante”, de la modificación del contrato de «Suministro de medicamentos Sorafenib (Nexavar), Regorafenib (Stivarga) y Radio 223 Dicloruro (Xofigo), de distribución exclusiva, con destino al Servicio de Farmacia del Hospital Clínico “San Carlos” de Madrid»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-52.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 1 de diciembre de 2021, de la Dirección-Gerencia del Hospital Clínico “San Carlos” de Madrid, por la que se dispone la publicación en los boletines oficiales y en el “perfil de contratante” de la formalización de la modificación del contrato de «Suministro de medicamento de Yervoy inyectable de distribución exclusiva con destino al Servicio de Farmacia del Hospital Clínico “San Carlos”», para atender la baja de precio de Ipilimumab Vial (Yervoy®) C.N. 682152.7",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-53.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 2 de diciembre de 2021, de la Dirección-Gerencia del Hospital Clínico “San Carlos” de Madrid, por la que se dispone la publicación, en los boletines oficiales y en el “perfil del contratante”, de la formalización del contrato de «Suministro de material necesario para los sistemas de ventilación no invasiva Respironics V60/V60 Plus y Trilogy, para el Hospital Clínico “San Carlos” de Madrid»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-54.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 2 de diciembre de 2021, del Director-Gerente del Hospital Clínico “San Carlos”, por la que se dispone la publicación, en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante”, de la licitación del contrato por procedimiento abierto PA 2021-0-149 «Suministro de kit de asistencia ventricular y cesión de equipos para la realización de la técnica de levitación magnética en adultos para el Hospital Clínico “San Carlos” de Madrid»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-55.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 2 de diciembre de 2021, de la Gerencia del Hospital Universitario “Severo Ochoa”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de Suministro de material para bisturí sellador vascular en el Hospital Universitario “Severo Ochoa” (PA 47-2021)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-56.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Resolución de 22 de noviembre de 2021, de la Dirección General de Patrimonio Cultural de la Comunidad de Madrid, por la que se incoa el expediente de Declaración de Bien de Interés Cultural en la Categoría de Hecho Cultural, del “Día de la caridad de la Virgen de la Poveda y sus Castillos Humanos Andantes”, en Villa del Prado",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-57.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 29 de noviembre de 2021, entre la Comunidad de Madrid, a través de la Consejería de Cultura, Turismo y Deporte, y el Real Automóvil Club de España para la organización del Rally Comunidad de Madrid-RACE 2021 y 2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-58.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Disposiciones y Anuncios del Estado",
+      "description": "Delegación del Gobierno en Madrid. Área Funcional de Industria y Energía. Autorización administrativa y declaración impacto ambiental",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-59.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Régimen económico: Área de Gobierno de Desarrollo Urbano. Concesión subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-60.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Urbanismo: Área de Gobierno de Desarrollo Urbano. Estatutos asociación administrativa de cooperación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-61.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Ajalvir",
+      "description": "Régimen económico: Ordenanza ayudas menores con discapacidad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-62.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcalá de Henares",
+      "description": "Régimen económico: Ordenanzas fiscales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-63.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Boadilla del Monte",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-64.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Boadilla del Monte",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-65.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Boadilla del Monte",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-66.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Brunete",
+      "description": "Organización y funcionamiento: Delegación funciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-67.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Campo Real",
+      "description": "Organización y funcionamiento: Ordenanza licencia actos construcción",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-68.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Campo Real",
+      "description": "Régimen económico: Calendario fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-69.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "El Boalo",
+      "description": "Régimen económico: Concesión subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-70.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "El Escorial",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-71.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "El Escorial",
+      "description": "Régimen económico: Ordenanza fiscal servicios deportivos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-72.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Estremera",
+      "description": "Régimen económico: Presupuesto",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-73.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Getafe",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-74.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Montejo de la Sierra",
+      "description": "Régimen económico: Ordenanza tasa recogida basuras",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-75.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Móstoles",
+      "description": "Urbanismo: Plan especial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-76.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Pelayos de la Presa",
+      "description": "Organización y funcionamiento: Ordenanza protección arbolado urbano",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-77.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Pelayos de la Presa",
+      "description": "Ofertas de empleo: Oferta empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-78.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Pinto",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-79.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Pinto",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-80.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Pozuelo de Alarcón",
+      "description": "Ofertas de empleo: Patronato Municipal de Cultura. Oferta empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-81.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Ribatejada",
+      "description": "Régimen económico: Calendario fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-82.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Sebastián de los Reyes",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-83.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Talamanca de Jarama",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-84.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Tres Cantos",
+      "description": "Ofertas de empleo: Oferta empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-85.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Valdeavero",
+      "description": "Régimen económico: Calendario fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-86.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Valdemoro",
+      "description": "Organización y funcionamiento: Delegación funciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-87.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villa del Prado",
+      "description": "Otros anuncios: Candidatura juez de paz",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-88.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villanueva de la Cañada",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-89.PDF"
+    }
+  }
+]
