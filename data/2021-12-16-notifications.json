@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 13 de diciembre de 2021, de la Universidad Carlos III de Madrid, por la que se publica reseña de la Resolución de 30 de noviembre de 2021, de convocatoria del proceso selectivo para el ingreso en la Escala Superior de Técnicos Facultativos de Biblioteca de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 2 de diciembre de 2021, de la Universidad Rey Juan Carlos, por la que se convoca concurso de traslado para cubrir plazas vacantes en la relación de puestos de trabajo de personal laboral de esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/15/BOCM-20211215-30.PDF"
