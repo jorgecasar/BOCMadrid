@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 3 de diciembre de 2021, de la Universidad Rey Juan Carlos, por la que se nombran Catedráticos y Catedráticas de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/17/BOCM-20211217-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 3 de diciembre de 2021, de la Universidad Rey Juan Carlos, por la que se nombran Profesores y Profesoras Titulares de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/17/BOCM-20211217-32.PDF"
     }
