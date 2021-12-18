@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Política Social",
-      "description": "Orden 2064/2021, de 1 de diciembre, de la Consejera de Familia, Juventud y Política Social, por la que se resuelve la convocatoria de ayudas a entidades juveniles para la realización de proyectos de sensibilización, participación, debate y difusión entre los jóvenes para el año 2021",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/17/BOCM-20211217-34.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Transportes e Infraestructuras",
       "description": "Resolución de 9 de diciembre de 2021, de la Dirección-Gerencia, por la que se dispone la publicación de las revisiones tarifarias en las empresas y servicios de transporte de viajeros dependientes del Consorcio Regional de Transportes de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/17/BOCM-20211217-35.PDF"
