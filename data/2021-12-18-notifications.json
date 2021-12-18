@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 2 de diciembre de 2021, de la Universidad Politécnica de Madrid, por la que se convoca, para su provisión mediante el procedimiento de Libre Designación, plazas vacantes en la relación de puestos de trabajo de personal funcionario de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/17/BOCM-20211217-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 1 de diciembre de 2021, de la Universidad de Alcalá y la Consejería de Sanidad de la Comunidad de Madrid, por la que se nombra Profesor Titular de Universidad del Área de Conocimiento de “Medicina”, con plaza vinculada en el Hospital Universitario “Príncipe de Asturias”, a don Julio García Suárez",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/17/BOCM-20211217-30.PDF"
