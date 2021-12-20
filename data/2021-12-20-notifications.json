@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia e Interior",
-      "description": "Convenio de 26 de noviembre de 2021, entre la Comunidad de Madrid y la Fundación “La Caixa” en materia de Obra Social 2021",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/18/BOCM-20211218-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Adenda de 1 de diciembre de 2021, de prórroga y modificación del Convenio específico de colaboración entre la Comunidad de Madrid (Consejería de Educación, Universidades, Ciencia y Portavocía) y la Universidad Carlos III de Madrid, para la realización de un proyecto de investigación para la innovación tecnológica y explotación de la información de la gestión educativa",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/18/BOCM-20211218-3.PDF"
