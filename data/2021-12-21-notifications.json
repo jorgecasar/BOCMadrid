@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 9 de diciembre de 2021, de la Dirección General de Trabajo, por la que se declaran las fiestas laborales de ámbito local en la Comunidad de Madrid para el año 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/20/BOCM-20211220-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Decreto 240/2021, de 15 de diciembre, del Consejo de Gobierno, por el que se declaran bien de interés cultural de la Comunidad de Madrid, en la categoría de hecho cultural, las Fiestas Patronales de San Isidro, en Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/20/BOCM-20211220-21.PDF"
