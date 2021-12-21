@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 30 de noviembre de 2021, de la Universidad Autónoma de Madrid, por la que se nombran funcionarios de cuerpos docentes universitarios: Profesores y Profesoras Titulares de Universidad y Catedráticos y Catedráticas de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/20/BOCM-20211220-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 3 de diciembre de 2021, de la Universidad Rey Juan Carlos, por la que se aprueban y hacen públicas las listas provisionales de admitidos y excluidos al proceso selectivo para el ingreso en la Escala de Oficial de Oficios de esta Universidad, previstas en las ofertas de empleo público de 2018 y 2020",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/20/BOCM-20211220-16.PDF"
