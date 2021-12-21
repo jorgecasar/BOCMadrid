@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Decreto 240/2021, de 15 de diciembre, del Consejo de Gobierno, por el que se declaran bien de interés cultural de la Comunidad de Madrid, en la categoría de hecho cultural, las Fiestas Patronales de San Isidro, en Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/20/BOCM-20211220-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Resolución de 16 de noviembre de 2021, de la Dirección General de Recursos Humanos y Relaciones con la Administración de Justicia, por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de la modificación total de los Estatutos del Colegio Oficial de Aparejadores y Arquitectos Técnicos de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/20/BOCM-20211220-22.PDF"
