@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Carlos III",
-      "description": "Resolución de 14 de diciembre de 2021, de la Universidad Carlos III de Madrid, por la que se nombran Profesor y Profesora Titular de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/23/BOCM-20211223-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Carlos III",
       "description": "Resolución de 17 de diciembre de 2021, de la Universidad Carlos III de Madrid, por la que se anuncia la convocatoria para la provisión, por el sistema de Libre Designación, de puestos de trabajo en esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/23/BOCM-20211223-17.PDF"
     }
