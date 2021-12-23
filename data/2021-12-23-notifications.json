@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Resolución de 17 de diciembre de 2021, de la Dirección-Gerencia del Hospital Universitario de Fuenlabrada, por la que se hace pública la información de las plazas y de los procesos selectivos a convocar en el período 2021-2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/23/BOCM-20211223-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Transportes e Infraestructuras",
       "description": "Orden de 15 de diciembre de 2021, de la Consejería de Transportes e Infraestructuras, por la que se designa secretario suplente de las Juntas Arbitrales del Transporte de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/23/BOCM-20211223-12.PDF"
