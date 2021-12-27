@@ -1,0 +1,103 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 307,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2021/12/24/BOCM-20211224.PDF",
+      "total": 18,
+      "items": {
+        "Comunidad de Madrid": 10,
+        "Administración Local Ayuntamientos": 1,
+        "Administración de Justicia": 7
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
+      "description": "Resolución de 22 de diciembre de 2021, de la Dirección General de Recursos Humanos, por la que se corrige error en la resolución de 10 de diciembre de 2021 por la que se convoca Concurso de Méritos para la renovación y selección de directores de centros docentes públicos no universitarios de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/24/BOCM-20211224-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 15 de diciembre de 2021, de la Dirección General de Función Pública, por la que se aprueban y publican las relaciones definitivas de aspirantes admitidos y excluidos en el proceso selectivo para el ingreso en el Cuerpo de Letrados, de Administración Especial, Grupo A, Subgrupo A1, de la Comunidad de Madrid, y se anuncia la celebración del primer ejercicio del citado proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/24/BOCM-20211224-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Adenda de 30 de noviembre de 2021, de modificación del convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Política Social y la Mancomunidad de Servicios Los Pinares para el desarrollo de la atención social primaria y otros programas por los servicios sociales de las entidades locales para el año 2021",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/24/BOCM-20211224-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Adenda de 30 de noviembre de 2021, de modificación del convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Política Social y el Ayuntamiento de San Sebastián de los Reyes para el desarrollo de la atención social primaria y otros programas por los servicios sociales de las entidades locales para el año 2021",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/24/BOCM-20211224-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Adenda de 30 de noviembre de 2021, de modificación del convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Política Social, y la Mancomunidad de Servicios Sociales Las Cañadas para el desarrollo de la atención social primaria y otros programas por los servicios sociales de las entidades locales para el año 2021",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/24/BOCM-20211224-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Adenda de 30 de noviembre de 2021, de modificación del Convenio de Colaboración entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Política Social, y el Ayuntamiento de Nuevo Baztán, para el desarrollo de la atención social primaria y otros programas por los servicios sociales de las entidades locales para el año 2021",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/24/BOCM-20211224-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Adenda de 30 de noviembre de 2021, de modificación del convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Política Social y la Mancomunidad de Servicios Sociales “Pantueña”, para el desarrollo de la Atención Social Primaria y otros programas por los servicios sociales de las entidades locales para el año 2021",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/24/BOCM-20211224-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Adenda de 30 de noviembre de 2021, de modificación del Convenio de Colaboración entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Política Social, y el Ayuntamiento de Tres Cantos, para el desarrollo de la Atención Social Primaria y otros programas por los servicios sociales de las entidades locales para el año 2021",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/24/BOCM-20211224-8.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 21 de diciembre de 2021, entre la Comunidad de Madrid y el Museo Nacional Centro de Arte Reina Sofía, por el que se formaliza la concesión directa de una subvención por importe de 150.000 euros destinados a financiar las exposiciones temporales “Ida Applebroog. Marginalias” y “Pedro G. Romero. Máquinas de trovar”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/24/BOCM-20211224-9.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 21 de diciembre de 2021, entre la Comunidad de Madrid y el Museo Nacional del Prado, por el que se formaliza la concesión directa de una subvención, por importe de 150.000 euros, destinados a financiar la exposición temporal “El hijo pródigo, de Murillo, y el arte de narrar en el Barroco andaluz”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/24/BOCM-20211224-10.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Leganés",
+      "description": "Ofertas de empleo: Oferta empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/24/BOCM-20211224-11.PDF"
+    }
+  }
+]
