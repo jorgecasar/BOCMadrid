@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Política Social",
-      "description": "Acuerdo de 9 de diciembre de 2021, del Consejo de Gobierno, por el que se aprueban las normas reguladoras y se establece el procedimiento de concesión directa de ayudas económicas de pago mensual por gestación, nacimiento de hijo o adopción de menores en la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/27/BOCM-20211227-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Complutense de Madrid",
       "description": "Extracto de la Resolución de 17 de diciembre de 2021, de la Universidad Complutense de Madrid, por la que se realiza la convocatoria de ayudas para la financiación de proyectos de investigación Santander-UCM 2021",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/27/BOCM-20211227-26.PDF"
