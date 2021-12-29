@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 15 de diciembre de 2021, de la Universidad Carlos III de Madrid, por la que se acuerda hacer público el presupuesto de la Universidad para el ejercicio económico del año 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Resolución de 14 de diciembre de 2021, de la Secretaría General Técnica de la Consejería Presidencia, Justicia e Interior, por la que se anuncia la formalización del contrato”Servicio de mantenimiento integral de las instalaciones y equipos de las sedes centrales adscritas a la Consejería de Presidencia, Justicia e Interior”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-30.PDF"
