@@ -1,0 +1,912 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 309,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2021/12/28/BOCM-20211228.PDF",
+      "total": 142,
+      "items": {
+        "Comunidad de Madrid": 51,
+        "Administración Local Ayuntamientos": 61,
+        "Administración de Justicia": 26,
+        "Otros Anuncios": 4
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Presidencia de La Comunidad",
+      "description": "Ley 3/2021, de 22 de diciembre, de Supresión de impuestos propios de la Comunidad de Madrid y del recargo sobre el Impuesto de Actividades Económicas",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Decreto 241/2021, de 22 de diciembre, del Consejo de Gobierno, por el que se aprueba la Oferta de Empleo Público de la Comunidad de Madrid para el año 2021",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Orden 1718/2021, de 27 de diciembre, de la Consejería de Sanidad, por la que se  modifica la Orden 1244/2021, de 1 de octubre, por la que se establecen medidas preventivas para hacer frente a la crisis sanitaria ocasionada por el COVID-19",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
+      "description": "Orden 3645/2021, de 15 de diciembre, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se resuelve la convocatoria aprobada por Orden 2945/2021, de 4 de octubre, del Consejero de Educación, Universidades, Ciencia y Portavoz Del Gobierno (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 14 de octubre), para la provisión de un puesto de trabajo vacante en la citada consejería por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
+      "description": "Orden 3668/2021, de 16 de diciembre, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Educación, Universidades, Ciencia y Portavocía por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Orden de 16 de diciembre de 2021, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se resuelve la convocatoria aprobada por Orden de fecha 13 de septiembre de 2021 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID  de 23 de septiembre de 2021) para la provisión de un puesto de trabajo vacante en dicha Consejería por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Corrección de errores de la Orden 566/2021, de 8 de noviembre, de la Consejería de Economía, Hacienda y Empleo, por la que se convocan dos procesos selectivos para el acceso, por el sistema general de acceso libre y de promoción interna, a plazas de carácter laboral de la categoría profesional de Educador, Educación Infantil (Grupo III, Nivel 6, Área C), de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 15 de diciembre de 2021, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en el Tribunal Administrativo de Contratación Pública por el procedimiento de Concurso de Méritos objetivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-8.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 15 de diciembre de 2021, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Medio Ambiente, Vivienda y Agricultura, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-9.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 16 de diciembre de 2021, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Administración Local y Digitalización, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-10.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 16 de diciembre de 2021, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicha Consejería, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-11.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 16 de diciembre de 2021, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Presidencia, Justicia e Interior, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-12.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 9 de diciembre de 2021, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden del Consejero de Economía, Hacienda y Empleo, de 4 de octubre de 2021 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 19 de octubre), para la provisión de un puesto de trabajo vacante en la Consejería de Administración Local y Digitalización, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-13.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 18 de diciembre de 2021, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden del Consejero de Economía, Hacienda y Empleo de 18 de octubre de 2021 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 28 de octubre), para la provisión de un puesto de trabajo vacante en la Consejería de Administración Local y Digitalización, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-14.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Orden de 15 de diciembre de 2021, de la Consejera de Familia, Juventud y Política Social, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Familia, Juventud y Política Social, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-15.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Administración Local y Digitalización",
+      "description": "Orden de 16 de diciembre de 2021, de la Consejería de Administración Local y Digitalización, por la que se resuelve la convocatoria aprobada por Orden de fecha 14 de septiembre de 2021 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID  de 27 de septiembre de 2021) para la provisión de un puesto de trabajo vacante en dicha Consejería por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-16.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Rey Juan Carlos",
+      "description": "Resolución de 17 de diciembre de 2021, de la Universidad Rey Juan Carlos, por la que se nombra a doña Belén Torres Barreiro como Catedrática de Universidad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-17.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Rey Juan Carlos",
+      "description": "Resolución de 17 de diciembre de 2021, de la Universidad Rey Juan Carlos, por la que se nombran Profesores y Profesoras Titulares de Universidad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-18.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 7 de diciembre de 2021, de la Dirección General de Agricultura, Ganadería y Alimentación, por la que se ordena la publicación del modelo de solicitud del procedimiento de solicitud de actuaciones en el Registro de Centros de Animales de Compañía",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-19.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Extracto de la Orden 1821/2021, de 17 de diciembre, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se convocan para el año 2022 las ayudas destinadas a las Agrupaciones de Defensa Sanitaria Ganaderas reguladas en la Orden 684/2016, de 28 de abril",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-20.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 15 de diciembre de 2021, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba el Plan Estratégico de Subvenciones para financiar las becas a las participantes en el programa de formación con compromiso de contratación e inserción para mujeres víctimas de violencia de género o trata y explotación sexual, en el marco del Plan de Recuperación, Transformación y Resiliencia (financiado por la Unión Europea) Next Generation EU",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-21.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 17 de diciembre de 2021, del Consejero de Economía, Hacienda y Empleo, por la que se conceden los Reconocimientos y las Menciones en Prevención de Riesgos Laborales de la Comunidad de Madrid correspondientes al año 2021 a las “Buenas Prácticas para la prevención y control de la COVID-19 en las empresas”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-22.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Decreto 242/2021, de 22 de diciembre, del Consejo de Gobierno, por el que se declara Bien de Interés Cultural de la Comunidad de Madrid, la obra atribuible a Michelangelo Merisi Da Caravaggio con el título “Ecce Homo”, identificada como “La Coronación de Espinas” del círculo de José de Ribera (s. XVII)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-23.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Decreto 243/2021, de 22 de diciembre, del Consejo de Gobierno, por el que se declara Bien de Interés Cultural de la Comunidad de Madrid, en la categoría de Monumento, la iglesia parroquial de Nuestra Señora de las Nieves en Manzanares el Real (Madrid)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-24.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Orden 1478/2021, de 13 de diciembre, por la que se cubren vacantes de la lista de solicitudes de suplentes prevista en la Orden 1312/2021, de 29 de octubre, de la Consejería de Cultura, Turismo y Deporte, por la que se conceden ayudas en el año 2021 a deportistas madrileños por participar en competiciones deportivas oficiales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-25.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Complutense de Madrid",
+      "description": "Resolución de 21 de diciembre de 2021, de la Universidad Complutense de Madrid, por la que se acuerda hacer público el presupuesto de esta Universidad para 2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-26.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Politécnica de Madrid",
+      "description": "Resolución de 20 de diciembre de 2021, de la Universidad Politécnica de Madrid, por la que se acuerda hacer público el presupuesto de esta Universidad para 2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-27.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Carlos III",
+      "description": "Resolución de 2 de diciembre de 2021, de la Universidad Carlos III de Madrid, por la que se modifica el nombramiento de la Mesa Permanente de Contratación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-28.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Carlos III",
+      "description": "Resolución de 15 de diciembre de 2021, de la Universidad Carlos III de Madrid, por la que se acuerda hacer público el presupuesto de la Universidad para el ejercicio económico del año 2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-29.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Resolución de 14 de diciembre de 2021, de la Secretaría General Técnica de la Consejería Presidencia, Justicia e Interior, por la que se anuncia la formalización del contrato”Servicio de mantenimiento integral de las instalaciones y equipos de las sedes centrales adscritas a la Consejería de Presidencia, Justicia e Interior”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-30.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Resolución de 15 de diciembre de 2021, de la Secretaría General Técnica de la Consejería de Presidencia, Justicia e Interior, por la que se anuncia la decisión de no adjudicar el expediente de contratación titulado “Suministro de mascarillas higiénicas reutilizables para el personal de la Administración de Justicia de la Comunidad de Madrid”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-31.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 30 de noviembre de 2021, del Director General de Agricultura, Ganadería y Alimentación, por la que se anuncia la exposición pública relativa a la autorización de ocupación temporal de la vía pecuaria Cordel del Sacedón en el término municipal de Brunete, para el proyecto de soterramiento de tramos aéreos en la línea de media tensión 20 kV 3667-08 Cañada Nor CR L-7 desde el centro de reparto CR Venta-Brunete (T) (151120310), actuación promovida por I-DE Redes Eléctricas Inteligentes, S. A. U. (expediente de ocupación 558/21)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-32.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Convenio de 9 de diciembre de 2021, entre la Comunidad de Madrid (Consejería de Medio Ambiente, Vivienda y Agricultura) y don Luis Lizana Recio y doña María Teresa Lizana Recio, propietarios de las parcelas con referencia catastral 28037A009001770000XX, 28037A009001970000XP y 28037A012001270000XY, del municipio de Cenicientos, por el que se instrumenta la concesión directa de una ayuda en especie para la realización de diversos trabajos de restauración incluidos en el Decreto 239/2019, de 24 de septiembre, por el que se declara zona de actuación urgente",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-33.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Convenio de 9 de diciembre de 2021, entre la Comunidad de Madrid (Consejería de Medio Ambiente, Vivienda y Agricultura) y doña María Teresa Alburquerque Díaz en condición de propietaria de la parcela con referencia catastral 28037A010000350000XJ del municipio de Cenicientos, por el que se instrumenta la concesión directa de una ayuda en especie para la realización de diversos trabajos de restauración incluidos en el Decreto 239/2019, de 24 de septiembre, por el que se declara zona de actuación urgente",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-34.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Convenio de 9 de diciembre de 2021, entre la Comunidad de Madrid (Consejería de Medio Ambiente, Vivienda y Agricultura) y doña María Rosario Colmenarejo Hernández y doña Esperanza Colmenarejo Hernández, propietarias de la parcela con referencia catastral 28031A011000760000ZJ del municipio de Cadalso de los Vidrios, por el que se instrumenta la concesión directa de una ayuda en especie para la realización de diversos trabajos de restauración incluidos en el Decreto 239/2019, de 24 de septiembre, por el que se declara zona de actuación urgente",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-35.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Convenio de 9 de diciembre de 2021, entre la Comunidad de Madrid (Consejería de Medio Ambiente, Vivienda y Agricultura) y don Miguel Ángel Gómez Cumplido, en condición de propietario de las parcelas con referencia catastral 28031A011000670000ZO y 28031A011000830000ZU, del municipio de Cadalso de los Vidrios, por el que se instrumenta la concesión directa de una ayuda en especie para la realización de diversos trabajos de restauración incluidos en el Decreto 239/2019, de 24 de septiembre, por el que se declara zona de actuación urgente",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-36.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Convenio de 9 de diciembre de 2021, entre la Comunidad de Madrid (Consejería de Medio Ambiente, Vivienda y Agricultura) y doña Margarita Santiago Señorís, doña Julia López Fernández, doña Juana María Santiago López, don Jorge Santiago López y don Rufino Santiago López, copropietarios de la parcela con referencia catastral 28037A009001490000XS, del municipio de Cenicientos, por el que se instrumenta la concesión directa de una ayuda en especie para la realización de diversos trabajos de restauración incluidos en el Decreto 239/2019, de 24 de septiembre, por el que se declara zona de actuación urgente",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-37.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Convenio de 9 de diciembre de 2021, entre la Comunidad de Madrid (Consejería de Medio Ambiente, Vivienda y Agricultura) y la Mancomunidad de Municipios del Noroeste, en virtud del cual se instrumenta la concesión directa de una subvención por importe de 650.240,89 euros para financiar la gestión de los residuos urbanos de la Mancomunidad de Municipios del Noroeste durante el año 2021",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-38.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 16 de diciembre de 2021, de la Secretaría General Técnica de la Consejería de Economía, Hacienda y Empleo, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la licitación para la adjudicación del contrato de servicios titulado “Asesoramiento, mentoría y consultoría a personas emprendedoras de la Comunidad de Madrid”, promovido por la Consejería de Economía, Hacienda y Empleo, en el marco del Plan de Recuperación, Transformación y Resilencia y financiado por U.E.-NextGenerationEU",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-39.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Adenda de 2 de diciembre de 2021, de modificación del convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Política Social, y el Ayuntamiento de Alcobendas para el desarrollo de la Atención Social Primaria y otros programas por los servicios sociales de las entidades locales para el año 2021",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-40.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Adenda de 2 de diciembre de 2021, de modificación del convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Política Social, y el Ayuntamiento de Coslada para el desarrollo de la atención social primaria y otros programas por los servicios sociales de las entidades locales para el año 2021",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-41.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Adenda de 2 de diciembre de 2021, de modificación del convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Política Social, y el Ayuntamiento de Majadahonda, para el desarrollo de la atención social primaria y otros programas por los servicios sociales de las entidades locales para el año 2021",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-42.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Adenda de 3 de diciembre de 2021, de modificación del convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Política Social y el Ayuntamiento de Rivas-Vaciamadrid para el desarrollo de la atención social primaria y otros programas por los servicios sociales de las entidades locales para el año 2021",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-43.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Adenda de 3 de diciembre de 2021, de modificación del convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Política Social, y la Mancomunidad de Servicios Sociales del Este de Madrid (MISSEM) para el desarrollo de la atención social primaria y otros programas por los servicios sociales de las entidades locales para el año 2021",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-44.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 17 de diciembre de 2021, de la Dirección-Gerencia del Hospital Universitario “Ramón y Cajal”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la convocatoria del contrato del «Suministro de material sanitario común: Reposacabezas, par bastón inglés, espéculos vaginales para varios Servicios del Hospital Universitario “Ramón y Cajal”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-45.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Convenio de colaboración de 14 de diciembre de 2021, entre la Comunidad de Madrid, a través de la Consejería de Sanidad, y la Universidad Nacional de Educación a Distancia, para la realización del proyecto “INDICAMED: descubrimiento de información y categorización basada en procesamiento del lenguaje para el dominio médico”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-46.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 13 de diciembre de 2021, del Órgano de Contratación del Hospital Universitario Fundación Alcorcón, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la formalización del contrato titulado “Servicio de mantenimiento integral y conservación de aparatos elevadores y escaleras mecánicas del Hospital Universitario Fundación Alcorcón a adjudicar por procedimiento abierto con pluralidad de criterios”. Expediente SARA-SER 032/21",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-47.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 15 de diciembre de 2021, de la Dirección-Gerencia del Hospital Universitario de Getafe, por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante” de la formalización del contrato de “Medicamentos Exclusivos Laboratorio UCB Pharma, S. A., en el Hospital Universitario de Getafe”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-48.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Anuncio de 23 de diciembre de 2021, de adjudicación del contrato titulado “Servicio de reparación de reductores Thyssen coches 2000” (expediente 6012100175)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-49.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Anuncio de 23 de diciembre de 2021, de adjudicación del contrato titulado “Servicios logísticos de apoyo a Metro de Madrid, S. A.”. (Expediente: 6012100183)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-50.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 14 de octubre de 2021, entre el Ministerio de Cultura y Deporte, el Ministerio de Hacienda y Función Pública, la Comunidad de Madrid, el Ayuntamiento de Madrid, y la Fundación Albéniz, para la creación de la Comisión Interadministrativa del acontecimiento de excepcional interés público “30 Aniversario de la Escuela Superior de Música Reina Sofía”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-51.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Urbanismo: Área de Gobierno de Desarrollo Urbano. Plan especial control ambiental usos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-52.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Urbanismo: Área de Gobierno de Desarrollo Urbano. Plan especial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-53.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Contratación: Área de Gobierno de Portavoz, Seguridad y Emergencias. Licitación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-54.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Ajalvir",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-55.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcalá de Henares",
+      "description": "Régimen económico: Ordenanzas fiscales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-56.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcalá de Henares",
+      "description": "Urbanismo: Estatutos junta compensación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-57.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcobendas",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-58.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Aldea del Fresno",
+      "description": "Urbanismo: Ordenanza construcciones en residencial unifamiliar",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-59.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Aldea del Fresno",
+      "description": "Organización y funcionamiento: Ordenanza títulos habilitantes naturaleza urbanística",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-60.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Aldea del Fresno",
+      "description": "Régimen económico: Ordenanza fiscal bienes inmuebles",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-61.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Aranjuez",
+      "description": "Personal: Plantilla personal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-62.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Aranjuez",
+      "description": "Contratación: Estructura costes contrato servicios energéticos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-63.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Arganda del Rey",
+      "description": "Régimen económico: Ordenanza fiscal bienes inmuebles",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-64.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Arganda del Rey",
+      "description": "Personal: Nombramientos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-65.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Braojos",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-66.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Camarma de Esteruelas",
+      "description": "Régimen económico: Calendario fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-67.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Campo Real",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-68.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Ciempozuelos",
+      "description": "Régimen económico: Ordenanza fiscal impuesto bienes inmuebles",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-69.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Collado Villalba",
+      "description": "Ofertas de empleo: Oferta empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-70.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "El Álamo",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-71.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "El Boalo",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-72.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Estremera",
+      "description": "Régimen económico: Ordenanza fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-73.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Fuenlabrada",
+      "description": "Organización y funcionamiento: Disposiciones técnicas ampliación terrazas",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-74.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Fuenlabrada",
+      "description": "Organización y funcionamiento: Nombramiento",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-75.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Fuenlabrada",
+      "description": "Ofertas de empleo: Oferta empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-76.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Fuenlabrada",
+      "description": "Personal: Relación puestos trabajo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-77.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Galapagar",
+      "description": "Régimen económico: Ordenanza derechos y tasas cementerio municipal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-78.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Galapagar",
+      "description": "Régimen económico: Ordenanza fiscal tasa utilización dominio público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-79.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Las Rozas de Madrid",
+      "description": "Régimen económico: Ordenanzas fiscales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-80.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Manzanares el Real",
+      "description": "Personal: Modificación de plantilla",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-81.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Manzanares el Real",
+      "description": "Urbanismo: Modificación normas subsidiarias",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-82.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Manzanares el Real",
+      "description": "Urbanismo: Modificación normas subsidiarias",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-83.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Manzanares el Real",
+      "description": "Licencias: Servicios y Gestiones Fampeti, S. L.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-84.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Mejorada del Campo",
+      "description": "Régimen económico: Ordenanza fiscal tasa licencias urbanísticas",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-85.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Moralzarzal",
+      "description": "Contratación: Licitación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-86.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Navalcarnero",
+      "description": "Licencias: Auxiliar Varios Mercado, S. L.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-87.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Paracuellos de Jarama",
+      "description": "Ofertas de empleo: Bases procesos selectivos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-88.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Parla",
+      "description": "Organización y funcionamiento: Ordenanza protección y bienestar animal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-89.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Pozuelo de Alarcón",
+      "description": "Régimen económico: Ordenanza fiscal impuesto bienes inmuebles",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-90.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Pozuelo de Alarcón",
+      "description": "Personal: Relación puestos trabajo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-91.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Rascafría",
+      "description": "Otros anuncios: Convocatoria comunidad regantes",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-92.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Fernando de Henares",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-93.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Fernando de Henares",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-94.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Martín de la Vega",
+      "description": "Ofertas de empleo: Oferta empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-95.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Martín de Valdeiglesias",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-96.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Sebastián de los Reyes",
+      "description": "Régimen económico: Ordenanzas fiscales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-97.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torremocha de Jarama",
+      "description": "Urbanismo: Ordenanza procedimientos urbanísticos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-98.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Tres Cantos",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-99.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Tres Cantos",
+      "description": "Urbanismo: Estudio detalle",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-100.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Valdemorillo",
+      "description": "Régimen económico: Calendario fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-101.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Valdeolmos-Alalpardo",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-102.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Velilla de San Antonio",
+      "description": "Ofertas de empleo: Oferta empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-103.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villaviciosa de Odón",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-104.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villaviciosa de Odón",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-105.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villaviciosa de Odón",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-106.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villaviciosa de Odón",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-107.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villaviciosa de Odón",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-108.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Mancomunidad del Sur",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-109.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Mancomunidad Embalse del Atazar",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-110.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Mancomunidad Intermunicipal La Encina",
+      "description": "Ofertas de empleo: Oferta empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-111.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Mancomunidad de Servicios Sociales Las Cañadas",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-112.PDF"
+    }
+  }
+]
