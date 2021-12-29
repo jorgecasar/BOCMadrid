@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Presidencia de La Comunidad",
-      "description": "Ley 3/2021, de 22 de diciembre, de Supresión de impuestos propios de la Comunidad de Madrid y del recargo sobre el Impuesto de Actividades Económicas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Decreto 241/2021, de 22 de diciembre, del Consejo de Gobierno, por el que se aprueba la Oferta de Empleo Público de la Comunidad de Madrid para el año 2021",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-2.PDF"
