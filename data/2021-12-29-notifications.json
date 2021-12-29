@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 20 de diciembre de 2021, de la Universidad Politécnica de Madrid, por la que se acuerda hacer público el presupuesto de esta Universidad para 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Carlos III",
       "description": "Resolución de 2 de diciembre de 2021, de la Universidad Carlos III de Madrid, por la que se modifica el nombramiento de la Mesa Permanente de Contratación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-28.PDF"
