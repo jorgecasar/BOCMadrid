@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 17 de diciembre de 2021, de la Universidad Rey Juan Carlos, por la que se nombra a doña Belén Torres Barreiro como Catedrática de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 17 de diciembre de 2021, de la Universidad Rey Juan Carlos, por la que se nombran Profesores y Profesoras Titulares de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/28/BOCM-20211228-18.PDF"
     }
