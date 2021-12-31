@@ -1,18 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 312,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2021/12/31/BOCM-20211231.PDF",
-      "total": 29,
-      "items": {
-        "Comunidad de Madrid": 2,
-        "Administración Local Ayuntamientos": 13,
-        "Administración de Justicia": 14
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
