@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Régimen económico: Pleno del Ayuntamiento. Presupuesto General",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/31/BOCM-20211231-3.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Régimen económico: Pleno del Ayuntamiento. Ordenanza fiscal gestión, recaudación e inspección",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/31/BOCM-20211231-4.PDF"
     }
