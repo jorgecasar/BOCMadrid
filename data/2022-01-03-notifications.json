@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Régimen económico: Pleno del Ayuntamiento. Ordenanza fiscal expedición documentos administrativos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/31/BOCM-20211231-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Régimen económico: Pleno del Ayuntamiento. Ordenanza fiscal actividades económicas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/12/31/BOCM-20211231-10.PDF"
     }
