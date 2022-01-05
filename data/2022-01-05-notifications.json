@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Orden 1689/2021, de 21 de diciembre, del Consejero de Sanidad, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacantes en la Consejería de Sanidad por el procedimiento de Concurso de Méritos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/04/BOCM-20220104-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 15 de diciembre de 2021, de la Dirección General de Recursos Humanos y Relaciones Laborales, del Servicio Madrileño de Salud, por la que se modifica la composición del Tribunal Calificador de las pruebas selectivas por el turno libre para el acceso a la condición de personal estatutario fijo en la categoría de Técnico Medio Sanitario en Cuidados Auxiliares de Enfermería, del Servicio Madrileño de Salud.",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/04/BOCM-20220104-16.PDF"
     }
