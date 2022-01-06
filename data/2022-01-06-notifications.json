@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
-      "description": "Orden 3731/2021, de 21 de diciembre, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, de selección de institutos públicos de Educación Secundaria en los que se llevará a cabo la implantación del Programa Bilingüe español-inglés en el curso 2022-2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/05/BOCM-20220105-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Resolución de 20 de diciembre de 2021, del Director Gerente del Instituto Madrileño de Investigación y Desarrollo Rural, Agrario y Alimentario (IMIDRA), por la que se publican las subvenciones concedidas el cuarto trimestre de 2021 por el IMIDRA",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/05/BOCM-20220105-31.PDF"
