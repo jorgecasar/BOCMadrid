@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
-      "description": "Extracto de la Orden 2642/2021, de 29 de diciembre, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se aprueba la convocatoria para la concesión de ayudas contempladas en el Plan de Impulso al Medio Ambiente (PIMA) Cambio Climático en la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/07/BOCM-20220107-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Transportes e Infraestructuras",
       "description": "Resolución de 22 de diciembre de 2021, de la Dirección General de Transportes y Movilidad, por la que se nombra el Tribunal de las pruebas para la obtención del certificado de aptitud profesional acreditativo de la cualificación inicial de los conductores de determinados vehículos destinados al transporte por carretera correspondientes al año 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/07/BOCM-20220107-14.PDF"
