@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
-      "description": "Orden 3729/2021, de 20 de diciembre, por la que se modifica la Orden 3613/2021, de 13 de diciembre, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se aprueba el plan estratégico para la concesión directa de subvenciones a las seis universidades públicas de la Comunidad de Madrid, destinadas a la compensación de las cantidades dejadas de percibir por aplicación a los estudiantes de las becas ministeriales de matrícula y de las bonificaciones y exenciones en el pago de los precios públicos universitarios en el curso 2020-2021",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/10/BOCM-20220110-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Resolución de 3 de diciembre de 2021, de la Dirección General de Educación Secundaria, Formación Profesional y Régimen Especial, por la que se convocan, en el curso 2021-2022, las pruebas para la obtención de los títulos de Técnico y Técnico Superior de Formación Profesional",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/10/BOCM-20220110-20.PDF"
     }
