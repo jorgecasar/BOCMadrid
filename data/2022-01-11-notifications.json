@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Resoluciones de 20 de diciembre de 2021, de la Universidad de Alcalá, por la que se anuncian las convocatorias de concursos para la provisión de plazas de profesor contratado doctor y de profesorado contratado temporal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/10/BOCM-20220110-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Resolución de 22 de diciembre de 2021, del Gerente de la Universidad de Alcalá, por la que anuncia publicación de convocatoria de concurso-oposición por el sistema de acceso libre para la provisión de puestos vacantes de personal laboral de la categoría profesional Técnico Especialista, Grupo C, nivel salarial C1 de la especialidad “Electricidad”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/10/BOCM-20220110-13.PDF"
     }
