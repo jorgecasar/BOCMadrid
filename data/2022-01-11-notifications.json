@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 23 de diciembre de 2021, del Gerente de la Universidad de Alcalá, por la que se resuelve la convocatoria pública para la provisión, mediante el sistema de Libre Designación, de un puesto de trabajo vacante en la Universidad de Alcalá convocada por Resolución de 9 de noviembre de 2021",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/10/BOCM-20220110-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Carlos III",
       "description": "Resolución de 21 de diciembre de 2021, del Rector de la Universidad Carlos III de Madrid, por la que se convocan a concurso de acceso plazas de los Cuerpos Docentes Universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/10/BOCM-20220110-17.PDF"
