@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Carlos III",
-      "description": "Resolución de 21 de diciembre de 2021, del Rector de la Universidad Carlos III de Madrid, por la que se convocan a concurso de acceso plazas de los Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/10/BOCM-20220110-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Carlos III",
       "description": "Resolución de 23 de diciembre de 2021, de la Universidad Carlos III de Madrid, por la que se nombra Catedrático de Universidad a don Francisco Javier Nogales Martín",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/10/BOCM-20220110-18.PDF"
     }
