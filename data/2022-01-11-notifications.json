@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 27 de diciembre de 2021, de la Secretaría General Técnica de la Consejería de Economía, Hacienda y Empleo, por la que se procede a la corrección de errores de la Orden de Resolución de esta Secretaría General Técnica, de 15 de diciembre de 2021, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacantes en la Consejería de Economía, Hacienda y Empleo por el procedimiento de Concurso de Méritos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/10/BOCM-20220110-5.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 1716/2021, de 27 de diciembre, del Consejero de Sanidad, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacantes en la Consejería de Sanidad por el procedimiento de Concurso de Méritos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/10/BOCM-20220110-6.PDF"
