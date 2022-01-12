@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 22 de diciembre de 2021, de la Universidad Rey Juan Carlos, por la que se nombran Catedráticas de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/11/BOCM-20220111-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 22 de diciembre de 2021, de la Universidad Rey Juan Carlos, por la que se nombra Catedrática de Universidad a doña María Luisa Humanes Humanes",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/11/BOCM-20220111-10.PDF"
     }
