@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 21 diciembre de 2021, de la Directora General de Función Pública, por la que se aprueba y da publicidad al Plan de Formación para Empleados Públicos de la Comunidad de Madrid para 2022 y se abre el plazo de presentación de solicitudes de participación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/11/BOCM-20220111-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Transportes e Infraestructuras",
       "description": "Resolución de 22 de diciembre de 2021, del Director-Gerente del Organismo Autónomo Consorcio Regional de Transportes Públicos Regulares de Madrid, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicho organismo, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/11/BOCM-20220111-7.PDF"
