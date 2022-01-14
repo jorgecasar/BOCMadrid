@@ -1,0 +1,520 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 10,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/01/13/BOCM-20220113.PDF",
+      "total": 77,
+      "items": {
+        "Comunidad de Madrid": 52,
+        "Administración Local Ayuntamientos": 11,
+        "Administración de Justicia": 13,
+        "Otros Anuncios": 1
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Orden de 28 de diciembre de 2021, del Consejero de Presidencia, Justicia e Interior, por la que se modifica la composición del Tribunal Calificador del proceso selectivo para el ingreso en el Cuerpo de Letrados, de Administración Especial, Grupo A, Subgrupo A1, de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
+      "description": "Orden 3787/2021, de 28 de diciembre, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se resuelve la convocatoria aprobada por Orden 3127/2021, de 22 de octubre, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 2 de noviembre), para la provisión de un puesto de trabajo vacante en la citada Consejería por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
+      "description": "Orden 3882/2021, de 30 de diciembre, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se resuelve la convocatoria aprobada por Orden 3047/2021, de 13 de octubre, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 22 de octubre), para la provisión de un puesto de trabajo vacante en la Consejería de Educación, Universidades, Ciencia y Portavocía por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
+      "description": "Resolución de 11 de enero de 2022, de la Dirección General de Recursos Humanos, por la que se corrige error material detectado en la documentación publicada en la web de un centro educativo para la elaboración del proyecto de dirección en relación a la Resolución de 10 de diciembre de 2021, por la que se convoca Concurso de Méritos para la renovación y selección de directores de centros docentes públicos no Universitarios de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 22 de diciembre de 2021 del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Familia, Juventud y Política Social, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 22 de diciembre de 2021, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Educación, Universidades, Ciencia y Portavocía, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 22 de diciembre de 2021, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Familia, Juventud y Política Social, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 22 de diciembre de 2021, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de dos puestos de trabajo vacantes en dicha Consejería, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-8.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 23 de diciembre de 2021, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Administración Local y Digitalización, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-9.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 28 de diciembre de 2021, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Transportes e Infraestructuras (Organismo Autónomo Consorcio Regional de Transportes Públicos Regulares de Madrid), de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-10.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 29 de diciembre de 2021, del Consejero de Economía, Hacienda y Empleo, por la que se resuelve la convocatoria aprobada mediante Orden de 6 de octubre de 2021 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 18 de octubre), para la provisión de varios puestos de trabajo por el procedimiento de Concurso de Méritos en la Consejería de Economía, Hacienda y Empleo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-11.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 29 de diciembre de 2021, del Consejero de Economía, Hacienda y Empleo, por la que se resuelve la convocatoria aprobada mediante Orden de 6 de octubre de 2021 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 18 de octubre), para la provisión de puestos de trabajo por el procedimiento de Concurso de Méritos en la Consejería de Economía, Hacienda y Empleo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-12.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 29 de diciembre de 2021, del Consejero de Economía, Hacienda y Empleo, por la que se resuelve la convocatoria aprobada mediante Orden de 5 de octubre de 2021 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 15 de octubre), para la provisión de un puesto de trabajo por el procedimiento de Concurso de Méritos en la entonces Consejería de Economía, Hacienda y Empleo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-13.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 29 de diciembre de 2021, del Consejero de Economía, Hacienda y Empleo, por la que se resuelve la convocatoria aprobada mediante Orden de 5 de octubre de 2021 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 15 de octubre), para la provisión de varios puestos de trabajo por el procedimiento de Concurso de Méritos en la Consejería de Economía, Hacienda y Empleo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-14.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 29 de diciembre de 2021, del Consejero de Economía, Hacienda y Empleo, por la que se resuelve la convocatoria aprobada mediante Orden de 15 de octubre de 2021 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 26 de octubre), para la provisión de un puesto de trabajo por el procedimiento de Concurso de Méritos en la Consejería de Economía, Hacienda y Empleo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-15.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 23 de diciembre de 2021, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden del Consejero de Economía, Hacienda y Empleo de 11 de octubre de 2021 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 22 de octubre), para la provisión de un puesto de trabajo vacante en dicha Consejería, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-16.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 23 de diciembre de 2021, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden del Consejero de Economía, Hacienda y Empleo de 29 de septiembre de 2021 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 13 de octubre), para la provisión de un puesto de trabajo vacante en la Consejería de Medio Ambiente, Vivienda y Agricultura (Organismo Autónomo Agencia de Vivienda Social de la Comunidad de Madrid), de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-17.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Anuncio del 10 de enero de 2022, por el que se convoca procedimiento de selección para varias plazas para INVEST IN MADRID de la Fundación Madrid por la Competitividad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-18.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Orden de 28 de diciembre de 2021, de la Consejera de Familia, Juventud y Política Social, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Familia, Juventud y Política Social, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-19.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Orden de 29 de diciembre de 2021, de la Consejera de Familia, Juventud y Política Social, por la que se resuelve la convocatoria aprobada mediante Orden de 3 de septiembre de 2021 (bocm de 15 de septiembre), para la provisión de puestos de trabajo por el procedimiento de Concurso de Méritos en la Consejería de Familia, Juventud y Política Social",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-20.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Orden 1722/2021, de 28 de diciembre, del Consejero de Sanidad, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacantes en la Consejería de Sanidad por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-21.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Orden 1763/2021, de 30 de diciembre, del Consejero de Sanidad, por la que se resuelve la convocatoria aprobada mediante Orden 1160/2021, de 16 de septiembre (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 27 de septiembre de 2021), para la provisión de puestos de trabajo por el procedimiento de Concurso de Méritos en la Consejería de Sanidad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-22.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Orden 1764/2021, de 30 de diciembre, del Consejero de Sanidad, por la que se resuelve la convocatoria aprobada mediante Orden 1163/2021, de 16 de septiembre (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 27 de septiembre de 2021), para la provisión de puestos de trabajo por el procedimiento de Concurso de Méritos en la Consejería de Sanidad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-23.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 3 de enero de 2022, de la Fundación de la Energía de la Comunidad de Madrid, por la que se amplía de oficio el plazo de justificación de las subvenciones concedidas al amparo de la convocatoria de ayudas aprobada por Resolución de la Fundación de la Energía de la Comunidad de Madrid de 30 de julio de 2020, por la que se convoca la concesión de ayudas dirigidas a incentivar la “Actuación 1: Adquisición de vehículos de energías alternativas”, a través del programa de incentivos a la movilidad eficiente y sostenible (Programa MOVES II)-Año 2020",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-24.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 3 de enero de 2022, de la Fundación de la Energía de la Comunidad de Madrid por la que se amplía de oficio el plazo de justificación de las subvenciones concedidas al amparo de la convocatoria de ayudas aprobada por Resolución de la Fundación de la Energía de la Comunidad de Madrid de 5 de agosto de 2020 por la que se convoca la concesión de ayudas dirigidas a incentivar la “Actuación 2: Implantación de infraestructura de recarga de vehículos eléctricos”, a través del programa de incentivos a la movilidad eficiente y sostenible (Programa MOVES II)-Año 2020",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-25.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 3 de enero de 2022, de la Fundación de la Energía de la Comunidad de Madrid, por la que se amplía de oficio el plazo de justificación de las subvenciones concedidas al amparo de la convocatoria de ayudas aprobada por Resolución de 17 de septiembre de 2020, de la Fundación de la Energía de la Comunidad de Madrid, por la que se convoca la concesión de ayudas dirigidas a incentivar la “Actuación 3: Implantación de sistemas de préstamos de bicicletas eléctricas” y la “Actuación 4: Implantación de medidas de movilidad sostenible al trabajo” a través del programa de incentivos a la movilidad eficiente y sostenible (Programa MOVES II), y se amplía la dotación presupuestaria de las Actuaciones 1 y 2 de dicho Programa-año 2020",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-26.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 3 de enero de 2022, de la Fundación de la Energía de la Comunidad de Madrid, por la que se amplía de oficio el plazo de justificación de las subvenciones concedidas, al amparo de la convocatoria de ayudas aprobada por Resolución de la Fundación de la Energía de la Comunidad de Madrid de 15 de julio de 2021, por la que se convoca la concesión de ayudas a la movilidad eléctrica del Programa MOVES III-Año 2021-2022-2023",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-27.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Orden 2078/2021, de 22 de diciembre, de la Consejería de Familia, Juventud y Política Social, por la que se establece el plazo y el procedimiento para la recepción de documentación, apertura de expedientes y aceptación de ofrecimientos para la adopción de personas menores de edad en la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-28.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Resolución de 5 de enero de 2022, de la Secretaría General Técnica de la Consejería de Presidencia, Justicia e Interior, por la que se anuncia la ampliación de fechas de la licitación del contrato de “Limpieza en los parques de bomberos y en la sede de la Dirección General de Emergencias de la Comunidad de Madrid”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-29.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 1 de diciembre de 2021, del Director General de Descarbonización y Transición Energética de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se acuerda hacer público el Informe Ambiental Estratégico del Plan Especial para el Palacio de Gaviria, situado en la calle Arenal, número 9, en el término municipal de Madrid, promovido por Glenbrock Investments, S. L. (Expediente: 10-UB2-00215.8/2021, SIA 21/212)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-30.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 22 de diciembre de 2021, del Director General de Agricultura, Ganadería y Alimentación, por la que se anuncia la exposición pública relativa a la autorización de ocupación temporal de la vía pecuaria Vereda del Casar. Tramo 2 en el término municipal de Fuente el Saz de Jarama, para las obras de acometida de saneamiento, acometida de abastecimiento de agua y acometida de baja tensión para vivienda unifamiliar que se va a construir en la parcela 7591522VK5979S0001UA, actuación promovida por don Álvaro Martín Carrión, con DNI ****6926*. (Expediente de ocupación 783/21)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-31.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 30 de diciembre de 2021, de la Secretaría General Técnica de la Consejería de Economía, Hacienda y Empleo, por la que se dispone la publicación de un nuevo plazo de presentación de ofertas del acuerdo marco para el “Suministro de gasóleo tipo C a los Centros de la Comunidad de Madrid”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-32.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Adenda de 2 de diciembre de 2021, de prórroga del convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Políticas Sociales y Familia, actualmente Consejería de Familia, Juventud y Política Social, y el Ayuntamiento de Valdemoro para articular la atención a personas mayores en el centro de día de mayores de Valdemoro",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-33.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Adenda de 2 de diciembre de 2021, de prórroga del convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Políticas Sociales y Familia, actualmente Consejería de Familia, Juventud y Política Social, y el Ayuntamiento de Arganda del Rey, para articular la atención a personas mayores en el centro de día de mayores de Arganda del Rey",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-34.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Resolución de 28 de diciembre de 2021, de la Gerencia de la Agencia Madrileña de Atención Social, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato del lote 4 del expediente “Suministro de equipamiento industrial de cocina para diversos centros adscritos a la Agencia Madrileña de Atención Social (6 lotes)”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-35.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Adenda de 2 de diciembre de 2021, de prórroga del convenio de colaboración entre la Comunidad de Madrid y el Ayuntamiento de Getafe para el desarrollo del Programa de Atención en Drogodependencias en el ejercicio 2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-36.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Adenda de 2 de diciembre de 2021, de prórroga del convenio de colaboración entre la Comunidad de Madrid y el Ayuntamiento de Parla para el desarrollo del Programa de Atención en Drogodependencias en el ejercicio 2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-37.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Adenda de 2 de diciembre de 2021, de prórroga del convenio de colaboración entre la Comunidad de Madrid y el Ayuntamiento de Majadahonda para el desarrollo del Programa de Atención en Drogodependencias en el ejercicio 2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-38.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Adenda de 2 de diciembre de 2021, de prórroga del convenio de colaboración entre la Comunidad de Madrid y el Ayuntamiento de San Sebastián de los Reyes para el desarrollo del Programa de Atención en Drogodependencias en el ejercicio 2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-39.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Adenda de 2 de diciembre de 2021, de prórroga del convenio de colaboración entre la Comunidad de Madrid y el Ayuntamiento de Torrejón de Ardoz para el desarrollo del Programa de Atención en Drogodependencias en el ejercicio 2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-40.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Adenda de 9 de diciembre de 2021, de prórroga del convenio de colaboración entre la Comunidad de Madrid y el Ayuntamiento de San Fernando de Henares para el desarrollo del Programa de Atención en Drogodependencias en el ejercicio 2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-41.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Adenda de 15 de diciembre de 2021, de prórroga del convenio de colaboración entre la Comunidad de Madrid y la Mancomunidad Intermunicipal de Servicios Los Pinares para el desarrollo del Programa de Atención en Drogodependencias en el ejercicio 2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-42.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Adenda de 15 de diciembre de 2021, de prórroga del convenio de colaboración entre la Comunidad de Madrid y el Ayuntamiento de Aranjuez para el desarrollo del Programa de Atención en Drogodependencias en el ejercicio 2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-43.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Adenda de 15 de diciembre de 2021, de prórroga del convenio de colaboración entre la Comunidad de Madrid y el Ayuntamiento de Arganda del Rey para el desarrollo del Programa de Atención en Drogodependencias en el ejercicio 2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-44.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 29 de diciembre de 2021, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en internet de la convocatoria del contrato 2022-0-18 «Servicio de mantenimiento de los equipos electromédicos marca Siemens instalados en el Hospital Universitario “12 de Octubre” y sus centros de especialidades dependientes»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-45.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 27 de diciembre de 2021, de la Dirección-Gerencia del Hospital Universitario “Ramón y Cajal”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de «Servicio de implantación y mantenimiento para la gestión integral del medicamento en el Hospital Universitario “Ramón y Cajal”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-46.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 27 de diciembre de 2021, del Director-Gerente del Hospital Universitario “Puerta de Hierro Majadahonda”, Madrid, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de “Suministro e instalación de diverso equipamiento electromédico”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-47.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 28 de diciembre de 2021, del Director-Gerente del Hospital Universitario “Puerta de Hierro de Majadahonda”, Madrid, por la que se dispone la publicación, en los boletines oficiales y en el “perfil del contratante”, de la formalización del contrato de “Suministro del medicamento Defibrotide, distribuido en exclusividad por el Laboratorio Jazz Pharmaceuticals Iberia",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-48.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 29 de diciembre de 2021, del Director-Gerente del Hospital Universitario “Puerta de Hierro de Majadahonda”, Madrid, por la que se dispone la publicación, en los boletines oficiales y en el “perfil del contratante”, de la formalización del contrato de “Suministro de medicamentos distribuidos en exclusividad por el Laboratorio Janssen Cilag”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-49.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 31 de diciembre de 2021, del Director-Gerente del Hospital Clínico “San Carlos”, por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante”, de suspensión de los trámites de apertura del expediente de licitación por procedimiento abierto PA 2021-0-130 de «Suministro de materiales y equipamientos necesarios para la realización de procedimientos ecobroncoscópicos para el Hospital Clínico “San Carlos”, de Madrid»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-50.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 28 de diciembre de 2021, de la Dirección-Gerencia del Hospital Universitario de Getafe, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la convocatoria del contrato de: “Suministro de Test Detección por PCR Tiempo Real Ácidos Nucleicos del SARS-COV2 para el Hospital Universitario de Getafe”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-51.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Anuncio de 11 de enero de 2022, de ampliación de plazo de presentación de ofertas de la licitación de un servicio de mantenimiento integral de escaleras mecánicas (expediente 6012100339)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-52.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Aranjuez",
+      "description": "Licencias: Novarandis, S. L.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-53.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Belmonte de Tajo",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-54.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Collado Villalba",
+      "description": "Licencias: Mariano Óscar Magallanes Montero",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-55.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Galapagar",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-56.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Humanes de Madrid",
+      "description": "Licencias: Licencias de actividad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-57.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Las Rozas de Madrid",
+      "description": "Licencias: Martínez-Villate Fisiogestión, S. L.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-58.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Leganés",
+      "description": "Régimen económico: Bases concurso carnaval",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-59.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Móstoles",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-60.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Serranillos del Valle",
+      "description": "Otros anuncios: Candidaturas juez de paz",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-61.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villa del Prado",
+      "description": "Licencias: Arturo García Castro",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-62.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villanueva de la Cañada",
+      "description": "Licencias: Sermade Crisa, S. L.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-63.PDF"
+    }
+  }
+]
