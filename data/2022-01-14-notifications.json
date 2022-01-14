@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Adenda de 2 de diciembre de 2021, de prórroga del convenio de colaboración entre la Comunidad de Madrid y el Ayuntamiento de Parla para el desarrollo del Programa de Atención en Drogodependencias en el ejercicio 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-37.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Adenda de 2 de diciembre de 2021, de prórroga del convenio de colaboración entre la Comunidad de Madrid y el Ayuntamiento de Majadahonda para el desarrollo del Programa de Atención en Drogodependencias en el ejercicio 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/13/BOCM-20220113-38.PDF"
     }
