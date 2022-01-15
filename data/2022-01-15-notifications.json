@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Anuncio de 4 de enero de 2022, por el que se convocan las bases del procedimiento de selección para cubrir una plaza como Técnico CAITEC de Innovación Transferencia, en la Fundación de la Universidad Autónoma de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/14/BOCM-20220114-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 30 de diciembre de 2021, del Consejero de Economía, Hacienda y Empleo, por la que se modifica la Orden de 17 de junio de 2020, de la Consejería de Economía, Empleo y Competitividad, por la que se aprueban las bases reguladoras para la concesión de ayudas a municipios de la Comunidad de Madrid, para el desarrollo de actividades de promoción comercial y ferial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/14/BOCM-20220114-20.PDF"
