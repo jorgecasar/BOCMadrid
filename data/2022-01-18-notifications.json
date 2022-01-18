@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Anuncio de 29 de diciembre de 2021, de formalización del contrato denominado “Trabajos de auditoría de los ejercicios 2021 y 2022 de los consorcios adscritos a la Comunidad de Madrid”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/17/BOCM-20220117-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Listado de 3 de enero de 2022, de las cooperativas cuyas cuentas anuales han quedado depositadas en el Registro de Cooperativas de la Comunidad de Madrid en el cuarto trimestre del año 2021",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/17/BOCM-20220117-21.PDF"
     }
