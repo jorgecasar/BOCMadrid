@@ -1,0 +1,391 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 15,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/01/19/BOCM-20220119.PDF",
+      "total": 53,
+      "items": {
+        "Comunidad de Madrid": 35,
+        "Administración Local Ayuntamientos": 12,
+        "Administración de Justicia": 6
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Orden 16/2022, de 10 de enero, del Consejero de Sanidad, por la que se resuelve la convocatoria aprobada mediante Orden 1162/2021, de 16 de septiembre (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 27 de septiembre de 2021), para la provisión de puestos de trabajo por el procedimiento de Concurso de Méritos en la Consejería de Sanidad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 7 de enero de 2022, de la Dirección-Gerencia del Hospital Universitario de “La Princesa” del Servicio Madrileño de Salud, por la que se resuelve la convocatoria de fecha 25 de enero de 2021 de un puesto de Jefe de Sección de Oftalmología (Glaucoma)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
+      "description": "Resolución de 12 de enero de 2022, de la Dirección General de Educación Secundaria, Formación Profesional y Régimen Especial, por la que se corrigen errores materiales de la Resolución de 3 de diciembre de 2021, de la Dirección General de Educación Secundaria, Formación Profesional y Régimen Especial, por la que se convocan, en el curso 2021-2022, las pruebas para la obtención de los títulos de Técnico y Técnico Superior de Formación Profesional",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Orden 16/2022, de 13 de enero, de la Consejería de Familia, Juventud y Política Social, por la que se aprueban las bases reguladoras de los premios Emprendimiento Joven-Carné Joven Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Adenda de 19 de diciembre de 2021, de prórroga al convenio entre la Consejería de Presidencia, Justicia e Interior y la Fundació General de la Universitat de València",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Publicación de 21 de diciembre de 2021, de segunda adenda de prórroga del convenio de asistencia jurídica al Consorcio Urbanístico “Área tecnológica del Sur”, de Getafe, de 11 de marzo de 2020",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Publicación de 21 de diciembre de 2021, de segunda adenda de prórroga del convenio de asistencia jurídica al Consorcio Urbanístico “El Bañuelo”, de Fuenlabrada (Madrid), de 4 de marzo de 2020",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Publicación de 21 de diciembre de 2021, de segunda adenda de prórroga del convenio de asistencia jurídica al Consorcio Urbanístico “Escorial”, en liquidación, de El Escorial (Madrid), de 20 de diciembre de 2019",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-8.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Publicación de 21 de diciembre de 2021, de segunda adenda de prórroga del convenio de asistencia jurídica al Consorcio Urbanístico “Espartales Norte”, en liquidación, de Alcalá de Henares (Madrid), de 11 de marzo de 2020",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-9.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Publicación de 21 de diciembre de 2021, segunda Adenda de prórroga del convenio de asistencia jurídica al Consorcio Urbanístico “Área industrial Valdelacasa”, en liquidación, de Alcobendas (Madrid), de 20 de diciembre de 2019",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-10.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
+      "description": "Adenda de 14 de diciembre de 2021, para la prórroga del convenio interadministrativo entre la Comunidad de Madrid y el Ayuntamiento de Alcobendas, para el sostenimiento del Centro de Educación de Personas Adultas “Universidad Popular Miguel Delibes”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-11.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 23 de diciembre de 2021, del Director General de Descarbonización y Transición Energética de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se acuerda hacer público el Informe Ambiental Estratégico de la Modificación del Plan Especial III Ciudad Deportiva “Espartales” del término municipal Alcalá de Henares, promovido por el Club Atlético de Madrid. (Expediente: 10-UB2-00110.0/2021, SIA 21/106)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-12.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Adenda de 22 de diciembre de 2021, a suscribir entre la Consejería de Medio Ambiente, Vivienda y Agricultura y el Grupo de Acción Local Asociación Grupo de Acción Local Sierra Norte de Madrid, por la que se modifica el convenio suscrito entre la Consejería de Medio Ambiente, Administración Local y Ordenación del Territorio y el Grupo de Acción Local Asociación Grupo de Acción Local Sierra Norte de Madrid, para la aplicación del desarrollo local participativo previsto en el Programa de Desarrollo Rural de la Comunidad de Madrid 2014-2020",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-13.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 10 de enero de 2022, de Canal de Isabel II, S. A., por la que se hace pública la convocatoria del contrato, por procedimiento abierto, para los servicios de asistencia técnica para las obras de actuaciones de mejora en la ETAP de Pinilla (término municipal de Lozoya)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-14.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 10 de enero de 2022, de Canal de Isabel II, S. A., por la que se hace pública la convocatoria del contrato, por procedimiento abierto, para los servicios de renovación y mantenimiento integral de máquinas multifunción y apoyo al servicio de reprografía para Canal de Isabel II, S. A.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-15.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Convenio de 23 de diciembre de 2021, de subvención entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo, y el Ayuntamiento de Fuenlabrada, a través del centro de iniciativas para la formación y el empleo, para la realización de nuevos proyectos territoriales para el reequilibrio y la equidad (colectivos vulnerables), en el marco del Plan de Recuperación, Transformación y Resiliencia, por importe de 2.330.820,00 euros",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-16.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Convenio de 23 de diciembre de 2021, de subvención entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo, y el Ayuntamiento de Leganés, para la realización de nuevos proyectos territoriales para el reequilibrio y la equidad colectivos vulnerables, en el marco del Plan de Recuperación, Transformación y Resiliencia, por importe de 867.757,50 euros",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-17.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Convenio de colaboración de 17 de diciembre de 2021, entre la Comunidad de Madrid (Consejería de Familia, Juventud y Política Social) y el Ayuntamiento de Colmenar Viejo, para la expedición de “Carné Joven Comunidad de Madrid”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-18.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Convenio de 23 de diciembre de 2021, entre la Comunidad de Madrid (Consejería de Familia, Juventud y Política Social) y la Asociación Estela de la Cometa para colaborar en el Plan de Autonomía Personal 16-21: Programa de alojamiento y acompañamiento educativo para jóvenes de dieciocho a veintiún años en grave riesgo de exclusión social procedentes del sistema de protección de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-19.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Convenio de 23 de diciembre de 2021, entre la Comunidad de Madrid, a través de la Consejería de Sanidad, el Servicio Madrileño de Salud y la Asociación Acción y Cura Para Tay-Sachs (ACTAYS), para el desarrollo del programa de apoyo emocional a los afectados por enfermedades neurológicas infantiles",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-20.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Convenio de colaboración de 21 de diciembre de 2021, entre el Servicio Madrileño de Salud y Gilead Sciences, S. L. U., para la implantación de un proyecto de mejora de la eficiencia en la detección precoz de pacientes COVID-19 y VIH",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-21.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 4 de enero de 2022, de la Dirección-Gerencia del Hospital General Universitario “Gregorio Marañón”, por la que se dispone la publicación de la convocatoria del contrato de «Suministro de prótesis de cadera y de revisión para el Hospital General Universitario “Gregorio Marañón”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-22.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 10 de enero de 2022, de la Dirección-Gerencia del Hospital General Universitario “Gregorio Marañón”, por la que se dispone la publicación en el boletín y en el “perfil del contratante” en Internet de la convocatoria del contrato de «Servicio de soporte y mantenimiento de un sistema integrado de información, gestión, almacenamiento y distribución de imágenes diagnósticas (RIS/PACS) en el Hospital General Universitario “Gregorio Marañón”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-23.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 4 de enero de 2022, de la Dirección-Gerencia del Hospital Universitario “Ramón y Cajal”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato para el «Servicio de Farmacia del Hospital Universitario “Ramón y Cajal” de la especialidad farmacéutica Duodopa 20 mg/ml, 5 mg/ml gel intestinal C/7 cartuchos (Levodopa/Carbidopa)»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-24.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 4 de enero de 2022, de la Dirección-Gerencia del Hospital Universitario “Ramón y Cajal”, por la que se dispone la publicación en los boletines oficiales y en el perfil de contratante de la formalización del contrato para el «Servicio de Farmacia del Hospital Universitario “Ramón  y Cajal” de la especialidad farmacéutica Mabthera subcutáneo 1400 mg 1 vial 11,7 ml (Rituximab)»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-25.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 4 de enero de 2022, de la Dirección-Gerencia del Hospital Universitario “Ramón y Cajal”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato para el «Servicio de Farmacia del Hospital Universitario “Ramón  y Cajal” de la especialidad farmacéutica Keytruda 100 mg vial 25 mg/ml conc. perfusión (Pembrolizumab)»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-26.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 4 de enero de 2022, de la Dirección-Gerencia del Hospital Universitario “Ramón y Cajal”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de “Suministro de catéter balón angioplastia, catéter balón C/Paclitaxel y guía angioplastia para el Servicio de Angiología y Cirugía Vascular del Hospital Universitario “Ramón y Cajal”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-27.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 22 de diciembre de 2021, de la Dirección-Gerencia del Hospital Clínico “San Carlos” de Madrid, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de «Suministro de material necesario para el sistema de asistencia cardiopulmonar Cardiohelp de distribución exclusiva con destino a la Unidad de Coordinación de Trasplantes del Hospital Clínico “San Carlos”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-28.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 5 de enero de 2022, de la Dirección-Gerencia del Hospital Universitario de Getafe, por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante”, de la modificación del contrato de mantenimiento integral equipos de diagnóstico por imagen SVO RX en el Hospital Universitario de Getafe",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-29.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Convenio de 7 de diciembre de 2021, entre el Consorcio Regional de Transportes Públicos Regulares de Madrid y Renfe Viajeros Sociedad Mercantil Estatal, S. A., para la utilización de los abonos turísticos en la red de Cercanías de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-30.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Anuncio de 10 de enero de 2022, de formalización del contrato titulado “Acuerdo marco para los servicios de apoyo a ingeniería para proyectos de instalaciones de energía para Metro de Madrid” (expediente: 6012000321)-(contrato: I00028-001)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-31.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Anuncio de 14 de enero de 2022, de adjudicación del contrato titulado “Suministro de rodamientos para el mantenimiento de vehículos e instalaciones de Metro de Madrid” (expediente 6012100156)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-32.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Anuncio de 14 de enero de 2022, de adjudicación del contrato titulado “Servicio de soporte técnico en el mantenimiento de telemando de energía” (expediente 6012100287)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-33.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Anuncio de 14 de enero de 2022, de adjudicación del contrato titulado “Sistemas de control de accesos en estaciones de Metro de Madrid” (expediente 6012100329)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-34.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Resolución de 5 de enero de 2022, de cese de actividad de las agencias de viajes Cellar Tastings, S. L., y Viajes Lara Tours",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-35.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Licencias: O. A",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-36.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Algete",
+      "description": "Régimen económico: Ordenanza fiscal impuesto vehículos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-37.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Buitrago del Lozoya",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-38.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Carabaña",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-39.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Cenicientos",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-40.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Fuenlabrada",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-41.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Gargantilla del Lozoya y Pinilla de Buitrago",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-42.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Pozuelo de Alarcón",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-43.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Pozuelo de Alarcón",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-44.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Pozuelo de Alarcón",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-45.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Tres Cantos",
+      "description": "Ofertas de empleo: Oferta de empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-46.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Venturada",
+      "description": "Régimen económico: Ordenanza fiscal tasa ocupación vía pública",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-47.PDF"
+    }
+  }
+]
