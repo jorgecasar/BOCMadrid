@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Convenio de 23 de diciembre de 2021, entre la Comunidad de Madrid, a través de la Consejería de Sanidad, el Servicio Madrileño de Salud y la Asociación Acción y Cura Para Tay-Sachs (ACTAYS), para el desarrollo del programa de apoyo emocional a los afectados por enfermedades neurológicas infantiles",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Convenio de colaboración de 21 de diciembre de 2021, entre el Servicio Madrileño de Salud y Gilead Sciences, S. L. U., para la implantación de un proyecto de mejora de la eficiencia en la detección precoz de pacientes COVID-19 y VIH",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/19/BOCM-20220119-21.PDF"
     }
