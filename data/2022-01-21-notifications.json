@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 10 de enero de 2022, de la Rectora de la Universidad Autónoma de Madrid, por la que se resuelve la convocatoria pública para la provisión de un puesto de trabajo vacante mediante el sistema de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/20/BOCM-20220120-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Acuerdo de 12 de enero de 2022, del Consejo de Gobierno, por el que se rectifica el error material detectado en las normas complementarias y subsidiarias de planeamiento municipal de Manzanares el Real, a fin de reflejar en la documentación gráfica de las Normas Subsidiarias de 1977 la delimitación de suelo urbano aprobada en el Plan Parcial del polígono 13 “Urbanización La Ponderosa de la Sierra”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/20/BOCM-20220120-11.PDF"
