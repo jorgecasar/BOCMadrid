@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Meco",
-      "description": "Régimen económico: Ordenanza impuesto construcciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/20/BOCM-20220120-43.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Móstoles",
       "description": "Régimen económico: Bases de subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/20/BOCM-20220120-44.PDF"
