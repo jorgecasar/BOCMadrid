@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Disposiciones y Anuncios del Estado",
-      "description": "Ministerio de Política Territorial. Delegación del Gobierno en Castilla-La Mancha. Autorización administrativa y declaración impacto ambiental",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/20/BOCM-20220120-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcorcón",
       "description": "Régimen económico: Calendario fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/20/BOCM-20220120-36.PDF"
