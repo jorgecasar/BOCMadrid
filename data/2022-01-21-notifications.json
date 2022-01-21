@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia e Interior",
-      "description": "Convenio de colaboración de 17 de diciembre de 2021, entre la Comunidad de Madrid (Consejería de Presidencia, Justicia e Interior) y la Fundación Endesa, para la realización de actividades conjuntas de apoyo, memoria y reconocimiento de las víctimas del terrorismo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/20/BOCM-20220120-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Resolución de 12 de enero de 2022, del Director General de Recursos Humanos, por la que se emplaza a los posibles interesados para que se personen en el recurso contencioso-administrativo interpuesto por don Patricio Gutiérrez Pérez",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/20/BOCM-20220120-18.PDF"
