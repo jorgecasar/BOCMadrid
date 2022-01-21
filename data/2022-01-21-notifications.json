@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 10 de diciembre de 2021, de la Universidad Complutense de Madrid, por la que se convocan concursos de acceso a plazas de cuerpos docentes universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/20/BOCM-20220120-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 21 de diciembre de 2021, de la Universidad Complutense de Madrid, por la que se convoca concurso de acceso a plaza de cuerpos docentes universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/20/BOCM-20220120-9.PDF"
     }
