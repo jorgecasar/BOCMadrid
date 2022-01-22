@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 17 de diciembre de 2021, de la Universidad Complutense de Madrid, por la que se nombran funcionarios de los Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/21/BOCM-20220121-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Política Social",
       "description": "Extracto de la Orden 2232/2021, de la Consejera de Familia, Juventud y Política Social, de tramitación anticipada, por la que se convocan subvenciones a entidades sin ánimo de lucro para proyectos de voluntariado y proyectos de innovación social para el año 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/21/BOCM-20220121-13.PDF"
