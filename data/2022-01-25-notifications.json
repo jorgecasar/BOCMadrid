@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Convenio de 30 de diciembre de 2021, entre el Ministerio de Defensa y la Comunidad de Madrid, a través de la Consejería de Sanidad, para la prevención de drogodependencias",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/24/BOCM-20220124-43.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 14 de enero de 2022, de la Directora General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se emplaza a los interesados en el recurso contencioso-administrativo, procedimiento abreviado número 558/2021, a fin de que puedan personarse en autos, si a su derecho conviniere",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/24/BOCM-20220124-44.PDF"
     }
