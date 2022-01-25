@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Extracto de 17 de enero de 2022, de la Resolución del Vicerrectorado de Estudios de Grado y Estudiantes, por la que se convocan las Ayudas al estudio para Situaciones Socioeconómicas Desfavorables. Curso 2021-2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/24/BOCM-20220124-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Publicación de 28 de diciembre de 2021, de segunda adenda de prórroga del convenio de asistencia jurídica al Centro de Transportes de Coslada, S. A., de 4 de marzo de 2020",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/24/BOCM-20220124-24.PDF"
