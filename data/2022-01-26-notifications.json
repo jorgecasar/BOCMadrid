@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Convenio de 23 de diciembre de 2021, entre el Instituto Nacional de la Seguridad Social, el Instituto Social de la Marina y la Comunidad de Madrid, en materia estadística",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/25/BOCM-20220125-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Convenio de 27 de diciembre de 2021, entre el Instituto Nacional de la Seguridad Social (INSS), la Universidad de Alcalá (UAH), y la Comunidad de Madrid, para la realización de un curso de incapacidad temporal para médicos asistenciales en la modalidad “on-line”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/25/BOCM-20220125-28.PDF"
