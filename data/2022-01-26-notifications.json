@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Orden 34/2022, de 13 de enero, del Consejero de Sanidad, por la que se modifica la Orden 1703/2021, de 22 de diciembre, del Consejero de Sanidad (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID del 5 de enero de 2022), aprobatoria de la convocatoria de dos puestos de trabajo vacantes en la Consejería de Sanidad, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/25/BOCM-20220125-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Transportes e Infraestructuras",
       "description": "Orden de 14 de enero de 2022, del Consejero de Transportes e Infraestructuras, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Transportes e Infraestructuras, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/25/BOCM-20220125-11.PDF"
