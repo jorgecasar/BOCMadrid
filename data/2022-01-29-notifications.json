@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 17 de diciembre de 2021, del Rectorado de la Universidad de Alcalá, por la que se acuerda hacer público el Presupuesto de la Universidad para el ejercicio económico del año 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/28/BOCM-20220128-28.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Encomienda de gestión de 13 de enero de 2022, formalizada por convenio entre el Organismo Autónomo Agencia Nacional de Evaluación de la Calidad y Acreditación y la Universidad Rey Juan Carlos, para la evaluación de la actividad investigadora de personal docente e investigador contratado",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/28/BOCM-20220128-29.PDF"
