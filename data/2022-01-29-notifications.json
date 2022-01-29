@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 17 de enero de 2022, de la Universidad Autónoma de Madrid, por la que se nombran funcionarios de carrera de la Escala de Letrados de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/28/BOCM-20220128-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Orden 71/2022, de 18 de enero, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se autoriza la implantación y supresión de enseñanzas universitarias oficiales de máster en las universidades de la Comunidad de Madrid a partir del curso 2021-2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/28/BOCM-20220128-21.PDF"
