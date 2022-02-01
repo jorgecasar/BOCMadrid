@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Orden 59/2022, de 19 de enero, del Consejero de Sanidad, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/31/BOCM-20220131-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 19 de enero de 2022, de la dirección-gerencia del Hospital Universitario Fundación Alcorcón, por la que se procede a convocar el puesto directivo de Subdirector/a de Recursos Humanos en la Dirección de Recursos Humanos en el Hospital Universitario Fundación Alcorcón, vinculado al Servicio Madrileño de Salud",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/31/BOCM-20220131-10.PDF"
     }
