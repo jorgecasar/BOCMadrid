@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Decreto 3/2022, de 26 de enero, del Consejo de Gobierno, por el que se crea la Academia Madrileña de Gastronomía y se aprueban sus Estatutos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/31/BOCM-20220131-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Asamblea de Madrid",
       "description": "Resolución de 19 de enero de 2022, de la Secretaría General de la Asamblea de Madrid, por la que se aprueban las listas definitivas de admitidos y excluidos para la cobertura de dos plazas del Cuerpo Archiveros-Bibliotecarios, Escala Ejecutiva (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID número 94 del miércoles 21 de abril de 2021)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/01/31/BOCM-20220131-2.PDF"
