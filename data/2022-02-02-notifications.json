@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 17 de enero de 2022, de la Universidad Complutense de Madrid, por la que se nombran funcionarios de los Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/01/BOCM-20220201-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 19 de enero de 2022, de la Universidad Politécnica de Madrid, por la que se convoca concurso general de méritos (traslado) para la provisión de puestos de trabajo de personal funcionario perteneciente al Grupo A, Subgrupo A2 y Grupo C, Subgrupo C1 (Cuerpos o Escalas de Biblioteca), de la Universidad Politécnica de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/01/BOCM-20220201-11.PDF"
