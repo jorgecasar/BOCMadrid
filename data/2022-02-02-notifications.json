@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Encomienda de gestión de 11 de enero de 2022, formalizada por convenio entre el Organismo Autónomo Agencia Nacional de Evaluación de la Calidad y Acreditación, y la Universidad Carlos III de Madrid, para la evaluación de la actividad investigadora de personal docente e investigador contratado",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/01/BOCM-20220201-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Resolución de 28 de diciembre de 2021, de la Gerente del Organismo Autónomo Madrid 112, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la modificación número 1 del contrato para la prestación del “Servicio de seguridad privada del Organismo Autónomo Madrid 112”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/01/BOCM-20220201-17.PDF"
