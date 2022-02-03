@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
-      "description": "Orden 104/2022, de 21 de enero, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se resuelve la convocatoria aprobada por Orden 3383/2021, de 15 de noviembre, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 25 de noviembre), para la provisión de tres puestos de trabajo vacantes en la citada Consejería por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/02/BOCM-20220202-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 19 de enero de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de nueve puestos de trabajo vacantes en dicha Consejería, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación.",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/02/BOCM-20220202-3.PDF"
