@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 20 de enero de 2022, de la Universidad Autónoma de Madrid, por la que se nombran funcionarios de Cuerpos Docentes Universitarios: Profesores y Profesoras Titulares de Universidad y Catedráticos y Catedráticas de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/03/BOCM-20220203-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 24 de enero de 2022, de la Universidad Politécnica de Madrid, por la que se amplía el plazo de resolución del proceso selectivo para ingreso en la Escala de Ayudante de Archivos, Bibliotecas y Museos, Grupo A, Subgrupo A2, de la Universidad Politécnica de Madrid por el sistema de acceso libre y por el sistema de promoción interna, convocado por Resolución de 27 de julio de 2020",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/03/BOCM-20220203-18.PDF"
