@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
-      "description": "Orden 126/2022, de 26 de enero, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por el que se aprueba el Plan Estratégico de Ayudas y Subvenciones correspondiente a los cursos 2021-2022, 2022-2023, 2023-2024, 2024-2025 y 2025-2026 en materia de apoyo a la enseñanza no universitaria, gestionadas por la Dirección General de Educación Secundaria, Formación Profesional y Régimen Especial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/04/BOCM-20220204-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Acuerdo de 6 de octubre de 2021, del Consejo de Gobierno, por el que se delega en el titular de la Viceconsejería de Asistencia Sanitaria y Salud Pública la competencia para la autorización del gasto correspondiente a las prestaciones farmacéuticas para los beneficiarios de la Seguridad Social, incluidas en las prestaciones del Sistema Nacional de Salud, en el ámbito territorial de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/04/BOCM-20220204-15.PDF"
