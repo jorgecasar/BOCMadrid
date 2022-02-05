@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Política Social",
-      "description": "Convenio de colaboración de 29 de diciembre de 2021, entre la Comunidad de Madrid y el Ayuntamiento de Paracuellos de Jarama, para la realización de actuaciones en el marco del Plan Corresponsables",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/04/BOCM-20220204-43.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Resolución de 25 de enero de 2022, de la Viceconsejería de Asistencia Sanitaria y Salud Pública del Servicio Madrileño de Salud, por la que se hace pública la declaración de desierto del procedimiento abierto pluralidad de criterios, denominado “Mantenimiento y soporte de determinadas aplicaciones departamentales para centros dependientes del Servicio Madrileño de Salud”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/04/BOCM-20220204-44.PDF"
