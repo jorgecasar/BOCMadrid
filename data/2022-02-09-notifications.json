@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Orden de 28 de enero de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de tres puestos de trabajo vacantes en la Consejería de Sanidad, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/08/BOCM-20220208-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Administración Local y Digitalización",
       "description": "Resolución 41/2022, de 26 de enero, de la Consejera-Delegada de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se nombran Asesores especialistas de la Comisión de Selección del proceso selectivo para la adscripción a la Agencia de diverso personal, por procedimiento restringido, conforme a la Orden de 16 de junio de 2014, del Consejero de Economía y Hacienda (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 2 de julio de 2014), convocado por la Resolución 299/2021, de 6 de julio",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/08/BOCM-20220208-12.PDF"
