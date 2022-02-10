@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 18 de noviembre de 2021, de la Universidad Politécnica de Madrid, por la que se nombran funcionarios de carrera en la Escala Administrativa, Grupo C, Subgrupo C1, de la Universidad Politécnica de Madrid, al haber superado el proceso selectivo por el sistema de promoción interna",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/09/BOCM-20220209-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Carlos III",
       "description": "Resolución de 26 de enero de 2022, de la Universidad Carlos III de Madrid, por la que se anuncia convocatoria de concurso específico de méritos para la provisión de un puesto de trabajo de personal funcionario de Administración y Servicios adscrito a los Subgrupos A2 y C1 en esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/09/BOCM-20220209-14.PDF"
