@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 1 de febrero de 2022, de la Universidad Rey Juan Carlos, por la que se nombran funcionarios de carrera de la Escala Administrativa de la Universidad Rey Juan Carlos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/09/BOCM-20220209-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Extracto de la Orden de 15 de diciembre de 2021, del Consejero de Economía, Hacienda y Empleo, de tramitación anticipada, por la que se convocan ayudas para el año 2022 dirigidas a empresas artesanas de la Comunidad de Madrid para la promoción y formación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/09/BOCM-20220209-16.PDF"
