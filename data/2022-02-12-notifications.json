@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Extracto de 25 de enero de 2022, del Acuerdo de la Comisión de Investigación de la Universidad de Alcalá, por el que se convocan las Ayudas para la Preparación de Proyectos Europeos 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/11/BOCM-20220211-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 3 de febrero de 2022, del Sr. Rector Magnífico de la Universidad Rey Juan Carlos, por la que se aprueban las bases reguladoras y se hace pública la convocatoria de ayudas a las asociaciones de estudiantes de la Universidad Rey Juan Carlos para el año 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/11/BOCM-20220211-30.PDF"
