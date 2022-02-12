@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Extracto de 25 de enero de 2022, del Acuerdo de la Comisión de Investigación de la Universidad de Alcalá de 25 de enero de 2022, por el que se convocan las Ayudas para la realización de Proyectos de Investigación UAH 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/11/BOCM-20220211-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Extracto de 25 de enero de 2022, del Acuerdo de la Comisión de Investigación de la Universidad de Alcalá, por el que se convocan las ayudas para la organización de congresos 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/11/BOCM-20220211-28.PDF"
     }
