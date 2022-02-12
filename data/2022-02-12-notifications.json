@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 3 de febrero de 2022, del Sr. Rector Magnífico de la Universidad Rey Juan Carlos, por la que se aprueban las bases reguladoras y se hace pública la convocatoria de ayudas a las asociaciones de estudiantes de la Universidad Rey Juan Carlos para el año 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/11/BOCM-20220211-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Resolución de 10 de febrero de 2022, por la que se aprueba la apertura del período de información pública del anteproyecto de construcción y explotación de las obras del contrato de denominado “Concesión de obras para la construcción, conservación y explotación de la Ciudad de la Justicia del partido judicial de Madrid”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/11/BOCM-20220211-31.PDF"
