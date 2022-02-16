@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 2 de febrero de 2022, del Presidente de la Junta Arbitral de Consumo de la Comunidad de Madrid, por la que se dispone la publicación de las empresas a las que se ha concedido y retirado el distintivo público de adhesión al Sistema Arbitral de Consumo durante el cuarto trimestre de 2021",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/15/BOCM-20220215-28.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Convenio de 11 de enero de 2022, entre el Consejo General del Poder Judicial, el Ministerio de Justicia, la Comunidad de Madrid y la Universidad Pontificia Comillas para la realización de prácticas externas en Juzgados y Tribunales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/15/BOCM-20220215-29.PDF"
