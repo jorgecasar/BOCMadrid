@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
-      "description": "Extracto de la Orden 195/2022, de 1 de febrero, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se convoca el XVIII Certamen de Coros Escolares de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/15/BOCM-20220215-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Extracto de la Orden 203/2022, de 1 de febrero, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se convoca la VII edición del Concurso de Oratoria en Primaria de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/15/BOCM-20220215-25.PDF"
     }
