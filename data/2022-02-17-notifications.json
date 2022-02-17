@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Política Social",
-      "description": "Corrección de errores de la Resolución 106/2022, de 12 de enero, de la Dirección General de Atención al Mayor y a la Dependencia, por la que se fija, para el año 2022, el importe mensual que deben aportar los ocupantes de plazas financiadas parcialmente por la Comunidad de Madrid en residencias para mayores",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/16/BOCM-20220216-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 4 de febrero de 2022, del Rectorado de la Universidad Autónoma de Madrid, por la que se acuerda hacer público el Presupuesto de esta Universidad para el ejercicio 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/16/BOCM-20220216-36.PDF"
