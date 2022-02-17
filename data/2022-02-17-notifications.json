@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 4 de febrero de 2022, de la Universidad Carlos III de Madrid, por la que se anuncia la publicación de la Resolución por la que se declara desierta la convocatoria para la provisión, por el sistema de Libre Designación, de puestos de trabajo en esta Universidad, convocada por Resolución de 17 de diciembre de 2021",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/16/BOCM-20220216-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Corrección de errores de la Resolución de 1 de febrero de 2022, de la Universidad Rey Juan Carlos, por la que se nombran funcionarios de carrera de la Escala Administrativa de esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/16/BOCM-20220216-30.PDF"
