@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 4 de febrero de 2022, de la Universidad Rey Juan Carlos, por la que se nombran Profesores Titulares de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/16/BOCM-20220216-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 7 de febrero de 2022, de la Universidad Rey Juan Carlos, por la que se nombra Profesora Titular de Universidad a doña Adriana Izquierdo Lahuerta",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/16/BOCM-20220216-32.PDF"
     }
