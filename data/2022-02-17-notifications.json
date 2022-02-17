@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 7 de febrero de 2022, de la Universidad Rey Juan Carlos, por la que se nombra Profesora Titular de Universidad a doña Adriana Izquierdo Lahuerta",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/16/BOCM-20220216-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 8 de febrero de 2022, de la Directora General de Comercio y Consumo, por la que se convoca la fase autonómica de la Comunidad de Madrid del concurso escolar 2021-2022 Consumópolis 17, Dale a me gusta al consumo circular y responsable",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/16/BOCM-20220216-33.PDF"
