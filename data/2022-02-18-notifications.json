@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 31 de enero de 2022, de la Dirección General de Promoción Económica e Industrial, por la que se aprueban los modelos de impresos para tramitación de procedimientos incluidos en el Reglamento de almacenamiento de productos químicos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/17/BOCM-20220217-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Resolución de 10 de febrero de 2022, del Director General de Recursos Humanos, por la que se emplaza a los posibles interesados para que se personen en el recurso contencioso-administrativo interpuesto por don Juan Martín Díaz",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/17/BOCM-20220217-21.PDF"
