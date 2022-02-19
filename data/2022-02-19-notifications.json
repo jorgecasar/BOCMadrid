@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Organización y funcionamiento: Área de Gobierno de Vicealcaldía. Plan movilidad sostenible",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/18/BOCM-20220218-46.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Organización y funcionamiento: Área de Gobierno de Vicealcaldía. Zona protección acústica",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/18/BOCM-20220218-47.PDF"
     }
