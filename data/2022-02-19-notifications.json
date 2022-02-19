@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 10 de febrero de 2022, de la Universidad Rey Juan Carlos, por la que se nombran funcionarios de carrera de la Escala de Gestión de Sistemas e Informática de la Universidad Rey Juan Carlos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/18/BOCM-20220218-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 11 de febrero de 2022, de la Universidad Rey Juan Carlos, por la que se nombran funcionarios de carrera de la Escala Facultativa de Archivos, Bibliotecas y Museos de la Universidad Rey Juan Carlos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/18/BOCM-20220218-17.PDF"
     }
