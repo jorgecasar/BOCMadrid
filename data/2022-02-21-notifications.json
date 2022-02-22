@@ -1,0 +1,21 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 44,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/02/21/BOCM-20220221_0.PDF",
+      "total": 1,
+      "items": {
+        "Comunidad de Madrid": 1
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Presidencia de La Comunidad",
+      "description": "",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/21/BOCM-20220221-113.PDF"
+    }
+  }
+]
