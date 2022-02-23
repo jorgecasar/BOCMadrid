@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Humanes de Madrid",
-      "description": "Régimen económico: Extracto convocatoria subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-41.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Las Rozas de Madrid",
       "description": "Régimen económico: Calendario fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-42.PDF"
