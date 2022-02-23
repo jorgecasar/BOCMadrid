@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcalá de Henares",
-      "description": "Otros anuncios: Extravío carta pago",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-33.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Boadilla del Monte",
       "description": "Ofertas de empleo: Proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-34.PDF"
