@@ -1,0 +1,441 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 45,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/02/22/BOCM-20220222.PDF",
+      "total": 69,
+      "items": {
+        "Comunidad de Madrid": 23,
+        "Disposiciones y Anuncios del Estado": 4,
+        "Administración Local Ayuntamientos": 26,
+        "Administración de Justicia": 15,
+        "Otros Anuncios": 1
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 7 de febrero de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería Economía, Hacienda y Empleo por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 7 de febrero de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Economía, Hacienda y Empleo, por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 13 de febrero de 2022, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden del Consejero de Economía, Hacienda y Empleo de 10 de noviembre de 2021 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 24 de noviembre), para la provisión de un puesto de trabajo vacante en la Consejería de Medio Ambiente, Vivienda y Agricultura (Organismo Autónomo Agencia de Vivienda Social de la Comunidad de Madrid), de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 13 de febrero de 2022, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden del Consejero de Economía, Hacienda y Empleo, de 1 de diciembre de 2021 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 16 de diciembre), para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Orden de 10 de febrero de 2022, de la Consejera de Familia, Juventud y Política Social, por la que se resuelve la convocatoria aprobada por Orden de 29 de noviembre de 2021, de la Consejera de Familia, Juventud y Política Social (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID  de 13 de diciembre), para la provisión de un puesto de trabajo vacante en la citada Consejería, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Rey Juan Carlos",
+      "description": "Resolución de 11 de febrero de 2022, de la Universidad Rey Juan Carlos, por la que se nombra a don Gabriel Morales Sánchez como Catedrático de Universidad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Orden de 3 de diciembre de 2021, de la Consejera de Cultura, Turismo y Deporte, por la que se conceden subvenciones al amparo del Acuerdo de 1 de septiembre de 2021, del Consejo de Gobierno, por el que se aprueban las ayudas directas ayudas del programa de incentivo de la demanda de productos turísticos de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Orden de 7 de diciembre de 2021, de la Consejera de Cultura, Turismo y Deporte, por la que se conceden subvenciones al amparo del Acuerdo de 1 de septiembre de 2021, del Consejo de Gobierno, por el que se aprueban las ayudas directas ayudas del programa de incentivo de la demanda de productos turísticos de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-8.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Orden de 9 de diciembre de 2021, de la Consejera de Cultura, Turismo y Deporte, por la que se conceden subvenciones al amparo del Acuerdo de 1 de septiembre de 2021, del Consejo de Gobierno, por el que se aprueban las ayudas directas  del programa de incentivo de la demanda de productos turísticos de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-9.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Orden de 10 de diciembre de 2021, de la Consejera de Cultura, Turismo y Deporte, por la que se conceden subvenciones al amparo del Acuerdo de 1 de septiembre de 2021, del Consejo de Gobierno, por el que se aprueban las ayudas directas  del programa de incentivo de la demanda de productos turísticos de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-10.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Orden de 13 de diciembre de 2021, de la Consejera de Cultura, Turismo y Deporte, por la que se conceden subvenciones al amparo del Acuerdo de 1 de septiembre de 2021, del Consejo de Gobierno, por el que se aprueban las ayudas directas ayudas del programa de incentivo de la demanda de productos turísticos de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-11.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Adenda de 21 de diciembre de 2021, de prórroga al convenio entre la Consejería de Sanidad, el Servicio Madrileño de Salud, a través del SUMMA 112, y la Fundación para el Desarrollo de la Enfermería-FUDEN, para la realización de prácticas que integran el programa docente del curso de posgrado no oficial de “Enfermería en urgencias extrahospitalarias” a realizar en el SUMMA 112",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-12.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 11 de febrero de 2022, de la Gerencia del Hospital Universitario “José Germain”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del lote 6 “Pescados frescos” del contrato de «Suministro de productos alimenticios perecederos con destino al Hospital Universitario “José Germain”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-13.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 9 de febrero de 2022, de la Gerencia del Hospital Universitario “La Paz”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de “Suministro de suturas manuales”. Prórroga 2021-7-47 (P. A. 2019-0-30).",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-14.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 28 de enero de 2022, de la Dirección del Hospital Universitario de “La Princesa”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la convocatoria del contrato de suministro de “Oxigeno medicinal y anhídrido carbónico en botellas”, para el Hospital Universitario de “La Princesa” de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-15.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 10 de febrero de 2022, de la Dirección-Gerencia del Hospital Universitario de “La Princesa”, por la que se hace pública la corrección de errores en el Pliego de Prescripciones Técnicas del procedimiento abierto 18/2022 HUP, para el suministro de reactivos y material de extracción ácidos nucleicos y detección mediante RT-PCR a tiempo real cualitativa de SARS-CoV2 técnica de urgencias, del Hospital Universitario de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-16.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 1 de febrero de 2022, del Director-Gerente del Hospital Universitario “Puerta de Hierro de Majadahonda”, Madrid, por la que se dispone la publicación, en los boletines oficiales y en el “perfil del contratante”, de la formalización del contrato de “Suministro de medicamentos distribuidos en exclusividad por el Laboratorio Pfizer”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-17.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 27 de enero de 2022, de la Dirección-Gerencia del Hospital Clínico “San Carlos” de Madrid, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización de la prórroga del contrato PNSP 2019-1-100 del «Suministro de Lucentis (Ranibizumab 10 mg/ml) de distribución exclusiva con destino al Servicio de Farmacia del Hospital Clínico “San Carlos” de Madrid»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-18.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 25 de enero de 2022, de la Dirección-Gerencia del Hospital Universitario de Getafe, por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante” de la prórroga del contrato de material fungible de radiología vascular en el Hospital Universitario de Getafe",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-19.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 10 de febrero de 2022, de la Dirección-Gerencia del Hospital Universitario “Infanta Leonor”, por la que se hace pública la formalización del contrato titulado “Adquisición de los medicamentos Trastuzumab-Emtansina, Pirfenidona, Alectinib, Vismodegib, Ocrelizumab y Atezolizumab” (seis lotes)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-20.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Anuncio de 17 de febrero de 2022, de adjudicación del contrato titulado “Servicio prestado por una empresa inscrita en el Registro de Empresa con Riesgo por Amianto (RERA), para el apoyo al mantenimiento de instalaciones de señalización ferroviaria” (Expediente 6012100232)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-21.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Anuncio de 18 de febrero de 2022, por el que se convoca la licitación para la contratación de un servicio de licencias de Microsoft instaladas en los puestos cliente de Metro y en los servidores del Área de Comunicaciones y Tecnologías de la Información (derecho de uso, mantenimiento, actualizaciones y soporte especializado). (Expediente número 6012200043)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-22.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Anuncio de 18 de febrero de 2022, de adjudicación del contrato titulado “Suministro de interconexión y renovación de los Datacenters de Centro de Tecnologías de la Información y Centro de Continuidad de Servicio cofinanciable al 40 por 100 con cargo al Programa Operativo 2021-2027 FEDER de la Comunidad de Madrid” (expediente 6012100224)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-23.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Disposiciones y Anuncios del Estado",
+      "description": "Delegación del Gobierno en Madrid. Área Funcional de Industria y Energía. Autorización administrativa y declaración impacto ambiental",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-24.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Disposiciones y Anuncios del Estado",
+      "description": "Ministerio para la Transición Ecológica y el Reto Demográfico. Confederación Hidrográfica del Tajo. Extinción aguas",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-25.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Disposiciones y Anuncios del Estado",
+      "description": "Ministerio para la Transición Ecológica y el Reto Demográfico. Confederación Hidrográfica del Tajo. Concesión aguas",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-26.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Disposiciones y Anuncios del Estado",
+      "description": "Ministerio de Inclusión, Seguridad Social y Migraciones. Tesorería General de la Seguridad Social. Subasta bienes",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-27.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Urbanismo: Área de Gobierno de Desarrollo Urbano. Estudio detalle",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-28.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Urbanismo: Área de Gobierno de Desarrollo Urbano. Plan especial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-29.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Urbanismo: Área de Gobierno de Obras y Equipamientos. Proyecto urbanización",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-30.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Licencias: O. A",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-31.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcalá de Henares",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-32.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcalá de Henares",
+      "description": "Otros anuncios: Extravío carta pago",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-33.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Boadilla del Monte",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-34.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Boadilla del Monte",
+      "description": "Personal: Nombramiento",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-35.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Cubas de la Sagra",
+      "description": "Personal: Relación puestos trabajo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-36.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "El Escorial",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-37.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Galapagar",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-38.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Getafe",
+      "description": "Licencias: Pecris Ocio y Hostelería, S. L.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-39.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Getafe",
+      "description": "Licencias: Eidi Antonio Marte Espinal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-40.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Humanes de Madrid",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-41.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Las Rozas de Madrid",
+      "description": "Régimen económico: Calendario fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-42.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Majadahonda",
+      "description": "Urbanismo: Ordenanza intervención actuaciones urbanísticas",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-43.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Meco",
+      "description": "Urbanismo: Estatutos junta de compensación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-44.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Olmeda de las Fuentes",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-45.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Sebastián de los Reyes",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-46.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Sebastián de los Reyes",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-47.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Valdemaqueda",
+      "description": "Régimen económico: Padrones fiscales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-48.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Valdemorillo",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-49.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Valdemorillo",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-50.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Valdemoro",
+      "description": "Organización y funcionamiento: Delegación de funciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-51.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Valdetorres de Jarama",
+      "description": "Licencias: Patricia López López",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-52.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Venturada",
+      "description": "Régimen económico: Ordenanza impuesto bienes inmuebles",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-53.PDF"
+    }
+  }
+]
