@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Disposiciones y Anuncios del Estado",
-      "description": "Ministerio para la Transición Ecológica y el Reto Demográfico. Confederación Hidrográfica del Tajo. Concesión aguas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Disposiciones y Anuncios del Estado",
       "description": "Ministerio de Inclusión, Seguridad Social y Migraciones. Tesorería General de la Seguridad Social. Subasta bienes",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-27.PDF"
     }
