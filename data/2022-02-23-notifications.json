@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Boadilla del Monte",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-34.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Boadilla del Monte",
       "description": "Personal: Nombramiento",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/22/BOCM-20220222-35.PDF"
     }
