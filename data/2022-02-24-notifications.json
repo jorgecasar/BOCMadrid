@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcalá de Henares",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/23/BOCM-20220223-45.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Casarrubuelos",
       "description": "Organización y funcionamiento: Ordenanza licencia y declaración responsable",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/23/BOCM-20220223-46.PDF"
