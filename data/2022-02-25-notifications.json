@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 9 de febrero de 2022, de la Universidad Autónoma de Madrid, por la que se nombran funcionarios de cuerpos docentes universitarios: Profesores y Profesoras Titulares de Universidad y Catedráticos y Catedráticas de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/24/BOCM-20220224-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución conjunta de 9 de febrero de 2022, de la Universidad de Alcalá y la Consejería de Sanidad de la Comunidad de Madrid, por la que se nombra Catedrático de Universidad del Área de Conocimiento de “Medicina”, con plaza vinculada en el Hospital Universitario “Príncipe de Asturias”, a don Diego María Rodríguez Puyol",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/24/BOCM-20220224-20.PDF"
