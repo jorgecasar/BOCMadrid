@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Política Social",
-      "description": "Resolución 514/2022, de 8 de febrero, del Director General de Atención al Mayor y a la Dependencia, por la que se determina la participación económica del usuario en la financiación del coste del servicio de ayuda a domicilio",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/24/BOCM-20220224-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden de 22 de noviembre de 2021, de la Consejera de Cultura, Turismo y Deporte, por la que se conceden subvenciones al amparo del Acuerdo de 1 de septiembre de 2021, del Consejo de Gobierno, por el que se aprueban las ayudas directas Ayudas del programa de incentivo de la demanda de productos turísticos de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/24/BOCM-20220224-22.PDF"
