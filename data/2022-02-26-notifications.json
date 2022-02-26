@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 10 de febrero de 2022, de la Rectora de la Universidad Autónoma de Madrid, por la que se convoca un puesto de trabajo para su provisión por el sistema de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/25/BOCM-20220225-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 24 de febrero de 2022, de la Fundación General Universidad de Alcalá, por la que se publica la Oferta de Empleo Público para el ejercicio 2022 del personal de carácter indefinido, con cargo a la tasa de reposición de efectivos 2020",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/25/BOCM-20220225-26.PDF"
