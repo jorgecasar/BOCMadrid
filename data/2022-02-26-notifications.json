@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 7 de febrero de 2022, de la Universidad Complutense de Madrid, por la que se nombran funcionarios de los Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/25/BOCM-20220225-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 10 de febrero de 2022, de la Universidad Autónoma de Madrid, por la que se resuelve la convocatoria, por el sistema de Libre Designación, de la plaza de personal laboral puesto funcional de Jefe/a de la Unidad en la Dirección de Infraestructuras, Seguridad, nivel 13",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/25/BOCM-20220225-24.PDF"
