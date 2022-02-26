@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
-      "description": "Resolución 17/2022, de 11 de febrero, del Director-Gerente de la Agencia de Vivienda Social de la Comunidad de Madrid, por la que se delega la competencia para la propuesta de gasto y modificaciones presupuestarias",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/25/BOCM-20220225-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 17 de junio de 2021, de la Dirección General de Industria, Energía y Minas, por la que se aprueba la revisión 4 del procedimiento de tramitación como Entidad de Inspección y Control Industrial de las instalaciones térmicas de edificios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/25/BOCM-20220225-36.PDF"
