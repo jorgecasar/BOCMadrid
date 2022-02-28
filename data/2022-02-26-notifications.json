@@ -1,0 +1,39 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 49,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/02/26/BOCM-20220226.PDF",
+      "total": 11,
+      "items": {
+        "Comunidad de Madrid": 2,
+        "Administración Local Ayuntamientos": 1,
+        "Administración de Justicia": 8
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 10 de febrero de 2022, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del Convenio Colectivo del Sector de Comercio Textil, suscrito por Acotex y Acitex y por la representación sindical de CC OO y UGT (código número 28000795011982)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/26/BOCM-20220226-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 10 de febrero de 2022, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda Empleo, sobre registro, depósito y publicación del acta de 20 de enero de 2022, de la Comisión Negociadora del Convenio Colectivo del Sector de derivados del cemento de la Comunidad de Madrid (código número 28001175011982)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/26/BOCM-20220226-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Ajalvir",
+      "description": "Urbanismo: Normas urbanísticas",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/26/BOCM-20220226-3.PDF"
+    }
+  }
+]
