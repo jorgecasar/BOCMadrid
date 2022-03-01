@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 22 de febrero de 2022, de la Universidad Rey Juan Carlos, por la que se convoca concurso específico de méritos para la provisión de determinados puestos de trabajo entre personal de administración y servicios funcionario",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/28/BOCM-20220228-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Decreto 6/2022, de 23 de febrero, del Consejo de Gobierno, por el que se autoriza el inicio de actividades de la universidad privada Universidad Internacional de la Empresa y se aprueban sus normas de organización y funcionamiento",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/02/28/BOCM-20220228-20.PDF"
