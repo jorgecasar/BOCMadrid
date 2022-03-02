@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Orden 208/2022, de 16 de febrero, del Consejero de Sanidad, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/01/BOCM-20220301-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 8 de febrero de 2022, de la Dirección-Gerencia del Hospital General Universitario “Gregorio Marañón” del Servicio Madrileño de Salud, por la que se convoca un puesto de Jefe de Sección de Endocrinología y Nutrición (Área Diagnóstica y Terapéutica de Nutrición Clínica y Dietética) en este centro asistencial para su cobertura mediante nombramiento provisional",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/01/BOCM-20220301-16.PDF"
     }
