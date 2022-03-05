@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Extracto del Acuerdo de 23 de febrero de 2022, por parte de la Comisión de Estudios Oficiales de Posgrado y Doctorado, del XIX Programa de Becas UAH-BSCH “Miguel de Cervantes”, de Residencia para Estudios de Máster en la Universidad de Alcalá. Curso 2022/2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/04/BOCM-20220304-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Resolución de 23 de febrero de 2022, de la Secretaría General Técnica, por la que se dispone la publicación de la convocatoria del contrato de servicio de limpieza de diferentes inmuebles de la Consejería de Educación, Universidades, Ciencia y Portavocía de la Comunidad de Madrid, dividido en dos lotes",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/04/BOCM-20220304-32.PDF"
