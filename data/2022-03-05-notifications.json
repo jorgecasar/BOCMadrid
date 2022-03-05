@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Presidencia de La Comunidad",
-      "description": "Ley 2/2022, de 1 de marzo, de reconocimiento de la universidad privada “Universidad de Diseño, Innovación y Tecnología (UDIT)”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/04/BOCM-20220304-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Decreto 7/2022, de 2 de marzo, del Consejo de Gobierno, por el que se desarrolla la Ley 2/2014, de 16 de diciembre, por la que se regula la Cámara Oficial de Comercio, Industria y Servicios de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/04/BOCM-20220304-3.PDF"
