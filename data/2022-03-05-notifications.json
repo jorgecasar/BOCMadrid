@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Presidencia de La Comunidad",
-      "description": "Corrección de errores de la Ley 1/2022, de 10 de febrero, Maestra de Libertad Educativa de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/04/BOCM-20220304-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Presidencia de La Comunidad",
       "description": "Ley 2/2022, de 1 de marzo, de reconocimiento de la universidad privada “Universidad de Diseño, Innovación y Tecnología (UDIT)”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/04/BOCM-20220304-2.PDF"
     }
