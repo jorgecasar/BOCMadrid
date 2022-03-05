@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Decreto 7/2022, de 2 de marzo, del Consejo de Gobierno, por el que se desarrolla la Ley 2/2014, de 16 de diciembre, por la que se regula la Cámara Oficial de Comercio, Industria y Servicios de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/04/BOCM-20220304-3.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Asamblea de Madrid",
       "description": "Resolución de 21 de febrero de 2022, de la Secretaría General de la Asamblea de Madrid, por la que se rectifican las listas definitivas de admitidos y excluidos para la cobertura de dos plazas del Cuerpo de Archiveros-Bibliotecarios, Escala Ejecutiva (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID número 94, del miércoles 21 de abril de 2021)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/04/BOCM-20220304-4.PDF"
