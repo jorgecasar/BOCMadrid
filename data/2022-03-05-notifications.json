@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 16 de febrero de 2022, de la Rectora de la Universidad Autónoma de Madrid, por la que se resuelve la convocatoria pública de varios puestos de trabajo para su provisión por el sistema de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/04/BOCM-20220304-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 15 de febrero de 2022, de la Universidad Politécnica de Madrid, por la que se da publicidad a la modificación parcial de la relación de puestos de trabajo del Personal Laboral de Administración y Servicios de esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/04/BOCM-20220304-23.PDF"
