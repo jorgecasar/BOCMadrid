@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
-      "description": "Orden 361/2022, de 24 de febrero, de la Consejería de Medio Ambiente, Vivienda y Agricultura, sobre establecimiento de vedas y regulación especial de la actividad piscícola en los ríos, arroyos y embalses de la Comunidad de Madrid, para la temporada 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/08/BOCM-20220308-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Anuncio del extracto de la Orden 245/2022, de 22 de febrero, de la Consejería de Cultura, Turismo y Deporte, por la que se convocan ayudas a empresas privadas para realizar proyectos de música en 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/08/BOCM-20220308-26.PDF"
