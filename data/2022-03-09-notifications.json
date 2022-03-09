@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Anuncio del extracto de la Orden 245/2022, de 22 de febrero, de la Consejería de Cultura, Turismo y Deporte, por la que se convocan ayudas a empresas privadas para realizar proyectos de música en 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/08/BOCM-20220308-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Extracto de la Orden 258/2022, de 24 de febrero, de la Consejería de Cultura, Turismo y Deporte, por la que se convocan ayudas a personas físicas y empresas audiovisuales para la producción de cortometrajes en la Comunidad de Madrid en 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/08/BOCM-20220308-27.PDF"
     }
