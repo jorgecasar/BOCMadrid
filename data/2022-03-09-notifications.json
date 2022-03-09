@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Administración Local y Digitalización",
-      "description": "Orden de 24 de febrero de 2022, de la Consejería de Administración Local y Digitalización, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en dicha Consejería por el procedimiento de Concurso de Méritos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/08/BOCM-20220308-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 254/2022, de 23 de febrero, del Consejero de Sanidad, por la que se resuelve la convocatoria aprobada por Orden 1571/2021, de 24 de noviembre, de esta Consejería de Sanidad (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 3 de diciembre de 2021), para la provisión de un puesto de trabajo vacante en la citada Consejería, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/08/BOCM-20220308-12.PDF"
