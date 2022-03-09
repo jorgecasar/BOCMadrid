@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 23 de febrero de 2022, de la Universidad Autónoma de Madrid, por la que se convoca concurso de acceso a plazas de Docentes Universitarios entre Acreditados: Profesores Contratados Doctores y Profesoras Contratadas Doctoras",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/08/BOCM-20220308-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Orden 361/2022, de 24 de febrero, de la Consejería de Medio Ambiente, Vivienda y Agricultura, sobre establecimiento de vedas y regulación especial de la actividad piscícola en los ríos, arroyos y embalses de la Comunidad de Madrid, para la temporada 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/08/BOCM-20220308-25.PDF"
