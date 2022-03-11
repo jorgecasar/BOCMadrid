@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Extracto de la Orden de 28 de febrero de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se convocan ayudas para el año 2022 dirigidas a municipios de la Comunidad de Madrid para el desarrollo de actividades de promoción comercial y ferial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/10/BOCM-20220310-42.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Transportes e Infraestructuras",
       "description": "Resolución de 24 de febrero de 2022, de la Dirección-Gerencia del Organismo Autónomo Consorcio Regional de Transportes de Madrid, por la que se designa a los componentes de la mesa de contratación del Organismo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/10/BOCM-20220310-43.PDF"
