@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 2 de marzo de 2022, de la Universidad Rey Juan Carlos, por la que se nombran funcionarios de carrera de la Escala de Ayudantes de Archivos, Bibliotecas y Museos de la Universidad Rey Juan Carlos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/10/BOCM-20220310-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Orden 410/2022, de 24 de febrero, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se autoriza la impartición en el Campus de Madrid del centro extranjero Asociación Escp Europe, España, de la enseñanza conducente al título de “Master of Science (MSC)/Diplôme d’Études Avancées en Management International des Entreprises",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/10/BOCM-20220310-30.PDF"
