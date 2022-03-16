@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Orden 343/2022, de 12 de marzo, de la Consejería de Sanidad, por la que se establece criterio interpretativo respecto del apartado trigésimo tercero de la Orden 1244/2021, de 1 de octubre, de la Consejería de Sanidad, por la que se establecen medidas preventivas para hacer frente a la crisis sanitaria ocasionada por el COVID-19",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/15/BOCM-20220315-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Orden de 4 de marzo de 2022, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Presidencia, Justicia e Interior, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/15/BOCM-20220315-2.PDF"
