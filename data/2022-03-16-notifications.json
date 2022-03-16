@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia e Interior",
-      "description": "Orden de 4 de marzo de 2022, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Presidencia, Justicia e Interior, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/15/BOCM-20220315-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Acuerdo de 9 de marzo de 2022, del Consejo de Gobierno, por el que se dispone el cese de don Ricardo Díaz Martín como vocal del Consejo Social de la Universidad Complutense de Madrid, en representación de los intereses sociales, designado por la Asamblea de Madrid, y el nombramiento, en su sustitución, de don Adolfo José Añino Martínez de Cestafe",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/15/BOCM-20220315-3.PDF"
