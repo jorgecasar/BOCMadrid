@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Resolución de 1 de marzo de 2022, de la Dirección-Gerencia del Hospital Universitario “Ramón y Cajal” del Servicio Madrileño de Salud, por la que se publica la relación provisional de admitidos y excluidos al proceso de provisión convocado para la cobertura de un puesto de Jefe de Sección de Microbiología y Parasitología (Perfil Bacteriología. Sensibilidad a los antimicrobianos y epidemiología), en ese centro asistencial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/17/BOCM-20220317-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 2 de marzo de 2022, de la Dirección-Gerencia del Hospital “Guadarrama” del Servicio Madrileño de Salud, por la que se publica la relación definitiva de admitidos y excluidos al proceso de provisión convocado para la cobertura de un puesto de Coordinador Asistencial en ese centro asistencial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/17/BOCM-20220317-22.PDF"
     }
