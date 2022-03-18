@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 4 de marzo de 2022, de la Universidad Politécnica de Madrid, por la que se convocan concursos para la provisión de plazas de personal docente e investigador contratado: Profesores Contratados Doctores",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/17/BOCM-20220317-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Extracto de la Orden 434/2022, de 4 de marzo, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se modifica la Orden 1770/2019, de 17 de junio, de la Consejería de Educación e Investigación, por la que se convocan los Premios Extraordinarios de Educación Secundaria Obligatoria de la Comunidad de Madrid correspondientes al año académico 2018-2019",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/17/BOCM-20220317-26.PDF"
