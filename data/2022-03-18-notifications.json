@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
-      "description": "Corrección de errores de la Resolución de 5 de mayo de 2021, por la que se aprueba la adjudicación definitiva de los concursos de traslados convocados por Resoluciones de 26 y 23 de octubre de 2020",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/17/BOCM-20220317-4.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Orden de 7 de marzo de 2022, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se resuelve la convocatoria aprobada por Orden de 4 de octubre de 2021 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 14 de octubre de 2021) para la provisión de varios puestos de trabajo vacantes en dicha Consejería por el procedimiento de Concurso de Méritos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/17/BOCM-20220317-5.PDF"
