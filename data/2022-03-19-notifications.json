@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Política Social",
-      "description": "Convenio de colaboración de 25 de febrero de 2022, entre la Comunidad de Madrid a través de la Consejería de Familia, Juventud y Política Social y Fundación Telefónica en el marco del programa Conecta Empleo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/18/BOCM-20220318-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Administración Local y Digitalización",
       "description": "Resolución de 2 de marzo de 2022, de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de “Mantenimiento, soporte, actualización e instalación en nuevos centros del software de gestión bibliotecaria Absysnet”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/18/BOCM-20220318-30.PDF"
