@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Orden 318/2022, de 7 de marzo, de la Consejería de Sanidad, por la que se aprueba el Plan Estratégico de Subvenciones 2022 de la Consejería de Sanidad de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/18/BOCM-20220318-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Resolución de 7 de marzo de 2022, de la Secretaría General Técnica de la Consejería de Presidencia, Justicia e Interior, por la que se dispone la publicación del anuncio previo relativo al contrato denominado: “Suministro de uniformes de intervención U1 con destino al Cuerpo de bomberos de la Comunidad de Madrid (CBCM)”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/18/BOCM-20220318-17.PDF"
