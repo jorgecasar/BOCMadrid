@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Carlos III",
-      "description": "Resolución de 3 de marzo de 2022, de la Universidad Carlos III de Madrid, por la que se publica la modificación de los planes de estudios de los siguientes títulos oficiales: Máster Universitario en Iniciativa Emprendedora y Creación de Empresas, Máster Universitario en Ciencia y Tecnología Informática y Máster Universitario en Tecnologías del Sector Financiero: Fintech",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/21/BOCM-20220321-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Carlos III",
       "description": "Resolución de 3 de marzo de 2022, de la Universidad Carlos III de Madrid, por la que se publican los planes de estudios de determinados títulos de Máster Universitario",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/21/BOCM-20220321-18.PDF"
     }
