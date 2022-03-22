@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 8 de marzo de 2022, de la Universidad Politécnica de Madrid, por la que se anuncia la convocatoria de concurso-oposición por el sistema de promoción interna para la provisión de puestos de trabajo vacantes en la relación de puestos de trabajo de personal de administración y servicios laboral",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/21/BOCM-20220321-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Resolución de 2 de marzo de 2022, del Director General de Urbanismo, por la que se dispone la publicación del modelo de impreso normalizado referido al procedimiento denominado “Solicitud de Aprobación de Instrumentos de Planeamiento Urbanístico”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/21/BOCM-20220321-14.PDF"
