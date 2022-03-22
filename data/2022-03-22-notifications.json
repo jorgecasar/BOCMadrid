@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Régimen económico: Área de Gobierno de Vicealcaldía. Modificaciones presupuestarias",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/21/BOCM-20220321-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Licencias: O. A",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/21/BOCM-20220321-36.PDF"
     }
