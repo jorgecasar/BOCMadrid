@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 3 de marzo de 2022, de la Universidad Carlos III de Madrid, por la que se publican los planes de estudios de determinados títulos de Máster Universitario",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/21/BOCM-20220321-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Resolución de 8 de marzo de 2022, de la Secretaría General Técnica de la Consejería de Presidencia, Justicia e Interior, por la que se dispone la publicación del anuncio previo relativo al contrato “Realización de trabajos de peritación en los juicios rápidos en el ámbito de la Comunidad de Madrid”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/21/BOCM-20220321-19.PDF"
