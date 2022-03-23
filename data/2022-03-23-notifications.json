@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Boadilla del Monte",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/22/BOCM-20220322-36.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Carabaña",
       "description": "Régimen económico: Ordenanza fiscal incremento valor terrenos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/22/BOCM-20220322-37.PDF"
