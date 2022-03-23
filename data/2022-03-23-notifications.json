@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Coslada",
-      "description": "Régimen económico: Matrícula impuesto",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/22/BOCM-20220322-39.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "El Álamo",
       "description": "Organización y funcionamiento: Ordenanza terrazas y quioscos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/22/BOCM-20220322-40.PDF"
