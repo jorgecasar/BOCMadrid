@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Acuerdo de 1 de marzo de 2022, de los Órganos de Gobierno de la Universidad Complutense de Madrid, por el que se convoca la X Edición de los Premios Emprendedor Universitario UCM",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/23/BOCM-20220323-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Resolución de 11 de marzo de 2022, de la Secretaría General Técnica de la Consejería de Presidencia, Justicia e Interior, por la que se anuncia la licitación del contrato de “Redacción de proyecto básico, proyecto de ejecución y actividad del nuevo edificio judicial de Móstoles, sito en la calle Nueva York, número 44”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/23/BOCM-20220323-25.PDF"
