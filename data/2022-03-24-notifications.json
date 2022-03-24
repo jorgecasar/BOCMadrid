@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Extracto de la Orden 317/2022, de 14 de marzo, de la Consejería de Cultura, Turismo y Deporte, por la que se aprueba la convocatoria para el año 2022 de ayudas a deportistas madrileños por participar en competiciones deportivas oficiales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/23/BOCM-20220323-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Complutense de Madrid",
       "description": "Acuerdo de 1 de marzo de 2022, de los Órganos de Gobierno de la Universidad Complutense de Madrid, por el que se convoca la X Edición de los Premios Emprendedor Universitario UCM",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/23/BOCM-20220323-24.PDF"
