@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
-      "description": "Decreto 12/2022, de 23 de marzo, del Consejo de Gobierno, por el que se nombra Rector de la Universidad de Alcalá a don José Vicente Saz Pérez",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/24/BOCM-20220324-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Orden 531/2022, de 11 de marzo, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacante en la Consejería de Educación, Universidades, Ciencia y Portavocía por el procedimiento de Concurso de Méritos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/24/BOCM-20220324-2.PDF"
     }
