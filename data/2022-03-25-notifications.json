@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Decreto 13/2022, de 23 de marzo, del Consejo de Gobierno, por el que se nombra Director General de Deportes a don Fernando Benzo Sainz",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/24/BOCM-20220324-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 14 de marzo de 2022, de la Universidad de Alcalá, por la que se nombra Profesor Titular de Universidad del Área de Conocimiento de “Medicina Preventiva y Salud Pública” a don Antonio David Prieto Merino",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/24/BOCM-20220324-12.PDF"
