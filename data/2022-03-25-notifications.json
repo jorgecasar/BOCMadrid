@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 23 de marzo de 2022, de la Universidad Rey Juan Carlos, por la que se anuncia convocatoria pública para la provisión de varios puestos de trabajo reservados a personal funcionario mediante el sistema de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/24/BOCM-20220324-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Orden 572/2022, de 15 de marzo, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se modifica la Orden 945/2020, de 5 de mayo, del Consejero de Educación y Juventud, por la que se aprobó el Plan Estratégico de Subvenciones y Ayudas para la Escolarización en el Primer Ciclo de Educación Infantil en centros de titularidad privada autorizados",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/24/BOCM-20220324-14.PDF"
