@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Urbanismo: Área de Gobierno de Desarrollo Urbano. Plan especial edificio",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/24/BOCM-20220324-37.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Urbanismo: Área de Gobierno de Desarrollo Urbano. Plan especial finca",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/24/BOCM-20220324-38.PDF"
     }
