@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 17 de marzo de 2022, de la Universidad Complutense de Madrid, por la que se nombran funcionarios de carrera de la Escala Técnica Auxiliar de Biblioteca de la Universidad Complutense, Grupo C, Subgrupo C1",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/25/BOCM-20220325-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 17 de marzo de 2022, de la Universidad Complutense de Madrid, por la que se nombran funcionarios de carrera de la Escala Administrativa de la Universidad Complutense, Grupo C, Subgrupo C1",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/25/BOCM-20220325-20.PDF"
     }
