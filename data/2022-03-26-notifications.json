@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
-      "description": "Resolución de 23 de marzo de 2022, de la Dirección General de Agricultura, Ganadería y Alimentación, por la que se establecen medidas sanitarias para prevenir la difusión de la influenza aviar en la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/25/BOCM-20220325-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Extracto de la Orden 458/2022, de 25 de febrero, de la Consejería de Medio Ambiente, Vivienda y Agricultura, de convocatoria de ayudas para la implementación de la normativa de residuos en el marco del Plan de Recuperación, Transformación y Resiliencia (financiado por la Unión Europea) NextGenerationEU",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/25/BOCM-20220325-30.PDF"
     }
