@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 15 de marzo de 2022, de la Universidad Rey Juan Carlos, por la que se convoca concurso de acceso a plazas de cuerpos docentes universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/25/BOCM-20220325-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Orden 592/2022, de 18 de marzo, de la Consejería de Educación, Universidades, Ciencia y Portavocía por la que se modifica la Orden 1240/2013, de 17 de abril, de la Consejería de Educación, Juventud y Deporte, por la que se establece el procedimiento para la admisión de alumnos en centros docentes sostenidos con fondos públicos de segundo ciclo de Educación Infantil, Educación Primaria, Educación Especial, Educación Secundaria Obligatoria y Bachillerato en la Comunidad de Madrid, y se actualiza el procedimiento para la justificación y baremación de los criterios de admisión",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/25/BOCM-20220325-22.PDF"
