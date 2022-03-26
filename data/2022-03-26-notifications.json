@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 17 de marzo de 2022, de la Universidad Complutense de Madrid, por la que se nombran funcionarios de carrera de la Escala Administrativa de la Universidad Complutense, Grupo C, Subgrupo C1",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/25/BOCM-20220325-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 15 de marzo de 2022, de la Universidad Rey Juan Carlos, por la que se convoca concurso de acceso a plazas de cuerpos docentes universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/25/BOCM-20220325-21.PDF"
