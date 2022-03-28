@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 24 de marzo de 2022, de la Universidad Complutense de Madrid, por la que se nombran funcionarios de carrera de la Escala Técnica de Gestión de la Universidad Complutense, Grupo A, Subgrupo A1",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/28/BOCM-20220328-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Orden 589/2022, de 18 de marzo, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, relativa a la modificación de los módulos económicos para la financiación de centros docentes privados sostenidos con fondos públicos en el ejercicio 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/28/BOCM-20220328-17.PDF"
