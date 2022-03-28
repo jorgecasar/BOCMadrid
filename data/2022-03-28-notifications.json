@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
-      "description": "Orden 590/2022, de 18 de marzo, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se aprueba el Plan Estratégico de Subvenciones de Carácter Nominativo a favor de las Universidades Públicas y a las Fundaciones, Institutos y Asociaciones del Ámbito Universitario y de las Enseñanzas Artísticas Superiores de la Comunidad de Madrid para los ejercicios 2022 y 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/28/BOCM-20220328-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Extracto de la Orden de 15 de marzo de 2022, de la Consejería de Sanidad, por la que se aprueba la convocatoria para el año 2022 de subvenciones a entidades sin ánimo de lucro de pacientes o familiares de pacientes para la realización de programas de ayuda mutua y autocuidados en salud para personas con enfermedad crónica, que se desarrollen en la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/28/BOCM-20220328-19.PDF"
