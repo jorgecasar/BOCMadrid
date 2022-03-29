@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 23 de febrero de 2022, de la Universidad Complutense de Madrid, por la que se nombran funcionarios de los Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/29/BOCM-20220329-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 11 de marzo de 2022, conjunta de la Universidad Complutense de Madrid y de la Consejería de Sanidad de la Comunidad de Madrid, por la que se nombran funcionarios de los Cuerpos Docentes Universitarios con plazas vinculadas en servicios asistenciales de Instituciones Sanitarias",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/29/BOCM-20220329-20.PDF"
     }
