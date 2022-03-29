@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Política Social",
-      "description": "Orden 530/2022, de 17 de marzo, de la Consejera de Familia, Juventud y Política Social, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Agencia Madrileña de Atención Social, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/29/BOCM-20220329-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 368/2022, de 16 de marzo, del Consejero de Sanidad, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/29/BOCM-20220329-16.PDF"
