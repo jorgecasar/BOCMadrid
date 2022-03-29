@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Carlos III",
-      "description": "Resolución de 16 de marzo de 2022, de la Universidad Carlos III de Madrid, por la que se anuncia la publicación de la Resolución de adjudicación del puesto convocado para su provisión por el sistema de concurso específico de méritos, convocado por Resolución de 26 de enero de 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/29/BOCM-20220329-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Carlos III",
       "description": "Resolución de 17 de marzo de 2022, de la Universidad Carlos III de Madrid, por la que se nombran funcionarios de Cuerpos Docentes Universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/29/BOCM-20220329-23.PDF"
     }
