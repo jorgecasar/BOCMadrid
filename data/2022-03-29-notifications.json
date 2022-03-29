@@ -1,19 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 75,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/03/29/BOCM-20220329.PDF",
-      "total": 92,
-      "items": {
-        "Comunidad de Madrid": 45,
-        "Administración Local Ayuntamientos": 29,
-        "Administración de Justicia": 17,
-        "Otros Anuncios": 1
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
