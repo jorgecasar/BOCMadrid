@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Orden 317/2022, de 7 de marzo, de la Consejería de Sanidad, por la que se regulan las comisiones técnicas de información sanitaria, sus funciones, composición y funcionamiento",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/29/BOCM-20220329-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Orden 439/2022, de 28 de marzo, de la Consejería de Sanidad, por la que se  modifica la Orden 1244/2021, de 1 de octubre, por la que se establecen medidas preventivas para hacer frente a la crisis sanitaria ocasionada por el COVID-19",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/29/BOCM-20220329-2.PDF"
     }
