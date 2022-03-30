@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 28 de marzo de 2022, de la Universidad Complutense de Madrid, por la que se nombran funcionarios de carrera de la Escala de Gestión Universitaria de la Universidad Complutense, Grupo A, Subgrupo A2",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/30/BOCM-20220330-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 16 de marzo de 2022, de la Universidad Politécnica de Madrid, por la que se resuelve de forma definitiva el concurso específico de méritos para la provisión de puestos de trabajo de personal funcionario correspondientes a los Subgrupos A1, A2 y C1 de las Escalas propias de la Universidad Politécnica de Madrid, convocado por Resolución de 24 de noviembre de 2021",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/30/BOCM-20220330-31.PDF"
