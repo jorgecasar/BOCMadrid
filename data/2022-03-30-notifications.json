@@ -1,19 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 76,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/03/30/BOCM-20220330.PDF",
-      "total": 91,
-      "items": {
-        "Comunidad de Madrid": 42,
-        "Administración Local Ayuntamientos": 37,
-        "Administración de Justicia": 11,
-        "Otros Anuncios": 1
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
