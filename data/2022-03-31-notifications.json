@@ -1,19 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 77,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/03/31/BOCM-20220331.PDF",
-      "total": 70,
-      "items": {
-        "Comunidad de Madrid": 28,
-        "Administración Local Ayuntamientos": 23,
-        "Administración de Justicia": 18,
-        "Otros Anuncios": 1
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Transportes e Infraestructuras",
