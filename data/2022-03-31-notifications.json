@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Griñón",
-      "description": "Régimen económico: Padrones impuestos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/31/BOCM-20220331-38.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Griñón",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/31/BOCM-20220331-39.PDF"
     }
