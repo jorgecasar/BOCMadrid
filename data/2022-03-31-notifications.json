@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 24 de marzo de 2022, de la Universidad de Alcalá, por la que se anuncian las convocatorias de concursos para la provisión de plazas de Profesor Contratado Doctor y de Profesorado Contratado Temporal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/31/BOCM-20220331-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Carlos III",
       "description": "Resolución de 21 de marzo de 2022, de la Universidad Carlos III de Madrid, por la que se anuncia la convocatoria para la provisión, por el sistema de Libre Designación, de puestos de trabajo en esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/31/BOCM-20220331-15.PDF"
