@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Pinto",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/31/BOCM-20220331-45.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Soto del Real",
       "description": "Régimen económico: Extracto convocatoria subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/31/BOCM-20220331-46.PDF"
