@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Boadilla del Monte",
-      "description": "Urbanismo: Estudio de Detalle",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/31/BOCM-20220331-33.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Cadalso de los Vidrios",
       "description": "Ofertas de empleo: Oferta empleo público",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/31/BOCM-20220331-34.PDF"
