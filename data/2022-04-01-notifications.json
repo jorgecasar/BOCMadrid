@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Régimen económico: Área de Gobierno de Desarrollo Urbano. Concesión subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/31/BOCM-20220331-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcobendas",
       "description": "Ofertas de empleo: Convocatoria procesos selectivos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/31/BOCM-20220331-30.PDF"
