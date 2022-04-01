@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Transportes e Infraestructuras",
-      "description": "Decreto 15/2022, de 30 de marzo, del Consejo de Gobierno, por el que se crea la Comisión Interdepartamental de Seguridad Viaria de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/31/BOCM-20220331-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Acuerdo de 30 de marzo de 2022, del Consejo de Gobierno, por el que se declara el cese y se dispone el nombramiento de Vocales del Consejo de Administración del Centro de Asuntos Taurinos de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/31/BOCM-20220331-2.PDF"
