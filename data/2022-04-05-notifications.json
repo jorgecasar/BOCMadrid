@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Extracto de la Resolución de 28 de marzo de 2022, por la que se convocan los XVI Premios de Fotografía URJC 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/05/BOCM-20220405-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Convenio de 17 de marzo de 2022, entre la Comunidad de Madrid (Consejería de Presidencia, Justicia e Interior) y el Ayuntamiento de Venturada para establecer un protocolo de actuación de la agrupación municipal de voluntarios de Protección Civil en el ámbito de la extinción de incendios y salvamento",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/05/BOCM-20220405-28.PDF"
