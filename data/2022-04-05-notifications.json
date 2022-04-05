@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Extracto de la Resolución de 28 de marzo de 2022, por la que se convocan los XVI Premios de Relato Breve Universidad Rey Juan Carlos 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/05/BOCM-20220405-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Extracto de la Resolución de 28 de marzo de 2022, por la que se convoca el III Concurso de Artes Plásticas URJC 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/05/BOCM-20220405-26.PDF"
     }
