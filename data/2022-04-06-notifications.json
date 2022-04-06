@@ -1,19 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 82,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/04/06/BOCM-20220406.PDF",
-      "total": 111,
-      "items": {
-        "Comunidad de Madrid": 32,
-        "Administración Local Ayuntamientos": 40,
-        "Administración de Justicia": 36,
-        "Otros Anuncios": 3
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
