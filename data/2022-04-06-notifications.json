@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Resolución 30/2022, de 29 de marzo, del Director General de Deportes, por la que se dispone la publicación de los deportistas de alto rendimiento de la Comunidad de Madrid que han obtenido su calificación durante el año 2021 y la de los deportistas que pierden dicha condición en 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/06/BOCM-20220406-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Convenio de colaboración de 18 de marzo de 2022, entre la Comunidad de Madrid y el Consejo Regulador de la Denominación de Origen Vinos de Madrid, para la realización y difusión conjunta de proyectos y actividades culturales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/06/BOCM-20220406-31.PDF"
     }
