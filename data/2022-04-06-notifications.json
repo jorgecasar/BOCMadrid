@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Transportes e Infraestructuras",
-      "description": "Anuncio de 4 de abril de 2022, por el que se convoca la licitación para la contratación de un servicio de asistencia técnica para el control y seguimiento de la prevención de riesgos laborales de los contratos relacionados con la superestructura de vía de Metro de Madrid (expediente 6012200069)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/06/BOCM-20220406-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Resolución 30/2022, de 29 de marzo, del Director General de Deportes, por la que se dispone la publicación de los deportistas de alto rendimiento de la Comunidad de Madrid que han obtenido su calificación durante el año 2021 y la de los deportistas que pierden dicha condición en 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/06/BOCM-20220406-30.PDF"
