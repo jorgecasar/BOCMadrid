@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 1 de abril de 2022, del señor Rector Magnífico de la Universidad Rey Juan Carlos, por la que se nombra a don Teodoro Conde Minaya Gerente General de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/06/BOCM-20220406-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Resolución de 28 de marzo de 2022, de la Dirección General de Educación Concertada, Becas y Ayudas al Estudio por la que se dictan instrucciones para la tramitación de las solicitudes de autorización de la extensión de la enseñanza bilingüe en segundo Segundo Ciclo de Educación Infantil en los centros privados concertados bilingües del ámbito de gestión de la Comunidad de Madrid en el curso 2022-2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/06/BOCM-20220406-7.PDF"
