@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Urbanismo: Área de Gobierno de Desarrollo Urbano.  Plan parcial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/06/BOCM-20220406-34.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Urbanismo: Área de Gobierno de Desarrollo Urbano. Expropiación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/06/BOCM-20220406-35.PDF"
     }
