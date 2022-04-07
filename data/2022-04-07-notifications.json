@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Urbanismo: Área de Gobierno de Desarrollo Urbano. Expropiación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/06/BOCM-20220406-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcalá de Henares",
       "description": "Organización y funcionamiento: Reglamento distinciones policía local",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/06/BOCM-20220406-36.PDF"
