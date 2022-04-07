@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Administración Local y Digitalización",
-      "description": "Resolución de 24 de marzo de 2022, de la Secretaría General Técnica de la Consejería de Administración Local y Digitalización, por la que se publican las subvenciones concedidas durante 2021 por la Dirección General de Reequilibrio Territorial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/06/BOCM-20220406-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Transportes e Infraestructuras",
       "description": "Resolución de 29 de marzo de 2022, la Dirección General de Trasportes y Movilidad, sobre delegación de determinadas competencias",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/06/BOCM-20220406-13.PDF"
