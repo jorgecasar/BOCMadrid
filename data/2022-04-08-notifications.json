@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 27 de marzo de 2022, de la Universidad Carlos III de Madrid, por la que se anuncia la convocatoria para la provisión, por el sistema de Libre Designación, de un puesto de trabajo en esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/08/BOCM-20220408-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Orden 669/2022, de 31 de marzo, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se aprueba el plan estratégico de subvenciones correspondiente a los cursos 2022-2033, 2023-2024 y 2024-2025 en materia de becas para el estudio de formación profesional de grado medio",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/08/BOCM-20220408-18.PDF"
