@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Extracto de la Resolución Rectoral de 22 de marzo de 2022, de la Universidad Complutense de Madrid por la que se convoca el XI Concurso de Divulgación Científica",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/08/BOCM-20220408-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Extracto de la Resolución de 31 de marzo de 2022, de la Vicerrectora de Investigación de la Universidad Rey Juan Carlos, por la que se aprueba y hace pública la convocatoria y sus correspondientes bases reguladoras para la concesión de ayudas a la asistencia a congresos científicos y movilidad para el personal docente e investigador de la Universidad Rey Juan Carlos, durante el año 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/08/BOCM-20220408-23.PDF"
