@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Administración Local y Digitalización",
-      "description": "Resolución de 5 de abril de 2022, de la Dirección General de Reequilibrio Territorial, sobre la convocatoria por el sistema de Libre Designación del puesto de Titular del Órgano de Gestión Tributaria, reservado a Funcionarios de Administración Local con habilitación de carácter nacional, del Ayuntamiento de Las Rozas de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/08/BOCM-20220408-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Complutense de Madrid",
       "description": "Extracto de la Resolución Rectoral de 22 de marzo de 2022, de la Universidad Complutense de Madrid por la que se convoca el XI Concurso de Divulgación Científica",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/08/BOCM-20220408-22.PDF"
