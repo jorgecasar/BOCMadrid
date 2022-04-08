@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
-      "description": "Resolución de 7 de abril de 2022, de la Dirección General de Agricultura, Ganadería y Alimentación, por la que se establecen medidas sanitarias para prevenir la difusión de la influenza aviar en la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/08/BOCM-20220408-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Administración Local y Digitalización",
       "description": "Resolución de 5 de abril de 2022, de la Dirección General de Reequilibrio Territorial, sobre la convocatoria por el sistema de Libre Designación del puesto de Titular del Órgano de Gestión Tributaria, reservado a Funcionarios de Administración Local con habilitación de carácter nacional, del Ayuntamiento de Las Rozas de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/08/BOCM-20220408-21.PDF"
