@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Licencias: O. A",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/11/BOCM-20220411-36.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Ajalvir",
       "description": "Régimen económico: Presupuesto general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/11/BOCM-20220411-37.PDF"
