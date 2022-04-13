@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Convenio de 9 de marzo de 2022, entre el Ministerio de Transportes, Movilidad y Agenda Urbana y la Comunidad/Ciudad Autónoma de Madrid, para la ejecución del Programa de Impulso a la Rehabilitación de Edificios Públicos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/13/BOCM-20220413-33.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Adenda de 30 de marzo de 2022, de prórroga del convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Sanidad, el Servicio Madrileño de Salud y la Universidad Camilo José Cela para la formación práctico-clínica de los alumnos del Grado de Enfermería",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/13/BOCM-20220413-34.PDF"
