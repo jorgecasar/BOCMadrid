@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Presidencia de La Comunidad",
-      "description": "Decreto 12/2022, de 24 de marzo, de la Presidenta de la Comunidad de Madrid, por el que se concede la Medalla Internacional de la Comunidad de Madrid a don Volodímir Oleksándrovich Zelenski",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/13/BOCM-20220413-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Orden de 25 de marzo de 2022, del Consejero de Presidencia, Justicia e Interior, por la que se resuelve la convocatoria aprobada mediante Orden de 9 de febrero de 2022 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 21 de febrero de 2022), de la Consejería de Presidencia, Justicia e Interior, por la que se aprobó la convocatoria pública para la provisión de un puesto de trabajo por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/13/BOCM-20220413-2.PDF"
