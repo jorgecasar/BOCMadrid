@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
-      "description": "Convenio de 30 de marzo de 2022, entre la Comunidad de Madrid (Consejería de Presidencia, Justicia e Interior) y el Consejo de Colegios de Abogados de la Comunidad de Madrid para la prestación del turno de oficio en el ejercicio 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/13/BOCM-20220413-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Convenio de 30 de marzo de 2022, entre la Comunidad de Madrid (Consejería de Presidencia, Justicia e Interior) y el Ilustre Colegio de Abogados de Alcalá de Henares para la prestación del servicio de orientación jurídica en el ejercicio 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/13/BOCM-20220413-25.PDF"
     }
