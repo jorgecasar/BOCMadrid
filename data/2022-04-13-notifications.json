@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Orden 340/2022, de 11 de marzo, de la Consejería de Sanidad, por la que se adapta la composición del Consejo de Administración del Ente Público Hospital Universitario de Fuenlabrada",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/13/BOCM-20220413-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 465/2022, de 6 de abril, de la Consejería de Cultura, Turismo y Deporte, por la que se establecen las bases reguladoras de subvenciones destinadas a clubes deportivos madrileños por la participación de sus equipos en las máximas categorías y niveles de competiciones oficiales de ámbito nacional o internacional, de carácter no profesional",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/13/BOCM-20220413-22.PDF"
