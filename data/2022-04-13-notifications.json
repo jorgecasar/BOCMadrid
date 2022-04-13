@@ -1,19 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 88,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/04/13/BOCM-20220413.PDF",
-      "total": 117,
-      "items": {
-        "Comunidad de Madrid": 44,
-        "Administración Local Ayuntamientos": 40,
-        "Administración de Justicia": 29,
-        "Otros Anuncios": 4
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Presidencia de La Comunidad",
