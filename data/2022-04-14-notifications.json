@@ -1,0 +1,39 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 89,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/04/14/BOCM-20220414.PDF",
+      "total": 12,
+      "items": {
+        "Comunidad de Madrid": 2,
+        "Administración Local Ayuntamientos": 1,
+        "Administración de Justicia": 9
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Convenio de 17 de marzo de 2022, entre el Consejo General del Poder Judicial, el Ministerio de Justicia, la Comunidad de Madrid y la Universidad Complutense de Madrid para la realización de prácticas externas en Juzgados y Tribunales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/14/BOCM-20220414-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Convenio de 24 de marzo de 2022, entre la Comunidad de Madrid a través de la Consejería de Sanidad, el Servicio Madrileño de Salud y la Asociación de Padres de Niños Prematuros APREM, para la implantación del proyecto “Contacto. Piel con piel con bebés prematuros” mediante el acompañamiento de los pacientes en los centros sanitarios del Servicio Madrileño de Salud",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/14/BOCM-20220414-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Pelayos de la Presa",
+      "description": "Urbanismo: Normas subsidiarias",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/14/BOCM-20220414-3.PDF"
+    }
+  }
+]
