@@ -1,19 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 91,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/04/18/BOCM-20220418.PDF",
-      "total": 118,
-      "items": {
-        "Comunidad de Madrid": 45,
-        "Administración Local Ayuntamientos": 54,
-        "Administración de Justicia": 17,
-        "Otros Anuncios": 2
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
