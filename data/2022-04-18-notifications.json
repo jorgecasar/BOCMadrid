@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 4 de abril de 2022, de la Rectora de la Universidad Autónoma de Madrid, por la que se resuelve la convocatoria pública para la provisión de un puesto de trabajo vacante mediante el sistema de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/18/BOCM-20220418-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 8 de abril de 2022, de la Universidad de Alcalá, por la que se anuncia convocatoria pública para la provisión, mediante el sistema de Libre Designación, de un puesto de trabajo vacante en esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/18/BOCM-20220418-14.PDF"
