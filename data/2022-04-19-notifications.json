@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Política Social",
-      "description": "Decreto 14/2022, de 30 de marzo, del Consejo de Gobierno, por el que se regulan las escuelas de tiempo libre en la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/19/BOCM-20220419-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Resolución de 7 de abril de 2022, de la Dirección General de Recursos Humanos, por la que se modifican las listas con las puntuaciones definitivas alcanzadas en la fase de concurso y el número de orden de seleccionados que han superado las fases de oposición y concurso en determinadas especialidades, en los procedimientos selectivos de ingreso y accesos convocados por Resolución de 11 de marzo de 2020",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/19/BOCM-20220419-2.PDF"
