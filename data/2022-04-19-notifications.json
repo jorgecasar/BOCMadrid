@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 5 de abril de 2022, de la Rectora de la Universidad Autónoma de Madrid, por la que se convocan cuatro puestos de trabajo para su provisión por el sistema de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/19/BOCM-20220419-39.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 1 de abril de 2022, del Rector de la Universidad de Alcalá, por la que se acuerda el nombramiento de D. Luis Mediero Oslé como Gerente",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/19/BOCM-20220419-40.PDF"
