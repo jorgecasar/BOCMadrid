@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 9 de marzo de 2022, de la Universidad Complutense de Madrid, por la que se convoca concurso de movilidad para la provisión de plaza de Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/19/BOCM-20220419-37.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 30 de marzo de 2022, de la Universidad Autónoma de Madrid, por la que se nombran funcionarios de carrera de la Escala Auxiliar Administrativa de esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/19/BOCM-20220419-38.PDF"
