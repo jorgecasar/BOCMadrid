@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Convenio de 31 de marzo de 2022, de Asistencia Sanitaria Pública derivada de accidentes de tráfico para los ejercicios 2022/2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/20/BOCM-20220420-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Convenio de 31 de marzo de 2022, para la atención de la asistencia sanitaria futura derivada de accidentes de tráfico en el ámbito de la sanidad pública",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/20/BOCM-20220420-25.PDF"
     }
