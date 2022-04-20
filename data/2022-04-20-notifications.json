@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Resolución de 5 de abril de 2022, de la Dirección-Gerencia del Hospital Universitario de Móstoles, por la que se dispone la publicación de la modificación del contrato A/SUM-012963/2020 de “Medicamentos antirretrovirales exclusivos”, lote 4.",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/20/BOCM-20220420-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 466/2022, de 6 de abril, de la Consejería de Cultura, Turismo y Deporte, por la que se dispone la aprobación de la modificación de los estatutos de la Federación de Tenis de Madrid, su inscripción en el Registro de Entidades Deportivas de la Comunidad De Madrid y su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/20/BOCM-20220420-31.PDF"
