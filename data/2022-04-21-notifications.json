@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Titulcia",
-      "description": "Ofertas de empleo: Oferta empleo público",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/20/BOCM-20220420-40.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Torrejón de Ardoz",
       "description": "Urbanismo: Plan parcial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/20/BOCM-20220420-41.PDF"
