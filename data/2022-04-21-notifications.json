@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Orden 501/2022, de 6 de abril, del Consejero de Sanidad, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/20/BOCM-20220420-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 1 de abril de 2022, de la Universidad Complutense de Madrid, por la que se convoca concurso-oposición de promoción interna para la provisión de 23 plazas de personal laboral fijo de administración y servicios de los grupos y niveles salariales A2, C1 y C2 que implica amortización de plazas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/20/BOCM-20220420-9.PDF"
