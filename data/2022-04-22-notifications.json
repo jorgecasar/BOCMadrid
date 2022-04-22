@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Administración Local y Digitalización",
-      "description": "Decreto 21/2022, de 20 de abril, del Consejo de Gobierno, por el que se modifica el Decreto 198/2021, de 3 de agosto, por el que se establece la estructura orgánica de la Consejería de Administración Local y Digitalización",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/21/BOCM-20220421-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden 680/2022, de 6 de abril, de la Consejería de Economía, Hacienda y Empleo, por la que se modifican las Órdenes de la Consejería de Economía, Hacienda y Empleo 705/2021, de 9 de diciembre; 369/2022, de 28 de febrero; 368/2022, de 28 de febrero, y 341/2022, de 22 de febrero",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/21/BOCM-20220421-3.PDF"
