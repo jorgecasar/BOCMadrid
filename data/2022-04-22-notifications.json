@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia e Interior",
-      "description": "Decreto 19/2022, de 20 de abril, del Consejo de Gobierno, de Planificación de Determinados Establecimientos de Juego en la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/21/BOCM-20220421-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Administración Local y Digitalización",
       "description": "Decreto 21/2022, de 20 de abril, del Consejo de Gobierno, por el que se modifica el Decreto 198/2021, de 3 de agosto, por el que se establece la estructura orgánica de la Consejería de Administración Local y Digitalización",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/21/BOCM-20220421-2.PDF"
