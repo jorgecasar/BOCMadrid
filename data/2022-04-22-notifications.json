@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Presidencia de La Comunidad",
-      "description": "Decreto 22/2022, de 20 de abril, de la Presidenta de la Comunidad de Madrid, por el que se concede la Encomienda de Número de la “Orden del Dos de Mayo” a doña Svetlana Gueórguievna Tijanóvskaya",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/21/BOCM-20220421-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Presidencia de La Comunidad",
       "description": "Decreto 23/2022, de 20 de abril, de la Presidenta de la Comunidad de Madrid, por el que se concede la Cruz de la “Orden del Dos de Mayo” a don Jesús López Terradas, relojero de la Puerta del Sol",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/21/BOCM-20220421-24.PDF"
     }
