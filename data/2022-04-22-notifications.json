@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Presidencia de La Comunidad",
-      "description": "Decreto 25/2022, de 20 de abril, de la Presidenta de la Comunidad de Madrid, por el que se concede la Cruz de la “Orden del Dos de Mayo” al restaurante Cruz Blanca Vallecas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/21/BOCM-20220421-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Presidencia de La Comunidad",
       "description": "Decreto 26/2022, de 20 de abril, de la Presidenta de la Comunidad de Madrid, por el que se concede la Cruz de la “Orden del Dos de Mayo” a don Vicente Dalmau Cebrián-Sagarriga",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/21/BOCM-20220421-27.PDF"
     }
