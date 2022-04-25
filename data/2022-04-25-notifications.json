@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia e Interior",
-      "description": "Corrección de errores del Decreto 24/2022, de 20 de abril, del Consejo de Gobierno, por el que se concede la Gran Cruz de la “Orden del Dos de Mayo” de la Comunidad de Madrid a los Agentes de la Guardia Civil y de la Policía Nacional desplegados en Ceuta y Melilla",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/25/BOCM-20220425-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Orden 802/2022, de 7 de abril,  del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se declara el importe de los créditos disponibles para la concesión directa de ayudas individualizadas de transporte escolar para el curso 2021-2022 y se establece el período subvencionable",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/25/BOCM-20220425-21.PDF"
