@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Orden de 20 de abril de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se hace pública la declaración del crédito presupuestario disponible para financiar las ayudas para promoción industrial en el medio rural de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/25/BOCM-20220425-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Transportes e Infraestructuras",
       "description": "Extracto de la Orden de 8 de abril de 2022, de la Consejería de Transportes e Infraestructuras, por la que se convocan las ayudas para la transformación de flotas de transporte de viajeros y mercancías de empresas privadas prestadoras de servicios de transporte por carretera, así como de empresas que realicen transporte privado complementario, en el marco del Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea-Nextgeneration EU",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/25/BOCM-20220425-23.PDF"
