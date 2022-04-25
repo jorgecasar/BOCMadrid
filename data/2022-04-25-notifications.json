@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Corrección de errores de la Orden 489/2022, de 11 de abril, de la Consejería de Cultura, Turismo y Deporte, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicha Consejería, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/25/BOCM-20220425-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Corrección de errores del Decreto 24/2022, de 20 de abril, del Consejo de Gobierno, por el que se concede la Gran Cruz de la “Orden del Dos de Mayo” de la Comunidad de Madrid a los Agentes de la Guardia Civil y de la Policía Nacional desplegados en Ceuta y Melilla",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/25/BOCM-20220425-20.PDF"
