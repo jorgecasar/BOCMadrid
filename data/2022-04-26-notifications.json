@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
-      "description": "Extracto de la Orden 822/2022, de 7 de abril, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se convocan para el año 2022 las ayudas a los Ayuntamientos de la región para colaborar en el sostenimiento de los colegios públicos radicados en su municipio en los que se imparte Educación Secundaria Obligatoria o en los que se escolarizan alumnos censados en otros municipios por falta o insuficiencia de oferta educativa",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/26/BOCM-20220426-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Decreto 20/2022, de 20 de abril, del Consejo de Gobierno, por el que se declara Bien de Interés Cultural de la Comunidad de Madrid un conjunto de 13 dibujos y un manuscrito de Federico García Lorca",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/26/BOCM-20220426-12.PDF"
