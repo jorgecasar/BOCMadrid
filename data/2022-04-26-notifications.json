@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Decreto 20/2022, de 20 de abril, del Consejo de Gobierno, por el que se declara Bien de Interés Cultural de la Comunidad de Madrid un conjunto de 13 dibujos y un manuscrito de Federico García Lorca",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/26/BOCM-20220426-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Extracto de la Orden 321/2022, de 11 de marzo, de la Consejería de Cultura, Turismo y Deporte, por la que se convocan ayudas a empresas privadas para realizar actividades de teatro y danza en 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/26/BOCM-20220426-13.PDF"
     }
