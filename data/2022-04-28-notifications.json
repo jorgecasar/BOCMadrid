@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcobendas",
-      "description": "Ofertas de empleo: Convocatorias procesos selectivos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/28/BOCM-20220428-39.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcorcón",
       "description": "Régimen económico: Ordenanza fiscal incremento valor de terrenos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/28/BOCM-20220428-40.PDF"
