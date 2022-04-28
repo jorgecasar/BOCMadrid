@@ -1,19 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 100,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/04/28/BOCM-20220428.PDF",
-      "total": 76,
-      "items": {
-        "Comunidad de Madrid": 36,
-        "Administración Local Ayuntamientos": 23,
-        "Administración de Justicia": 15,
-        "Otros Anuncios": 2
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
