@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcalá de Henares",
-      "description": "Otros anuncios: Extravío carta de pago",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/28/BOCM-20220428-37.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcobendas",
       "description": "Organización y funcionamiento: Composición Junta Arbitral de Consumo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/28/BOCM-20220428-38.PDF"
