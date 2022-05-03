@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Disposiciones y Anuncios del Estado",
-      "description": "Delegación del Gobierno en Madrid. Área Funcional de Industria y Energía. Autorización administrativa y declaración impacto ambiental",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/03/BOCM-20220503-38.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Madrid",
       "description": "Urbanismo: Área de Gobierno de Desarrollo Urbano. Plan especial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/03/BOCM-20220503-39.PDF"
