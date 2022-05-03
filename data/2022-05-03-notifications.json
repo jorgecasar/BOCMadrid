@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
-      "description": "Orden 942/2022, de 22 de abril, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se convocan para el año 2022 los Premios de Investigación de la Comunidad de Madrid “Miguel Catalán”, “Julián Marías” y “Margarita Salas” a la carrera científica y a investigadores de menos de cuarenta años",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/03/BOCM-20220503-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Orden 991/2022, de 21 de abril, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se fijan las limitaciones y épocas hábiles de caza que regirán durante la temporada 2022-2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/03/BOCM-20220503-12.PDF"
