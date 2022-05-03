@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
-      "description": "Orden 991/2022, de 21 de abril, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se fijan las limitaciones y épocas hábiles de caza que regirán durante la temporada 2022-2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/03/BOCM-20220503-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Resolución de 27 de abril de 2022, de la Dirección General de Agricultura, Ganadería y Alimentación, por la que se establecen medidas sanitarias para prevenir la difusión de la influenza aviar en la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/03/BOCM-20220503-13.PDF"
     }
