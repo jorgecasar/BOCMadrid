@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 4 de abril de 2022, de la Universidad Autónoma de Madrid, por la que se convoca Concurso de Méritos General para la provisión de varios puestos de trabajo vacantes en la relación de puestos de trabajo de personal funcionario de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/04/BOCM-20220504-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 4 de abril de 2022, de la Universidad Autónoma de Madrid, por la que se convoca Concurso de Méritos Específico para la provisión de varios puestos de trabajo vacantes en la relación de puestos de trabajo de personal funcionario de esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/04/BOCM-20220504-33.PDF"
     }
