@@ -1,20 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 105,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/05/04/BOCM-20220504.PDF",
-      "total": 133,
-      "items": {
-        "Comunidad de Madrid": 66,
-        "Disposiciones y Anuncios del Estado": 1,
-        "Administración Local Ayuntamientos": 49,
-        "Administración de Justicia": 16,
-        "Otros Anuncios": 1
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Presidencia de La Comunidad",
