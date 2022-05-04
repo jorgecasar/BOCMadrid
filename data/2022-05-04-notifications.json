@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Extracto de la Orden 525/2022, de 21 de abril, de la Consejería de Cultura, Turismo y Deporte, por la se convocan ayudas a empresas audiovisuales para el desarrollo de proyectos de audiovisuales en la Comunidad de Madrid en 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/04/BOCM-20220504-37.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 1 de abril de 2022, del Rector de la Universidad de Alcalá, por la que se revoca la delegación de competencias efectuada por Resolución de 1 de marzo de 2021",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/04/BOCM-20220504-38.PDF"
