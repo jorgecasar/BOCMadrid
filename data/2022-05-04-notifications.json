@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Transportes e Infraestructuras",
-      "description": "Extracto de la Orden de 7 de abril de 2022, de la Consejería de Transportes e Infraestructuras por la que se convocan subvenciones para la realización de actividades formativas en el sector del transporte público por carretera en el año 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/04/BOCM-20220504-36.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Extracto de la Orden 525/2022, de 21 de abril, de la Consejería de Cultura, Turismo y Deporte, por la se convocan ayudas a empresas audiovisuales para el desarrollo de proyectos de audiovisuales en la Comunidad de Madrid en 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/04/BOCM-20220504-37.PDF"
