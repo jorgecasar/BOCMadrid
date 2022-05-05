@@ -1,19 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 106,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/05/05/BOCM-20220505.PDF",
-      "total": 97,
-      "items": {
-        "Comunidad de Madrid": 41,
-        "Disposiciones y Anuncios del Estado": 1,
-        "Administración Local Ayuntamientos": 33,
-        "Administración de Justicia": 22
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
