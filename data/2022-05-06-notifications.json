@@ -1,19 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 107,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/05/06/BOCM-20220506.PDF",
-      "total": 112,
-      "items": {
-        "Comunidad de Madrid": 67,
-        "Administración Local Ayuntamientos": 31,
-        "Administración de Justicia": 13,
-        "Otros Anuncios": 1
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
