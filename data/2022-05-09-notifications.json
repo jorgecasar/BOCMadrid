@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 20 de abril de 2022, de la Universidad Complutense de Madrid, por la que se nombra a doña María Elena Urquía Grande Profesora Titular de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/09/BOCM-20220509-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Complutense de Madrid",
       "description": "Resolución conjunta de 20 de abril de 2022, de la Universidad Complutense de Madrid y de la Consejería de Sanidad de la Comunidad de Madrid, por la que se convoca concurso de acceso a plaza de cuerpos docentes universitarios vinculadas con plazas asistenciales en instituciones sanitarias",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/09/BOCM-20220509-15.PDF"
     }
