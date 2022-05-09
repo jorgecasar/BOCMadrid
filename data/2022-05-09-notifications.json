@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Decreto 27/2022, de 4 de mayo, del Consejo de Gobierno, por el que se crea la Comisión de Evaluación Financiera de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/09/BOCM-20220509-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Orden 987/2022, de 26 de abril, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que cesan y se nombran Consejeras suplentes en el Consejo Escolar de la Comunidad de Madrid, por el grupo de Profesores",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/09/BOCM-20220509-2.PDF"
