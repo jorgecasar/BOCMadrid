@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 29 de abril de 2022, de la Universidad Politécnica de Madrid, por la que se convocan concursos para la provisión de plazas de personal docente e investigador contratado: Profesores Contratados Doctores, para el reequilibrio de los Departamentos con alta proporción de personal docente temporal a tiempo parcial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/11/BOCM-20220511-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 25 de abril de 2022, de la Universidad de Alcalá, por la que se convoca plaza de promoción interna para el acceso al Cuerpo de Catedrático de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/11/BOCM-20220511-20.PDF"
