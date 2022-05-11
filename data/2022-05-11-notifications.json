@@ -1,20 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 111,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/05/11/BOCM-20220511.PDF",
-      "total": 93,
-      "items": {
-        "Comunidad de Madrid": 40,
-        "Disposiciones y Anuncios del Estado": 3,
-        "Administración Local Ayuntamientos": 36,
-        "Administración de Justicia": 13,
-        "Otros Anuncios": 1
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
