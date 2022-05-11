@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia e Interior",
-      "description": "Orden de 25 de abril de 2022, del Consejero de Presidencia, Justicia e Interior, por la que se aprueban protocolos de actuación operativa del servicio de atención de llamadas de urgencia 112",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/11/BOCM-20220511-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Resolución de 25 de abril de 2022, del Director General de Descarbonización y Transición Energética de la Comunidad de Madrid, por la que se hace público el listado de concesiones de licencias de etiqueta ecológica de la U. E. emitidas por esta Dirección General",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/11/BOCM-20220511-23.PDF"
