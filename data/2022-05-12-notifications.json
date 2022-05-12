@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Extracto del Acuerdo de 21 de febrero de 2022, de la Comisión de Estudios Oficiales de Posgrado y Doctorado, por el que se aprueban las Bases de las Becas para cursar Másteres Universitarios en la UAH. Convocatoria 2022-2023.AUIP",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/12/BOCM-20220512-33.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 26 de abril de 2022, del Rector de la Universidad Rey Juan Carlos, por la que se convocan ayudas para la compensación de precios públicos de matrícula de estudios universitarios oficiales para estudiantes en situaciones socioeconómicas desfavorables en el curso 2021-2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/12/BOCM-20220512-34.PDF"
