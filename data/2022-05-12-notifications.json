@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 26 de abril de 2022, del Rector de la Universidad Rey Juan Carlos, por la que se convocan ayudas para la compensación de precios públicos de matrícula de estudios universitarios oficiales para estudiantes en situaciones socioeconómicas desfavorables en el curso 2021-2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/12/BOCM-20220512-34.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Convenio de 30 de marzo de 2022, entre la Comunidad de Madrid (Consejería de Presidencia, Justicia e Interior) y el Consejo General de Procuradores de los Tribunales de España, para la prestación del turno de oficio en el ejercicio 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/12/BOCM-20220512-35.PDF"
