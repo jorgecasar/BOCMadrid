@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Extracto de la Orden de 29 de abril de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se convocan ayudas para el año 2022 dirigidas a asociaciones, federaciones y confederaciones de comerciantes de la Comunidad de Madrid para el desarrollo de actividades de promoción comercial y de proyectos para la digitalización del comercio minorista",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Convenio de 30 de marzo de 2022, entre la Comunidad de Madrid (Consejería de Presidencia, Justicia e Interior) y el Ilustre Colegio de Abogados de Madrid para la prestación de los servicios de orientación jurídica en el ejercicio 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-30.PDF"
