@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
-      "description": "Decreto 28/2022, de 11 de mayo, del Consejo de Gobierno, por el que se autoriza la participación de la Comunidad de Madrid en la constitución de la Fundación “Margarita Salas”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Orden de 3 de mayo de 2022, por la que se aprueba convocatoria pública para la provisión de tres puestos de trabajo vacantes en la Consejería de Presidencia, Justicia e Interior por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-2.PDF"
