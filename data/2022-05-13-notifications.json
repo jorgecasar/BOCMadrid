@@ -1,0 +1,832 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 113,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/05/13/BOCM-20220513.PDF",
+      "total": 142,
+      "items": {
+        "Comunidad de Madrid": 74,
+        "Administración Local Ayuntamientos": 28,
+        "Administración de Justicia": 39,
+        "Otros Anuncios": 1
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
+      "description": "Decreto 28/2022, de 11 de mayo, del Consejo de Gobierno, por el que se autoriza la participación de la Comunidad de Madrid en la constitución de la Fundación “Margarita Salas”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Orden de 3 de mayo de 2022, por la que se aprueba convocatoria pública para la provisión de tres puestos de trabajo vacantes en la Consejería de Presidencia, Justicia e Interior por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Orden de 3 de mayo de 2022, de la Consejería de Presidencia Justicia e Interior, por la que se resuelve la convocatoria aprobada mediante Orden de 20 de enero de 2022 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 3 de febrero de 2022), por la que se aprobó convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Presidencia, Justicia e Interior, por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Orden de 3 de mayo de 2022, de la Consejería de Presidencia Justicia e Interior, por la que se resuelve la convocatoria aprobada mediante Orden de 27 de enero de 2022 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 7 de febrero de 2022), por la que se aprobó convocatoria pública para la provisión de varios puestos de trabajo vacantes en la Consejería de Presidencia, Justicia e Interior, por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Orden de 3 de mayo de 2022, de la Consejería de Presidencia, Justicia e Interior, por la que se resuelve la convocatoria aprobada mediante Orden de 2 de febrero de 2022 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 11 de febrero de 2022), por la que se aprobó convocatoria pública para la provisión de varios puestos de trabajo vacantes en la Consejería de Presidencia, Justicia e Interior, por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Orden de 3 de mayo de 2022, de la Consejería de Presidencia Justicia e Interior, por la que se resuelve la convocatoria aprobada mediante Orden de 4 de febrero de 2022 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 15 de febrero de 2022), por la que se aprobó convocatoria pública para la provisión de varios puestos de trabajo vacantes en la Consejería de Presidencia, Justicia e Interior, por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
+      "description": "Acuerdo de 11 de mayo de 2022, del Consejo de Gobierno, por el que se dispone el cese de don José María Ortiz Ibarz como vocal del Consejo de Ciencia y Tecnología de la Comunidad de Madrid, en representación de la Universidad Internacional Villanueva, y el nombramiento, en su sustitución, de doña Carmen Fuente Cobo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
+      "description": "Acuerdo de 11 de mayo de 2022, del Consejo de Gobierno, por el que se dispone el cese de don Emiliano Martín González como vocal del Consejo Social de la Universidad Autónoma de Madrid y el nombramiento, en su sustitución, de don Alejandro Gonzalo López Pérez, como vocal del Consejo Social de la Universidad Autónoma de Madrid, en representación de los intereses sociales, designado por el Ayuntamiento de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-8.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
+      "description": "Orden 1051/2022, de 29 de abril, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Educación, Universidades, Ciencia y Portavocía, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-9.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden 885/2022, de 29 de abril, de la Consejería de Economía, Hacienda y Empleo, por la que se procede a la ampliación del número de plazas correspondientes a las pruebas selectivas del proceso extraordinario de estabilización de empleo temporal del personal laboral para el acceso a plazas de la categoría profesional de Auxiliar Administrativo (Grupo IV, Nivel 3, Área A) de la Comunidad de Madrid, convocadas mediante Orden 482/2021, de 13 de octubre, de la Consejería de Economía, Hacienda y Empleo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-10.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 29 de abril de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Educación, Universidades, Ciencia y Portavocía, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-11.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 29 de abril de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería Economía, Hacienda y Empleo por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-12.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 29 de abril de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de dos puestos de trabajo vacantes en la Consejería de Medio Ambiente, Vivienda y Agricultura, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-13.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 29 de abril de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacantes en la Consejería de Economía, Hacienda y Empleo por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-14.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 29 de abril de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicha Consejería, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-15.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 29 de abril de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Familia, Juventud y Política Social, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-16.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 5 de mayo de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicha Consejería, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-17.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 28 de abril de 2022, de la Dirección General de Función Pública, por la que se anuncia la celebración del sorteo en el que se determinará el orden de actuación de los aspirantes en los procesos selectivos que se celebren durante el año 2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-18.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 29 de abril de 2022, de la Dirección General de Función Pública, por la que se requiere documentación acreditativa del cumplimiento de requisitos a efectos de la constitución de la lista de espera de personal funcionario interino del Cuerpo de Técnicos y Diplomados Especialistas, Escala de Ayudantes de Archivos, Bibliotecas y Museos, Especialidad de Archivos, de Administración Especial, Grupo A, Subgrupo A2, de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-19.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 3 de mayo de 2022, de la Dirección General de Recursos Humanos, por la que se resuelve parcialmente la convocatoria aprobada por Orden de la Consejería de Economía, Hacienda y Empleo de 25 de febrero de 2022 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 10 de marzo), para la provisión de dos puestos de trabajo vacantes en la Consejería de Administración Local y Digitalización, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-20.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 3 de mayo de 2022, de la Dirección General de Función Pública, por la que se aprueban las relaciones definitivas de aspirantes admitidos y excluidos en el proceso selectivo para el acceso a plazas de carácter laboral de la categoría profesional de Personal Auxiliar de Servicios, Grupo V, Nivel 1, Área B, de la Comunidad de Madrid, se publica la relación definitiva de personas excluidas y se anuncia la celebración del primer ejercicio de la oposición",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-21.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 4 de mayo de 2022, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se procede a declarar la exclusión de aspirantes en las pruebas selectivas para el acceso a la condición de personal estatutario fijo por el turno libre en la categoría de Enfermero/a del Servicio Madrileño de Salud, por incumplimiento de requisitos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-22.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Anuncio de 11 de mayo de 2022, por el que se hace pública la convocatoria de dos procesos selectivos de Metro de Madrid, S. A., para cubrir un puesto de Técnico/a adscrito al Servicio de Desarrollo y Mantenimiento de Sistemas de Gestión del Área de Comunicaciones y Tecnologías de la Información, y dos puestos de Técnico/as adscritos al Área de Comunicaciones y Tecnologías de la Información, mediante un contrato laboral indefinido y a jornada completa",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-23.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Orden de 25 de abril de 2022, del Consejero de Presidencia, Justicia e Interior, por la que se nombran Registradores de la Propiedad, Mercantiles y de Bienes Muebles con destino en el territorio de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-24.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
+      "description": "Extracto de la Orden 852/2022, de 12 de abril, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se convocan los Premios Extraordinarios de Bachillerato de la Comunidad de Madrid correspondientes al curso académico 2021-2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-25.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 28 de abril de 2022, de la Dirección General de Descarbonización y Transición Energética, por la que se aprueba el modelo de formulario para la aplicación de la Orden 9344/2003, de 1 de octubre, de la Consejería de Economía e Innovación Tecnológica, por la que se establece el procedimiento para la tramitación, puesta en servicio e inspección de las instalaciones eléctricas no industriales conectadas a una alimentación en baja tensión",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-26.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Acuerdo 21/2022, de 28 de abril, de la Comisión de Urbanismo de Madrid, relativo al Plan Especial de Infraestructuras del “Proyecto de renovación de red de distribución en urbanización Valquigoso (T. M. Chapinería)”, promovido por Canal de Isabel II Gestión, S. A. (actualmente Canal de Isabel II, S. A.)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-27.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución 1865/2022, de 27 de abril, del Director-Gerente, por la que se determinan los precios de arrendamiento de las viviendas gestionadas por la Agencia de Vivienda Social de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-28.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Extracto de la Orden de 29 de abril de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se convocan ayudas para el año 2022 dirigidas a asociaciones, federaciones y confederaciones de comerciantes de la Comunidad de Madrid para el desarrollo de actividades de promoción comercial y de proyectos para la digitalización del comercio minorista",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-29.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Convenio de 30 de marzo de 2022, entre la Comunidad de Madrid (Consejería de Presidencia, Justicia e Interior) y el Ilustre Colegio de Abogados de Madrid para la prestación de los servicios de orientación jurídica en el ejercicio 2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-30.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
+      "description": "Convenio de 8 de abril de 2022, entre la Comunidad de Madrid (Consejería de Educación, Universidades, Ciencia y Portavocía) y la Fundación IMDEA Networks para la concesión directa de una ayuda de 2.454.000,00 euros para financiar la realización de actuaciones en materia de investigación sobre el SARS-COV 2 y la enfermedad COVID-19, financiado con los recursos REACT-UE del Fondo Europeo de Desarrollo Regional",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-31.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 6 de mayo de 2022,  de la Secretaría General Técnica de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la convocatoria del contrato de servicios denominado “Ejecución a nivel laboratorio de los programas de vigilancia, control y erradicación de las enfermedades de los animales”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-32.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 22 de abril de 2022, del Director-Gerente del Instituto Madrileño de Investigación y Desarrollo Rural, Agrario y Alimentario (IMIDRA), por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante” en Internet de la contratación directa de la finca “Fuente de la Mora” ubicada en Leganés, propiedad de la Comunidad de Madrid, a favor de la Comunidad de Bienes Hermanos González Zurdo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-33.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 22 de abril de 2022, del Director-Gerente del Instituto Madrileño de Investigación y Desarrollo Rural, Agrario y Alimentario (IMIDRA), por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante” en Internet de la contratación directa de los lotes 13 y 23, propiedad de la Comunidad de Madrid, sitos en Aranjuez, a favor de doña Rosalvina Duarte Yatira",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-34.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 22 de abril de 2022, del Director-Gerente del Instituto Madrileño de Investigación y Desarrollo Rural, Agrario y Alimentario (IMIDRA), por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante” en Internet de la contratación directa de la finca “Miraltajo”, ubicada en la parcela 4, del polígono 21, del municipio de Colmenar de Oreja, propiedad de la Comunidad de Madrid, a favor de Pistachos de Aranjuez, S. L.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-35.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 22 de abril de 2022, del Director-Gerente del Instituto Madrileño de Investigación y Desarrollo Rural, Agrario y Alimentario (IMIDRA), por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante” en Internet de la contratación directa del lote 1 en Aranjuez, propiedad de la Comunidad de Madrid, a favor de don Francisco Alcázar Belmonte",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-36.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 22 de abril de 2022, del Director-Gerente del Instituto Madrileño de Investigación y Desarrollo Rural, Agrario y Alimentario (IMIDRA), por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante” en Internet de la contratación directa de la nave en la finca “Primer Trozo de la Dehesa de Sotomayor”, propiedad de la Comunidad de Madrid, sita en Aranjuez, a favor de Agroinversiones Madrileñas, S. L.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-37.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 22 de abril de 2022, del Director-Gerente del Instituto Madrileño de Investigación y Desarrollo Rural, Agrario y Alimentario (IMIDRA), por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante” en Internet de la contratación directa de los lotes 24 y 43, propiedad de la Comunidad de Madrid, sitos en Aranjuez, a favor de Pistachos de Madrid, S. L.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-38.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 22 de abril de 2022, del Director-Gerente del Instituto Madrileño de Investigación y Desarrollo Rural, Agrario y Alimentario (IMIDRA), por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante” en Internet de la contratación directa del lote 36 en Aranjuez, propiedad de la Comunidad de Madrid, a favor de doña María José Campos Lozano",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-39.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 22 de abril de 2022, del Director-Gerente del Instituto Madrileño de Investigación y Desarrollo Rural, Agrario y Alimentario (IMIDRA), por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante” en Internet de la contratación directa de la parcela 1 del polígono 15 en Aranjuez, propiedad de la Comunidad de Madrid, a favor de doña María José Campos Lozano",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-40.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 22 de abril de 2022, del Director-Gerente del Instituto Madrileño de Investigación y Desarrollo Rural, Agrario y Alimentario (IMIDRA), por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante” en Internet de la contratación directa de parte de la finca “Primer Trozo de la Dehesa de Sotomayor”, propiedad de la Comunidad de Madrid, sita en Aranjuez, a favor de Agroinversiones Livere, S. L.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-41.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 22 de abril de 2022, del Director-Gerente del Instituto Madrileño de Investigación y Desarrollo Rural, Agrario y Alimentario (IMIDRA), por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante” en Internet de la contratación directa de la parcela 768 del polígono 1 del municipio de Valdetorres de Jarama, propiedad de la Comunidad de Madrid, a favor de don Daniel Zapatero Moreno",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-42.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 22 de abril de 2022, del Director-Gerente del Instituto Madrileño de Investigación y Desarrollo Rural, Agrario y Alimentario (IMIDRA), por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante” en Internet de la contratación directa de parte de la finca “Primer Trozo de la Dehesa de Sotomayor”, propiedad de la Comunidad de Madrid, sita en Aranjuez, a favor de Agroinversiones Arancetanas, S. L.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-43.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 22 de abril de 2022, del Director-Gerente del Instituto Madrileño de Investigación y Desarrollo Rural, Agrario y Alimentario (IMIDRA), por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante” en Internet de la contratación directa de parte de la finca “Primer Trozo de la Dehesa de Sotomayor”, propiedad de la Comunidad de Madrid sita en Aranjuez, a favor de Agroinversiones Madrileñas, S. L.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-44.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 28 de abril de 2022, de la Consejería de Economía, Hacienda y Empleo, por la que se acuerda la revocación de la cesión de uso gratuito, concedida a favor del Ayuntamiento de Ajalvir, del inmueble situado en calle Zulema, número 2, de ese municipio, para adecuarlo a espacio multidisciplinar y coworking",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-45.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Convenio de colaboración de 25 de abril de 2022, entre la Comunidad de Madrid (Consejería de Economía, Hacienda y Empleo) y la Asociación de Empresas de Confección y Moda de la Comunidad de Madrid (ASECOM) para la asistencia técnica en materia de ordenación, promoción y fomento de la actividad comercial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-46.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Convenio de colaboración de 25 de abril de 2022, entre la Comunidad de Madrid (Consejería de Economía, Hacienda y Empleo) y la Asociación de Vendedores Profesionales de Prensa de Madrid (AVPPM) para la asistencia técnica en materia de ordenación, promoción y fomento de la actividad comercial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-47.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Convenio de colaboración de 25 de abril de 2022, entre la Comunidad de Madrid (Consejería de Economía, Hacienda y Empleo) y la Asociación de Perfumistas y Drogueros de la Comunidad de Madrid (APDCAM) para la asistencia técnica en materia de ordenación, promoción y fomento de la actividad comercial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-48.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Convenio de colaboración de 26 de abril de 2022, entre la Comunidad de Madrid (Consejería de Economía, Hacienda y Empleo) y la Asociación Comercio Hábitat, Decoración, Muebles, Textil Hogar e Interiorismo para la asistencia técnica en materia de ordenación, promoción y fomento de la actividad comercial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-49.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Convenio de colaboración de 26 de abril de 2022, entre la Comunidad de Madrid (Consejería de Economía, Hacienda y Empleo) y la Asociación para la Gestión y Modernización del Comercio en Espacios Urbanos y Mercadillos (GESCOMER), para la asistencia técnica en materia de ordenación, promoción y fomento de la actividad comercial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-50.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Resolución de 9 de mayo de 2022, de la Secretaría General Técnica de la Consejería de Familia, Juventud y Política Social, por la que se dispone la publicación de la licitación del Acuerdo Marco que fija las condiciones a que habrán de ajustarse los contratos de servicios de “acompañamiento educativo y alojamiento para jóvenes de 18 a 21 años en grave riesgo de exclusión social procedentes del sistema de protección de la Comunidad de Madrid, financiado por el Fondo Social Europeo, Programa Operativo 2014-2020, Fondos REACT-UE”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-51.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Resolución de 3 de mayo de 2022, de la Gerencia de la Agencia Madrileña de Atención Social, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del lote 3 del contrato titulado “Programa de detección y recuperación del deterioro funcional y cognitivo leve a impartir en los centros de mayores adscritos a la Agencia Madrileña de Atención Social (3 lotes)”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-52.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Resolución de 3 de mayo de 2022, de la Gerencia de la Agencia Madrileña de Atención Social, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización de los lotes 1, 2 y 3 del contrato titulado “Servicio de gestión y eliminación de residuos sanitarios específicos de los centros adscritos a la Agencia Madrileña de Atención Social” (3 lotes)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-53.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Acuerdo de 7 de abril de 2022, de prórroga del convenio entre la Comunidad de Madrid, a través del Servicio Madrileño de Salud, y la Fundación Obra Social y Monte de Piedad de Madrid, para la cesión gratuita del uso de inmuebles e instalaciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-54.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 20 de abril de 2022, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre”, por la que se dispone la publicación en los boletines oficiales y en el perfil del contratante de la formalización de la Segunda Prórroga del contrato para el Suministro de Imnovid 3 mg y 4 mg, medicamentos de distribución exclusiva para el Servicio de Farmacia del Hospital Universitario “12 de Octubre”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-55.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 20 de abril de 2022, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización de las prórrogas de los contratos, para el suministro de desfibriladores implantables (DAI) y desfibriladores con terapia de resincronización (TRC-D) para el Hospital Universitario “12 de Octubre”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-56.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 20 de abril de 2022, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización de la prórroga del contrato para el «Suministro de implantes ATM para Cirugía Maxilofacial del Hospital Universitario “12 de Octubre”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-57.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 20 de abril de 2022, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización de las prórrogas de los contratos para el Suministro de dispositivos de asistencia cardio-pulmonar y ventricular para el Servicio de Cirugía Cardiaca Pediátrica del Hospital Universitario “12 de Octubre”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-58.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 28 de abril de 2022, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización de la segunda prórroga del contrato para el «Suministro de Radiofármacos en monodosis con destino al Servicio de Medicina Nuclear del Hospital Universitario “12 de Octubre”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-59.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 28 de abril de 2022, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización de las prórrogas de los contratos, para el «Suministro de dispositivos implantables para el tratamiento de la insuficiencia cardiaca refractaria para el Hospital Universitario “12 de Octubre”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-60.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 28 de abril de 2022, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización de la prórroga del contrato para el «Suministro de reactivos para el estudio genético de cáncer hereditario con destino al Servicio de Bioquímica del Hospital Universitario “12 de Octubre”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-61.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 28 de abril de 2022, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de «Suministro de sistemas de osteosíntesis reabsorbible para cirugía craneofacial pediátrica para el Hospital Universitario “12 de Octubre”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-62.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 26 de abril de 2022, de la Dirección-Gerencia del Hospital Universitario “Ramón y Cajal”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante”, la formalización de la prórroga del contrato para la adquisición del fármaco «Dovato 50 mg/300 mg comp. c/30 Dolutegravir + Lamivudina), con destino al Servicio de Farmacia del Hospital Universitario “Ramón y Cajal”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-63.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 26 de abril de 2022, de la Dirección-Gerencia del Hospital Universitario “Ramón y Cajal”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante”, la formalización de la prórroga del contrato para la adquisición del fármaco «Cabometyx 20, 40 y 60 mg comp. C/30 (Cabozantinib), con destino al Servicio de Farmacia del Hospital Universitario “Ramón y Cajal”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-64.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 28 de abril de 2022, de la Dirección-Gerencia del Hospital Universitario “Ramón y Cajal”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante”, la formalización de la modificación del contrato 2020000005 para el «Suministro de ácido hialurónico al 0,1 por 100 en solución para inhalación para el Servicio de Pediatría del Hospital Universitario “Ramón y Cajal”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-65.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 29 de abril de 2022, de la Dirección-Gerencia del Hospital Universitario de “La Princesa”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de «Suministro de medicamentos: Secukinumab y Omalizumab para el Hospital Universitario de “La Princesa”, de Madrid»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-66.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 27 de abril de 2022, de la Dirección-Gerencia del Hospital Clínico “San Carlos” de Madrid, por la que se dispone la publicación, en los boletines oficiales y en el “perfil del contratante”, de la formalización de la primera prórroga del contrato para el «Suministro de Ibrance, de distribución exclusiva, con destino al Servicio de Farmacia del Hospital Clínico “San Carlos”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-67.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 25 de abril de 2022, de la Gerencia del Hospital Universitario “Príncipe de Asturias” de la convocatoria del contrato de suministros «Adquisición de un sistema automatizado para la dispensación de medicamentos a pacientes externos del Servicio de Farmacia con destino al Hospital Universitario “Príncipe de Asturias”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-68.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 28 de abril de 2022, de la Gerencia del Hospital Universitario “Príncipe de Asturias” de formalización del contrato de Suministro de Odefsey comp 200/25/25 mg",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-69.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 28 de abril de 2022, de la Gerencia del Hospital Universitario “Príncipe de Asturias”, de formalización del contrato de “Suministro de Parsabiv vial 2,5 mg (5mg/ml) 0,5 ml”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-70.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 28 de abril de 2022, de la Gerencia del Hospital Universitario “Príncipe de Asturias”, de formalización del contrato de suministro de Ocrevus vial 300 mg",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-71.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 28 de abril de 2022, de la Gerencia del Hospital Universitario “Príncipe de Asturias”, de formalización del contrato de “Suministro de Rebif cartucho 22 mcg y Rebif cartucho 44 mcg”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-72.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 3 de mayo de 2022, de la Dirección-Gerencia del Hospital Universitario de Getafe, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la convocatoria del contrato de “Suministro e instalación de un Sistema Robotizado de Gestión de Medicamentos del Servicio de Farmacia en el Hospital Universitario de Getafe”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-73.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 25 de abril de 2022, de la Dirección-Gerencia del Hospital Universitario “Infanta Leonor”, por la que se hace pública la formalización del contrato titulado “Adquisición del medicamento Venetoclax”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-74.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Régimen económico: Área de Gobierno de Cultura, Turismo y Deporte. Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-75.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Licencias: O. A",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-76.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Ajalvir",
+      "description": "Ofertas de empleo: Oferta empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-77.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcorcón",
+      "description": "Personal: Relación puestos trabajo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-78.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Aranjuez",
+      "description": "Contratación: Enajenación vehículos y otros para chatarra",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-79.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Arganda del Rey",
+      "description": "Ofertas de empleo: Oferta empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-80.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Arganda del Rey",
+      "description": "Ofertas de empleo: Oferta empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-81.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Collado Mediano",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-82.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Collado Villalba",
+      "description": "Organización y funcionamiento: Ordenanza terrazas hostelería",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-83.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Collado Villalba",
+      "description": "Organización y funcionamiento: Reglamento uso aeronaves Policía Local",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-84.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Collado Villalba",
+      "description": "Organización y funcionamiento: Reglamento del voluntario de protección civil",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-85.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Colmenar Viejo",
+      "description": "Régimen económico: Ordenanza fiscal incremento valor terrenos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-86.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Fuenlabrada",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-87.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Fuenlabrada",
+      "description": "Personal: Relación puestos trabajo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-88.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Getafe",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-89.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Navalagamella",
+      "description": "Régimen económico: Ordenanza fiscal incremento valor terrenos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-90.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Martín de la Vega",
+      "description": "Personal: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-91.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Martín de la Vega",
+      "description": "Otros anuncios: Cesión perros en unidad canina",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-92.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Tres Cantos",
+      "description": "Ofertas de empleo: Oferta empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-93.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Valdelaguna",
+      "description": "Régimen económico: Ordenanza fiscal incremento valor de terrenos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-94.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Valdemorillo",
+      "description": "Régimen económico: Contribuciones especiales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-95.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Valdemoro",
+      "description": "Organización y funcionamiento: Delegación de funciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-96.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Valverde de Alcalá",
+      "description": "Ofertas de empleo: Oferta empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-97.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Velilla de San Antonio",
+      "description": "Ofertas de empleo: Oferta empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-98.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villa del Prado",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-99.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villaviciosa de Odón",
+      "description": "Personal: Relación puestos trabajo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-100.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Mancomunidad de Servicios Sociales Las Cañadas",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-101.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Mancomunidad de Servicios Sociales Las Cañadas",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/13/BOCM-20220513-102.PDF"
+    }
+  }
+]
