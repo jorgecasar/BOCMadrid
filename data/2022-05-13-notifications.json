@@ -1,19 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 113,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/05/13/BOCM-20220513.PDF",
-      "total": 142,
-      "items": {
-        "Comunidad de Madrid": 74,
-        "Administración Local Ayuntamientos": 28,
-        "Administración de Justicia": 39,
-        "Otros Anuncios": 1
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
