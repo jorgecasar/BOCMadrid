@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 20 de mayo de 2022, de la Rectora de la Universidad Autónoma de Madrid, por la que se convocan tres puestos de trabajo para su provisión por el sistema de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/23/BOCM-20220523-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Carlos III",
       "description": "Resolución de 9 de mayo de 2022, de la Universidad Carlos III de Madrid, por la que se nombra personal funcionario de carrera de la Escala de Gestión de Sistemas e Informática (Subgrupo A2) de esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/23/BOCM-20220523-23.PDF"
