@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Transportes e Infraestructuras",
-      "description": "Orden de 12 de mayo de 2022, del Consejero de Transportes e Infraestructuras, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en la Consejería de Transportes e Infraestructuras, por el procedimiento de Concurso de Méritos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/25/BOCM-20220525-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Resolución de 11 de mayo de 2022, del Director General de Universidades y Enseñanzas Artísticas Superiores, por la que se establecen medidas y adaptaciones para los alumnos con dislexia en las pruebas de evaluación para el acceso a la Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/25/BOCM-20220525-28.PDF"
