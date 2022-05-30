@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Decreto 30/2022, de 25 de mayo, del Consejo de Gobierno, por el que se aprueba la oferta de empleo público de personal de Administración y Servicios de la Comunidad de Madrid para el año 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/30/BOCM-20220530-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Decreto 32/2022, de 25 de mayo, del Consejo de Gobierno, por el que se aprueba la oferta de Empleo Público de Estabilización del Personal de instituciones sanitarias de la Comunidad de Madrid para el año 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/05/30/BOCM-20220530-2.PDF"
     }
