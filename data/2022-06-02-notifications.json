@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Administración Local y Digitalización",
-      "description": "Orden de 23 de mayo de 2022, de la Consejería de Administración Local y Digitalización, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicha Consejería por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/02/BOCM-20220602-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 689/2022, de 11 de mayo, del Consejero de Sanidad, por la que se convoca el proceso de integración voluntaria en el régimen del personal estatutario en la categoría de Técnico en Emergencias Sanitarias para el personal funcionario de carrera del Cuerpo de Auxiliares Especialistas, Escala de Auxiliar de Transporte Sanitario que presta servicios en la Gerencia del SUMMA 112 del Servicio Madrileño de Salud",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/02/BOCM-20220602-11.PDF"
