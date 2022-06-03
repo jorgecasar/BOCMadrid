@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 12 de mayo de 2022, de la Universidad Politécnica de Madrid, por la que se nombran funcionarios de carrera en la Escala de Gestión de Sistemas e Informática, Grupo A, Subgrupo A2, de la Universidad Politécnica de Madrid, por el sistema general de acceso libre",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/03/BOCM-20220603-34.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 12 de mayo de 2022, de la Universidad Politécnica de Madrid, por la que se nombran funcionarios de carrera en la Escala Técnica Auxiliar de Informática, Grupo C, Subgrupo C1, de la Universidad Politécnica de Madrid, por el sistema general de acceso libre",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/03/BOCM-20220603-35.PDF"
     }
