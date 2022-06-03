@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Extracto de la Resolución de 19 de mayo de 2022, de la Universidad Complutense de Madrid, por la que se realiza la convocatoria de ayudas para la financiación de acciones especiales de investigación 2022 (organización de congresos y reuniones científicas)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/03/BOCM-20220603-40.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Convenio de 12 de mayo de 2012, entre la Comunidad de Madrid (Consejería de Presidencia, Justicia e Interior) y el Ayuntamiento de Belmonte de Tajo, para la integración de la operativa del Cuerpo de Policía Local del Ayuntamiento de Belmonte de Tajo en el Centro de Coordinación Municipal de la Viceconsejería de Interior y Dirección de la Agencia de Seguridad y Emergencias Madrid 112",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/03/BOCM-20220603-41.PDF"
