@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Orden 769/2022, de 25 de mayo, del Consejero de Sanidad, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/06/BOCM-20220606-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Corrección de errores de la Resolución de 10 de enero de 2019, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se aprueban las relaciones definitivas de admitidos y excluidos y se publica la de excluidos a las pruebas selectivas por el turno libre para el acceso a la condición de personal estatutario fijo en la categoría de Celador del Servicio Madrileño de Salud, por estimación de recurso de alzada",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/06/BOCM-20220606-23.PDF"
     }
