@@ -1,19 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 133,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/06/06/BOCM-20220606.PDF",
-      "total": 73,
-      "items": {
-        "Comunidad de Madrid": 36,
-        "Disposiciones y Anuncios del Estado": 3,
-        "Administración Local Ayuntamientos": 22,
-        "Administración de Justicia": 12
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Asamblea de Madrid",
