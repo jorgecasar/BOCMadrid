@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Extracto del Acuerdo de 26 de mayo de 2022, de Consejo de Gobierno de la Universidad de Alcalá, por el que se convocan las Ayudas para Estancias de Investigadores Ucranianos en la Universidad de Alcalá 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/08/BOCM-20220608-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Extracto de la Resolución de 30 de mayo de 2022, de la Universidad de Alcalá, por la que se publica la Convocatoria 2022 para la Financiación de Proyectos de Investigación Universidad de Alcalá–Cortes de Castilla-La Mancha",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/08/BOCM-20220608-23.PDF"
     }
