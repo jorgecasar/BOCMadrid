@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Decreto 32/2022, de 1 de junio, del Consejo de Gobierno, por el que se declara Bien de Interés Patrimonial de la Comunidad de Madrid la casa de Vicente Aleixandre, en Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/08/BOCM-20220608-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 754/2022, de 24 de mayo, de la Consejería de Cultura, Turismo y Deporte, por la que se concede una subvención nominativa a la Asociación de Cicloturismo de la Comunidad de Madrid, para el año 2022, y se establecen sus bases reguladoras",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/08/BOCM-20220608-20.PDF"
     }
