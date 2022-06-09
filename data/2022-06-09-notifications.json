@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
-      "description": "Anuncio de 30 de mayo de 2022, de emplazamiento a terceros interesados en el recurso contencioso-administrativo interpuesto por la Federación Regional de Enseñanza de Comisiones Obreras contra el Decreto 29/2022, de 18 de mayo, del Consejo de Gobierno, por el que se regulan determinados aspectos sobre la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional, así como en las enseñanzas de personas adultas que conduzcan a la obtención de los títulos de Graduado en Educación Secundaria Obligatoria y de Bachiller (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID del 20)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/08/BOCM-20220608-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Anuncio de 20 de mayo de 2022, de licitación del contrato de servicios denominado “Formación presencial, conversacional y virtual en idiomas inglés, francés, alemán, chino e italiano para empleados públicos de la Comunidad de Madrid” (A/SER-010528/2022)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/08/BOCM-20220608-26.PDF"
