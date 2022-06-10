@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia e Interior",
-      "description": "Decreto 34/2022, de 8 de junio, del Consejo de Gobierno, por el que se crea el Premio de Estudio e Investigación sobre Responsabilidad Penal Juvenil: Justicia, Libertad y Sociedad de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/09/BOCM-20220609-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Decreto 36/2022, de 8 de junio, del Consejo de Gobierno, por el que se establece para la Comunidad de Madrid la ordenación y el currículo de la etapa de Educación Infantil",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/09/BOCM-20220609-2.PDF"
