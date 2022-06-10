@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 30 de mayo de 2022, de la Universidad Rey Juan Carlos, por la que se nombra a doña Alicia Cándida Blanco González como Catedrática de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/09/BOCM-20220609-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Orden 1455/2022, de 27 de mayo, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se autoriza la desadscripción del Centro de Educación Superior CUNIMAD, de la Universidad de Alcalá",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/09/BOCM-20220609-10.PDF"
