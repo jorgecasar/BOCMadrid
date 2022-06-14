@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 1 de junio de 2022, de la Universidad Rey Juan Carlos de Madrid, por la que se publica la modificación del plan de estudios de Educación Infantil",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/14/BOCM-20220614-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 1 de junio de 2022, de la Universidad Rey Juan Carlos de Madrid, por la que se publica la modificación del plan de estudios de Matemáticas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/14/BOCM-20220614-10.PDF"
     }
