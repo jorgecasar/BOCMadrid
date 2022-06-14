@@ -1,18 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 140,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/06/14/BOCM-20220614.PDF",
-      "total": 84,
-      "items": {
-        "Comunidad de Madrid": 33,
-        "Administración Local Ayuntamientos": 35,
-        "Administración de Justicia": 16
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Universidad Carlos III",
