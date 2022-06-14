@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Aranjuez",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/14/BOCM-20220614-39.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Aranjuez",
       "description": "Otros anuncios: Concesión demanial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/14/BOCM-20220614-40.PDF"
     }
