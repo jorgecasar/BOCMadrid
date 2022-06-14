@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Organización y funcionamiento: Área de Gobierno de Vicealcaldía. Reglamento orgánico de los distritos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/14/BOCM-20220614-34.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Régimen económico: Área de Gobierno de Desarrollo Urbano. Concesión subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/14/BOCM-20220614-35.PDF"
     }
