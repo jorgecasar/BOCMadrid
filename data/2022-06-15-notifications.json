@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 3 de junio de 2022, del Rector de la Universidad Complutense de Madrid, por la que se ordena la publicación de la modificación parcial de la Relación de Puestos de Trabajo del Personal de Administración y Servicios Laboral de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/15/BOCM-20220615-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 2 de junio de 2022, de la Universidad de Alcalá, por la que se resuelve el concurso de traslado convocado por Resolución de 20 de diciembre de 2021",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/15/BOCM-20220615-20.PDF"
