@@ -1,20 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 141,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/06/15/BOCM-20220615.PDF",
-      "total": 120,
-      "items": {
-        "Comunidad de Madrid": 57,
-        "Disposiciones y Anuncios del Estado": 3,
-        "Administración Local Ayuntamientos": 47,
-        "Administración de Justicia": 12,
-        "Otros Anuncios": 1
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
