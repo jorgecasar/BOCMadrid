@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 2 de junio de 2022, de la Dirección General de Presupuestos, por la que se hace público el “estado de ejecución del presupuesto de gastos” correspondiente al mes de abril de 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/15/BOCM-20220615-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Política Social",
       "description": "Resolución 2403/2022, de 30 de mayo, de la Dirección General de Evaluación, Calidad e Innovación de la Consejería Familia, Juventud y Política Social, por la que se aprueba la Carta de Servicios de la Dirección General",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/15/BOCM-20220615-24.PDF"
