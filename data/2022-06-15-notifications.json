@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 2 de junio de 2022, de la Universidad de Alcalá, por la que se resuelve el concurso de traslado convocado por Resolución de 20 de diciembre de 2021",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/15/BOCM-20220615-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Orden 1465/2022, de 1 de junio, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se autoriza la desadscripción del Centro Universitario de Ciencias de la Salud San Rafael de la Universidad Antonio de Nebrija",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/15/BOCM-20220615-21.PDF"
