@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Presidencia de La Comunidad",
-      "description": "Decreto 38/2022, de 15 de junio, de la Presidenta de la Comunidad de Madrid, por el que se nombra Vicepresidente, Consejero de Educación y Universidades a don Enrique Ossorio Crespo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/16/BOCM-20220616-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Orden de 7 de junio de 2022, del Consejero de Presidencia, Justicia e Interior, por la que se aprueba convocatoria pública para la provisión de dos puestos de trabajo vacantes en la Consejería de Presidencia, Justicia e Interior, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/16/BOCM-20220616-3.PDF"
