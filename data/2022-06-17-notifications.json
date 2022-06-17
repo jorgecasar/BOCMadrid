@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
-      "description": "Extracto de la Orden 1270/2022, de 19 de mayo, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se convocan los Premios Extraordinarios de Formación Profesional de Grado Superior de la Comunidad de Madrid correspondientes al curso académico 2021-2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/17/BOCM-20220617-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 9 de junio de 2022, de la Secretaría General Técnica de la Consejería de Economía, Hacienda y Empleo, por la que se delega determinada competencia en materia de personal en la Dirección General de Recursos Humanos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/17/BOCM-20220617-20.PDF"
