@@ -1,0 +1,62 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 144,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/06/18/BOCM-20220618.PDF",
+      "total": 11,
+      "items": {
+        "Comunidad de Madrid": 6,
+        "Administración de Justicia": 5
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 30 de mayo de 2022, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa Valoriza Servicios Medioambientales, S. A. (centro de limpieza pública viaria, recogida de residuos sólidos urbanos y punto limpio de Alcalá de Henares) (código número28102131012018)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/18/BOCM-20220618-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Convenio de colaboración de 26 de mayo de 2022, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Política Social y el Ayuntamiento de El Álamo, para el desarrollo de la atención social primaria y otros programas por los servicios sociales de las entidades locales para el año 2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/18/BOCM-20220618-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Convenio de colaboración de 26 de mayo de 2022, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Política Social, y el Ayuntamiento de Colmenar Viejo para el desarrollo de la atención social primaria y otros programas por los servicios sociales de las entidades locales para el año 2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/18/BOCM-20220618-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Convenio de colaboración de 26 de mayo de 2022, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Política Social, y el Ayuntamiento de Galapagar, para el desarrollo de la atención social primaria y otros programas por los servicios sociales de las entidades locales para el año 2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/18/BOCM-20220618-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Convenio de colaboración de 26 de mayo de 2022, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Política Social y el Ayuntamiento de Humanes de Madrid, para el desarrollo de la Atención Social Primaria y otros programas por los Servicios Sociales de las Entidades Locales para el año 2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/18/BOCM-20220618-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Adenda de 30 de mayo de 2022, de modificación del convenio entre la Comunidad de Madrid, a través de la Consejería de Sanidad, el Servicio Madrileño de Salud y la Fundación Diversión Solidaria, para la implantación de un proyecto de actividades musicales mediante el acompañamiento de los pacientes en los centros sanitarios del Servicio Madrileño de Salud",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/18/BOCM-20220618-6.PDF"
+    }
+  }
+]
