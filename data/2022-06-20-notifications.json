@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Orden 824/22, de 6 de junio, de la Consejería de Sanidad, por la que se crea el Comité Director de la Estrategia Regional de Terapias Avanzadas de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/20/BOCM-20220620-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Resolución de 6 de junio de 2022, de la Secretaria General Técnica de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se dispone la publicación de la formalización del contrato de “Limpieza de diferentes inmuebles de la Consejería de Educación, Universidades, Ciencia y Portavocía de la Comunidad de Madrid, dividido en dos lotes”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/20/BOCM-20220620-14.PDF"
