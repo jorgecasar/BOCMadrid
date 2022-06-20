@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
-      "description": "Extracto de la Orden 1412/2022, de 2 de junio, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se procede a la convocatoria de ayudas para el fomento de la agricultura compatible con la conservación de las aves esteparias de la Red Natura 2000 para el programa agroambiental 2023-2027, cofinanciadas por el Fondo Europeo Agrícola de Desarrollo Rural (FEADER) y la Administración General del Estado",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/20/BOCM-20220620-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 824/22, de 6 de junio, de la Consejería de Sanidad, por la que se crea el Comité Director de la Estrategia Regional de Terapias Avanzadas de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/20/BOCM-20220620-13.PDF"
