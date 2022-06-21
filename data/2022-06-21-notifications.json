@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 819/2022, de 3 de junio, de la Consejera de Cultura, Turismo y Deporte, por la que se delimita el entorno de protección de la iglesia de San Ginés en Madrid, declarada monumento histórico-artístico",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/21/BOCM-20220621-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 820/2022, de 3 de junio, de la Consejera de Cultura, Turismo y Deporte, por la que se delimita el entorno de protección de la Iglesia de Benedictinos de Montserrat, en Madrid, declarada monumento histórico-artístico",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/21/BOCM-20220621-18.PDF"
     }
