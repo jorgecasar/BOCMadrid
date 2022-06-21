@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Resolución de 17 de junio de 2022, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se aprueba la modificación de la relación definitiva de adjudicación de plazas, en el concurso de traslados voluntario a plazas de personal estatutario de la categoría de Matrona del Servicio de Salud de la Comunidad de Madrid, por estimación parcial de recurso de alzada",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/21/BOCM-20220621-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 940/2022, de 9 de junio, de la Consejería de Cultura, Turismo y Deporte, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en dicha Consejería por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/21/BOCM-20220621-10.PDF"
