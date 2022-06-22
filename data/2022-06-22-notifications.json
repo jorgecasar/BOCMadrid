@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
-      "description": "Orden 1587/2022, de 8 de junio, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se regula el procedimiento de admisión y matrícula del alumnado oficial y libre en las escuelas oficiales de idiomas de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/21/BOCM-20220621-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Orden 1606/2022, de 8 de junio, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se autoriza la implantación y modificación de proyectos bilingües de Formación Profesional en centros sostenidos con fondos públicos en la Comunidad de Madrid, en el curso 2022-2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/21/BOCM-20220621-13.PDF"
     }
