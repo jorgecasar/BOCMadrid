@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 4 de junio de 2022, de la Dirección General de Promoción Económica e Industrial, por la que se aprueban los modelos de impresos para el Registro de instalaciones de rayos X con fines de diagnóstico médico y sus anexos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/21/BOCM-20220621-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 818/2022, de 3 de junio, de la Consejera de Cultura, Turismo y Deporte, por la que se delimita el entorno de protección de la casa número 11 de la calle Cervantes, de Madrid (Casa Museo Lope de Vega), declarada monumento histórico-artístico",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/21/BOCM-20220621-16.PDF"
