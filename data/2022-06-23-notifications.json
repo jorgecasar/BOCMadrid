@@ -1,19 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 148,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/06/23/BOCM-20220623.PDF",
-      "total": 112,
-      "items": {
-        "Comunidad de Madrid": 48,
-        "Administración Local Ayuntamientos": 38,
-        "Administración de Justicia": 24,
-        "Otros Anuncios": 2
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Asamblea de Madrid",
