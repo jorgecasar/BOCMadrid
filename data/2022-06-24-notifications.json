@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Régimen económico: Área de Gobierno de Economía, Innovación y Empleo. Extracto convocatoria subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/24/BOCM-20220624-37.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Régimen económico: Área de Gobierno de Vicealcaldía. Extracto convocatoria subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/24/BOCM-20220624-38.PDF"
     }
