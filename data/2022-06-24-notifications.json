@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Urbanismo: Área de Gobierno de Desarrollo Urbano. Plan especial mejora de redes públicas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/24/BOCM-20220624-39.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Urbanismo: Área de Gobierno de Desarrollo Urbano. Plan especial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/24/BOCM-20220624-40.PDF"
     }
