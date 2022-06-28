@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Transportes e Infraestructuras",
-      "description": "Anuncio periódico indicativo de 16 de junio de 2022, relativo al contrato de homogeneización parque bombas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/28/BOCM-20220628-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Transportes e Infraestructuras",
       "description": "Anuncio periódico indicativo de 16 de junio de 2022, relativo al acuerdo marco “hardware” y “software” plataforma servidor",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/28/BOCM-20220628-36.PDF"
     }
