@@ -1,18 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 152,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/06/28/BOCM-20220628.PDF",
-      "total": 100,
-      "items": {
-        "Comunidad de Madrid": 38,
-        "Administración Local Ayuntamientos": 38,
-        "Administración de Justicia": 24
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
