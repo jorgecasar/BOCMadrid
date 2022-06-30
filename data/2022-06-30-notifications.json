@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 16 de junio de 2022, de la Universidad de Alcalá, por la que se nombra Catedrático de Universidad del Área de Conocimiento de “Métodos Cuantitativos para la Economía y la Empresa” a don Carmelo Andrés García Pérez",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/29/BOCM-20220629-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 20 de junio de 2022, de la Universidad Rey Juan Carlos, por la que se convoca concurso de acceso a plazas de cuerpos docentes universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/29/BOCM-20220629-27.PDF"
