@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Decreto 39/2022, de 22 de junio, del Consejo de Gobierno, por el que se declara bien de interés cultural de la Comunidad de Madrid la pintura titulada “San Miguel venciendo al diablo”, realizada por Pedro Delgado",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/29/BOCM-20220629-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 960/2022, de 15 de junio, de la Consejera de Cultura, Turismo y Deporte, por la que se establecen las bases reguladoras de las ayudas a la traducción de libros",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/29/BOCM-20220629-33.PDF"
     }
