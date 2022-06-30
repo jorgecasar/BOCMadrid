@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Política Social",
-      "description": "Orden 1478/2022, de 27 de junio, de la Consejera de Familia, Juventud y Política Social, por la que se regula el procedimiento para la gestión, concesión y pago del Bono Social Térmico en la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/29/BOCM-20220629-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 889/22, de 16 de junio, del Consejero de Sanidad, por la que se declara la compra centralizada del “Suministro de medicamentos exclusivos para todos los hospitales dependientes del Servicio Madrileño de Salud-187 lotes”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/29/BOCM-20220629-30.PDF"
