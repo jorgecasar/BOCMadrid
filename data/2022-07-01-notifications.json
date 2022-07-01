@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 30 de junio de 2022, de la Rectora de la Universidad Autónoma de Madrid, por la que se resuelve parcialmente la convocatoria pública para la provisión de tres puestos de trabajo vacantes mediante el sistema de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Extracto de la Orden 1754/2022, del Vicepresidente, Consejero de Educación y Universidades, por la que se aprueba la convocatoria de las ayudas económicas para ampliación de estudios de idiomas, música, danza, arte dramático, diseño, conservación y restauración de bienes culturales y artes plásticas y diseño en el extranjero para el año 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-10.PDF"
