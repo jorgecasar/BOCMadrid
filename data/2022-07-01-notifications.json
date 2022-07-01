@@ -1,0 +1,584 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 155,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/07/01/BOCM-20220701.PDF",
+      "total": 83,
+      "items": {
+        "Comunidad de Madrid": 43,
+        "Administración Local Ayuntamientos": 28,
+        "Administración de Justicia": 10,
+        "Otros Anuncios": 2
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Vicepresidencia, Consejería de Educación y Universidades",
+      "description": "Decreto 43/2022, de 29 de junio, del Consejo de Gobierno, por el que se establecen los precios públicos por estudios universitarios conducentes a títulos oficiales y servicios de naturaleza académica en las universidades públicas de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Orden de 21 de junio de 2022, de la Consejería de Presidencia, Justicia e Interior, por la que se modifica la Orden de 13 de julio de 2009, de la Consejería de Presidencia, Justicia e Interior, por la que se establece el procedimiento y sistema de abono de las sustituciones en cuerpo superior para los Funcionarios al Servicio de la Administración de Justicia",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Resolución de 14 de junio de 2022, de la Dirección General de Recursos Humanos y Relaciones con la Administración de Justicia de la Consejería de Presidencia, Justicia e Interior, por la que se convocan puestos para su cobertura por el sistema de Libre Designación para la Nueva Oficina Fiscal de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Orden 1811/2022, de 2 de junio, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se resuelve la convocatoria aprobada por Orden 606/2022, de 11 de marzo (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 23 de marzo de 2022), para la provisión de puestos de trabajo vacantes en dicha Consejería por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 22 de junio de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Economía, Hacienda y Empleo por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 22 de junio de 2022, de la Consejería de Economía, Hacienda y Empleo, por la que se nombran funcionarios de carrera del Cuerpo de Técnicos y Diplomados Especialistas, Escala de Ayudantes de Archivos, Bibliotecas y Museos, Especialidad de Archivos, de Administración Especial, Grupo A, Subgrupo A2, de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 13 de junio de 2022, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre” del Servicio Madrileño de Salud, por la que se convoca un puesto de Jefe de Sección de Anestesiología y Reanimación con perfil en Anestesiología y Reanimación Infantil en este centro asistencial, para su cobertura mediante nombramiento provisional",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 9 de junio de 2022, de la Dirección-Gerencia del Hospital Universitario “Ramón y Cajal”, del Servicio Madrileño de Salud, por la que se convoca un puesto de Jefe de Sección de Anestesiología y Reanimación (Actividad de Tarde) en este centro asistencial para su cobertura mediante nombramiento provisional",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-8.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Autónoma de Madrid",
+      "description": "Resolución de 30 de junio de 2022, de la Rectora de la Universidad Autónoma de Madrid, por la que se resuelve parcialmente la convocatoria pública para la provisión de tres puestos de trabajo vacantes mediante el sistema de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-9.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Vicepresidencia, Consejería de Educación y Universidades",
+      "description": "Extracto de la Orden 1754/2022, del Vicepresidente, Consejero de Educación y Universidades, por la que se aprueba la convocatoria de las ayudas económicas para ampliación de estudios de idiomas, música, danza, arte dramático, diseño, conservación y restauración de bienes culturales y artes plásticas y diseño en el extranjero para el año 2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-10.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Decreto 40/2022, de 29 de junio, del Consejo de Gobierno, por el que se aprueba la permuta de una franja de superficie de 211,3 m2, incluida en una parcela propiedad de la empresa Lontri JB, S. L., y su declaración de utilidad pública y agregación al monte “Los Cotos”, número 189 del catálogo de montes de utilidad pública de la Comunidad de Madrid, por una franja de la misma superficie del citado monte y la desafectación de su carácter de utilidad pública, ambas situadas en el término municipal de Rascafría",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-11.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 20 de junio de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se declara el importe de la ampliación en 8.250.000 euros del crédito disponible destinado a dar cobertura financiera en 2022 a la concesión directa de subvenciones para la ayuda a la recuperación para la cohesión y los territorios de Europa (REACT-UE), a través del Programa Operativo Regional FSE, dentro del Programa de Estímulo a la Contratación de Jóvenes para la Recuperación Económica",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-12.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Decreto 44/2022, de 29 de junio, del Consejo de Gobierno, por el que se regula la prestación económica para apoyar el acogimiento familiar de menores de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-13.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Convenio de 26 de mayo de 2022, entre la Comunidad de Madrid (Consejería de Presidencia, Justicia e Interior) y el Ayuntamiento de Cabanillas de la Sierra, para la integración de la operativa del Cuerpo de Policía Local del Ayuntamiento de Cabanillas de la Sierra en el Centro de Coordinación Municipal de la Viceconsejería de Interior y Dirección de la Agencia de Seguridad y Emergencias Madrid 112",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-14.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Convenio de 27 de mayo de 2022, entre la Comunidad de Madrid (Consejería de Presidencia, Justicia e Interior) y el Ayuntamiento de Pelayos de la Presa, para la integración de la operativa del cuerpo de Policía Local del Ayuntamiento de Pelayos de la Presa en el centro de coordinación municipal de la Viceconsejería de Interior y Dirección de la Agencia de Seguridad y Emergencias Madrid 112",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-15.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 16 de junio de 2022, del Director General de Descarbonización y Transición Energética de la Comunidad de Madrid, por la que se acuerda hacer pública la Declaración de Impacto Ambiental del proyecto del complejo ambiental de tratamiento de residuos urbanos en el ámbito del vertedero de residuos urbanos situado en la carretera de San Agustín de Guadalix, kilómetro 2,5, en el término municipal de Colmenar Viejo, promovido por Mancomunidad del Noroeste (expediente: 10-IPPC-00049.3/21)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-16.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 16 de junio de 2022, del Director General de Descarbonización y Transición Energética de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se acuerda hacer público el Informe Ambiental Estratégico del Plan de Movilidad Sostenible Madrid 360, promovido por la Dirección General de Planificación e Infraestructuras de Movilidad del Ayuntamiento de Madrid (Expediente: 10-UB2-00018.2/2022, SIA 22/018)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-17.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 16 de junio de 2022, del Director General de Descarbonización y Transición Energética de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se acuerda hacer público el Informe Ambiental Estratégico de la Modificación Puntual No Sustancial del Plan General de Ordenación Urbana de Madrid de 1997, relativa a la subsanación de un error en la calle de María de Molina, número 42, Distrito de Salamanca, del municipio de Madrid, promovido por el Ayuntamiento de Madrid (Expediente: 10-UB2-00092.3/2022, SIA 22/092)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-18.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 21 de junio de 2022, de Canal de Isabel II, S. A., por la que se hace pública la convocatoria del contrato por procedimiento abierto para los servicios de verificación y de mantenimiento reglamentario en las instalaciones del ciclo integral del agua adscritas a las Áreas de las Subdirecciones de Planificación Recursos Hídricos y Abastecimiento y de Depuración y Medio Ambiente de Canal de Isabel II, S. A.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-19.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 22 de junio de 2022, de Canal de Isabel II, S. A., por la que se hace pública la convocatoria del contrato por procedimiento abierto para la renovación y ampliación de software de Broadcom para Canal de Isabel II, S. A.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-20.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 7 de junio de 2022, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre modificación de los estatutos de la asociación denominada Asociación de Empresarios de Ocio y Espectáculos de la Comunidad de Madrid-Noche Madrid (número de registro de la Asociación 28000843)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-21.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Corrección de errores de la Resolución de 7 de junio de 2022, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa Mondelez España Commercial, S. L. U. (oficina de Madrid) (código número 28102791012020)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-22.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 21 de junio de 2022, de la Dirección-Gerencia del Centro de Transfusión de la Comunidad de Madrid, por la que se dispone la publicación de la formalización de la prórroga número 1 del contrato de “Suministro de sistemas de aféresis multicomponentes”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-23.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 20 de junio de 2022, de la Dirección-Gerencia del Hospital General Universitario “Gregorio Marañón”, por la que se dispone la publicación de la convocatoria del contrato de «Suministro de instrumental quirúrgico y contenedores de esterilización para el nuevo bloque quirúrgico del Hospital General Universitario “Gregorio Marañón”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-24.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Anuncio de 20 de junio de 2022, de la convocatoria del contrato denominado «Servicio de mantenimiento integral y actualización tecnológica de los motores quirúrgicos de la marca “Stryker” del Hospital General Universitario “Gregorio Marañón”». A/SER-021971/2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-25.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 20 de junio de 2022, de la Dirección-Gerencia del Hospital Universitario “Ramón y Cajal”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante”, de la formalización de la modificación del contrato 2020400002 «Adquisición del fármaco Ocrelizumab 300 mg (Ocrevus),  del Hospital Universitario “Ramón y Cajal”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-26.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 20 de junio de 2022, de la Dirección-Gerencia del Hospital Universitario “Ramón y Cajal”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante”, la formalización de la modificación del contrato 2021400022 «Adquisición del fármaco Zejula 100 mg caps. duras (Niraparib), del Hospital Universitario “Ramón y Cajal”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-27.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 20 de junio de 2022, de la Dirección-Gerencia del Hospital Universitario “Ramón y Cajal”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la convocatoria del contrato de «Suministro de dispositivos percutáneos de reducción del anillo tricuspídeo para el Servicio de Cardiología del Hospital Universitario “Ramón y Cajal”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-28.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 14 de junio de 2022, de la Dirección-Gerencia del Hospital Universitario de Getafe, por la que se dispone la publicación, en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante”, de la modificación del contrato de “Suministro reactivos para la identificación de microorganismos en el Hospital Universitario de Getafe”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-29.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 17 de junio de 2022, de la Dirección-Gerencia del Hospital Universitario de Getafe, por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante”, de la modificación del contrato de “Suministro de productos de lavado y desinfección endoscopios en el Hospital Universitario de Getafe”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-30.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Anuncio de 29 de junio de 2022, por el que se convoca la licitación para la contratación de un “Servicio de soporte y mantenimiento de las licencias SAP” . (Expediente 6012200141)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-31.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Resolución de 13 de junio de 2022, de la Dirección General de Patrimonio Cultural de la Comunidad de Madrid, por la que se incoa el expediente de declaración de Bien de Interés Cultural de la Pintura “El apóstol Santiago y sus discípulos adorando a la Virgen del Pilar”, realizada por Francisco de Goya y Lucientes",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-32.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Resolución de 13 de junio de 2022, de la Dirección General de Patrimonio Cultural de la Comunidad de Madrid, por la que se incoa el expediente de declaración de Bien de Interés Cultural de la pintura “Retrato de Valentín Belvís de Moncada”, realizada por Francisco de Goya y Lucientes",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-33.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Resolución de 14 de junio de 2022, de la Dirección General de Patrimonio Cultural de la Comunidad De Madrid, por la que se incoa el expediente de declaración de Bien de Interés Cultural de la “Real provisión original otorgada por los Reyes Católicos concediendo a Cristóbal Colón escudo de armas”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-34.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Resolución de 14 de junio de 2022, de la Dirección General de Patrimonio Cultural de la Comunidad de Madrid, por la que se incoa el expediente de declaración como Bien de Interés Patrimonial de la Comunidad de Madrid, de la ermita de San Blas, en el barrio de Canillas, Distrito de Hortaleza de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-35.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Resolución de 15 de junio de 2022, de la Dirección General de Patrimonio Cultural de la Comunidad de Madrid, por la que se incoa el expediente de declaración de Bien de Interés Cultural de la pintura “Maja y Celestina”, realizada por Francisco de Goya y Lucientes",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-36.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Resolución de 15 de junio de 2022, de la Dirección General de Patrimonio Cultural de la Comunidad de Madrid, por la que se incoa el expediente de Declaración de Bien de Interés Cultural, en la categoría de Monumento, de La Cartuja, en Talamanca de Jarama (Madrid)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-37.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Resolución de 15 de junio de 2022, de la Dirección General de Patrimonio Cultural de la Comunidad de Madrid, para la incoación del expediente de declaración como bien de interés cultural, en la categoría de Zona de Interés Arqueológico, del yacimiento “Calatalifa”, en Villaviciosa de Odón (Madrid)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-38.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Resolución de 15 de junio de 2022, de la Dirección General de Patrimonio Cultural de la Comunidad de Madrid, por la que se incoa el expediente de Declaración de Bien de Interés Cultural, en la categoría de Hecho Cultural, de la Fiesta de las Mayas de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-39.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 12 de junio de 2022, entre la Comunidad de Madrid, a través de la Consejería de Cultura, Turismo y Deporte, y la Federación de Atletismo de Madrid para la organización de Campus de promoción deportiva, detección de talentos y tecnificación en el Parque Deportivo “Puerta de Hierro”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-40.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 12 de junio de 2022, entre la Comunidad de Madrid, a través de la Consejería de Cultura, Turismo y Deporte, y la Federación Madrileña de Bádminton para la organización de Campus de promoción deportiva, detección de talentos y tecnificación en el Parque Deportivo “Puerta de Hierro”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-41.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 12 de junio de 2022, entre la Comunidad de Madrid (Consejería de Cultura, Turismo y Deporte) y la Federación Madrileña de Kárate y Disciplinas Asociadas, para la organización de Campus de promoción deportiva, detección de talentos y tecnificación en el Parque Deportivo “Puerta de Hierro”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-42.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 14 de junio de 2022, entre la Comunidad de Madrid (Consejería de Cultura, Turismo y Deporte) y la Federación Madrileña de Béisbol y Sófbol, para la organización de campus de promoción deportiva, detección de talentos y tecnificación en el Parque Deportivo “Puerta de Hierro” y en la instalación deportiva “San Vicente de Paúl”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-43.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Régimen económico: Área de Gobierno de Desarrollo Urbano. Convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-44.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Otros anuncios: Área de Gobierno de Medio Ambiente y Movilidad. Autorización demanial huertos urbanos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-45.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcorcón",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-46.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcorcón",
+      "description": "Personal: Nombramiento",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-47.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcorcón",
+      "description": "Personal: Nombramientos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-48.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Aldea del Fresno",
+      "description": "Régimen económico: Precios públicos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-49.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Buitrago del Lozoya",
+      "description": "Régimen económico: Ordenanza fiscal expedición documentos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-50.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Buitrago del Lozoya",
+      "description": "Régimen económico: Ordenanza fiscal servicios culturales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-51.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Chapinería",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-52.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Cobeña",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-53.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Cobeña",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-54.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "El Atazar",
+      "description": "Régimen económico: Padrones fiscales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-55.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Fuente el Saz de Jarama",
+      "description": "Contratación: Mesa Contratación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-56.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Gargantilla del Lozoya y Pinilla de Buitrago",
+      "description": "Régimen económico: Ordenanza fiscal derechos examen",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-57.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Gargantilla del Lozoya y Pinilla de Buitrago",
+      "description": "Régimen económico: Ordenanza fiscal vehículos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-58.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Getafe",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-59.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Griñón",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-60.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Hoyo de Manzanares",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-61.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Leganés",
+      "description": "Licencias: Grupo Curie Eritia, S. L.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-62.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Los Molinos",
+      "description": "Urbanismo: Estudio detalle",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-63.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Móstoles",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-64.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Pozuelo de Alarcón",
+      "description": "Organización y funcionamiento: Delegación funciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-65.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Rivas-Vaciamadrid",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-66.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Valverde de Alcalá",
+      "description": "Régimen económico: Cuenta general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-67.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villalbilla",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-68.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villalbilla",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-69.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villamanrique de Tajo",
+      "description": "Régimen económico: Ordenanza fiscal incremento valor de terrenos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-70.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villamanrique de Tajo",
+      "description": "Régimen económico: Cuenta general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-71.PDF"
+    }
+  }
+]
