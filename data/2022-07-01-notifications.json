@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Política Social",
-      "description": "Decreto 44/2022, de 29 de junio, del Consejo de Gobierno, por el que se regula la prestación económica para apoyar el acogimiento familiar de menores de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Convenio de 26 de mayo de 2022, entre la Comunidad de Madrid (Consejería de Presidencia, Justicia e Interior) y el Ayuntamiento de Cabanillas de la Sierra, para la integración de la operativa del Cuerpo de Policía Local del Ayuntamiento de Cabanillas de la Sierra en el Centro de Coordinación Municipal de la Viceconsejería de Interior y Dirección de la Agencia de Seguridad y Emergencias Madrid 112",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-14.PDF"
