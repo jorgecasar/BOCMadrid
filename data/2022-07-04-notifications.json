@@ -1,0 +1,832 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 157,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/07/04/BOCM-20220704.PDF",
+      "total": 110,
+      "items": {
+        "Comunidad de Madrid": 77,
+        "Administración Local Ayuntamientos": 25,
+        "Administración de Justicia": 5,
+        "Otros Anuncios": 3
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Vicepresidencia, Consejería de Educación y Universidades",
+      "description": "Orden 1729/2022, de 21 de junio, del Vicepresidente, Consejero de Educación y Universidades, por la que se resuelve la convocatoria aprobada por Orden 1095/2022, de 5 de mayo, del entonces Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 18 de mayo), para la provisión de un puesto de trabajo vacante en la entonces Consejería de Educación, Universidades, Ciencia y Portavocía por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Orden 1821/2022, de 22 de junio, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se resuelve la convocatoria aprobada por Orden 774/2022, de 25 de marzo (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 11 de abril de 2022), para la provisión de puestos de trabajo vacantes en dicha Consejería por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 21 de junio de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en la Consejería de Economía, Hacienda y Empleo por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 21 de junio de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Vicepresidencia, Consejería de Educación y Universidades, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 21 de junio de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Vicepresidencia, Consejería de Educación y Universidades, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 21 de junio de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Vicepresidencia, Consejería de Educación y Universidades, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 21 de junio de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicha Consejería, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 21 de junio de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de dos puestos de trabajo vacantes en la Consejería de Presidencia, Justicia e Interior, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-8.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 22 de junio de 2022, de la Consejería de Economía, Hacienda y Empleo, por la que se procede a la corrección de la Orden de 7 de junio de 2022, por la que se nombran funcionarios de carrera del Cuerpo de Técnicos y Diplomados Especialistas, Especialidad de Ciencias Experimentales, de Administración Especial, Grupo A, Subgrupo A2, de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-9.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 22 de junio de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se resuelve la convocatoria aprobada mediante Orden de 4 de marzo de 2022 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 16 de marzo), para la provisión de un puesto de trabajo por el procedimiento de Concurso de Méritos en la Consejería de Economía, Hacienda y Empleo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-10.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 23 de junio de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en la Consejería de Economía, Hacienda y Empleo, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-11.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Orden de 22 de junio de 2022, de la Consejería de Familia, Juventud y Política Social, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Familia, Juventud y Política Social, por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-12.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Orden 912/2022, de 22 de junio, del Consejero de Sanidad, por la que se resuelve la convocatoria aprobada mediante Orden 299/2022, de 3 de marzo (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 16 de marzo de 2022), para la provisión de puestos de trabajo por el procedimiento de Concurso de Méritos en la Consejería de Sanidad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-13.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Orden 915/2022, de 22 de junio, del Consejero de Sanidad, por la que se resuelve la convocatoria aprobada por Orden 501/2022, de 6 de abril, de esta Consejería de Sanidad (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 20 de abril), para la provisión de un puesto de trabajo vacante en la citada Consejería por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-14.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 21 de junio de 2022, de la Directora General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se adjudica el puesto de Director/a Médico en el Hospital Universitario del Henares adscrito al Servicio Madrileño de Salud",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-15.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 6 de junio de 2022, de la Dirección-Gerencia del Hospital General Universitario “Gregorio Marañón”, del Servicio Madrileño de Salud, por la que se resuelve la convocatoria de 29 de septiembre de 2021 de un puesto de Jefe de Sección de Radiodiagnóstico (Patología mamaria y ginecológica)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-16.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 6 de junio de 2022, de la Dirección-Gerencia del Hospital Universitario “La Paz” del Servicio Madrileño de Salud, por la que se publica la relación definitiva de admitidos y excluidos al proceso de provisión convocado para la cobertura de un puesto de Jefe de Servicio de Cirugía Oral y Maxilofacial, en ese centro asistencial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-17.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 6 de junio de 2022, de la Dirección-Gerencia del Hospital Universitario “La Paz” del Servicio Madrileño de Salud, por la que se publica la relación definitiva de admitidos y excluidos al proceso de provisión convocado para la cobertura de un puesto de Jefe de Sección de Neurocirugía, en ese centro asistencial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-18.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 14 de junio de 2022, de la Dirección-Gerencia del Hospital Universitario “La Paz”, del Servicio Madrileño de Salud, por la que se publica la relación definitiva de admitidos y excluidos al proceso de provisión convocado para la cobertura de un puesto de Jefe de Sección de Obstetricia y Ginecología, Oncología, en ese centro asistencial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-19.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 15 de junio de 2022, de la Dirección-Gerencia del Hospital Universitario “La Paz” del Servicio Madrileño de Salud, por la que se publica la relación definitiva de admitidos y excluidos al proceso de provisión convocado para la cobertura de un puesto de Jefe de Sección de Pediatría y sus Áreas Específicas, Patología Crónica compleja, en ese centro asistencial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-20.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 15 de junio de 2022, de la Dirección-Gerencia del Hospital Universitario “La Paz”, del Servicio Madrileño de Salud, por la que se publica la relación definitiva de admitidos y excluidos al proceso de provisión convocado para la cobertura de un puesto de Jefe de Sección de Urología, Oncología Urológica, en ese centro asistencial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-21.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 20 de junio 2022, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre”, del Servicio Madrileño de Salud, por la que se publica la relación provisional de admitidos y excluidos al proceso de provisión convocado para la cobertura de un puesto de Jefe de Servicio en Otorrinolaringología en ese centro asistencial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-22.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 20 de junio de 2022, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre” del Servicio Madrileño de la Salud, por la que se resuelve la convocatoria de fecha 26 de enero de 2022 de un puesto de Jefe de Sección de Nefrología",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-23.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 9 de junio de 2022, de la Dirección-Gerencia del Hospital Universitario “Príncipe de Asturias”, del Servicio Madrileño de Salud, por la que se publica la relación provisional de admitidos y excluidos al proceso de provisión convocado para la cobertura de un puesto de Jefe de Servicio de Pediatría y sus Áreas Específicas en ese centro asistencial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-24.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 7 de junio de 2022, de la Dirección-Gerencia del Hospital “El Escorial” del Servicio Madrileño de Salud, por la que se publica la relación definitiva de admitidos y excluidos al proceso de provisión convocado para la cobertura de un puesto de Jefe de Sección de Cirugía General y del Aparato Digestivo en ese centro asistencial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-25.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 8 de junio de 2022, de la Dirección-Gerencia del Hospital Universitario “Severo Ochoa” del Servicio Madrileño de Salud, por la que se publica la relación definitiva de admitidos y excluidos al proceso de provisión convocado para la cobertura de un puesto de Jefe de Sección de Cirugía General y del Aparato Digestivo en ese centro asistencial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-26.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 10 de junio de 2022, de la Dirección-Gerencia del Hospital Universitario de Móstoles, del Servicio Madrileño de Salud, por la que se publica la relación provisional de admitidos y excluidos al proceso de provisión convocado para la cobertura de un puesto de Jefe de Servicio de Cardiología en ese centro asistencial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-27.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 6 de junio de 2022, de la Dirección-Gerencia del Hospital Universitario “Infanta Sofía” del Servicio Madrileño de Salud, por la que se publica la relación definitiva de admitidos al proceso de provisión convocado para la cobertura de un puesto de Jefe de Servicio de Otorrinolaringología en ese centro asistencial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-28.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 15 de junio de 2022, de la Dirección-Gerencia del Hospital Universitario del Sureste, del Servicio Madrileño de Salud, por la que se publica la relación provisional de admitidos y excluidos al proceso de provisión convocado para la cobertura de un puesto de Jefe de Sección de Psiquiatría en ese centro asistencial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-29.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Carlos III",
+      "description": "Resolución de 17 de junio de 2022, de la Universidad Carlos III de Madrid por la que se nombran Profesores y Profesoras Titulares de Universidad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-30.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Orden de 20 de junio de 2022, del Consejero de Presidencia Justicia e Interior,  por la que se modifica parcialmente el Plan Estratégico de Subvenciones de la Consejería de Presidencia Justicia e Interior, aprobado por Orden de 7 de marzo de 2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-31.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Resolución de 14 de junio de 2022, de la Dirección General de Seguridad, Protección Civil y Formación, por la que se aprueba y se hace público el listado definitivo de admitidos a las pruebas para la obtención del Certificado Acreditativo del Personal de Control de Acceso a Espectáculos Públicos y Actividades Recreativas",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-32.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 20 de junio de 2022, del Director General de Agricultura, Ganadería y Alimentación, por la que se publica el modelo telemático correspondiente a la solicitud de mantenimiento de la capacitación para la realización de diferentes funciones con animales utilizados, criados o suministrados con fines de experimentación y otros fines científicos, incluyendo la docencia",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-33.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 20 de junio de 2022, de la Dirección General de Presupuestos, por la que se hace público el estado de ejecución del Presupuesto de gastos correspondiente al mes de mayo de 2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-34.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Orden de 3 de mayo del 2022, de la Consejera de Cultura, Turismo y Deporte, por la que se conceden subvenciones al amparo del Acuerdo de 1 de septiembre de 2021, del Consejo de Gobierno, por el que se aprueban las ayudas directas del programa de incentivo de la demanda de productos turísticos de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-35.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Orden de 4 de mayo del 2022, de la Consejera de Cultura, Turismo y Deporte, por la que se conceden subvenciones al amparo del Acuerdo de 1 de septiembre de 2021, del Consejo de Gobierno, por el que se aprueban las ayudas directas del programa de incentivo de la demanda de productos turísticos de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-36.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Orden de 5 de mayo de 2022, de la Consejera de Cultura, Turismo y Deporte, por la que se conceden subvenciones al amparo del Acuerdo de 1 de septiembre de 2021, del Consejo de Gobierno, por el que se aprueban las ayudas directas del programa de incentivo de la demanda de productos turísticos de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-37.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Orden de 6 de mayo de 2022, de la Consejera de Cultura, Turismo y Deporte, por la que se conceden subvenciones al amparo del Acuerdo de 1 de septiembre de 2021, del Consejo de Gobierno, por el que se aprueban las ayudas directas del programa de incentivo de la demanda de productos turísticos de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-38.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Orden de 9 de mayo del 2022, de la Consejera de Cultura, Turismo y Deporte, por la que se conceden subvenciones al amparo del Acuerdo de 1 de septiembre de 2021, del Consejo de Gobierno, por el que se aprueban las ayudas directas del programa de incentivo de la demanda de productos turísticos de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-39.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Orden de 10 de mayo del 2022, de la Consejera de Cultura, Turismo y Deporte, por la que se conceden subvenciones al amparo del Acuerdo de 1 de septiembre de 2021, del Consejo de Gobierno, por el que se aprueban las ayudas directas del programa de incentivo de la demanda de productos turísticos de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-40.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Orden de 11 de mayo de 2022, de la Consejera de Cultura, Turismo y Deporte, por la que se conceden subvenciones al amparo del Acuerdo de 1 de septiembre de 2021, del Consejo de Gobierno, por el que se aprueban las ayudas directas Ayudas del programa de incentivo de la demanda de productos turísticos de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-41.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Orden de 12 de mayo de 2022, de la Consejera de Cultura, Turismo y Deporte, por la que se conceden subvenciones al amparo del Acuerdo de 1 de septiembre de 2021, del Consejo de Gobierno, por el que se aprueban las ayudas directas ayudas del programa de incentivo de la demanda de productos turísticos de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-42.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Orden de 13 de mayo de 2022, de la Consejera de Cultura, Turismo y Deporte, por la que se conceden subvenciones al amparo del Acuerdo de 1 de septiembre de 2021, del Consejo de Gobierno, por el que se aprueban las ayudas directas del programa de incentivo de la demanda de productos turísticos de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-43.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Orden de 17 de mayo del 2022, de la Consejera de Cultura, Turismo y Deporte, por la que se conceden subvenciones al amparo del Acuerdo de 1 de septiembre de 2021, del Consejo de Gobierno, por el que se aprueban las ayudas directas del programa de incentivo de la demanda de productos turísticos de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-44.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Politécnica de Madrid",
+      "description": "Resolución definitiva de 29 de junio de 2022, del Rector de la Universidad Politécnica de Madrid, por la que se hace pública la relación definitiva de solicitudes beneficiarias de la segunda convocatoria de ayudas para la realización de Proyectos de I+D para jóvenes investigadores de la Universidad Politécnica de Madrid 2022, dentro del programa de apoyo y estímulo de la Comunidad de Madrid a jóvenes investigadores en el marco del Convenio Plurianual entre la Comunidad de Madrid y la Universidad Politécnica de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-45.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad de Alcalá",
+      "description": "Resolución de 24 de junio de 2022, del Rector de la Universidad de Alcalá, sobre delegación de competencias en la persona titular del Vicerrectorado de Relaciones Institucionales y Coordinación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-46.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Resolución de 22 de junio de 2022, de la Secretaría General Técnica de la Consejería de Presidencia, Justicia e Interior por la que se anuncia la licitación del contrato “Servicio de mensajería entre las diferentes dependencias judiciales de la Administración de Justicia del Partido Judicial de Madrid”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-47.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Convenio de 6 de junio de 2022, de asistencia jurídica a la Agencia para la Administración Digital de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-48.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
+      "description": "Adenda de 18 de mayo de 2022, al convenio de colaboración en materia de educación infantil suscrito entre la Comunidad de Madrid (Consejería de Educación e Investigación) y el Ayuntamiento de Colmenar de Oreja",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-49.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
+      "description": "Adenda de 18 de mayo de 2022, al convenio de colaboración en materia de educación infantil suscrito entre la Comunidad de Madrid (Consejería de Educación e Investigación) y el Ayuntamiento de Cervera de Buitrago",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-50.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
+      "description": "Adenda de 18 de mayo de 2022, al convenio de colaboración en materia de Educación Infantil suscrito entre la Comunidad de Madrid (Consejería de Educación e Investigación) y el Ayuntamiento de Fuente El Saz del Jarama",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-51.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
+      "description": "Adenda de 18 de mayo de 2022, al convenio de colaboración en materia de Educación Infantil suscrito entre la Comunidad de Madrid (Consejería de Educación e Investigación) y el Ayuntamiento de Cervera de El Vellón",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-52.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
+      "description": "Adenda de 18 de mayo de 2022, al convenio de colaboración en materia de Educación Infantil suscrito entre la Comunidad de Madrid (Consejería de Educación e Investigación) y el Ayuntamiento de Loeches",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-53.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
+      "description": "Convenio de colaboración de 13 de junio de 2022, entre la Comunidad de Madrid (Consejería de Educación, Universidades, Ciencia y Portavocía) y la Provincia Eclesiástica de Madrid para financiar la impartición de cursos de formación del profesorado durante el ejercicio 2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-54.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 9 de junio de 2022, del Director General de Agricultura, Ganadería y Alimentación, por la que se anuncia la exposición pública relativa a la autorización de ocupación temporal de la vía pecuaria Vereda de Atajo Vecinal de Collado, en el término municipal de Guadarrama, para soterramiento de tramos aéreos en la línea de media tensión 4089-14 Urban. Guadarrama, actuación promovida por I-DE Redes Eléctricas Inteligentes, S. A. U.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-55.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 15 de junio de 2022, del Director General de Descarbonización y Transición Energética de la Comunidad de Madrid, por la que se somete a información pública la documentación de la revisión de la Autorización Ambiental Integrada relativa a la actividad de recogida de residuos peligrosos, situada en calle Montes Universales, número 17-19, Pol. Industrial El Olivar, en el término municipal de Arganda del Rey, promovido por Fondomóvil, S. L. (expediente: 10-IPPC-00059.5/21)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-56.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 20 de junio de 2022, del Director General de Descarbonización y Transición Energética de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se acuerda hacer público el Informe Ambiental Estratégico de la Modificación Puntual de la Unidad de Actuación SAU-3 El Callejón del término municipal de Pedrezuela, promovido por el Ayuntamiento de Pedrezuela. (Expediente: 10-UB2-00201.2/2021, SIA 21/198)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-57.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 21 de junio de 2022, del Director General de Agricultura, Ganadería y Alimentación, por la que se anuncia la exposición pública relativa a la autorización de ocupación temporal de la vía pecuaria Vereda Toledana, en el término municipal de Griñón, para la instalación de una tubería de agua potable, actuación promovida por Canal de Isabel II, S. A.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-58.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Acuerdo de 15 de junio de 2022, de prórroga del convenio entre la Comunidad de Madrid (Consejería de Medio Ambiente, Vivienda y Agricultura) y el Ayuntamiento de El Vellón para la adhesión de información relativa a su patrimonio de suelo disponible al Portal de Suelo de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-59.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Resolución de 21 de junio de 2022, de la Secretaría General Técnica de la Consejería de Familia, Juventud y Política Social, por la que se dispone la publicación de la licitación del contrato de servicio denominado “Grabación de datos y manipulación y ensobrado de documentos para su notificación en materia de gestión y tramitación del procedimiento de reconocimiento de la situación de dependencia y del derecho a las prestaciones del sistema para la autonomía y atención a la dependencia de la Comunidad de Madrid”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-60.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Convenio de colaboración de 14 de junio de 2022, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Política Social y la Mancomunidad de Servicios Sociales Vega del Guadalix para el desarrollo de la atención social primaria y otros programas por los servicios sociales de las entidades locales para el año 2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-61.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Convenio de colaboración de 14 de junio de 2022, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Política Social y el Ayuntamiento de Pinto, para el desarrollo de la Atención Social Primaria y otros programas por los servicios sociales de las Entidades Locales para el año 2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-62.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Resolución 36/2022, de 22 de junio, del Director de la Agencia Madrileña para la Tutela de Adultos, por la que se dispone la publicación de la formalización del contrato de servicios denominado “Seguridad y vigilancia de diversas dependencias de la Agencia Madrileña para la Tutela de Adultos perteneciente a la Consejería de Familia, Juventud y Política Social de la Comunidad de Madrid, años 2022-2024”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-63.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 20 de junio de 2022, de la Directora General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se emplaza a los interesados en el recurso contencioso-administrativo, procedimiento ordinario número 818/2022, a fin de que puedan personarse en autos, si a su derecho conviniere",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-64.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 22 de junio de 2022, de la Dirección de Gerencia del Centro de Transfusión de la Comunidad de Madrid, por la que se dispone la publicación de la formalización de la prórroga número 1 del contrato de “Suministro de indicadores de irradiación de sangre”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-65.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 21 de junio de 2022, de la Dirección-Gerencia del Hospital General Universitario “Gregorio Marañón”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la formalización del contrato de «Servicio de construcción de la plataforma de contenidos basada en los datos del Hospital y variables externas del Hospital General Universitario “Gregorio Marañón”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-66.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 21 de junio de 2022, de la Gerencia del Hospital Universitario “La Paz”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de suministro de material fungible para marcapasos (cirugía cardíaca). P. A. 2021-0-51",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-67.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 21 de junio de 2022, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización de la prórroga del contrato para el «Suministro de sistema de cuchillas desechables doble capa platino para el Servicio de Anatomía Patológica del Hospital Universitario “12 de Octubre”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-68.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 21 de junio de 2022, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización de la prórroga del contrato para el suministro de endoprótesis híbrida para el Servicio de Cirugía Cardiaca del Hospital Universitario “12 de Octubre”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-69.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 21 de junio de 2022, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización de las prórrogas de los contratos para el suministro de sistemas de crioablación de venas pulmonares para el Hospital Universitario “12 de Octubre”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-70.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 21 de junio de 2022, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización de la prórroga del contrato, para el «Suministro de sistemas de control fecal para el Hospital Universitario “12 de Octubre”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-71.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 22 de junio de 2022, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la convocatoria del contrato 2022-0-75 «Servicio de conducción y mantenimiento preventivo, correctivo y técnico-legal de las instalaciones eléctricas de alta-media tensión y centros de transformación del Hospital Universitario “12 de Octubre” y sus centros de especialidades periféricos adscritos (Villaverde, Orcasitas y Carabanchel)»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-72.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 27 de junio de 2022, de la Dirección-Gerencia del Hospital Universitario “Ramón y Cajal”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la ampliación de plazo de presentación de ofertas del expediente 2022000017 de la convocatoria del contrato de «Suministro de productos sanitarios precisos para la gestión integral del tratamiento de enfermedades neurológicas de trastornos del movimiento mediante estimulación cerebral profunda para el Servicio de Neurocirugía del Hospital Universitario “Ramón y Cajal”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-73.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 20 de junio de 2022, de la Dirección-Gerencia del Hospital Clínico “San Carlos” de Madrid, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato PNSP 2020-1-402 «Suministro de Cabozantinib (Cabometyx), Lanreotida (Somatulina AutogeL) y Mecasermina (Increlex), de distribución exclusiva, con destino al Servicio de Farmacia del Hospital Clínico “San Carlos”, de Madrid»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-74.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 21 de junio de 2022, de la Gerencia del Hospital Central Cruz Roja, por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante” de la formalización del contrato de “Suministro de implantes y material del pie con destino al Hospital Central de la Cruz Roja”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-75.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Anuncio de 30 de junio de 2022, de corrección de errores del anuncio de adjudicación del contrato titulado “Servicio de licencias de Microsoft instaladas en los puestos cliente de Metro y en los Servidores del Área de Comunicaciones y Tecnologías de la Información (derecho de uso, mantenimiento, actualizaciones y soporte especializado)”. (Expediente 6012200043)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-76.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 10 de junio de 2022, entre la Biblioteca Nacional de España O. A., la Fundación Centro de Poesía “José Hierro”, el Ayuntamiento de Getafe, la Comunidad de Madrid y la Comunidad Autónoma de Cantabria, en relación con la Exposición “José Hierro”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-77.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Organización y funcionamiento: Área de Gobierno de Vicealcaldía. Competencias Área Medio Ambiente",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-78.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Régimen económico: Distrito de Retiro. Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-79.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Otros anuncios: Área de Gobierno de Medio Ambiente y Movilidad. Suspensión estacionamiento MADO 2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-80.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Ajalvir",
+      "description": "Contratación: Gestión servicios tanatorio",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-81.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Collado Villalba",
+      "description": "Régimen económico: Matrícula actividades económicas",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-82.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Fuenlabrada",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-83.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Fuente el Saz de Jarama",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-84.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Fuente el Saz de Jarama",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-85.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Horcajuelo de la Sierra",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-86.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Humanes de Madrid",
+      "description": "Régimen económico: Cuenta general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-87.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Leganés",
+      "description": "Urbanismo: Constitución entidad colaboradora conservación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-88.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Patones",
+      "description": "Régimen económico: Ordenanza fiscal incremento valor terrenos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-89.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Ribatejada",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-90.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Lorenzo de El Escorial",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-91.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Martín de la Vega",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-92.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Sebastián de los Reyes",
+      "description": "Contratación: Revisión costes servicios deportivos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-93.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrejón de Ardoz",
+      "description": "Urbanismo: Reparcelación SUP.R2 Aldovea",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-94.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Tres Cantos",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-95.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Valdemorillo",
+      "description": "Régimen económico: Ordenanza fiscal expedición documentos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-96.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Valdemoro",
+      "description": "Organización y funcionamiento: Retribuciones concejales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-97.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Valdilecha",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-98.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Velilla de San Antonio",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-99.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villalbilla",
+      "description": "Urbanismo: Estudio detalle SR-8 Los Hueros",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-100.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villanueva de la Cañada",
+      "description": "Ofertas de empleo: Bases estabilización y consolidación empleo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-101.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Mancomunidad de Servicios Sociales Las Cañadas",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/04/BOCM-20220704-102.PDF"
+    }
+  }
+]
