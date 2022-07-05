@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Carlos III",
-      "description": "Resolución de 23 de junio de 2022, de la Universidad Carlos III de Madrid, por la que se anuncia la convocatoria para la provisión, por el sistema de Libre Designación, de dos puestos de trabajo en esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/05/BOCM-20220705-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Carlos III",
       "description": "Resolución de 24 de junio de 2022, de la Universidad Carlos III de Madrid, por la que se anuncia la publicación de la Resolución de adjudicación de los puestos convocados para su provisión por el sistema de Concurso Especifico de Méritos, convocado por Resolución de 21 de marzo de 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/05/BOCM-20220705-20.PDF"
     }
