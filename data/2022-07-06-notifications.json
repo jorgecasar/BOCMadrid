@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
-      "description": "Extracto de la Orden 1905/2022, de 30 de junio, del Vicepresidente, Consejero de Educación y Universidades, por la que se aprueba la convocatoria de becas para el estudio de Formación Profesional de Grado Superior en la Comunidad de Madrid correspondiente al curso 2022-2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/06/BOCM-20220706-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Extracto de la Orden 1906/2022, de 30 de junio, del Vicepresidente, Consejero de Educación y Universidades, por la que se aprueba la convocatoria de becas de Formación Profesional de Grado Medio correspondiente al curso 2022-2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/06/BOCM-20220706-16.PDF"
     }
