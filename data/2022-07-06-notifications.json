@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 17 de junio de 2022, de la Universidad Complutense de Madrid, por la que se nombran funcionarios de los Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/06/BOCM-20220706-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 28 de junio de 2022, de la Universidad Rey Juan Carlos, por la que se nombran funcionarios de carrera de la Escala Auxiliar Administrativa de la Universidad Rey Juan Carlos, en el marco del proceso de estabilización del personal temporal de dicha Universidad, previstas en la oferta de empleo público de 2018",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/06/BOCM-20220706-14.PDF"
