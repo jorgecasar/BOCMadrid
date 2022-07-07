@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 28 de junio de 2022, de la Universidad Rey Juan Carlos, por la que se nombran funcionarios de carrera de la Escala Auxiliar Administrativa de la Universidad Rey Juan Carlos, en el marco del proceso de estabilización del personal temporal de dicha Universidad, previstas en la oferta de empleo público de 2018",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/06/BOCM-20220706-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Extracto de la Orden 1905/2022, de 30 de junio, del Vicepresidente, Consejero de Educación y Universidades, por la que se aprueba la convocatoria de becas para el estudio de Formación Profesional de Grado Superior en la Comunidad de Madrid correspondiente al curso 2022-2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/06/BOCM-20220706-15.PDF"
