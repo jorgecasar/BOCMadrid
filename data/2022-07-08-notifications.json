@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Decreto 55/2022, de 6 de julio, del Consejo de Gobierno, por el que se nombra Secretario General Técnico de la Consejería de Sanidad a don Antonio López Porto",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/07/BOCM-20220707-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Orden 949/2022, de 28 de junio, del Consejero de Sanidad, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/07/BOCM-20220707-26.PDF"
     }
