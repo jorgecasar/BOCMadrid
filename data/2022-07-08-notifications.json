@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Decreto 49/2022, de 6 de julio, del Consejo de Gobierno, por el que cesa doña Marta García Miranda como Interventora General de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/07/BOCM-20220707-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Decreto 50/2022, de 6 de julio, del Consejo de Gobierno, por el que se nombra Interventor General de la Comunidad de Madrid a don Francisco Javier Carmena Lozano",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/07/BOCM-20220707-8.PDF"
     }
