@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 27 de junio de 2022, de la Universidad Rey Juan Carlos, por la que se nombran Catedráticos y Catedráticas de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/07/BOCM-20220707-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 30 de junio de 2022, de la Universidad Rey Juan Carlos, por la que se resuelve la provisión de puestos de trabajo reservados a personal funcionario, mediante el sistema de Libre Designación, convocada por Resolución de 23 de marzo de 2022 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID del día 24)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/07/BOCM-20220707-30.PDF"
     }
