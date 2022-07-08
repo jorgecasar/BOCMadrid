@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Decreto 53/2022, de 6 de julio, del Consejo de Gobierno, por el que cesa don Antonio López Porto como Secretario General del Servicio Madrileño de Salud",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/07/BOCM-20220707-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Decreto 54/2022, de 6 de julio, del Consejo de Gobierno, por el que cesa don Francisco Javier Carmena Lozano como Secretario General Técnico de la Consejería de Sanidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/07/BOCM-20220707-24.PDF"
     }
