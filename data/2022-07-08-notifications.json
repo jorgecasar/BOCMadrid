@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Familia, Juventud y Política Social",
-      "description": "Decreto 51/2022, de 6 de julio, del Consejo de Gobierno, por el que cesa don Alberto San Juan Llorente como Director General de Infancia, Familia y Fomento de la Natalidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/07/BOCM-20220707-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Familia, Juventud y Política Social",
       "description": "Decreto 52/2022, de 6 de julio, del Consejo de Gobierno, por el que se nombra Directora General de Infancia, Familia y Fomento de la Natalidad a doña Silvia Valmaña Ochaita",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/07/BOCM-20220707-21.PDF"
     }
