@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 30 de junio de 2022, de la Universidad Rey Juan Carlos, por la que se resuelve la provisión de puestos de trabajo reservados a personal funcionario, mediante el sistema de Libre Designación, convocada por Resolución de 23 de marzo de 2022 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID del día 24)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/07/BOCM-20220707-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Orden 1900/2022, de 29 de junio, del Vicepresidente, Consejero de Educación y Universidades, por la que se autoriza el inicio de actividades del Centro de Educación Superior de Enseñanza e Investigación Educativa, adscrito a la Universidad Camilo José Cela",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/07/BOCM-20220707-31.PDF"
