@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
-      "description": "Adenda de 26 de mayo de 2022, al convenio de colaboración en materia de Educación Infantil suscrito entre la Comunidad de Madrid (Consejería de Educación e Investigación) y el Ayuntamiento de Pozuelo del Rey",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/09/BOCM-20220709-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Convenio de colaboración de 20 de junio de 2022, entre la Comunidad de Madrid, a través de la Consejería de Sanidad, el Servicio Madrileño de Salud y la Universidad San Pablo CEU, para la enseñanza clínica práctica en el grado de medicina en centros de Atención Primaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/09/BOCM-20220709-9.PDF"
