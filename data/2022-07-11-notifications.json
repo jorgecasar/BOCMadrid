@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 1 de julio de 2022, de la Universidad Rey Juan Carlos, por la que se anuncian convocatorias de concursos para la provisión de plazas de Profesor Contratado Doctor",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/11/BOCM-20220711-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Orden 1946/2022, de 4 de julio, de la Vicepresidencia, Consejería de Educación y Universidades, por la que se aprueban las bases reguladoras y la convocatoria del procedimiento para la concesión de préstamos y el procedimiento de concesión de anticipos, destinados a los funcionarios de Cuerpos Docentes no Universitarios al servicio de la Comunidad de Madrid para el año 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/11/BOCM-20220711-22.PDF"
