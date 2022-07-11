@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 1055/2022, de 30 de junio, de la Consejería de Cultura, Turismo y Deporte por la que se aprueba la convocatoria pública para la provisión de puestos de trabajo vacantes en la citada consejería por el procedimiento de Concurso de Méritos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/11/BOCM-20220711-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 27 de junio de 2022, de la Universidad de Alcalá, por la que se convoca proceso selectivo, por el sistema general de acceso libre por concurso, en el marco de estabilización de empleo temporal, para el ingreso en la Escala Auxiliar Administrativa, Grupo C, Subgrupo C2, de la Universidad de Alcalá",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/11/BOCM-20220711-17.PDF"
