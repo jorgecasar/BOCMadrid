@@ -1,20 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 163,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/07/11/BOCM-20220711.PDF",
-      "total": 115,
-      "items": {
-        "Comunidad de Madrid": 50,
-        "Disposiciones y Anuncios del Estado": 3,
-        "Administración Local Ayuntamientos": 50,
-        "Administración de Justicia": 7,
-        "Otros Anuncios": 5
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
