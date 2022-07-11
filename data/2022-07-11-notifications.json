@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 27 de junio de 2022, de la Universidad de Alcalá, por la que se convoca proceso selectivo, por el sistema general de acceso libre por concurso, en el marco de estabilización de empleo temporal, para el ingreso en la Escala Auxiliar Administrativa, Grupo C, Subgrupo C2, de la Universidad de Alcalá",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/11/BOCM-20220711-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Carlos III",
       "description": "Resolución de 29 de junio de 2022, de la Universidad Carlos III de Madrid, por la que se anuncia la publicación de la Resolución de adjudicación de los puestos convocados para su provisión por el sistema de Libre Designación, convocados por Resolución de 21 de marzo de 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/11/BOCM-20220711-18.PDF"
