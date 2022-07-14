@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Orden 1070/2022, de 12 de julio, de la Consejería de Sanidad, por la que se convoca, para su cobertura interina, un puesto de trabajo vacante en dicha Consejería y se prevé la constitución de lista de espera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/14/BOCM-20220714-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 11 de julio de 2022, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre” del Servicio Madrileño de Salud, por la que se resuelve la convocatoria de fecha 11 de abril de 2022 de un puesto de Jefe de Servicio de Medicina Intensiva",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/14/BOCM-20220714-9.PDF"
     }
