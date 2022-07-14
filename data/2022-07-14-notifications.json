@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Anuncio de 12 de julio de 2022, por el que se convoca procedimiento de selección para cubrir una plaza para INVEST IN MADRID de la Fundación Madrid por la Competitividad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/14/BOCM-20220714-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Política Social",
       "description": "Orden de 4 de julio de 2022, de la Consejería de Familia, Juventud y Política Social, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacantes en la Consejería de Familia, Juventud y Política Social, por el procedimiento de Concurso de Méritos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/14/BOCM-20220714-7.PDF"
