@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Administración Local y Digitalización",
-      "description": "Resolución de 5 de julio de 2022, de la Dirección General de Reequilibrio Territorial, sobre la exención de la obligación de mantener puestos propios reservados a funcionarios de Administración Local con habilitación de carácter nacional, de la Mancomunidad de Servicios Río Cofio",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/14/BOCM-20220714-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 4 de julio de 2022, de la Universidad Autónoma de Madrid, por la que se declara el mes de agosto de 2022 inhábil a los efectos señalados en la presente resolución",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/14/BOCM-20220714-16.PDF"
