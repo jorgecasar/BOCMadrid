@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 4 de julio de 2022, de la Universidad Politécnica de Madrid, por la que se convocan, para su provisión mediante el procedimiento de Libre Designación, plazas vacantes en la Relación de Puestos de Trabajo de Personal Funcionario de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/19/BOCM-20220719-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 4 de julio de 2022, de la Universidad de Alcalá, por la que se publica una modificación de la relación de puestos de trabajo del Personal Laboral de Administración y Servicios de este Organismo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/19/BOCM-20220719-14.PDF"
