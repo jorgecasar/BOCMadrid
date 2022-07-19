@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Carlos III",
-      "description": "Resolución de 7 de julio de 2022, de la Universidad Carlos III de Madrid, por la que se nombran Profesoras Titulares de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/19/BOCM-20220719-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Carlos III",
       "description": "Resolución de 7 de julio de 2022, de la Universidad Carlos III de Madrid, por la que se nombran Profesora y Profesor Titular de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/19/BOCM-20220719-17.PDF"
     }
