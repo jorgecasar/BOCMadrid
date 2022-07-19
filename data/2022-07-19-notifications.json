@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 7 de julio de 2022, de la Universidad Carlos III de Madrid, por la que se nombra Catedrático de Universidad a don Stefano Cabras",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/19/BOCM-20220719-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Resolución de 5 de julio de 2022, de la Dirección General de Educación Secundaria, Formación Profesional y Régimen Especial, por la que, en aplicación de lo dispuesto en la Orden 893/2022, de 21 de abril, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se regulan los procedimientos relacionados con la organización, la matrícula, la evaluación y acreditación académica de las enseñanzas de formación profesional del sistema educativo en la Comunidad de Madrid, se amplía el catálogo de ciclos formativos de Formación Profesional susceptibles de ser impartidos en régimen a distancia",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/19/BOCM-20220719-20.PDF"
