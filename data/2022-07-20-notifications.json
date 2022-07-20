@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Vicepresidencia, Consejería de Educación y Universidades",
-      "description": "Resolución de 8 de julio de 2022, de la Dirección General de Educación Concertada, Becas y Ayudas al Estudio, por la que se establece el número de horas semanales de orientación autorizadas en Educación Primaria en centros concertados para el curso 2022-2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/20/BOCM-20220720-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Decreto 59/2022, de 13 de julio, del Consejo de Gobierno, por el que se declara bien de interés cultural de la Comunidad de Madrid, en la categoría de conjunto histórico, la Quinta y palacio de Torre Arias en Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/20/BOCM-20220720-15.PDF"
