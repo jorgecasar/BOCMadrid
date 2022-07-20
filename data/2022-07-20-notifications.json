@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Acuerdo de 13 de julio de 2022, del Consejo de Gobierno, por el que se concede la Medalla Internacional de las Artes de la Comunidad de Madrid, en su edición de 2021, a la Asociación de Tablaos Flamencos de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/20/BOCM-20220720-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Resolución de 13 de julio de 2022, del Director General de Recursos Humanos, por la que se emplaza a los posibles interesados para que se personen en el recurso contencioso-administrativo interpuesto por doña Mónica García Serrano",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/20/BOCM-20220720-17.PDF"
