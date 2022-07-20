@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Decreto 59/2022, de 13 de julio, del Consejo de Gobierno, por el que se declara bien de interés cultural de la Comunidad de Madrid, en la categoría de conjunto histórico, la Quinta y palacio de Torre Arias en Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/20/BOCM-20220720-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Acuerdo de 13 de julio de 2022, del Consejo de Gobierno, por el que se concede la Medalla Internacional de las Artes de la Comunidad de Madrid, en su edición de 2021, a la Asociación de Tablaos Flamencos de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/20/BOCM-20220720-16.PDF"
     }
