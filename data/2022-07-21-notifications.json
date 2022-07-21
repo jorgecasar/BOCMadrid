@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Decreto 80/2022, de 20 de julio, del Consejo de Gobierno, por el que se nombra Viceconsejero de Gestión Económica a don Pedro Irigoyen Barja",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/21/BOCM-20220721-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Decreto 81/2022, de 20 de julio, del Consejo de Gobierno, por el que se nombra Directora General de Humanización y Atención al Paciente a doña María Dolores Moreno Molino",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/21/BOCM-20220721-33.PDF"
     }
