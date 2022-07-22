@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Decreto 79/2022, de 20 de julio, del Consejo de Gobierno, por el que cesa doña Elena Mantilla García como Directora General de Inspección y Ordenación Sanitaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/21/BOCM-20220721-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Decreto 80/2022, de 20 de julio, del Consejo de Gobierno, por el que se nombra Viceconsejero de Gestión Económica a don Pedro Irigoyen Barja",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/21/BOCM-20220721-32.PDF"
     }
