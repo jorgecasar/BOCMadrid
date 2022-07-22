@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Decreto 76/2022, de 20 de julio, del Consejo de Gobierno, por el que cesa don Fernando Prados Roa como Director General de Hospitales e Infraestructuras Sanitarias del Servicio Madrileño de Salud",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/21/BOCM-20220721-28.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Decreto 77/2022, de 20 de julio, del Consejo de Gobierno, por el que cesa doña Paula Gómez-Angulo Amorós como Directora General de Humanización y Atención al Paciente",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/21/BOCM-20220721-29.PDF"
     }
