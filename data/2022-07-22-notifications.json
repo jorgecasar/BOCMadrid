@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Decreto 77/2022, de 20 de julio, del Consejo de Gobierno, por el que cesa doña Paula Gómez-Angulo Amorós como Directora General de Humanización y Atención al Paciente",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/21/BOCM-20220721-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Decreto 78/2022, de 20 de julio de 2022, del Consejo de Gobierno, por el que cesa don Pedro Irigoyen Barja como Director General de Gestión Económico-Financiera y Farmacia del Servicio Madrileño de Salud",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/21/BOCM-20220721-30.PDF"
     }
