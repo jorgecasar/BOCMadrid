@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
-      "description": "Decreto 63/2022, de 20 de julio, del Consejo de Gobierno, por el que se establece y regula el canal interno para el tratamiento de las informaciones sobre posibles infracciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/21/BOCM-20220721-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Decreto 66/2022, de 20 de julio, del Consejo de Gobierno, por el que se modifica el Decreto 88/2021, de 30 de junio, del Consejo de Gobierno, por el que se modifica la estructura orgánica básica de las Consejerías de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/21/BOCM-20220721-2.PDF"
     }
