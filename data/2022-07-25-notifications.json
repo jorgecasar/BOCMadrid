@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
-      "description": "Anuncio de prórroga de 7 de julio de 2022, del “Convenio para la gestión conjunta por parte de canal de Isabel II, S. A., y de la Fundación Canal de Isabel II del Centro de Arte del IV Depósito de Plaza de Castilla”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/25/BOCM-20220725-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Adenda de 30 de junio de 2022, de prórroga del convenio entre la Comunidad de Madrid y el Ayuntamiento de Titulcia, para el comodato de bienes muebles del patrimonio histórico de la Comunidad de Madrid asignados al Museo Arqueológico Regional en las dependencias de dicho Ayuntamiento",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/25/BOCM-20220725-9.PDF"
