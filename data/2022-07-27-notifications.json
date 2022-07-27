@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 11 de julio de 2022, de la Universidad Complutense de Madrid, por la que se nombran funcionarios de los Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/27/BOCM-20220727-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 8 de julio de 2022, de la Universidad de Alcalá, por la que se nombra Catedrático de Universidad del Área de Conocimiento de “Ciencias de la Computación e Inteligencia Artificial”, a don Luis de Marcos Ortega",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/27/BOCM-20220727-16.PDF"
