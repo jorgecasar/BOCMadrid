@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Asamblea de Madrid",
-      "description": "Resolución de 19 de julio de 2022, de la Secretaría General de la Asamblea de Madrid, por la que se aprueban las listas provisionales de admitidos y excluidos para la cobertura de 2 plazas del Cuerpo de Letrados (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID número 137, de 10 de junio de 2022)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/27/BOCM-20220727-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Asamblea de Madrid",
       "description": "Resolución de 19 de julio de 2022, de Secretaría General de la Asamblea de Madrid, por la que se aprueban las listas provisionales de admitidos y excluidos para la cobertura de dos plazas del Cuerpo Facultativo de Técnicos en Informática, escala ejecutiva (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID número 137, de 10 de junio de 2022)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/27/BOCM-20220727-2.PDF"
     }
