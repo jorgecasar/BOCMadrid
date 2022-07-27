@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Resolución de 13 de julio de 2022, del Director General de Promoción Cultural, por la que se hace pública la relación de subvenciones concedidas sin promover concurrencia por este órgano",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/27/BOCM-20220727-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 13 de junio de 2022, del Rector de la Universidad Rey Juan Carlos, por la que se aprueba y hace pública la resolución definitiva de proyectos a financiar dentro de la convocatoria pública para la realización de proyectos de I + D para jóvenes doctores de la Universidad Rey Juan Carlos durante los años 2021 a 2024, dentro del programa de apoyo y estímulo a jóvenes doctores del convenio plurianual, suscrito entre de la Comunidad de Madrid y la Universidad Rey Juan Carlos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/27/BOCM-20220727-31.PDF"
