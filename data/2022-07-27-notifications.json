@@ -1,19 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 177,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/07/27/BOCM-20220727.PDF",
-      "total": 128,
-      "items": {
-        "Comunidad de Madrid": 70,
-        "Administración Local Ayuntamientos": 51,
-        "Administración de Justicia": 6,
-        "Otros Anuncios": 1
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Asamblea de Madrid",
