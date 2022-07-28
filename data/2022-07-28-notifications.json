@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Politécnica de Madrid",
-      "description": "Extracto de 21 de julio de 2022, de corrección de errores a la II Convocatoria de Ayudas para la Recualificación del Sistema Universitario Español para 2021-2023 de la Universidad Politécnica de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/28/BOCM-20220728-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Resolución de 11 de julio de 2022, de la Dirección General de Descarbonización y Transición Energética por la que se somete a información pública la petición de autorización administrativa previa para la construcción de 1 línea, 3 centros de transformación y 1 instalación fotovoltaica en camino Arroyomolinos, sin número, en el término municipal de Móstoles, solicitada por Canal de Isabel II, S. A.",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/28/BOCM-20220728-10.PDF"
