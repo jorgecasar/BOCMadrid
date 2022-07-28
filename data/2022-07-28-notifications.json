@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Administración Local y Digitalización",
-      "description": "Acuerdo de 20 de julio de 2022, del Consejo de Gobierno, por el que se aprueba el Plan 2022 de Reequilibrio Territorial y Lucha contra la Despoblación, y se autoriza un gasto de 4.500.000 euros para su ejecución",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/28/BOCM-20220728-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 1131/2022, de 13 de julio, de la Consejería de Cultura, Turismo y Deporte, por la que se establecen las bases reguladoras para la concesión de ayudas a titulares de salas de exhibición cinematográfica y por la que se aprueba la convocatoria correspondiente al año 2022, en el marco del Plan de Recuperación, Transformación y Resiliencia (financiado por la Unión Europea) Nextgeneration EU",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/28/BOCM-20220728-8.PDF"
