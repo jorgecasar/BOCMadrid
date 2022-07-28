@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Política Social",
-      "description": "Orden 1560/2022, de 8 de julio, de la Consejera de Familia, Juventud y Política Social, por la que se resuelve la convocatoria de los premios Emprendimiento Joven-Carné Joven Comunidad de Madrid, de acuerdo con la Orden 549/2022 de la Consejería de Familia, Juventud y Política Social, por la que se convocan estos premios correspondientes al año 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/28/BOCM-20220728-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Administración Local y Digitalización",
       "description": "Acuerdo de 20 de julio de 2022, del Consejo de Gobierno, por el que se aprueba el Plan 2022 de Reequilibrio Territorial y Lucha contra la Despoblación, y se autoriza un gasto de 4.500.000 euros para su ejecución",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/28/BOCM-20220728-7.PDF"
