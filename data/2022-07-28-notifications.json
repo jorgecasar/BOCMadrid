@@ -1,18 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 178,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/07/28/BOCM-20220728.PDF",
-      "total": 72,
-      "items": {
-        "Comunidad de Madrid": 33,
-        "Administración Local Ayuntamientos": 35,
-        "Administración de Justicia": 4
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
