@@ -1,17 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 180,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/07/30/BOCM-20220730.PDF",
-      "total": 11,
-      "items": {
-        "Comunidad de Madrid": 6,
-        "Administración de Justicia": 5
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
