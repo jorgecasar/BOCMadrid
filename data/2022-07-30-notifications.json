@@ -1,0 +1,62 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 180,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/07/30/BOCM-20220730.PDF",
+      "total": 11,
+      "items": {
+        "Comunidad de Madrid": 6,
+        "Administración de Justicia": 5
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 15 de julio de 2022, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa UTE La Paloma (Urbaser, S. A., Vertresa, S. A., y Valoriza Servicios Medioambientales, S. A.) (Código número 28103341012022)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/30/BOCM-20220730-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Convenio de colaboración de 7 de julio de 2022, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Política Social, y el Ayuntamiento de Villalbilla para la ejecución de proyectos con cargo a los fondos europeos procedentes del Mecanismo para la Recuperación y Resiliencia (S20_S21_S22_S33_S65)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/30/BOCM-20220730-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Convenio de colaboración de 7 de julio de 2022, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Política Social, y la Mancomunidad de Servicios Sociales Mejorada-Velilla para la ejecución de proyectos con cargo a los fondos europeos procedentes del Mecanismo para la Recuperación y Resiliencia (S20_S21_S22_S33_S65)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/30/BOCM-20220730-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Convenio de colaboración de 14 de julio de 2022, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Política Social, y el Ayuntamiento de Casarrubuelos para la ejecución de proyectos con cargo a los fondos europeos procedentes del Mecanismo para la Recuperación y Resiliencia (S20_S21_S22_S33_S65)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/30/BOCM-20220730-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Convenio de colaboración de 18 de julio de 2022, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Política Social, y el Ayuntamiento de Navas del Rey para la ejecución de proyectos con cargo a los fondos europeos procedentes del Mecanismo para la Recuperación y Resiliencia (S20_S21_S22_S33_S65)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/30/BOCM-20220730-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Convenio de colaboración de 18 de julio de 2022, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Política Social, y el Ayuntamiento de Tres Cantos para la ejecución de proyectos con cargo a los fondos europeos procedentes del Mecanismo para la Recuperación y Resiliencia (S20_S21_S22_S33_S65)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/30/BOCM-20220730-6.PDF"
+    }
+  }
+]
