@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Orden de 22 de julio de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se declara el importe del crédito presupuestario disponible para financiar la concesión directa en 2022 de las ayudas para la modernización y rehabilitación de las áreas industriales de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/01/BOCM-20220801-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Política Social",
       "description": "Extracto de la Orden 1606/2022, de la Consejería de Familia, Juventud y Política Social, por la que se convocan las becas para estudiantes y para jóvenes que hayan pertenecido al sistema de protección de la Comunidad de Madrid, a disfrutar en residencias infantiles de la Comunidad de Madrid para el año 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/01/BOCM-20220801-20.PDF"
