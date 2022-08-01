@@ -1,18 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 181,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/08/01/BOCM-20220801.PDF",
-      "total": 78,
-      "items": {
-        "Comunidad de Madrid": 39,
-        "Administración Local Ayuntamientos": 35,
-        "Administración de Justicia": 4
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
