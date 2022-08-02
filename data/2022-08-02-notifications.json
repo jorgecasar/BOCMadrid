@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 19 de julio de 2022, de la Universidad de Alcalá, por la que se nombra Catedrática de Universidad del Área de Conocimiento de “Matemática Aplicada”, a doña Sonia Pérez Díaz",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/02/BOCM-20220802-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Encomienda de gestión de 27 de julio de 2022, de la Dirección General de Descarbonización y Transición Energética de la Consejería de Medio Ambiente, Vivienda y Agricultura a la Dirección General de Promoción Económica e Industrial de la Consejería de Economía, Hacienda y Empleo, de determinadas actuaciones en materia de energía",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/02/BOCM-20220802-10.PDF"
