@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Resolución de 18 de julio de 2022, de la Universidad de Alcalá, por la que se nombra Profesora Titular de Universidad del Área de Conocimiento de “Química Orgánica”, a doña Zoila Gándara Barreiro",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/02/BOCM-20220802-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Resolución de 19 de julio de 2022, de la Universidad de Alcalá, por la que se nombra Catedrática de Universidad del Área de Conocimiento de “Matemática Aplicada”, a doña Sonia Pérez Díaz",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/02/BOCM-20220802-9.PDF"
     }
