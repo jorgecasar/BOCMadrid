@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 15 de julio de 2022, de la Universidad Complutense de Madrid, por la que se nombran funcionarios de los Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/02/BOCM-20220802-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 19 de julio de 2022, de la Universidad Politécnica de Madrid, por la que se anuncia la convocatoria de concurso-oposición por el sistema de promoción interna para la provisión de puestos de trabajo vacantes en la relación de puestos de trabajo de personal de administración y servicios laboral",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/02/BOCM-20220802-7.PDF"
