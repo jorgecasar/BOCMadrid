@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Orden 1116/2022, de 20 de julio, del Consejero de Sanidad, por la que se resuelve la convocatoria aprobada por 769/2022, de 25 de mayo, del Consejero de Sanidad (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 6 de junio), para la provisión de un puesto de trabajo vacante en la citada Consejería por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/02/BOCM-20220802-4.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 13 de julio de 2022, de la Universidad Complutense de Madrid, por la que se nombra a D. José Luis Contreras González Catedrático de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/02/BOCM-20220802-5.PDF"
