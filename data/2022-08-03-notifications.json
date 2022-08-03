@@ -1,0 +1,664 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 183,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/08/03/BOCM-20220803.PDF",
+      "total": 91,
+      "items": {
+        "Comunidad de Madrid": 36,
+        "Administración Local Ayuntamientos": 45,
+        "Administración de Justicia": 7,
+        "Otros Anuncios": 3
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 19 de julio de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Medio Ambiente, Vivienda y Agricultura, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 20 de julio de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicha Consejería, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 20 de julio de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Transportes e Infraestructuras (Organismo Autónomo Consorcio Regional de Transportes Públicos Regulares de Madrid), de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 20 de julio de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Familia, Juventud y Política Social, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 20 de julio de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Presidencia, Justicia e Interior, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 20 de julio de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Familia, Juventud y Política Social, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 21 de julio de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Economía, Hacienda y Empleo por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 21 de julio de 2022, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden del Consejero de Economía, Hacienda y Empleo de 20 de mayo de 2022 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 1 de junio), para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-8.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 21 de julio de 2022, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden del Consejero de Economía, Hacienda y Empleo de 27 de abril de 2022 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 11 de mayo), para la provisión de un puesto de trabajo vacante en la Consejería de Familia, Juventud y Política Social, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-9.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Orden 1119/2022, de 21 de julio, del Consejero de Sanidad, por la que se resuelve la convocatoria aprobada por 847/2022, de 8 de junio, del Consejero de Sanidad (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 20 de junio), para la provisión de un puesto de trabajo vacante en la citada Consejería por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-10.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Orden 1122/2022, de 21 de julio, del Consejero de Sanidad, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-11.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 1 de agosto de 2022, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se procede a convocar el puesto directivo de Director/a Gerente en el SUMMA 112 adscrito al Servicio Madrileño de Salud",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-12.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Orden 1165/2022, de 21 de julio, de la Consejería de Cultura, Turismo y Deporte, por la que se resuelve la convocatoria para la provisión de varios puestos de trabajo de carrera de naturaleza laboral denominados “Coordinador Ayudante”, aprobada por Orden 268/2021, de 21 de mayo (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 27 de mayo de 2021), de la extinta Consejería de Deportes, Transparencia y Portavocía del Gobierno",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-13.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Complutense de Madrid",
+      "description": "Resolución de 15 de julio de 2022, conjunta de la Universidad Complutense de Madrid y de la Consejería de Sanidad de la Comunidad de Madrid, por la que se nombra Profesora Titular de Universidad con plaza vinculada a Dña. Estela Natividad Paz Artal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-14.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Complutense de Madrid",
+      "description": "Resolución de 15 de julio de 2022, conjunta de la Universidad Complutense de Madrid y de la Consejería de Sanidad de la Comunidad de Madrid, por la que se nombra Catedrático de Universidad con plaza vinculada a D. Julián Pérez-Villacastín Domínguez",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-15.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Complutense de Madrid",
+      "description": "Resolución de 21 de julio de 2022, de la Universidad Complutense de Madrid, por la que se adjudica, en régimen de convocatoria interna, el puesto funcional denominado “Jefe Servicio de Soporte del Puesto de Trabajo” (código L089.1), convocado mediante el procedimiento de Libre Designación por Resolución de 6 de mayo de 2022 (“BOUC” de 18 de mayo)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-16.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Vicepresidencia, Consejería de Educación y Universidades",
+      "description": "Orden 2062/2022, de 19 de julio, del Vicepresidente, Consejero de Educación y Universidades, por la que se autoriza la implantación de programas de Formación Profesional dual, en centros privados de la Comunidad de Madrid a partir del año académico 2022-2023",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-17.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Orden 2068/2022, de 27 de julio, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se aprueba definitivamente la modificación puntual no sustancial 1/2019 de las Normas Subsidiarias de Planeamiento Municipal de El Berrueco, para equipamiento de tanatorio municipal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-18.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Acuerdo 46/2022, de 21 de julio, de la Comisión de Urbanismo de Madrid, relativo a la Modificación Puntual del Plan Parcial del Sector S.05.R “Camino de Brunete”, que desarrolla las Normas Subsidiarias de Planeamiento de Quijorna, para la ampliación del Cementerio Municipal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-19.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Orden 1611/2022, de 23 de julio, de la Consejera de Familia, Juventud y Política Social, por la que se corrigen errores materiales detectados en la Orden 1471/2022, de la Consejera de Familia, Juventud y Política Social, por la que se aprueban las bases reguladoras y la convocatoria del procedimiento de concesión de subvenciones destinadas a desarrollar proyectos piloto de innovación social, con cargo al Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea-NextGenerationEU",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-20.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Rey Juan Carlos",
+      "description": "Resolución de 27 de julio de 2022, del Rector de la Universidad Rey Juan Carlos, por la que se convocan ayudas para la atención psicológica, cofinanciadas por el Banco Santander, dirigidas a estudiantes de la Universidad Rey Juan Carlos en el curso 2022-2023",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-21.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Resolución de 19 de julio de 2022, de la Secretaría General Técnica de la Consejería de Presidencia, Justicia e Interior, por la que se anuncia la licitación del contrato “Suministro de consumibles informáticos para las impresoras situadas en los centros dependientes de la Dirección General de Emergencias de la Comunidad de Madrid”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-22.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Convenio específico de 13 de junio de 2022, entre la Comunidad de Madrid (Consejería de Presidencia, Justicia e Interior) y la Fundación Universitaria San Pablo-CEU, para la celebración del I Congreso Internacional sobre Terrorismo Global a celebrar en Madrid, los días 14 y 15 de junio de 2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-23.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 20 de julio de 2022, de la Secretaria General Técnica de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la convocatoria del contrato de “Suministro e instalación de cuatro estaciones fijas de medición para la Red de Calidad del Aire de la Comunidad de Madrid”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-24.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 20 de julio de 2022, de la Dirección General de Patrimonio y Contratación, por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante” en Internet de la novación del arrendamiento de 26 de julio de 2019, relativo al local de oficinas ubicado en la calle Valportillo Primera, número 11, planta primera, en Alcobendas, adscrito al Boletín Oficial de la Comunidad de Madrid (BOCM)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-25.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Administración Local y Digitalización",
+      "description": "Resolución de 13 de julio de 2022, de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la convocatoria del contrato de “Cesión de derecho de uso del software de gestión de salas de espera virtual”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-26.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 19 de julio de 2022, de la Secretaría General Técnica de la Consejería de Sanidad de la Comunidad de Madrid, por la que se da a conocer mediante anuncio de información previa la contratación prevista del contrato denominado “Servicio de logística destinado a la recepción, almacenaje, acondicionamiento y distribución de las vacunas frente al COVID-19 en la Comunidad de Madrid”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-27.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 19 de julio de 2022, del Director-Gerente del Hospital Universitario “Puerta de Hierro Majadahonda”, de Madrid, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de suministro de reactivos necesarios para la realización de determinaciones analíticas en el Servicio de Inmunología",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-28.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 20 de julio de 2022, de la Dirección-Gerencia del Hospital Universitario de Getafe, por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante”, de la prórroga del contrato de Material para Manometría Esofágica, Ano-Rectal de Alta Resolución y Ph-Metría en el Hospital Universitario de Getafe”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-29.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Anuncio periódico indicativo de 20 de julio de 2022, relativo al contrato de suministro de repuestos originales del proveedor Knorr Bremse-IFE",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-30.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Anuncio periódico indicativo de 20 de julio de 2022, relativo al contrato de reparación de equipos Bombardier",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-31.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Anuncio periódico indicativo de 20 de julio de 2022, relativo al contrato de instalación de catalizadores VVAA",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-32.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Anuncio periódico indicativo de 20 de julio de 2022, relativo al acuerdo marco de material eléctrico",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-33.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Anuncio periódico indicativo de 20 de julio de 2022, relativo al contrato de mantenimiento de sistemas de señalización CBTC",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-34.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Anuncio periódico indicativo de 20 de julio de 2022, relativo al contrato de limpieza de subestaciones y cuartos técnicos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-35.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Anuncio de información previa de 20 de julio de 2022, relativo al contrato de pólizas de responsabilidad civil y accidentes",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-36.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Organización y funcionamiento: Área de Gobierno de Vicealcaldía. Delegación de funciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-37.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Organización y funcionamiento: Área de Gobierno de Vicealcaldía. Competencias Área Portavoz, Seguridad y Emergencias",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-38.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Organización y funcionamiento: Área de Gobierno de Vicealcaldía. Delegación de funciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-39.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Régimen económico: Área de Gobierno de Economía, Innovación y Empleo. Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-40.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Urbanismo: Área de Gobierno de Desarrollo Urbano. Proyecto reparcelación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-41.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Urbanismo: Área de Gobierno de Obras y Equipamientos. Proyecto urbanización",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-42.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Licencias: Área de Gobierno de Desarrollo Urbano. Cirque du Soleil Luzia",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-43.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Ajalvir",
+      "description": "Otros anuncios: Actualización inventario bienes y derechos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-44.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcobendas",
+      "description": "Ofertas de empleo: Bases procesos selectivos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-45.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcorcón",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-46.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcorcón",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-47.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Aranjuez",
+      "description": "Organización y funcionamiento: Delegación de funciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-48.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Becerril de la Sierra",
+      "description": "Régimen económico: Tarifas autotaxi",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-49.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Brea de Tajo",
+      "description": "Régimen económico: Cuenta general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-50.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Cabanillas de la Sierra",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-51.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Chapinería",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-52.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Cobeña",
+      "description": "Régimen económico: Ordenanza fiscal bienes inmuebles",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-53.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Cobeña",
+      "description": "Régimen económico: Ordenanza fiscal vehículos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-54.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Cobeña",
+      "description": "Régimen económico: Ordenanza fiscal utilización dominio público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-55.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Colmenar Viejo",
+      "description": "Régimen económico: Padrón fiscal actividades económicas",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-56.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "El Escorial",
+      "description": "Organización y funcionamiento: Ordenanza protección y fomento del arbolado",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-57.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "El Escorial",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-58.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Galapagar",
+      "description": "Personal: Nombramiento",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-59.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Getafe",
+      "description": "Organización y funcionamiento: Constitución Tribunal Económico-Administrativo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-60.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Guadarrama",
+      "description": "Régimen económico: Padrones fiscales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-61.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Leganés",
+      "description": "Régimen económico: Ordenanza fiscal incremento valor de terrenos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-62.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Leganés",
+      "description": "Régimen económico: Cuenta general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-63.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Loeches",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-64.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Miraflores de la Sierra",
+      "description": "Personal: Nombramiento personal laboral",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-65.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Móstoles",
+      "description": "Régimen económico: Cuenta general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-66.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Olmeda de las Fuentes",
+      "description": "Regimen económico: Padrones fiscales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-67.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Rivas-Vaciamadrid",
+      "description": "Licencias: Pedro Gómez Gómez",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-68.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Sebastián de los Reyes",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-69.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Sebastián de los Reyes",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-70.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Sebastián de los Reyes",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-71.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrejón de Velasco",
+      "description": "Organización y funcionamiento: Delegación de funciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-72.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrelodones",
+      "description": "Organización y funcionamiento: Delegación de funciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-73.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrelodones",
+      "description": "Licencias: Taller Torres",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-74.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Valdepiélagos",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-75.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villalbilla",
+      "description": "Personal: Nombramiento",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-76.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villalbilla",
+      "description": "Personal: Nombramiento",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-77.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villalbilla",
+      "description": "Personal: Nombramiento",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-78.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villanueva de la Cañada",
+      "description": "Organización y funcionamiento: Reglamento orgánico",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-79.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villanueva de la Cañada",
+      "description": "Organización y funcionamiento: Delegación de funciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-80.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villanueva de la Cañada",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-81.PDF"
+    }
+  }
+]
