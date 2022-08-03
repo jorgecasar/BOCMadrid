@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 15 de julio de 2022, conjunta de la Universidad Complutense de Madrid y de la Consejería de Sanidad de la Comunidad de Madrid, por la que se nombra Profesora Titular de Universidad con plaza vinculada a Dña. Estela Natividad Paz Artal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 15 de julio de 2022, conjunta de la Universidad Complutense de Madrid y de la Consejería de Sanidad de la Comunidad de Madrid, por la que se nombra Catedrático de Universidad con plaza vinculada a D. Julián Pérez-Villacastín Domínguez",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-15.PDF"
     }
