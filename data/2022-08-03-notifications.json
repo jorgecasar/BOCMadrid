@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Transportes e Infraestructuras",
-      "description": "Anuncio periódico indicativo de 20 de julio de 2022, relativo al contrato de reparación de equipos Bombardier",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Transportes e Infraestructuras",
       "description": "Anuncio periódico indicativo de 20 de julio de 2022, relativo al contrato de instalación de catalizadores VVAA",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-32.PDF"
     }
