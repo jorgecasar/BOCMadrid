@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Transportes e Infraestructuras",
-      "description": "Anuncio periódico indicativo de 20 de julio de 2022, relativo al contrato de limpieza de subestaciones y cuartos técnicos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Transportes e Infraestructuras",
       "description": "Anuncio de información previa de 20 de julio de 2022, relativo al contrato de pólizas de responsabilidad civil y accidentes",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/03/BOCM-20220803-36.PDF"
     }
