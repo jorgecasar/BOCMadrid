@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 28 de julio de 2022, de la Universidad Rey Juan Carlos, por la que se convoca concurso de acceso a plazas de Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/05/BOCM-20220805-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Orden 2095/2022, de 27 de julio, del Vicepresidente, Consejero de Educación y Universidades, por la que se pone en funcionamiento un colegio de Educación Infantil y Primaria en el municipio de Anchuelo para el curso 2022-2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/05/BOCM-20220805-8.PDF"
