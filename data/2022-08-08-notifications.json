@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Régimen económico: Área de Gobierno de Desarrollo Urbano. Concesión subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/08/BOCM-20220808-37.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Licencias: O. A",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/08/BOCM-20220808-38.PDF"
     }
