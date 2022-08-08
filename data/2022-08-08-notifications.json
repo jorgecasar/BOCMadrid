@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Resolución de 29 de julio de 2022, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se aprueba la modificación de la relación definitiva de adjudicación de plazas en el concurso de traslados voluntario a plazas de personal estatutario de la categoría de Celador del Servicio de Salud de la Comunidad de Madrid, por estimación parcial de recurso de alzada",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/08/BOCM-20220808-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 1195/2022, de 22 de julio, de la Consejería de Cultura, Turismo y Deporte, por la que se aprueba la convocatoria pública para la provisión de puestos de trabajo vacantes en la citada Consejería por el procedimiento de Concurso de Méritos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/08/BOCM-20220808-12.PDF"
