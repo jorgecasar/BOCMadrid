@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 26 de julio de 2022, de la Universidad de Alcalá, por la que se nombra Profesora Titular de Universidad del Área de Conocimiento de “Química Física” a doña Gema Marcelo Alejandre",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/08/BOCM-20220808-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Carlos III",
       "description": "Resolución de 26 de julio de 2022, de la Universidad Carlos III de Madrid, por la que se nombra Catedrático de Universidad a don Juan Carlos Sánchez Illán",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/08/BOCM-20220808-15.PDF"
