@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 26 de julio de 2022, de la Universidad Rey Juan Carlos de Madrid, por la que se publica el plan de estudios de Graduado o Graduada en Inteligencia Artificial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/09/BOCM-20220809-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 26 de julio de 2022, de la Universidad Rey Juan Carlos de Madrid, por la que se publica el plan de estudios de Graduado o Graduada en Nanociencia y Nanotecnología",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/09/BOCM-20220809-20.PDF"
     }
