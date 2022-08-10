@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Resolución de 29 de julio de 2022, de la Universidad de Alcalá, por la que se nombra Profesor Titular de Universidad del Área de Conocimiento de “Análisis Geográfico Regional” a don Mariano García Alonso",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/10/BOCM-20220810-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Resolución de 29 de julio de 2022, de la Universidad de Alcalá, por la que se nombra Profesora Titular de Universidad del Área de Conocimiento de “Fundamentos del Análisis Económico” a doña Melina Barrio Martínez",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/10/BOCM-20220810-17.PDF"
     }
