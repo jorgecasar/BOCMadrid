@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 29 de julio de 2022, por la que se publica el plan de estudios del Máster Universitario en Lingüística y Tecnologías por la Universidad Complutense de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/10/BOCM-20220810-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 29 de julio de 2022, por la que se publica el plan de estudios del Máster Universitario en Escultura Contemporánea por la Universidad Complutense de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/10/BOCM-20220810-23.PDF"
     }
