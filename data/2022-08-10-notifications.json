@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Régimen económico: Área de Gobierno de Medio Ambiente y Movilidad. Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/10/BOCM-20220810-39.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Régimen económico: Área de Gobierno de Vicealcaldía. Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/10/BOCM-20220810-40.PDF"
     }
