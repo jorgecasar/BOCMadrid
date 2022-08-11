@@ -1,19 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 190,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/08/11/BOCM-20220811.PDF",
-      "total": 73,
-      "items": {
-        "Comunidad de Madrid": 19,
-        "Disposiciones y Anuncios del Estado": 1,
-        "Administración Local Ayuntamientos": 44,
-        "Administración de Justicia": 9
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
