@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Aranjuez",
-      "description": "Régimen económico: Padrones fiscales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/12/BOCM-20220812-34.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Batres",
       "description": "Régimen económico: Bases ejecución presupuesto",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/12/BOCM-20220812-35.PDF"
