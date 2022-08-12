@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Alcorcón",
-      "description": "Organización y funcionamiento: Delegación de funciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/12/BOCM-20220812-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Alcorcón",
       "description": "Ofertas de empleo: Oferta empleo público",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/12/BOCM-20220812-33.PDF"
     }
