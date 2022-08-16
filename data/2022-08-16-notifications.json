@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Transportes e Infraestructuras",
-      "description": "Anuncio de 11 de agosto de 2022, de adjudicación del contrato titulado “Servicio de mantenimiento de equipos de trabajo de Metro de Madrid”. (Expediente 6012200059)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/16/BOCM-20220816-44.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 1276/2022, de 3 de agosto, de la Consejería de Cultura, Turismo y Deporte, por la que se dispone la aprobación de la modificación de los Estatutos de la Federación Hípica de Madrid, su inscripción en el Registro de Entidades Deportivas de la Comunidad de Madrid y su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/16/BOCM-20220816-45.PDF"
