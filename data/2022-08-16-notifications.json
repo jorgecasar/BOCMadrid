@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Familia, Juventud y Política Social",
-      "description": "Resolución de 2 de agosto de 2022, del Gerente de la Agencia Madrileña de Atención Social, por la que se aprueba la Carta de Servicios de dicho Organismo Autónomo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/16/BOCM-20220816-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Familia, Juventud y Política Social",
       "description": "Resolución de 2 de agosto de 2022, del Gerente de la Agencia Madrileña de Atención Social, por la que se aprueba la Carta de Servicios de Residencias de Mayores de la Agencia Madrileña de Atención Social",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/16/BOCM-20220816-12.PDF"
     }
