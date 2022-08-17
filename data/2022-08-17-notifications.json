@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia e Interior",
-      "description": "Orden de 1 de julio de 2022, de la Consejería de Presidencia, Justicia e Interior, por la que se convocan pruebas para la renovación del certificado acreditativo del personal de control de acceso a espectáculos públicos y actividades recreativas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/17/BOCM-20220817-3.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Extracto de la Orden 1121/2022, de 29 de julio, de la Consejera de Cultura, Turismo y Deporte, por la que se convocan las ayudas para actuaciones de conservación y restauración de bienes inmuebles privados con protección de Bien de Interés Cultural y Bien de Interés Patrimonial correspondientes a 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/17/BOCM-20220817-4.PDF"
