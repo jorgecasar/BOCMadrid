@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Chapinería",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/18/BOCM-20220818-28.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "El Escorial",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/18/BOCM-20220818-29.PDF"
