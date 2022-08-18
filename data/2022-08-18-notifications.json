@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Getafe",
-      "description": "Licencias: Academia Santa María, S. L.",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/18/BOCM-20220818-33.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Las Rozas de Madrid",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/18/BOCM-20220818-34.PDF"
