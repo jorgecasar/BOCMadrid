@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 28 de julio de 2022, de la Universidad Autónoma de Madrid, por la que se publica la modificación de determinados planes de estudios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/18/BOCM-20220818-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 26 de julio de 2022, de la Secretaría General Técnica de la Consejería de Economía, Hacienda y Empleo, por la que se dispone la publicación del anuncio de información previa relativo al contrato denominado “Servicios auxiliares de gestión del aparcamiento subterráneo ubicado en la glorieta Puerta de Toledo de Madrid”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/18/BOCM-20220818-8.PDF"
