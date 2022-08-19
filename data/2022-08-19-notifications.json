@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Getafe",
-      "description": "Régimen económico: Extracto convocatoria subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/19/BOCM-20220819-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Getafe",
       "description": "Personal: Plantilla personal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/19/BOCM-20220819-28.PDF"
     }
