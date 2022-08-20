@@ -1,0 +1,54 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 198,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/08/20/BOCM-20220820.PDF",
+      "total": 10,
+      "items": {
+        "Comunidad de Madrid": 5,
+        "Administración de Justicia": 5
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 3 de agosto de 2022, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del Convenio Colectivo del Sector de Mercados Municipales y Galerías de Alimentación de la Comunidad de Madrid, suscrito por Federación de Comercio Agrupado y Mercados de la Comunidad de Madrid y por la representación sindical Federación de CC. OO. del Hábitat de Madrid (código número 28002795011981)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/20/BOCM-20220820-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Convenio de colaboración de 3 de agosto de 2022, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Política Social, y el Ayuntamiento de Navalcarnero, para la ejecución de proyectos con cargo a los fondos europeos procedentes del Mecanismo para la Recuperación y Resiliencia (S20_S21_S22_S33_S65)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/20/BOCM-20220820-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Convenio de colaboración de 4 de agosto de 2022, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Política Social, y la Mancomunidad de Servicios Sociales Vega del Guadalix, para la ejecución de proyectos con cargo a los fondos europeos procedentes del Mecanismo para la Recuperación y Resiliencia (S20_S21_S22_S33_S65)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/20/BOCM-20220820-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Convenio de colaboración de 4 de agosto de 2022, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Política Social, y el Ayuntamiento de Rivas-Vaciamadrid, para la ejecución de proyectos con cargo a los fondos europeos procedentes del Mecanismo para la Recuperación y Resiliencia (S20_S21_S22_S33_S65)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/20/BOCM-20220820-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Convenio de colaboración de 8 de agosto de 2022, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Política Social, y el Ayuntamiento de Las Rozas de Madrid, para la ejecución de proyectos con cargo a los fondos europeos procedentes del Mecanismo para la Recuperación y Resiliencia (S20_S21_S22_S33_S65)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/20/BOCM-20220820-5.PDF"
+    }
+  }
+]
