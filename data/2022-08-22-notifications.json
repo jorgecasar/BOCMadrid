@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
-      "description": "Resolución de 18 de agosto de 2022, de la Dirección General de Agricultura, Ganadería y Alimentación, por la que se establecen medidas sanitarias para prevenir la difusión de la influenza aviar en la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/22/BOCM-20220822-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 1165/2022, de 28 de julio, de la Consejería de Sanidad, por la que se renueva la autorización de funcionamiento de centros sanitarios adscritos a la Consejería de Sanidad de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/22/BOCM-20220822-9.PDF"
