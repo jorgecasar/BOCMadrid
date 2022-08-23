@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Colmenar de Oreja",
-      "description": "Régimen económico: Padrón fiscal recogida basuras",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/23/BOCM-20220823-36.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Colmenar de Oreja",
       "description": "Régimen económico: Padrón fiscal actividades económicas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/23/BOCM-20220823-37.PDF"
     }
