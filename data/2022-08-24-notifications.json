@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Coslada",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/24/BOCM-20220824-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Estremera",
       "description": "Régimen económico: Cuenta general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/24/BOCM-20220824-26.PDF"
