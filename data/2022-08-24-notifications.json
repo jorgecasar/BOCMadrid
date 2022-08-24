@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Estremera",
-      "description": "Régimen económico: Cuenta general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/24/BOCM-20220824-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Griñón",
       "description": "Personal: Nombramiento",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/24/BOCM-20220824-27.PDF"
