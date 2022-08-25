@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Vicepresidencia, Consejería de Educación y Universidades",
-      "description": "Resolución de 10 de agosto de 2022, de la Viceconsejería de Organización Educativa, por la que se aprueba el Plan Anual de Actuación de la Inspección Educativa para el curso 2022-2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/25/BOCM-20220825-4.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Política Social",
       "description": "Orden 1711/2022, de 3 de agosto, de la Consejera de Familia, Juventud y Política Social, por la que se resuelve la convocatoria de ayudas a municipios de la Comunidad de Madrid destinadas al equipamiento, obras y mejoras de locales juveniles de titularidad municipal para el año 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/25/BOCM-20220825-5.PDF"
