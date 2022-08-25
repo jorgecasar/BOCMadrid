@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "San Martín de la Vega",
-      "description": "Ofertas de empleo: Bases proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/25/BOCM-20220825-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "San Sebastián de los Reyes",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/25/BOCM-20220825-36.PDF"
