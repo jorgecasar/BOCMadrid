@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Urbanismo: Área de Gobierno de Desarrollo Urbano",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/25/BOCM-20220825-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcorcón",
       "description": "Organización y funcionamiento: Delegación funciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/25/BOCM-20220825-21.PDF"
