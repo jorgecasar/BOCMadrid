@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Política Social",
-      "description": "Orden 1711/2022, de 3 de agosto, de la Consejera de Familia, Juventud y Política Social, por la que se resuelve la convocatoria de ayudas a municipios de la Comunidad de Madrid destinadas al equipamiento, obras y mejoras de locales juveniles de titularidad municipal para el año 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/25/BOCM-20220825-5.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 1293/2022, de 17 de agosto, de la Consejería de Cultura, Turismo y Deporte, por la que se establece el Plan de Auditorías financieras y de gestión de las federaciones deportivas madrileñas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/25/BOCM-20220825-6.PDF"
