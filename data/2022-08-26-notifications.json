@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Urbanismo: Área de Gobierno de Desarrollo Urbano. Enajenación parcelas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/26/BOCM-20220826-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Licencias: Área de Gobierno de Desarrollo Urbano",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/26/BOCM-20220826-28.PDF"
     }
