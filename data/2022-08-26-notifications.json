@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Disposiciones y Anuncios del Estado",
-      "description": "Delegación del Gobierno en Madrid. Área Funcional de Industria y Energía. Autorización administrativa y declaración impacto ambiental",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/26/BOCM-20220826-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Madrid",
       "description": "Régimen económico: Agencia para el Empleo de Madrid. Extracto convocatoria subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/26/BOCM-20220826-25.PDF"
