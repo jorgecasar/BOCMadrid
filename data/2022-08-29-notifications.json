@@ -1,18 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 205,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/08/29/BOCM-20220829.PDF",
-      "total": 46,
-      "items": {
-        "Comunidad de Madrid": 15,
-        "Administración Local Ayuntamientos": 30,
-        "Otros Anuncios": 1
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
