@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Otros anuncios: Distrito de Puente de Vallecas. Concesión demanial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/30/BOCM-20220830-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcobendas",
       "description": "Ofertas de empleo: Bases procesos selectivos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/30/BOCM-20220830-23.PDF"
