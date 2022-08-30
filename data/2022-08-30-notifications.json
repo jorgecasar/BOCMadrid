@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Transportes e Infraestructuras",
-      "description": "Anuncio periódico indicativo de 17 de agosto de 2022, relativo al contrato de instalación de los sistemas de comunicaciones asociados a las salas críticas del nuevo Centro de Proceso de Datos (CPD)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/30/BOCM-20220830-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Transportes e Infraestructuras",
       "description": "Anuncio periódico indicativo de 17 de agosto de 2022, relativo al contrato de actualización plantas de energía ENERTEL Línea 10",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/30/BOCM-20220830-18.PDF"
     }
