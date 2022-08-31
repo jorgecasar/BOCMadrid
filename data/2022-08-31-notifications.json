@@ -1,19 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 207,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/08/31/BOCM-20220831.PDF",
-      "total": 62,
-      "items": {
-        "Comunidad de Madrid": 21,
-        "Disposiciones y Anuncios del Estado": 1,
-        "Administración Local Ayuntamientos": 37,
-        "Administración de Justicia": 3
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
