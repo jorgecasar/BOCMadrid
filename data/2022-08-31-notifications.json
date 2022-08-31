@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Boadilla del Monte",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/31/BOCM-20220831-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Boadilla del Monte",
       "description": "Ofertas de empleo: Proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/31/BOCM-20220831-36.PDF"
     }
