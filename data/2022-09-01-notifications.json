@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Alcobendas",
-      "description": "Ofertas de empleo: Seromal, S. A",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/31/BOCM-20220831-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Alcobendas",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/08/31/BOCM-20220831-26.PDF"
     }
