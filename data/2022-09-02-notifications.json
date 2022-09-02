@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
-      "description": "Decreto 94/2022, de 31 de agosto, del Consejo de Gobierno, por el que se crea un instituto de Educación Secundaria en el municipio de Madrid para el curso escolar 2022-2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/02/BOCM-20220902-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Acuerdo de 31 de agosto de 2022, del Consejo de Gobierno, por el que se procede al nombramiento de don Luis López Bascuas como miembro del Patronato de la Fundación Universitaria Fray Francisco Jiménez de Cisneros",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/02/BOCM-20220902-3.PDF"
     }
