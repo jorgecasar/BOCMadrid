@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 29 de julio de 2022, de la Universidad Complutense de Madrid, por la que se convocan concurso de acceso a plazas de cuerpos docentes universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/02/BOCM-20220902-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Resolución de 24 de agosto de 2022, de la Secretaría General Técnica de la Consejería de Presidencia, Justicia e Interior, por la que se anuncia la formalización del contrato de “Redacción de Proyecto Básico, Proyecto de Ejecución y de Actividad del nuevo edificio judicial de Móstoles, sito en la calle Nueva York, número 44”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/02/BOCM-20220902-33.PDF"
