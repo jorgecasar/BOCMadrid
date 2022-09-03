@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Vicepresidencia, Consejería de Educación y Universidades",
-      "description": "Adenda de 22 de junio de 2022, al convenio de colaboración en materia de educación infantil suscrito entre la Comunidad de Madrid (Consejería de Educación e Investigación) y el Ayuntamiento de Paracuellos de Jarama",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/03/BOCM-20220903-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Convenio de 19 de agosto de 2022, entre la Comunidad de Madrid (Consejería de Presidencia, Justicia e Interior) y el Ayuntamiento de Villa del Prado, para establecer un protocolo de actuación de la Agrupación Municipal de Voluntarios de Protección Civil en el ámbito de la extinción de incendios y salvamento",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/03/BOCM-20220903-7.PDF"
