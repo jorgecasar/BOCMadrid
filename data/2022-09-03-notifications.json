@@ -1,0 +1,78 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 210,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/09/03/BOCM-20220903.PDF",
+      "total": 13,
+      "items": {
+        "Comunidad de Madrid": 8,
+        "Administración de Justicia": 5
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Resolución de 18 de agosto de 2022, de la Dirección General de Recursos Humanos y Relaciones con la Administración de Justicia de la Consejería de Justicia, por la que se convocan a concurso de traslado plazas vacantes entre funcionarios de los Cuerpos y Escalas de Gestión Procesal y Administrativa, Tramitación Procesal y Administrativa y Auxilio Judicial de la Administración de Justicia",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/03/BOCM-20220903-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 21 de agosto de 2022, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación de la modificación del convenio colectivo de la empresa Telefónica Broadcast Services, S. L. U.–Supersport Televisión, S. L., UTE (código número 28103202012021)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/03/BOCM-20220903-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 21 de agosto de 2022, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa Gategourmet Spain, S. L. (código número 28002182011986)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/03/BOCM-20220903-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Vicepresidencia, Consejería de Educación y Universidades",
+      "description": "Adenda de 22 de junio de 2022, al convenio de colaboración en materia de Educación Infantil suscrito entre la Comunidad de Madrid (Consejería de Educación e Investigación) y el Ayuntamiento de Coslada",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/03/BOCM-20220903-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Vicepresidencia, Consejería de Educación y Universidades",
+      "description": "Adenda de 22 de junio de 2022, al convenio de colaboración en materia de Educación Infantil suscrito entre la Comunidad de Madrid (Consejería de Educación e Investigación) y el Ayuntamiento de Getafe",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/03/BOCM-20220903-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Vicepresidencia, Consejería de Educación y Universidades",
+      "description": "Adenda de 22 de junio de 2022, al convenio de colaboración en materia de educación infantil suscrito entre la Comunidad de Madrid (Consejería de Educación e Investigación) y el Ayuntamiento de Paracuellos de Jarama",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/03/BOCM-20220903-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Convenio de 19 de agosto de 2022, entre la Comunidad de Madrid (Consejería de Presidencia, Justicia e Interior) y el Ayuntamiento de Villa del Prado, para establecer un protocolo de actuación de la Agrupación Municipal de Voluntarios de Protección Civil en el ámbito de la extinción de incendios y salvamento",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/03/BOCM-20220903-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 23 de agosto de 2022, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre depósito de los estatutos del Sindicato Coalición Sindical Independiente de Trabajadores de Madrid con siglas CSIT-Unión Profesional (número de registro del sindicato 28000188)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/03/BOCM-20220903-8.PDF"
+    }
+  }
+]
