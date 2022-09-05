@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Resolución de 5 de agosto de 2022, de la Dirección-Gerencia del Hospital Universitario “Puerta de Hierro Majadahonda”, del Servicio Madrileño de Salud, por la que se publica la relación provisional de admitidos y excluidos al proceso de provisión convocado para la cobertura de un puesto de Jefe de Servicio de Neurocirugía",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/05/BOCM-20220905-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Adenda de 8 de julio de 2022, al convenio de colaboración en materia de Educación Infantil, suscrito entre la Comunidad de Madrid (Consejería de Educación e Investigación) y el Ayuntamiento de Rivas-Vaciamadrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/05/BOCM-20220905-16.PDF"
