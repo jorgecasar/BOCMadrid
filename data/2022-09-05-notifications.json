@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Régimen económico: Área de Gobierno de Economía, Innovación y Empleo. Extracto convocatoria subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/05/BOCM-20220905-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Boadilla del Monte",
       "description": "Contratación: Concesión suelo explotación quiosco",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/05/BOCM-20220905-31.PDF"
