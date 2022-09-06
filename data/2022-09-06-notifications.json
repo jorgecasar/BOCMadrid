@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Transportes e Infraestructuras",
-      "description": "Anuncio periódico indicativo de 25 de agosto de 2022, relativo al contrato de renovación servidores Big Data",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/06/BOCM-20220906-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Transportes e Infraestructuras",
       "description": "Anuncio periódico indicativo de 25 de agosto de 2022, relativo al contrato de renovación por obsolescencia de SAIS y monitorización básica PCI",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/06/BOCM-20220906-33.PDF"
     }
