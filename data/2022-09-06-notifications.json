@@ -1,17 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 212,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/09/06/BOCM-20220906.PDF",
-      "total": 52,
-      "items": {
-        "Comunidad de Madrid": 34,
-        "Administración Local Ayuntamientos": 18
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
