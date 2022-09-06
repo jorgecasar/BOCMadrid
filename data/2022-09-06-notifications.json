@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Acuerdo de 13 de julio de 2022, del Consejo de Gobierno, por el que se autoriza la disolución de la empresa pública con forma de sociedad mercantil Canal Energía, S. L.",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/06/BOCM-20220906-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Acuerdo de 13 de julio de 2022, del Consejo de Gobierno, por el que se autoriza la disolución de la empresa pública con forma de sociedad mercantil Ocio y Deporte Canal, S. L. U.",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/06/BOCM-20220906-2.PDF"
     }
