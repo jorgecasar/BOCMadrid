@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Resolución de 25 de agosto de 2022, del Director-Gerente del Hospital Universitario “El Escorial”, por la que se dispone la publicación, en los boletines oficiales, de la formalización del contrato de «Servicio de restauración integral en el Hospital Universitario “El Escorial”»",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/06/BOCM-20220906-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Transportes e Infraestructuras",
       "description": "Anuncio periódico indicativo de 25 de agosto de 2022, relativo al contrato de renovación servidores Big Data",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/06/BOCM-20220906-32.PDF"
