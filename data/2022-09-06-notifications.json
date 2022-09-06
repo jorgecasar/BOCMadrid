@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 29 de julio de 2022, de la Universidad Complutense de Madrid, por la que se nombran funcionarios de los Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/06/BOCM-20220906-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 29 de julio de 2022, de la Universidad Complutense de Madrid, por la que se nombra a don José María González Granado Profesor Titular de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/06/BOCM-20220906-13.PDF"
     }
