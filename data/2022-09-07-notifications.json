@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Orden 1247/2022, de 25 de agosto, de la Consejería de Sanidad, por la que se resuelve la Orden 1070/2022, de 12 de julio, de la referida Consejería (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 14 de julio), por la que se convoca para su cobertura interina un puesto de trabajo en esta Consejería de Sanidad y se constituye lista de espera para futuras coberturas interinas de puestos de esta Consejería",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/07/BOCM-20220907-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Decreto 96/2022, de 31 de agosto, del Consejo de Gobierno, por el que se declara Bien de Interés Cultural de la Comunidad de Madrid, en la categoría de Monumento, la Casa Carvajal, en Pozuelo de Alarcón (Madrid)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/07/BOCM-20220907-17.PDF"
