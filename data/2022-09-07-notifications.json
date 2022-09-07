@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Decreto 96/2022, de 31 de agosto, del Consejo de Gobierno, por el que se declara Bien de Interés Cultural de la Comunidad de Madrid, en la categoría de Monumento, la Casa Carvajal, en Pozuelo de Alarcón (Madrid)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/07/BOCM-20220907-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Extracto de la Orden 1273/2022, de 25 de agosto, de la Consejera de Cultura, Turismo y Deporte, por la que se convocan las ayudas a la traducción de libros correspondientes al año 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/07/BOCM-20220907-18.PDF"
     }
