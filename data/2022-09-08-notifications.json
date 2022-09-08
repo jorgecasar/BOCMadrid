@@ -1,18 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 214,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/09/08/BOCM-20220908.PDF",
-      "total": 76,
-      "items": {
-        "Comunidad de Madrid": 45,
-        "Administración Local Ayuntamientos": 26,
-        "Administración de Justicia": 5
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
