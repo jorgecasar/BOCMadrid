@@ -1,19 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 215,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/09/09/BOCM-20220909.PDF",
-      "total": 93,
-      "items": {
-        "Comunidad de Madrid": 45,
-        "Disposiciones y Anuncios del Estado": 3,
-        "Administración Local Ayuntamientos": 39,
-        "Administración de Justicia": 6
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Presidencia de La Comunidad",
