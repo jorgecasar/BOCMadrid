@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Anuncio de 9 de septiembre de 2022, por el que se convoca procedimiento de selección para cubrir una plaza para Invest In Madrid de la Fundación Madrid por la Competitividad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/13/BOCM-20220913-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Política Social",
       "description": "Orden de 2 de septiembre de 2022, por la que se resuelve la convocatoria aprobada por Orden de 26 de julio de 2022, de la Consejera de Familia, Juventud y Política Social (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 5 de agosto), para la provisión de un puesto de trabajo vacante en la citada Consejería por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/13/BOCM-20220913-10.PDF"
