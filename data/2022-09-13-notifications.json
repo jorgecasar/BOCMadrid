@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Política Social",
-      "description": "Orden 1816/2022, de 31 de agosto, de la Consejería de Familia, Juventud y Política Social, por la que se aprueban las bases reguladoras de concesión de las ayudas económicas de pago único a familias con menores a su cargo, pacientes de cuidados paliativos pediátricos en la Comunidad de Madrid con cargo al Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea, Next Generation EU, y se procede a su convocatoria en el año 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/13/BOCM-20220913-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Resolución de 22 de julio de 2022, de la Viceconsejería de Gestión Económica, por la que se delegan determinadas competencias en la Viceconsejería de Asistencia Sanitaria y Salud Pública",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/13/BOCM-20220913-21.PDF"
