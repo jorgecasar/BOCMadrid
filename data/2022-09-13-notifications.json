@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 5 de septiembre de 2022, del Rector de la Universidad Rey Juan Carlos, por la que se convoca la I Convocatoria de Becas para realizar Tesis Doctoral en régimen de cotutela para el curso 2022/2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/13/BOCM-20220913-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Resolución de 1 de septiembre de 2022, de la Secretaría General Técnica de la Consejería de Presidencia, Justicia e Interior, por la que se anuncia la licitación del contrato de “Suministro de tóner para las impresoras en las Sedes Judiciales de la Comunidad de Madrid”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/13/BOCM-20220913-26.PDF"
