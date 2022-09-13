@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 2 de septiembre de 2022, de la Universidad de Alcalá, por la que se anuncia convocatoria pública para la provisión, mediante el sistema de Libre Designación, de varios puestos de trabajo vacantes en esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/13/BOCM-20220913-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Orden 2046/2022, de 21 de julio, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se aprueba el “Plan Estratégico de Subvenciones del Instituto Madrileño de Investigación y Desarrollo Rural, Agrario y Alimentario (IMIDRA) para la concesión de ayudas a empresas pertenecientes a los sectores agrícola, ganadero, forestal e industria asociada o agroalimentaria, para la realización de proyectos de investigación, desarrollo e innovación”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/13/BOCM-20220913-12.PDF"
