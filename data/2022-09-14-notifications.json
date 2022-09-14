@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 6 de septiembre de 2022, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden del Consejero de Economía, Hacienda y Empleo de 30 de junio de 2022 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 15 de julio), para la provisión de un puesto de trabajo vacante en la Consejería de Presidencia, Justicia e Interior (Organismo Autónomo Madrid 112), de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación.",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/14/BOCM-20220914-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Corrección de errores de la Resolución de 8 de agosto de 2022, de la Dirección-Gerencia del Hospital Universitario de Getafe, del Servicio Madrileño de Salud, por la que se convoca un puesto de Jefe de Servicio de Oftalmología en este Centro Asistencial para su cobertura mediante nombramiento provisional",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/14/BOCM-20220914-17.PDF"
