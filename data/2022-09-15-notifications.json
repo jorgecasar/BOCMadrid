@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
-      "description": "Acuerdo 33/2022, de 30 de junio, de la Comisión de Urbanismo de Madrid, relativo a la aprobación del Plan Especial de Infraestructuras “Enlace para la distribución de gas natural en el término municipal de Casarrubuelos”, promovido por Madrileña Red de Gas, S. A. U.",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/15/BOCM-20220915-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Política Social",
       "description": "Resolución 2832/2022, de 12 de septiembre, de la Directora General de Infancia, Familia y Fomento de la Natalidad, por la que se prorroga la vigencia de los títulos de familias numerosas caducados entre el 31 de julio de 2022 y el 31 de octubre de 2022, ambos inclusive, hasta el 31 de octubre de 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/15/BOCM-20220915-24.PDF"
