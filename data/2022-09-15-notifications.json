@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 7 de septiembre de 2022, de la Universidad Complutense de Madrid, por la que se publica la modificación de la Oferta de Empleo Público del Personal de Administración y Servicios, en el marco del proceso de estabilización del personal temporal al amparo de lo establecido en la Ley 20/2021, de 28 de diciembre, de medidas urgentes para la reducción de la temporalidad en el empleo público",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/15/BOCM-20220915-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 5 de septiembre de 2022, de la Universidad Autónoma de Madrid, por la que se nombra funcionaria de carrera de la Escala Especial Técnica de Gestión Universitaria de esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/15/BOCM-20220915-19.PDF"
