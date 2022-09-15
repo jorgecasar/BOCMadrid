@@ -1,19 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 220,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/09/15/BOCM-20220915.PDF",
-      "total": 72,
-      "items": {
-        "Comunidad de Madrid": 44,
-        "Administración Local Ayuntamientos": 26,
-        "Administración de Justicia": 1,
-        "Otros Anuncios": 1
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
