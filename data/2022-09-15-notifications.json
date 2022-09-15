@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Decreto 100/2022, de 14 de septiembre, del Consejo de Gobierno, por el que cesa don Antonio Cantó García del Moral como Director de Área de la Oficina del Español",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/15/BOCM-20220915-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 1475/2022, de 2 de septiembre, de la Consejera de Cultura, Turismo y Deporte, por la que se resuelve la convocatoria aprobada mediante Orden 669/2022, de 13 de mayo (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 27 de mayo), para la provisión de puestos de trabajo por el procedimiento de Concurso de Méritos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/15/BOCM-20220915-17.PDF"
     }
