@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 10 de septiembre de 2022, de la Universidad de Alcalá, por la que se anuncian las convocatorias de concursos para la provisión de plazas de Profesor Contratado Doctor y de Profesorado Contratado Temporal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/16/BOCM-20220916-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Orden de 6 de septiembre de 2022, del Consejero de Presidencia, Justicia e Interior, por la que se modifica parcialmente el Plan Estratégico de Subvenciones para los años 2022 y 2023 de la Consejería de Presidencia, Justicia e Interior",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/16/BOCM-20220916-18.PDF"
