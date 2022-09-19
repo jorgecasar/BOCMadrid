@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Resolución de 18 de agosto de 2022, de la Universidad de Alcalá, por la que se convocan plazas de promoción interna para el acceso al Cuerpo de Catedráticos de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/19/BOCM-20220919-3.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Resolución de 18 de agosto de 2022, de la Universidad de Alcalá, por la que se convocan concursos de acceso al Cuerpo de Profesores Titulares de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/19/BOCM-20220919-4.PDF"
     }
