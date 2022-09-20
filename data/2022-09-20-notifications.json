@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 2 de septiembre de 2022, de la Universidad Autónoma de Madrid, por la que se publica la modificación de determinados planes de estudios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/20/BOCM-20220920-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Resolución 74/2022, de 6 de septiembre, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la convocatoria del contrato de suministros titulado “Suministro de papel para fotocopiadoras y papel de seguridad destinados a la Imprenta del Organismo Autónomo Boletín Oficial de la Comunidad de Madrid”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/20/BOCM-20220920-25.PDF"
