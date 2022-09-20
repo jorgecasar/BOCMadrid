@@ -1,20 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 224,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/09/20/BOCM-20220920.PDF",
-      "total": 76,
-      "items": {
-        "Comunidad de Madrid": 40,
-        "Disposiciones y Anuncios del Estado": 1,
-        "Administración Local Ayuntamientos": 26,
-        "Administración de Justicia": 7,
-        "Otros Anuncios": 2
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
