@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Vicepresidencia, Consejería de Educación y Universidades",
-      "description": "Orden 2732/2022, de 13 de septiembre, del Vicepresidente, Consejero de Educación y Universidades, por el que se aprueba el Plan Estratégico para los Convenios-Subvención entre la Comunidad de Madrid y los centros privados concertados que imparten segundo ciclo de educación infantil, educación primaria, educación secundaria obligatoria, formación profesional básica, formación profesional de grado medio y/o bachillerato participantes en el programa para la orientación, avance y enriquecimiento educativo en centros de especial complejidad educativa (programa PROA+) en el marco del Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea-Next Generation EU",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/21/BOCM-20220921-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Extracto de la Orden de 14 de julio de 2022, del Consejero de Presidencia, Justicia e Interior, por la que se aprueba la convocatoria para el año 2022 de subvenciones destinadas a entidades sin ánimo de lucro cuyo objeto sea la atención a las víctimas del terrorismo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/21/BOCM-20220921-27.PDF"
