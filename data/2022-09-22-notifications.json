@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Extracto de la Orden 1277/2022, de 7 de septiembre, de la Consejería de Sanidad, por la que se convocan para el año 2022 subvenciones destinadas a entidades locales de la Comunidad de Madrid para la realización de actividades en materia de promoción de la salud en el ámbito municipal.",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/21/BOCM-20220921-28.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 13 de julio de 2022, de la Universidad Complutense de Madrid, por la que se resuelve la convocatoria de ayudas para la realización de proyectos de I+D para jóvenes doctores, en el marco del Convenio Plurianual entre la Administración de la Comunidad de Madrid y la Universidad Complutense de Madrid para la regulación del marco de cooperación en el sistema regional de investigación científica e innovación tecnológica. Convocatoria 2021",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/21/BOCM-20220921-29.PDF"
