@@ -1,20 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 227,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/09/23/BOCM-20220923.PDF",
-      "total": 67,
-      "items": {
-        "Comunidad de Madrid": 27,
-        "Disposiciones y Anuncios del Estado": 1,
-        "Administración Local Ayuntamientos": 17,
-        "Administración de Justicia": 16,
-        "Otros Anuncios": 6
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Asamblea de Madrid",
