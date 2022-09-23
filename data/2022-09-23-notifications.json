@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Política Social",
-      "description": "Convenio de 7 de septiembre de 2022, entre la Comunidad de Madrid (Consejería de Familia, Juventud y Política Social) y Cruz Roja Española, para la protección a la familia y atención a la pobreza infantil 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/23/BOCM-20220923-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Administración Local y Digitalización",
       "description": "Resolución de 13 de septiembre de 2022, de la Secretaría General Técnica de la Consejería de Administración Local y Digitalización por la que se anuncia la formalización del contrato “Reforma del Parque de la avenida de la Comunidad de Madrid, en el municipio de San Martín de la Vega”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/23/BOCM-20220923-18.PDF"
