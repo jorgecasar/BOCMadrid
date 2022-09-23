@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Presidencia de La Comunidad",
-      "description": "Decreto 58/2022, de 21 de septiembre, de la Presidenta de la Comunidad de Madrid, por el que se nombra a doña Almudena Martínez-Fornes Galindo Asesor Presidente",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/23/BOCM-20220923-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Orden 2722/2022, de 13 de septiembre, del Vicepresidente, Consejero de Educación y Universidades, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Vicepresidencia, Consejería de Educación y Universidades, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/23/BOCM-20220923-3.PDF"
