@@ -1,17 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 228,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/09/24/BOCM-20220924.PDF",
-      "total": 12,
-      "items": {
-        "Comunidad de Madrid": 6,
-        "Administración de Justicia": 6
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
