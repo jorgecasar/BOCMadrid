@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 12 de septiembre de 2022, de la Universidad Complutense de Madrid, por la que se publica la modificación del Plan de Estudios del Máster Universitario en Estadísticas Oficiales e Indicadores Sociales y Económicos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/26/BOCM-20220926-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 12 de septiembre de 2022, de la Universidad Complutense de Madrid, por la que se publica el cambio de denominación del título de Máster Universitario en Éticas Aplicadas por el de Máster Universitario en Ética Aplicada",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/26/BOCM-20220926-14.PDF"
     }
