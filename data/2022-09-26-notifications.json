@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Administración Local y Digitalización",
-      "description": "Orden 459/2022, de 16 de septiembre, de la Consejería de Administración Local y Digitalización por la que se aprueban las bases reguladoras de las ayudas destinadas a facilitar el acceso a programas y actividades educativas, artísticas y/o deportivas para la población residente en municipios de menos de 5.000 habitantes",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/26/BOCM-20220926-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 12 de septiembre de 2022, de la Universidad Complutense de Madrid, por la que se publica la modificación del Plan de Estudios del Máster Universitario en Estadísticas Oficiales e Indicadores Sociales y Económicos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/26/BOCM-20220926-13.PDF"
