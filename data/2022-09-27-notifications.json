@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Chapinería",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/27/BOCM-20220927-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Chapinería",
       "description": "Ofertas de empleo: Proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/27/BOCM-20220927-24.PDF"
     }
