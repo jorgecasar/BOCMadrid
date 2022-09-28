@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 14 de septiembre de 2022, de la Universidad Autónoma de Madrid, por la que se nombran funcionarios de Cuerpos Docentes Universitarios: Profesores y Profesoras Titulares de Universidad y Catedráticos y Catedráticas de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/28/BOCM-20220928-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 16 de septiembre de 2022, de la Universidad Autónoma de Madrid por la que se nombra funcionario de carrera de la Escala Especial Superior de Sistemas y Tecnología de la Información de esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/28/BOCM-20220928-16.PDF"
     }
