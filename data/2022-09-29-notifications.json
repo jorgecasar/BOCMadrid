@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Decreto 104/2022, de 28 de septiembre, del Consejo de Gobierno, por el que se nombra Viceconsejero de Asistencia Sanitaria y Salud Pública a don Fernando Prados Roa",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/29/BOCM-20220929-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Decreto 105/2022, de 28 de septiembre, del Consejo de Gobierno, por el que se nombra Director General del Proceso Integrado de Salud del Servicio Madrileño de Salud con rango de Viceconsejero a don Juan José Fernández Ramos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/29/BOCM-20220929-9.PDF"
     }
