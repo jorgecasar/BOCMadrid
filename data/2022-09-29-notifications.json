@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Decreto 102/2022, de 28 de septiembre, del Consejo de Gobierno, por el que cesa don Antonio Zapatero Gaviria como Viceconsejero de Asistencia Sanitaria y Salud Pública",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/29/BOCM-20220929-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Decreto 103/2022, de 28 de septiembre, del Consejo de Gobierno, por el que cesa don Fernando Prados Roa como Director General del Proceso Integrado de Salud del Servicio Madrileño de Salud",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/29/BOCM-20220929-7.PDF"
     }
