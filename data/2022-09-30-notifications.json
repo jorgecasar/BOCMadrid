@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 1598/2022, de 20 de septiembre, de la Consejería de Cultura, Turismo y Deporte, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en dicha Consejería, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/30/BOCM-20220930-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Complutense de Madrid",
       "description": "Resolución conjunta de 29 de julio de 2022, de la Universidad Complutense de Madrid y de la Consejería de Sanidad de la Comunidad de Madrid, por la que se convoca concurso de acceso a plaza de cuerpos docentes universitarios vinculadas con plazas asistenciales en instituciones sanitarias",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/30/BOCM-20220930-13.PDF"
