@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 22 de septiembre de 2022, de modificación parcial de la resolución de fecha 11 de julio de 2022 (“Boletín Oficial del Estado” y BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 21 de julio), por la que se convoca proceso selectivo, mediante el sistema de Concurso-Oposición libre, para la provisión de plazas de personal laboral fijo de administración y servicios de los grupos y niveles salariales C1, C2 y C3",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/03/BOCM-20221003-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 19 de septiembre de 2022, de la Universidad Autónoma de Madrid, por la que se publica rectificación de la Resolución de 28 de julio de 2022, relativa a la Oferta de Empleo Público para el ejercicio 2022 del Personal Docente e Investigador y publicada en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 9 de agosto de 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/03/BOCM-20221003-13.PDF"
