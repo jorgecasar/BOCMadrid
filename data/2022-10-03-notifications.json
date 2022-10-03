@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 22 de septiembre de 2022, por la que se publican diversos planes de estudio de Máster Universitario de la Universidad Politécnica de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/03/BOCM-20221003-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 22 de septiembre de 2022, por la que se publica el plan de estudios del Máster Universitario en Ingeniería Sísmica-Dinámica de Suelos y Estructuras por la Universidad Politécnica de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/03/BOCM-20221003-19.PDF"
     }
