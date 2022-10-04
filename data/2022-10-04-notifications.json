@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Corrección de errores de la Resolución de 3 de agosto de 2022 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 2 de septiembre de 2022), de la Dirección-Gerencia del Hospital Universitario “Infanta Sofía”, del Servicio Madrileño de Salud, por la que se publica la relación provisional de admitidos y excluidos al proceso de provisión convocado para la cobertura de un puesto de Jefe de Servicio de Dermatología Médico-Quirúrgica y Venereología, en este centro asistencial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/04/BOCM-20221004-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Transportes e Infraestructuras",
       "description": "Orden de 22 de septiembre de 2022, de la Consejería de Transportes e Infraestructuras, por la que se resuelve la convocatoria aprobada por Orden de fecha 8 de agosto de 2022 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 18 de agosto) para la provisión de un puesto de trabajo vacante en dicha Consejería por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/04/BOCM-20221004-25.PDF"
