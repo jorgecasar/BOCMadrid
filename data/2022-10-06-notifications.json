@@ -1,20 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 238,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/10/06/BOCM-20221006.PDF",
-      "total": 95,
-      "items": {
-        "Comunidad de Madrid": 47,
-        "Disposiciones y Anuncios del Estado": 1,
-        "Administración Local Ayuntamientos": 33,
-        "Administración de Justicia": 4,
-        "Otros Anuncios": 10
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
