@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Orden 1417/2022, de 26 de septiembre, del Consejero de Sanidad, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/06/BOCM-20221006-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Orden 2824/2022, de 27 de septiembre, del Vicepresidente, Consejero de Educación y Universidades, por la que se autorizan nuevas instalaciones en la Facultad de Ciencias Sociales Aplicadas y de la Comunicación, de la Universidad Internacional de la Empresa",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/06/BOCM-20221006-13.PDF"
