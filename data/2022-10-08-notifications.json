@@ -1,0 +1,54 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 240,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/10/08/BOCM-20221008.PDF",
+      "total": 11,
+      "items": {
+        "Comunidad de Madrid": 5,
+        "Administración de Justicia": 6
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 20 de septiembre de 2022, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del Convenio Colectivo de la Empresa Saargummi Ibérica, S. A. (Código número 28100442012013)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/08/BOCM-20221008-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 20 de septiembre de 2022, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa FCC Medio Ambiente, S. A. U., para el centro de trabajo de Galapagar Sección de Recogida de Residuos Sólidos Urbanos (código número 28102941012021)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/08/BOCM-20221008-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Convenio de colaboración de 23 de septiembre de 2022, entre la Comunidad de Madrid, y el centro de formación “Formación Internacional Vocacional y Emprendimiento, S. L. (FIVE)”, para la información, orientación y apoyo en la inscripción en el procedimiento de evaluación y acreditación de competencias profesionales adquiridas a través de la experiencia laboral y/o vías no formales de formación en el ámbito de la Comunidad de Madrid en el marco del componente 20 “Plan Estratégico de Impulso de la Formación Profesional”, del Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea, NextgenerationEU",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/08/BOCM-20221008-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Convenio de colaboración de 28 de julio de 2022, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Política Social, y la Mancomunidad de Servicios El Alberche para la ejecución de proyectos con cargo a los fondos europeos procedentes del Mecanismo para la Recuperación y Resiliencia (S20_S21_S22_S33_S65)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/08/BOCM-20221008-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Convenio de colaboración de 28 de julio de 2022, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Política Social, y la Mancomunidad de Servicios Sociales del Este de Madrid (MISSEM) para la ejecución de proyectos con cargo a los Fondos Europeos procedentes del Mecanismo para la Recuperación y Resiliencia (S20_S21_S22_S33_S65)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/08/BOCM-20221008-5.PDF"
+    }
+  }
+]
