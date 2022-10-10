@@ -1,19 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 241,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/10/10/BOCM-20221010.PDF",
-      "total": 113,
-      "items": {
-        "Comunidad de Madrid": 64,
-        "Administración Local Ayuntamientos": 37,
-        "Administración de Justicia": 11,
-        "Otros Anuncios": 1
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
