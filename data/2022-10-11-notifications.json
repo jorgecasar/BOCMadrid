@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 28 de septiembre de 2022, de la Dirección General de Presupuestos, por la que se hace público el “Estado de ejecución del presupuesto de gastos”, correspondiente al mes de julio de 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/11/BOCM-20221011-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Política Social",
       "description": "Resolución 49/2022, de 28 de septiembre, del Director de la Agencia Madrileña para la Tutela de Adultos, por la que se hace pública la composición de la mesa de contratación de la Agencia Madrileña para la Tutela de Adultos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/11/BOCM-20221011-22.PDF"
