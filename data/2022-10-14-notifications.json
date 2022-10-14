@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
-      "description": "Decreto 109/2022, de 11 de octubre, del Consejo de Gobierno, por el que se autoriza la participación de la Comunidad de Madrid en la constitución de la Fundación Resetea",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/13/BOCM-20221013-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Decreto 112/2022, de 11 de octubre, del Consejo de Gobierno, por el que se resuelve el expediente de concesión de la dispensa solicitada por el Ayuntamiento de Móstoles, para la prestación del servicio de extinción de incendios, tras la suscripción del convenio de transferencia y financiación entre la Comunidad de Madrid y el Ayuntamiento de Móstoles, en relación con la solicitud de dispensa planteada por dicho Ayuntamiento, sobre la prestación del servicio de prevención, extinción de incendios y salvamentos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/13/BOCM-20221013-2.PDF"
     }
