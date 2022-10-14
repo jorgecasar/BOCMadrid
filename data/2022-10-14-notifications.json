@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 2 de octubre del 2022, del Rectorado de la Universidad Autónoma de Madrid, por la que se publica la Oferta de Empleo Público para el ejercicio 2022, correspondiente al Personal de Administración y Servicios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/13/BOCM-20221013-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 27 de septiembre de 2022, de la Universidad Politécnica de Madrid, por la que se nombran funcionarios de carrera en la Escala Técnica Auxiliar de Biblioteca, Grupo C, Subgrupo C1, de la Universidad Politécnica de Madrid, por el sistema general de acceso libre",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/13/BOCM-20221013-21.PDF"
