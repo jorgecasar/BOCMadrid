@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 27 de septiembre de 2022, de la Universidad Politécnica de Madrid, por la que se nombran funcionarios de carrera en la Escala Técnica Auxiliar de Biblioteca, Grupo C, Subgrupo C1, de la Universidad Politécnica de Madrid, por el sistema general de acceso libre",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/13/BOCM-20221013-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 7 de octubre de 2022, de la Universidad Politécnica de Madrid, por la que se anuncia la convocatoria de concurso de traslado y concurso-oposición de promoción interna para la provisión de puestos de trabajo vacantes en la Relación de Puestos de Trabajo de personal de administración y servicios laboral",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/13/BOCM-20221013-22.PDF"
     }
