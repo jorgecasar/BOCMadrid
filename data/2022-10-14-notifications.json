@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 4 de octubre de 2022, de la Universidad Complutense de Madrid, por la que se nombran funcionarios de carrera de la Escala de Ayudantes de Archivos, Bibliotecas y Museos de la Universidad Complutense, Grupo A, Subgrupo A2",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/13/BOCM-20221013-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 2 de octubre del 2022, del Rectorado de la Universidad Autónoma de Madrid, por la que se publica la Oferta de Empleo Público para el ejercicio 2022, correspondiente al Personal de Administración y Servicios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/13/BOCM-20221013-20.PDF"
