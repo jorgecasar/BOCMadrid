@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
-      "description": "Convenio de 23 de septiembre de 2022, entre la Comunidad de Madrid (Consejería de Medio Ambiente, Vivienda y Agricultura) y doña Marta Junquera Tordesillas, en condición de propietaria de las parcelas con referencia catastral 28031A017001500000ZM, 28031A017001680000ZB, 28031A017001720000ZY y 28031A017001730000ZG, del municipio de Cadalso de los Vidrios, por el que se instrumenta la concesión directa de una ayuda en especie para la realización de diversos trabajos de restauración incluidos en el Decreto 239/2019, de 24 de septiembre, por el que se declara zona de actuación urgente",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/15/BOCM-20221015-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Publicación convenio-subvención de 23 de septiembre de 2022, entre la Comunidad de Madrid y los grupos de acción local, para el desarrollo del proyectos de emprendimiento y microempresas, con cargo a los fondos europeos procedentes del mecanismo para la recuperación y resiliencia",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/15/BOCM-20221015-3.PDF"
