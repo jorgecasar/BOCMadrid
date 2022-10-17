@@ -1,20 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 247,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/10/17/BOCM-20221017.PDF",
-      "total": 108,
-      "items": {
-        "Comunidad de Madrid": 73,
-        "Disposiciones y Anuncios del Estado": 1,
-        "Administración Local Ayuntamientos": 26,
-        "Administración de Justicia": 7,
-        "Otros Anuncios": 1
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
