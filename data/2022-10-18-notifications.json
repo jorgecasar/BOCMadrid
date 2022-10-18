@@ -1,19 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 248,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/10/18/BOCM-20221018.PDF",
-      "total": 91,
-      "items": {
-        "Comunidad de Madrid": 57,
-        "Disposiciones y Anuncios del Estado": 1,
-        "Administración Local Ayuntamientos": 29,
-        "Administración de Justicia": 4
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
