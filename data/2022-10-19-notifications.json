@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 28 de septiembre de 2022, de la Universidad Complutense de Madrid, por la que se convoca concurso de movilidad para la provisión de plaza de Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/19/BOCM-20221019-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 28 de septiembre de 2022, de la Universidad Complutense de Madrid, por la que se convoca concurso de acceso a plaza de Cuerpos Docentes Universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/19/BOCM-20221019-12.PDF"
     }
