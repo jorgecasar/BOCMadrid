@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 3 de octubre de 2022, de la Universidad Autónoma de Madrid, por la que se convocan pruebas selectivas para el ingreso en la Escala de Gestión Administrativa con Idiomas de la Universidad Autónoma de Madrid, por el sistema de promoción interna",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/19/BOCM-20221019-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 30 de septiembre de 2022, de la Universidad de Alcalá, por la que se nombra Catedrático de Universidad del área de conocimiento de “Bioquímica y Biología Molecular” a don Antonio Chiloeches Gálvez",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/19/BOCM-20221019-18.PDF"
