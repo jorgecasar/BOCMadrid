@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 3 de octubre de 2022, de la Universidad Autónoma de Madrid, por la que se convocan pruebas selectivas para el ingreso en la Escala de Ayudantes de Archivos, Bibliotecas y Museos de la Universidad Autónoma de Madrid, por el sistema de promoción interna",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/19/BOCM-20221019-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 3 de octubre de 2022, de la Universidad Autónoma de Madrid, por la que se convocan pruebas selectivas para el ingreso en la Escala Técnica Superior de Administración de la Universidad Autónoma de Madrid, por el sistema de promoción interna",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/19/BOCM-20221019-15.PDF"
     }
