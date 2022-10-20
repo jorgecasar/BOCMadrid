@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 3 de octubre de 2022, de la Universidad Complutense de Madrid, por la que se nombra a Dña. María Carmen Plaza Martín Profesora Titular de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/20/BOCM-20221020-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Extracto de la Orden de 5 de octubre de 2022, de la Consejería de Presidencia, Justicia e Interior, por la que se establece la convocatoria de concesión de becas de la Comunidad de Madrid para la realización de prácticas en la Dirección General competente en materia de cooperación con el Estado y asuntos relacionados con la Unión Europea",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/20/BOCM-20221020-12.PDF"
