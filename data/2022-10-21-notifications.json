@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 20 de octubre de 2022, de la Universidad Rey Juan Carlos, por la que se anuncia convocatoria pública para la provisión de varios puestos de trabajo reservados a personal funcionario mediante el sistema de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/21/BOCM-20221021-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Acuerdo de 11 de octubre de 2022, del Consejo de Gobierno, por el que se aprueba definitivamente la Modificación Puntual no Sustancial del Plan General de Ordenación Urbana de Madrid en la parcela de la calle María de Molina, número 42, Distrito de Salamanca",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/21/BOCM-20221021-15.PDF"
