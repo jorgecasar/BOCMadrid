@@ -1,18 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 253,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/10/24/BOCM-20221024.PDF",
-      "total": 95,
-      "items": {
-        "Comunidad de Madrid": 63,
-        "Administración Local Ayuntamientos": 28,
-        "Administración de Justicia": 4
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Asamblea de Madrid",
