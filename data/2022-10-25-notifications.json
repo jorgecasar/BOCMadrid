@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 3 de octubre de 2022, conjunta de la Universidad Autónoma de Madrid y la Consejería de Sanidad de la Comunidad de Madrid, por la que se nombra Personal Docente e Investigador Funcionario Universitario vinculado con institución sanitaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/24/BOCM-20221024-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución 13 de octubre de 2022, de la Universidad Rey Juan Carlos, por la que se convoca concurso de acceso a plazas de cuerpos docentes universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/24/BOCM-20221024-17.PDF"
