@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia e Interior",
-      "description": "Resolución de 18 de octubre de 2022, de la Dirección General de Recursos Humanos y Relaciones con la Administración de Justicia, por la que se aprueba en los partidos judiciales de Madrid el sistema de guardia para el Instituto de Medicina Legal y Ciencias Forenses de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/26/BOCM-20221026-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Orden de 13 de octubre de 2022, de la Consejera de Medio Ambiente, Vivienda y Agricultura, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en dicha Consejería (Agencia de Vivienda Social) por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/26/BOCM-20221026-3.PDF"
