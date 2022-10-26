@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 19 de octubre de 2022, de la Universidad Rey Juan Carlos, por la que se nombra a don Marcelino de la Cruz Rot como Catedrático de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/26/BOCM-20221026-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Resolución de 28 de septiembre de 2022, de la Dirección General de Agricultura, Ganadería y Alimentación, por la que se aprueba el procedimiento de deslinde de las vías pecuarias del término municipal de Venturada (Madrid)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/26/BOCM-20221026-27.PDF"
