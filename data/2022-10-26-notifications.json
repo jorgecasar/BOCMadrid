@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 11 de octubre de 2022, de la Universidad Autónoma de Madrid, por la que se convoca concurso de acceso a plazas de Docentes Universitarios entre Acreditados: Profesores Contratados Doctores y Profesoras Contratadas Doctoras",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/26/BOCM-20221026-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 19 de octubre de 2022, de la Universidad Rey Juan Carlos, por la que se nombra a don Marcelino de la Cruz Rot como Catedrático de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/26/BOCM-20221026-26.PDF"
