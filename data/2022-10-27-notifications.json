@@ -1,18 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 256,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/10/27/BOCM-20221027.PDF",
-      "total": 53,
-      "items": {
-        "Comunidad de Madrid": 34,
-        "Administración Local Ayuntamientos": 15,
-        "Administración de Justicia": 4
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Presidencia de La Comunidad",
