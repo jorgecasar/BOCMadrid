@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Administración Local y Digitalización",
-      "description": "Acuerdo de 26 de octubre de 2022, del Consejo de Gobierno, por el que se aprueba el Plan anual de gestión de subvenciones para gastos corrientes 2022, en desarrollo del Programa de Inversiones Regional 2022-2026, y se autoriza un gasto de 41.280.800,25 euros para su ejecución",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/31/BOCM-20221031-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 1595/2022, de 26 de octubre, de la Consejería de Sanidad, por la que se resuelve la convocatoria para el año 2022 de subvenciones destinadas a entidades sin ánimo de lucro de la Comunidad de Madrid, dirigidas a la financiación de proyectos para la asistencia sociosanitaria de las personas afectadas por el VIH/SIDA",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/10/31/BOCM-20221031-25.PDF"
