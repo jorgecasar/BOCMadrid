@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 19 de octubre de 2022, de la Universidad Politécnica de Madrid, por la que se resuelve parcialmente la convocatoria para la cobertura de diversos puestos de trabajo, por el procedimiento de Libre Designación, anunciada por Resolución de 4 de julio de 2022 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID número 170, de 19 de julio de 2022)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/02/BOCM-20221102-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Orden 3121/2022, de 18 de octubre, por la que se modifican los conciertos educativos de determinados centros docentes privados aprobados por la Orden 2100/2022, de 20 de julio, del Vicepresidente, Consejero de Educación y Universidades",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/02/BOCM-20221102-24.PDF"
