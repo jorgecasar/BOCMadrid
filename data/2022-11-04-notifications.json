@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Política Social",
-      "description": "Extracto de la Orden 2149/2022, de 14 de octubre, de la Consejería de Familia, Juventud y Política Social, por la que se corrigen los errores detectados en la Orden 2078/2022, de 8 de octubre, de la Consejería de Familia, Juventud y Política Social, por la que se aprueban normas reguladoras y se establece la convocatoria de concesión directa de ayudas para la adquisición y dotación de equipamientos electrónicos para la alfabetización y capacitación digital positiva dirigidas a familias de acogida de la Comunidad de Madrid, con cargo al Plan de Recuperación, Transformación y Resiliencia (financiado por la Unión Europea-Next Generation EU)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/03/BOCM-20221103-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 1902/2022, de 19 de octubre, de la Consejería de Cultura, Turismo y Deporte, por la que se aprueba el Plan Estratégico de Subvenciones de la Dirección General de Promoción Cultural para 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/03/BOCM-20221103-32.PDF"
