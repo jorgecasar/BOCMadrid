@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 24 de octubre de 2022, de la Universidad Rey Juan Carlos, por la que se nombra a don Alberto Fernández Gil como Catedrático de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/04/BOCM-20221104-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Acuerdo de 2 de noviembre de 2022, del Consejo de Gobierno, por el que se aprueban las normas reguladoras del procedimiento de concesión directa de ayudas dirigidas a financiar los proyectos que hayan obtenido un Sello de Excelencia dentro del programa Acelerador del Consejo Europeo de Innovación (EIC Accelerator, incluida la fase piloto), en el marco del Programa Horizonte Europa (2021-2027) para el fomento de la inversión empresarial en I+D+I",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/04/BOCM-20221104-26.PDF"
