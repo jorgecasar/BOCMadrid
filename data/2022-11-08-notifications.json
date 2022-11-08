@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Orden 1588/2022, de 25 de octubre, del Consejero de Sanidad, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en la Consejería de Sanidad, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/07/BOCM-20221107-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 3 de noviembre de 2022, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se procede a convocar el puesto directivo de Gerente Adjunto/a de Asistencia Sanitaria en la Gerencia Asistencial de Atención Primaria adscrita al Servicio Madrileño de Salud",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/07/BOCM-20221107-27.PDF"
     }
