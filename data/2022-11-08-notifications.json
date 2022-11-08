@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Acuerdo de 2 de noviembre de 2022, del Consejo de Gobierno, sobre incremento retributivo adicional del personal al servicio del Sector Público de la Comunidad de Madrid para el ejercicio 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/07/BOCM-20221107-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Administración Local y Digitalización",
       "description": "Corrección de errores del Decreto 116/2022, de 2 de noviembre, del Consejo de Gobierno, por el que se regula el servicio de asistencia a las Entidades Locales de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/07/BOCM-20221107-2.PDF"
