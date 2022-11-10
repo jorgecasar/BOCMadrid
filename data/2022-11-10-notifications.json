@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Régimen económico: O. A",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/09/BOCM-20221109-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Torrejón de Ardoz",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/09/BOCM-20221109-11.PDF"
