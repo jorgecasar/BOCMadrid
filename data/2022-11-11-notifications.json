@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 25 de octubre de 2022, por la que se publica el plan de estudios de Máster Universitario en Ingeniería de Minas por la Universidad Politécnica de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/10/BOCM-20221110-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 25 de octubre de 2022, por la que se publican diversos planes de estudio de Grado y Máster Universitario de la Universidad Politécnica de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/10/BOCM-20221110-24.PDF"
     }
