@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 28 de octubre de 2022, de la Universidad Carlos III de Madrid, por la que se anuncia convocatoria de concurso específico de méritos para la provisión de un puesto de trabajo nivel 25 de personal funcionario de administración y servicios adscrito al Subgrupo A1 y A2 en esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/10/BOCM-20221110-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Orden 3195/2022, de 26 de octubre, de corrección de errores de la Orden 344/2022, de 15 de enero, del Consejero de Educación, Universidades, Ciencia y Portavoz del Gobierno, por la que se aprueba el plan estratégico para el año 2022 de las convocatorias de ayudas en materia de investigación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/10/BOCM-20221110-14.PDF"
