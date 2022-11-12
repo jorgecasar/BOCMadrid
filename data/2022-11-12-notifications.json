@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 1512/2022, de 8 de septiembre, de la Consejera de Cultura, Turismo y Deporte, por la que se corrigen errores materiales detectados en la Orden 1151/2022, de 20 de julio, de la Consejera de Cultura, Turismo y Deporte, por la que se aprueban las tablas de valoración de determinadas series documentales de la Administración de la Comunidad de Madrid, de las Universidades madrileñas y de las Administraciones locales madrileñas y se autoriza la eliminación de determinadas fracciones temporales de series documentales de la Administración de la Comunidad de Madrid y de las Administraciones locales madrileñas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/11/BOCM-20221111-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Complutense de Madrid",
       "description": "Extracto de la Resolución de 25 de octubre de 2022, de la Universidad Complutense de Madrid, por la que se aprueban las bases reguladoras y se realiza la convocatoria de las ayudas para estancias de investigación para personal investigador de universidades ucranianas afectadas por la guerra",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/11/BOCM-20221111-23.PDF"
