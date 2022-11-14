@@ -1,0 +1,78 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 270,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/11/12/BOCM-20221112270.PDF",
+      "total": 14,
+      "items": {
+        "Comunidad de Madrid": 8,
+        "Administración de Justicia": 6
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 10 de noviembre de 2022, de la Consejería de Economía, Hacienda y Empleo, relativa a la adecuación del componente general del complemento específico asignado a funcionarios de los Cuerpos Docentes no Universitarios de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/12/BOCM-20221112-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Vicepresidencia, Consejería de Educación y Universidades",
+      "description": "Convenio de colaboración de 11 de octubre de 2022, entre la Comunidad de Madrid (Vicepresidencia, Consejería de Educación y Universidades), Think Equal y la Fundación Gomaespuma para el proyecto “Think Equal”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/12/BOCM-20221112-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Vicepresidencia, Consejería de Educación y Universidades",
+      "description": "Convenio de colaboración de 11 de octubre de 2022, entre la Comunidad de Madrid (Vicepresidencia, Consejería de Educación y Universidades) y la Fundación María Jesús Soto, para el desarrollo de actuaciones en centros docentes sostenidos con fondos públicos de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/12/BOCM-20221112-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Convenio de 19 de septiembre de 2022, entre la Consejería de Medio Ambiente, Vivienda y Agricultura de la Comunidad de Madrid y CaixaBank, S. A., para el Programa “Mi Primera Vivienda”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/12/BOCM-20221112-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Convenio de colaboración de 12 de octubre de 2022, entre la Comunidad de Madrid y el Centro de formación Grupo Fidsoft, S. A., para la información, orientación y apoyo en la inscripción en el procedimiento de evaluación y acreditación de competencias profesionales adquiridas a través de la experiencia laboral y/o vías no formales de formación en el ámbito de la Comunidad de Madrid, en el marco del componente 20 “Plan estratégico de impulso de la formación profesional”, del Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea, NextGenerationEU",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/12/BOCM-20221112-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Convenio de 8 de octubre de 2022, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Política Social, y el Ayuntamiento de Carabaña para la realización de actuaciones en el marco del Plan Corresponsables",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/12/BOCM-20221112-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Convenio de colaboración de 13 de octubre de 2022, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Política Social, y el Ayuntamiento de Majadahonda, para la ejecución de proyectos con cargo a los fondos europeos procedentes del Mecanismo para la Recuperación y Resiliencia (s20_s21_s22_s33_s65)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/12/BOCM-20221112-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 19 de octubre de 2022, entre la Comunidad de Madrid, a través de la Consejería de Cultura, Turismo y Deporte, y la Federación Madrileña de Natación para colaboración en la utilización de espacios deportivos y gestión del centro especializado de tecnificación deportiva en el Centro de Natación Mundial 86",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/12/BOCM-20221112-8.PDF"
+    }
+  }
+]
