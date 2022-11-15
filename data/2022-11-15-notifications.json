@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 31 de octubre de 2022, de la Universidad de Alcalá, por la que se resuelve la convocatoria pública para la provisión, mediante el sistema de Libre Designación, de dos puestos de trabajo vacantes en la Universidad de Alcalá, convocada por Resolución de 2 de septiembre de 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/14/BOCM-20221114-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Orden 3343/2022, de 8 de noviembre, del Vicepresidente, Consejero de Educación y Universidades, por la que se resuelve la convocatoria de becas para el estudio de Bachillerato en la Comunidad de Madrid para el curso 2022-2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/14/BOCM-20221114-23.PDF"
