@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 28 de octubre de 2022, de la Universidad Complutense de Madrid, por la que se nombra a D. Miguel Pérez Moneo Agapito Profesor Titular de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/15/BOCM-20221115-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 3 de noviembre de 2022, de la Universidad Politécnica de Madrid, por la que se convocan concursos para la provisión de plazas de personal docente e investigador contratado: Profesores Contratados Doctores",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/15/BOCM-20221115-19.PDF"
