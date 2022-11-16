@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 3 de noviembre de 2022, de la Universidad Politécnica de Madrid, por la que se convocan concursos para la provisión de plazas de personal docente e investigador contratado: Profesores Contratados Doctores",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/15/BOCM-20221115-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Orden 3841/2022, de 7 de noviembre, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se resuelve la cuarta fase del procedimiento de otorgamiento de subvenciones de concesión directa, convocadas mediante Orden de 11 de mayo de 2020, del Consejero de Vivienda y Administración Local, por la que se convocan las subvenciones para contribuir a minimizar el impacto económico y social del COVID-19 en los alquileres de vivienda habitual",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/15/BOCM-20221115-20.PDF"
