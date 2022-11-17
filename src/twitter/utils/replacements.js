@@ -18,7 +18,7 @@ export const councilFullNames = new RegExp(`(?:(?:(el|del)\\s+)?(?:Ayuntamiento 
 export const replaceFullNameCouncil = str => str.replace(councilFullNames, (match, $1, $2) => $1 === 'del' ? `de ${councils[$2]}` : councils[$2]);
 
 
-const months = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "noviembre", "diciembre"];
+const months = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"];
 export const longFormatDate = new RegExp(`(\\d{1,2})\\sde\\s(${months.join('|')})(?:\\sde\\s(\\d{4}))?`, 'gi');
 export const longToShortDate = str => str.replace(longFormatDate, (match, dd, month, aaaa) => {
 	dd = parseInt(dd);
