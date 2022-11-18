@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Extracto del Acuerdo de la Comisión de Investigación de la Universidad de Alcalá de 28 de octubre de 2022, por el que se convocan las Ayudas para la Extensión Internacional de Patentes por el Procedimiento PCT. Convocatoria 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/17/BOCM-20221117-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Extracto del Acuerdo de la Comisión de Investigación de la Universidad de Alcalá de 28 de octubre de 2022, por el que se convocan los Premios de la Universidad de Alcalá a la Mejor Patente Nacional. Convocatoria 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/17/BOCM-20221117-21.PDF"
     }
