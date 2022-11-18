@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 7 de noviembre de 2022, por la que se publican diversos planes de estudio de Grado y Máster Universitario de la Universidad Politécnica de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/17/BOCM-20221117-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Extracto del Acuerdo de la Comisión de Investigación de la Universidad de Alcalá de 28 de octubre de 2022, por el que se convocan las Ayudas para la Extensión Internacional de Patentes por el Procedimiento PCT. Convocatoria 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/17/BOCM-20221117-20.PDF"
