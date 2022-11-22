@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 4 de noviembre de 2022, de la Universidad Politécnica de Madrid, por la que se convoca concurso-oposición libre para la provisión de puestos de trabajo vacantes en la relación de puestos de trabajo de personal de administración y servicios laboral",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/21/BOCM-20221121-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 7 de noviembre de 2022, de la Universidad Politécnica de Madrid, por la que se convocan concursos para la provisión de plazas de personal docente e investigador contratado: Profesores Contratados Doctores, en cumplimiento con el Acuerdo de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/21/BOCM-20221121-20.PDF"
     }
