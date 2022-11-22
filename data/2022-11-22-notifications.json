@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 9 de noviembre de 2022, de la Universidad Rey Juan Carlos, por la que se convoca concurso de acceso a plazas de Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/21/BOCM-20221121-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 10 de noviembre de 2022, de la Universidad Rey Juan Carlos, por la que se convoca concurso de acceso a plazas de Cuerpos Docentes Universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/21/BOCM-20221121-23.PDF"
     }
