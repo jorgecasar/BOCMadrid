@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 7 de noviembre de 2022, de la Universidad de Alcalá, por la que se publica la Oferta de Empleo Público de Personal Docente e Investigador para el ejercicio 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/21/BOCM-20221121-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 9 de noviembre de 2022, de la Universidad Rey Juan Carlos, por la que se convoca concurso de acceso a plazas de Cuerpos Docentes Universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/21/BOCM-20221121-22.PDF"
