@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Presidencia de La Comunidad",
-      "description": "Ley 9/2022, de 16 de noviembre, de reforma de la Ley 5/2018, de 17 de octubre, para la Protección, Reconocimiento y Memoria de las Víctimas del Terrorismo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/21/BOCM-20221121-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Presidencia de La Comunidad",
       "description": "Ley 10/2022, de 16 de noviembre, de Defensa de la Autonomía Financiera de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/21/BOCM-20221121-3.PDF"
     }
