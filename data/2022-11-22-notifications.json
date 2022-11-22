@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 9 de noviembre de 2022, de la Universidad Autónoma de Madrid, por la que se convocan pruebas selectivas para el ingreso en la Escala Administrativa de esta Universidad, por el sistema general de concurso-oposición libre",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/21/BOCM-20221121-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 9 de noviembre de 2022, de la Universidad Autónoma de Madrid, por la que se convoca concurso de acceso a plazas de Docentes Universitarios entre Acreditados: Profesores Contratados Doctores y Profesoras Contratadas Doctoras",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/21/BOCM-20221121-18.PDF"
     }
