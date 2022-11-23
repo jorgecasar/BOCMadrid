@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Orden 1704/2022, de 10 de noviembre, del Consejero de Sanidad, por la que se resuelve la convocatoria aprobada mediante Orden 1234/2022, de 17 de agosto (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 1 de septiembre de 2022), para la provisión de puestos de trabajo por el procedimiento de Concurso de Méritos en la Consejería de Sanidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/22/BOCM-20221122-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Orden 1706/2022, de 10 de noviembre, del Consejero de Sanidad, por la que se resuelve la convocatoria aprobada mediante Orden 1023/2022, de 5 de julio (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 15 de julio de 2022), para la provisión de puestos de trabajo por el procedimiento de Concurso de Méritos en la Consejería de Sanidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/22/BOCM-20221122-22.PDF"
     }
