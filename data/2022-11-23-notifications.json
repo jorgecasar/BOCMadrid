@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Orden 1565/2022, de 19 de octubre, del Consejero de Sanidad, por la que se aprueba la relación definitiva del personal que se integra en el régimen estatutario en la categoría de Técnico en Emergencias Sanitarias en el SUMMA 112",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/22/BOCM-20221122-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Orden 1694/2022, de 10 de noviembre, del Consejero de Sanidad, por la que se resuelve la convocatoria aprobada mediante Orden 842/2022, de 7 de junio (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 17 de junio de 2022), para la provisión de puestos de trabajo por el procedimiento de Concurso de Méritos en la Consejería de Sanidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/22/BOCM-20221122-17.PDF"
     }
