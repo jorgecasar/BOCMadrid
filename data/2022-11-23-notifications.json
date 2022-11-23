@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 7 de noviembre de 2022, por la que se publican diversos planes de estudio de Grado y Máster Universitario de la Universidad Politécnica de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/22/BOCM-20221122-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Extracto de la Resolución de 11 de noviembre de 2022, del Vicerrectorado de Investigación y Transferencia de la Universidad de Alcalá, por la que se convocan las Ayudas para la Realización de Proyectos Colaborativos de Innovación Sanitaria UAH-IRYCIS para el año 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/22/BOCM-20221122-30.PDF"
