@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 7 de noviembre de 2022, por la que se publica el plan de estudios de Máster Universitario en Estrategias y Tecnologías para el Desarrollo: la Cooperación en un Mundo en Cambio (Máster conjunto de las universidades Politécnica de Madrid y Complutense de Madrid)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/22/BOCM-20221122-28.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 7 de noviembre de 2022, por la que se publican diversos planes de estudio de Grado y Máster Universitario de la Universidad Politécnica de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/22/BOCM-20221122-29.PDF"
     }
