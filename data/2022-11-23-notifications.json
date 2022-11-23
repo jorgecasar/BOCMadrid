@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Extracto de la Resolución de 11 de noviembre de 2022, del Vicerrectorado de Investigación y Transferencia de la Universidad de Alcalá, por la que se convocan las Ayudas para la Realización de Proyectos Colaborativos de Innovación Sanitaria UAH-IRYCIS para el año 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/22/BOCM-20221122-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Convenio interadministrativo de 11 de julio de 2022, entre la Comunidad de Madrid y el Ayuntamiento de El Vellón, para la prevención y control del absentismo escolar",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/22/BOCM-20221122-31.PDF"
