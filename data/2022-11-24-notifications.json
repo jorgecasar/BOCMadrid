@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Acuerdo de 26 de octubre de 2022, del Consejo de Gobierno, por el que se aprueba el Acuerdo de la Mesa Sectorial de Sanidad, de 14 de octubre de 2022, para la incorporación del personal estatutario temporal a los modelos de carrera profesional del personal estatutario fijo, a todos los efectos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/23/BOCM-20221123-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Orden 1709/2022, de 11 de noviembre, del Consejero de Sanidad, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/23/BOCM-20221123-20.PDF"
     }
