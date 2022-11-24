@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 3 de noviembre de 2022, de la Universidad Autónoma de Madrid, por la que se nombran funcionarios de Cuerpos Docentes Universitarios: Profesores y Profesoras Titulares de Universidad y Catedráticos y Catedráticas de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/23/BOCM-20221123-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 9 de noviembre de 2022, de la Rectora de la Universidad Autónoma de Madrid, por la que se convoca un puesto de trabajo para su provisión por el sistema de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/23/BOCM-20221123-24.PDF"
     }
