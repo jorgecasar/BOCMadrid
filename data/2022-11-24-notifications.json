@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 9 de noviembre de 2022, de la Rectora de la Universidad Autónoma de Madrid, por la que se convoca un puesto de trabajo para su provisión por el sistema de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/23/BOCM-20221123-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 4 de noviembre de 2022, de la Universidad Politécnica de Madrid, por la que se resuelve de forma definitiva el concurso general de méritos (traslado) para la provisión de puestos de trabajo de personal funcionario perteneciente al Grupo C, Subgrupos C1 y C2 (Cuerpos o Escalas de Administración) de la Universidad Politécnica de Madrid, convocado por Resolución de 26 de julio de 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/23/BOCM-20221123-25.PDF"
