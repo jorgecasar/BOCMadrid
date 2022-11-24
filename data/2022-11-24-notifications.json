@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia e Interior",
-      "description": "Resolución de 16 de noviembre de 2022, de la Dirección General de Seguridad, Protección Civil y Formación, por la que se convocan cursos selectivos de acceso y ascenso a las diferentes categorías de los cuerpos de Policía Local de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/23/BOCM-20221123-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Orden 3874/2022, de 11 de noviembre, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se resuelve la convocatoria aprobada por Orden 2991/2022, de 13 de septiembre (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 23 de septiembre de 2022), para la provisión de un puesto de trabajo vacante en dicha Consejería por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/23/BOCM-20221123-2.PDF"
