@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 14 de noviembre de 2022, de la Rectora de la Universidad Autónoma de Madrid, por la que se resuelve la convocatoria pública para la provisión de un puesto de trabajo vacante mediante el sistema de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/24/BOCM-20221124-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 11 de noviembre de 2022, de la Universidad Politécnica de Madrid, por la que se resuelve la convocatoria para la cobertura de diversos puestos de trabajo, por el procedimiento de libre designación, anunciada por Resolución de 4 de julio de 2022 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID número 170 de 19 de julio de 2022)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/24/BOCM-20221124-11.PDF"
