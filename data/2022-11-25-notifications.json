@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Vicepresidencia, Consejería de Educación y Universidades",
-      "description": "Convenio interadministrativo de 2 de septiembre de 2022,  entre la Comunidad de Madrid y el Ayuntamiento de Majadahonda, para la prevención y control del absentismo escolar",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/24/BOCM-20221124-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Resolución de 8 de noviembre de 2022, de la Secretaría General Técnica de la Consejería de Presidencia, Justicia e Interior, por la que se anuncia la licitación del contrato “Servicio de conservación y mantenimiento de edificios, instalaciones y equipos existentes en los inmuebles adscritos al Cuerpo de Bomberos y Agentes Forestales de la Comunidad de Madrid y sede de la Dirección General de Emergencias”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/24/BOCM-20221124-25.PDF"
