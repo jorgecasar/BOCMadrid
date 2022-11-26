@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 15 de noviembre de 2022, de la Universidad Carlos III de Madrid, por la que se nombran funcionarios y funcionarias de Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/25/BOCM-20221125-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Resolución de 10 de noviembre de 2022, de la Dirección General de Educación Secundaria, Formación Profesional y Régimen Especial, sobre el procedimiento de admisión y matrícula de alumnos libres en la prueba de certificación de nivel C1 en el idioma inglés en las escuelas oficiales de idiomas de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/25/BOCM-20221125-22.PDF"
