@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 16 de noviembre de 2022, de la Universidad Autónoma de Madrid, por la que se convoca concurso de acceso a plazas de Docentes Universitarios entre Acreditados: Profesores Contratados Doctores y Profesoras Contratadas Doctoras",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/28/BOCM-20221128-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 22 de noviembre de 2022, de la Universidad de Alcalá, por la que se anuncian las convocatorias de concursos para la provisión de plazas de Profesorado Contratado Doctor y Profesorado Contratado Temporal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/28/BOCM-20221128-11.PDF"
