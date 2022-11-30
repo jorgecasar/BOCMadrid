@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 25 de noviembre de 2022, de la Universidad Rey Juan Carlos, por la que se resuelve parcialmente la provisión de puestos de trabajo reservados a personal funcionario mediante el sistema de Libre Designación, convocada por Resolución de 20 de octubre de 2022 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID del día 21)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/29/BOCM-20221129-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 24 de noviembre de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se declara el importe de la ampliación del crédito presupuestario disponible destinado a financiar las subvenciones del coste salarial de las personas con discapacidad contratadas en centros especiales de empleo del ámbito de la Comunidad de Madrid, con cargo al ejercicio 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/29/BOCM-20221129-17.PDF"
