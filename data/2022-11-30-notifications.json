@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 11 de noviembre de 2022, de la Universidad Complutense de Madrid, por la que se nombran funcionarios de los Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/29/BOCM-20221129-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 25 de noviembre de 2022, de la Universidad Rey Juan Carlos, por la que se resuelve parcialmente la provisión de puestos de trabajo reservados a personal funcionario mediante el sistema de Libre Designación, convocada por Resolución de 20 de octubre de 2022 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID del día 21)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/29/BOCM-20221129-16.PDF"
