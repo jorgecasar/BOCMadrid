@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 11 de noviembre de 2022, de la Universidad Rey Juan Carlos, por la que se convoca concurso-oposición de promoción interna para la provisión de varias plazas de personal laboral fijo de administración y servicios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/30/BOCM-20221130-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Orden 3645/2022, de 25 de noviembre, del Vicepresidente, Consejero de Educación y Universidades, por la que se resuelve la convocatoria de becas para el estudio de Formación Profesional de Grado Medio en la Comunidad de Madrid para el curso 2022-2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/30/BOCM-20221130-14.PDF"
