@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución conjunta de 4 de noviembre de 2022, de la Universidad Autónoma de Madrid y la Consejería de Sanidad de la Comunidad de Madrid, por la que se nombra Personal Docente e Investigador Funcionario Universitario vinculado con institución sanitaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/30/BOCM-20221130-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 16 de noviembre de 2022, de la Universidad Politécnica de Madrid, por la que se convocan pruebas selectivas para la constitución de una lista de espera de funcionarios interinos en la Escala Técnica de Gestión, Grupo A, Subgrupo A1 (Asesor Letrado), de la Universidad Politécnica de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/30/BOCM-20221130-12.PDF"
