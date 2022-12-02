@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 18 de noviembre de 2022, de la Universidad Rey Juan Carlos, por la que se nombran Catedráticos de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/01/BOCM-20221201-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 23 de noviembre de 2022, de la Universidad Rey Juan Carlos, por la que se nombra a don Luis Cayuela Delgado como Catedrático de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/01/BOCM-20221201-21.PDF"
     }
