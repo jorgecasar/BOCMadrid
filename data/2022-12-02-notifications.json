@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 17 de noviembre de 2022, de la Universidad de Alcalá, por la que se anuncia convocatoria de procesos selectivos de concurso oposición, por el sistema general de acceso libre en el marco de estabilización de empleo temporal, para el ingreso en escalas de la Universidad de Alcalá",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/01/BOCM-20221201-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 18 de noviembre de 2022, de la Universidad Rey Juan Carlos, por la que se nombran Profesores Titulares de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/01/BOCM-20221201-19.PDF"
