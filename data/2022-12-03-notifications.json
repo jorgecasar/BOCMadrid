@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Anuncio de 22 de noviembre de 2022, por el que se convocan las bases del procedimiento de selección para cubrir siete puestos indefinidos en la Fundación de la Universidad Autónoma de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/02/BOCM-20221202-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 21 de noviembre de 2022, de la Universidad de Alcalá, por la que se anuncia convocatorias de pruebas selectivas del proceso de estabilización de empleo temporal para la provisión de puestos vacantes de personal laboral (Grupos B y C) de la Universidad de Alcalá",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/02/BOCM-20221202-17.PDF"
