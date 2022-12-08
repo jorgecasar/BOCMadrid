@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 24 de noviembre de 2022, de la Universidad Autónoma de Madrid, por la que se nombran funcionarios de carrera de la Escala Especial Superior de Gestión Universitaria de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/07/BOCM-20221207-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Resolución de 22 de noviembre de 2022, de la Dirección General de Educación Concertada, Becas y Ayudas al Estudio, de corrección de errores de la Resolución de 30 de mayo de 2022, de la Dirección General de Educación Concertada, Becas y Ayudas al Estudio, por la que se da publicidad a las autorizaciones y modificaciones o extinciones de la autorización de centros docentes privados aprobadas por la Vicepresidencia, Consejería de Educación y Juventud en el tercer trimestre de 2021",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/07/BOCM-20221207-11.PDF"
