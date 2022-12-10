@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
-      "description": "Orden 4069/2022, de 22 de noviembre, de la Consejera de Medio Ambiente, Vivienda y Agricultura, de aceptación de una parcela adjudicada a la Comunidad de Madrid, a cuenta de la liquidación del Consorcio Urbanístico “OP-3 Moscatelares”, de San Sebastián de los Reyes (Madrid)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/09/BOCM-20221209-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Resolución 2645/2022, de 20 de octubre, por la que se determinan las condiciones y precios de venta a ofertar a los arrendatarios de inmuebles titularidad de la Agencia de Vivienda Social de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/09/BOCM-20221209-7.PDF"
     }
