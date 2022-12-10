@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Algete",
-      "description": "Personal: Plantilla de personal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/09/BOCM-20221209-46.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Belmonte de Tajo",
       "description": "Ofertas de empleo: Convocatoria procesos selectivos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/09/BOCM-20221209-47.PDF"
