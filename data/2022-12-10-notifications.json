@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
-      "description": "Resolución 2645/2022, de 20 de octubre, por la que se determinan las condiciones y precios de venta a ofertar a los arrendatarios de inmuebles titularidad de la Agencia de Vivienda Social de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/09/BOCM-20221209-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Decreto 124/2022, de 30 de noviembre, del Consejo de Gobierno, por el que se declara Bien de Interés Patrimonial de la Comunidad de Madrid la ermita de San Blas, en el barrio de Canillas, Distrito de Hortaleza, de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/09/BOCM-20221209-8.PDF"
