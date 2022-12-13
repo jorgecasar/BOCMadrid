@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Administración Local y Digitalización",
-      "description": "Orden de 29 de noviembre de 2022, de la Consejería de Administración Local y Digitalización por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicha Consejería por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/12/BOCM-20221212-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 28 de noviembre de 2022, de la Rectora de la Universidad Autónoma de Madrid, por la que se publica la modificación parcial de la Relación de Puestos de Trabajo del personal de administración y servicios funcionario de esta Universidad, aprobada en Consejo de Gobierno de 18 de noviembre de 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/12/BOCM-20221212-22.PDF"
