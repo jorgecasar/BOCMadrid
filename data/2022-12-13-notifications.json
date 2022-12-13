@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
-      "description": "Decreto 126/2022, de 7 de diciembre, del Consejo de Gobierno, por el que se regula la edición electrónica y la sede electrónica del BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/12/BOCM-20221212-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Decreto 127/2022, de 7 de diciembre, del Consejo de Gobierno, por el que se regulan aspectos relativos a los servicios electrónicos y a la comisión de redacción, coordinación y seguimiento del portal de internet de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/12/BOCM-20221212-2.PDF"
     }
