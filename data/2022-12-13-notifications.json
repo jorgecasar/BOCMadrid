@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia e Interior",
-      "description": "Decreto 127/2022, de 7 de diciembre, del Consejo de Gobierno, por el que se regulan aspectos relativos a los servicios electrónicos y a la comisión de redacción, coordinación y seguimiento del portal de internet de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/12/BOCM-20221212-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Orden 3612/2022, de 28 de noviembre, del Vicepresidente, Consejero de Educación y Universidades, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacante en la Vicepresidencia, Consejería de Educación y Universidades por el procedimiento de Concurso de Méritos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/12/BOCM-20221212-3.PDF"
