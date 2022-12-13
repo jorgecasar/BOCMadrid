@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Carlos III",
-      "description": "Resolución de 25 de noviembre de 2022, de la Universidad Carlos III de Madrid, por la que se nombran funcionarios y funcionarias de Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/12/BOCM-20221212-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Carlos III",
       "description": "Resolución de 28 de noviembre de 2022, de la Universidad Carlos III de Madrid, por la que se anuncia la publicación de la convocatoria de procesos selectivos, por el sistema general de acceso libre por concurso-oposición, en el marco de estabilización de empleo temporal, para el ingreso en Escalas de Personal Funcionario de la Universidad Carlos III de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/12/BOCM-20221212-26.PDF"
     }
