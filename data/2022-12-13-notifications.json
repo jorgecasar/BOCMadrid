@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 28 de noviembre de 2022, de la Rectora de la Universidad Autónoma de Madrid, por la que se publica la modificación parcial de la Relación de Puestos de Trabajo del personal de administración y servicios funcionario de esta Universidad, aprobada en Consejo de Gobierno de 18 de noviembre de 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/12/BOCM-20221212-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 28 de noviembre de 2022, de la Rectora de la Universidad Autónoma de Madrid, por la que se publica la modificación parcial de la relación de puestos de trabajo del personal de Administración y Servicios Laboral de esta Universidad, aprobada en Consejo de Gobierno de 18 de noviembre de 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/12/BOCM-20221212-23.PDF"
     }
