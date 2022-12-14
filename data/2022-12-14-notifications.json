@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Orden 1932/2022, de 7 de diciembre, de la Consejería de Sanidad, por la que se resuelve la convocatoria del año 2022 de subvenciones destinadas a entidades locales de la Comunidad de Madrid para la realización de actividades en materia de promoción de la salud en el ámbito municipal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/13/BOCM-20221213-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 9 de diciembre de 2022, de la Rectora de la Universidad Autónoma de Madrid, por la que se declara inhábil el período comprendido entre el 23 de diciembre de 2022 al 8 de enero de 2023 a los efectos señalados en esta Resolución",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/13/BOCM-20221213-28.PDF"
