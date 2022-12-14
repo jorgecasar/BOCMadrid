@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Corrección de errores de la Resolución de 4 de agosto de 2022, de la Dirección-Gerencia del Hospital General Universitario “Gregorio Marañón” del Servicio Madrileño de Salud, por la que se publica la relación definitiva de admitidos y excluidos al proceso de provisión convocado para la cobertura de un puesto de Jefe de Sección de Oncología Médica en este centro asistencial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/13/BOCM-20221213-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 14 de noviembre de 2022, de la Dirección-Gerencia del Hospital General Universitario “Gregorio Marañón”, del Servicio Madrileño de Salud, por la que se resuelve la convocatoria de 18 de febrero de 2022 de un puesto de Jefe de Sección de Oncología Médica",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/13/BOCM-20221213-17.PDF"
     }
