@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 29 de noviembre de 2022, de la Universidad Rey Juan Carlos, por la que se nombra Profesor Titular de Universidad a don Ángel Luis Udias Moinelo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/13/BOCM-20221213-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Acuerdo 78/2022, de 27 de octubre, de la Comisión de Urbanismo de Madrid, relativo a la aprobación inicial del Plan Especial de Infraestructuras del Proyecto “Mejora del saneamiento del Real Cortijo de San Isidro en Aranjuez”, que afecta al término municipal de Aranjuez, promovido por Canal de Isabel II, S. A.",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/13/BOCM-20221213-22.PDF"
