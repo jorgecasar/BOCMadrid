@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Resolución de 16 de noviembre de 2022, de la Gerencia de la Universidad de Alcalá, por la que se publica una modificación de la Relación de Puestos de Trabajo del personal funcionario de administración y servicios de este organismo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/13/BOCM-20221213-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Resolución de 16 de noviembre de 2022, de la Universidad de Alcalá, por la que se publica una modificación de la relación de puestos de trabajo del personal laboral de administración y servicios de este organismo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/13/BOCM-20221213-20.PDF"
     }
