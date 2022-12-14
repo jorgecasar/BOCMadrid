@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Vicepresidencia, Consejería de Educación y Universidades",
-      "description": "Resolución de 2 de diciembre de 2022, de la Dirección General de Recursos Humanos, por la que se convoca Concurso de Méritos para la renovación y la selección de directores de centros docentes públicos no universitarios de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/13/BOCM-20221213-3.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 25 de noviembre de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se resuelve la convocatoria aprobada mediante Orden de fecha 9 de junio de 2022 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 22 de junio de 2022), para la provisión de puestos de trabajo por el procedimiento de Concurso de Méritos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/13/BOCM-20221213-4.PDF"
