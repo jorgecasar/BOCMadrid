@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Corrección de errores de la Resolución de 25 de noviembre de 2022, de la Universidad Carlos III de Madrid, por la que se nombran funcionarios y funcionarias de Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-38.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 24 de noviembre de 2022, de la Universidad Rey Juan Carlos, por la que se anuncia la publicación de la convocatoria de procesos selectivos por el sistema general de acceso libre por concurso, en el marco del proceso de estabilización del personal temporal de esta Universidad, previstas en la Oferta de Empleo Público complementaria de 2021, para el ingreso en Escalas de personal funcionario de la Universidad Rey Juan Carlos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-39.PDF"
