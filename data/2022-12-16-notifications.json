@@ -1,0 +1,786 @@
+[
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Corrección de errores de la Resolución de 4 de noviembre de 2022, de la Gerente del Organismo Autónomo Madrid 112 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID del día 16), por la que se modifica parcialmente la Resolución de composición del Tribunal Calificador de las pruebas selectivas de promoción interna para el acceso a una plaza de carácter laboral de la categoría profesional de Supervisor de Emergencias 112 (Grupo II, Nivel 8, Área B) de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Corrección de errores de la Resolución de 4 de noviembre de 2022, de la Gerente del Organismo Autónomo Madrid 112 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de día 16), por la que se modifica parcialmente la Resolución de composición del Tribunal Calificador de las pruebas selectivas del proceso extraordinario de estabilización de empleo temporal del personal laboral para el acceso a plazas de la categoría profesional de Gestor de Emergencias 112 (Grupo III, Área B, Nivel 6) de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Orden 4209/2022, de 2 de diciembre, de la Consejera de Medio Ambiente, Vivienda y Agricultura, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Medio Ambiente, Vivienda y Agricultura, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Orden de 30 de noviembre de 2022, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se resuelve la convocatoria aprobada por Orden de 10 de octubre de 2022, de la Consejería de Medio Ambiente, Vivienda y Agricultura (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 24 de octubre), para la provisión de puestos de trabajo vacantes en dicha Consejería (Agencia de Vivienda Social), por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden 2711/2022, de 22 de noviembre, de la Consejería de Economía, Hacienda y Empleo, por la que se convocan pruebas selectivas del proceso extraordinario de estabilización de empleo temporal de personal funcionario para el ingreso en el Cuerpo de Técnicos Superiores Especialistas, Especialidad de Consumo, de Administración Especial, Grupo A, Subgrupo A1, de la Comunidad de Madrid, al amparo de lo recogido en las disposiciones adicionales sexta y octava de la Ley 20/2021, de 28 de diciembre, de medidas urgentes para la reducción de la temporalidad en el empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden 2712/2022, de 22 de noviembre, de la Consejería de Economía, Hacienda y Empleo, por la que se convocan pruebas selectivas del proceso extraordinario de estabilización de empleo temporal de personal funcionario para el ingreso en el Cuerpo de Subinspectores de Hacienda, de Administración Especial, Grupo A, Subgrupo A2, de la Comunidad de Madrid, al amparo de lo recogido en las disposiciones adicionales sexta y octava de la Ley 20/2021, de 28 de diciembre, de Medidas Urgentes para la Reducción de la Temporalidad en el Empleo Público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden 2713/2022, de 22 de noviembre, de la Consejería de Economía, Hacienda y Empleo, por la que se convocan pruebas selectivas del proceso extraordinario de estabilización de empleo temporal de personal funcionario para el ingreso en el Cuerpo de Diplomados de Salud Pública, Escala Salud Pública, Especialidad Terapia Ocupacional, de Administración Especial, Grupo A, Subgrupo A2, de la Comunidad de Madrid, al amparo de lo recogido en las disposiciones adicionales sexta y octava de la Ley 20/2021, de 28 de diciembre, de medidas urgentes para la reducción de la temporalidad en el empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden 2716/2022, de 22 de noviembre, de la Consejería de Economía, Hacienda y Empleo, por la que se convocan pruebas selectivas del proceso extraordinario de estabilización de empleo temporal de personal funcionario para el ingreso en el Cuerpo de Técnicos Auxiliares de Administración Especial, Escala Docente, Grupo C, Subgrupo C1, de la Comunidad de Madrid, al amparo de lo recogido en las disposiciones adicionales sexta y octava de la Ley 20/2021, de 28 de diciembre, de medidas urgentes para la reducción de la temporalidad en el empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-8.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden 2721/2022, 24 de noviembre, de la Consejería de Economía, Hacienda y Empleo, por la que se convocan pruebas selectivas del proceso extraordinario de estabilización de empleo temporal de personal laboral para el acceso a la categoría profesional de Titulado Medio, Especialidad Fisioterapia (Grupo II, Nivel 7, Área D), de la Comunidad de Madrid, al amparo de lo recogido en las disposiciones adicionales sexta y octava de la Ley 20/2021, de 28 de diciembre, de medidas urgentes para la reducción de la temporalidad en el empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-9.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden 2722/2022, 22 de noviembre, de la Consejería de Economía, Hacienda y Empleo, por la que se convocan pruebas selectivas del proceso extraordinario de estabilización de empleo temporal de personal laboral para el acceso a la categoría profesional de Diplomado en Enfermería (Grupo II, Nivel 7, Área D) de la Comunidad de Madrid, al amparo de lo recogido en las disposiciones adicionales sexta y octava de la Ley 20/2021, de 28 de diciembre, de Medidas Urgentes para la Reducción de la Temporalidad en el Empleo Público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-10.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden 2723/2022, de 24 de noviembre, de la Consejería de Economía, Hacienda y Empleo, por la que se convocan pruebas selectivas del proceso extraordinario de estabilización de empleo temporal de personal laboral para el acceso a la categoría profesional de Conductor (Grupo III, Nivel 5, Área B) de la Comunidad de Madrid, al amparo de lo recogido en las disposiciones adicionales sexta y octava de la Ley 20/2021, de 28 de diciembre, de Medidas Urgentes para la Reducción de la Temporalidad en el Empleo Público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-11.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden 2724/2022, de 23 de noviembre, de la Consejería de Economía, Hacienda y Empleo, por la que se convocan pruebas selectivas del proceso extraordinario de estabilización de empleo temporal de personal laboral para el acceso a la categoría profesional de Gobernante (Grupo III, Nivel 6, Área B) de la Comunidad de Madrid, al amparo de lo recogido en las disposiciones adicionales sexta y octava de la Ley 20/2021, de 28 de diciembre, de Medidas Urgentes para la Reducción de la Temporalidad en el Empleo Público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-12.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden 2725/2022, 22 de noviembre, de la Consejería de Economía, Hacienda y Empleo, por la que se convocan pruebas selectivas del proceso extraordinario de estabilización de empleo temporal de personal funcionario para el ingreso en el Cuerpo de Técnicos Superiores de Salud Pública, Especialidad Psicología, de Administración Especial, Grupo A, Subgrupo A1 de la Comunidad de Madrid, al amparo de lo recogido en las disposiciones adicionales sexta y octava de la Ley 20/2021, de 28 de diciembre, de medidas urgentes para la reducción de la temporalidad en el empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-13.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden 2726/2022, de 24 de noviembre, de la Consejería de Economía, Hacienda y Empleo, por la que se convocan pruebas selectivas del proceso extraordinario de estabilización de empleo temporal de personal laboral para el acceso a la categoría profesional de Titulado Superior, Especialidad de Psicología General Sanitaria (Grupo I, Nivel 9, Área D) de la Comunidad de Madrid, al amparo de lo recogido en las disposiciones adicionales sexta y octava de la Ley 20/2021, de 28 de diciembre, de medidas urgentes para la reducción de la temporalidad en el empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-14.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden 2727/2022, de 24 de noviembre, de la Consejería de Economía, Hacienda y Empleo, por la que se convocan pruebas selectivas del proceso extraordinario de estabilización de empleo temporal de personal laboral para el acceso a la categoría profesional de Titulado Superior Especialista, Especialidad de Medicina Interna (Grupo I, Nivel 10, Área D) de la Comunidad de Madrid, al amparo de lo recogido en las disposiciones adicionales sexta y octava de la Ley 20/2021, de 28 de diciembre, de medidas urgentes para la reducción de la temporalidad en el empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-15.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden 2728/2022, de 24 de noviembre, de la Consejería de Economía, Hacienda y Empleo, por la que se convocan pruebas selectivas del proceso extraordinario de estabilización de empleo temporal de personal laboral para el acceso a la categoría profesional de Técnico Especialista III (Grupo III, Nivel 4, Área C) de la Comunidad de Madrid, al amparo de lo recogido en las disposiciones adicionales sexta y octava de la Ley 20/2021, de 28 de diciembre, de medidas urgentes para la reducción de la temporalidad en el empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-16.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden 2730/2022, 24 de noviembre, de la Consejería de Economía, Hacienda y Empleo, por la que se convocan pruebas selectivas del proceso extraordinario de estabilización de empleo temporal de personal laboral para el acceso a la categoría profesional de Personal Auxiliar de Servicios (Grupo V, Nivel 1, Área B) de la Comunidad de Madrid, al amparo de lo recogido en las disposiciones adicionales sexta y octava de la Ley 20/2021, de 28 de diciembre, de medidas urgentes para la reducción de la temporalidad en el empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-17.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden 2732/2022, de 24 de noviembre, de la Consejería de Economía, Hacienda y Empleo, por la que se convocan pruebas selectivas del proceso extraordinario de estabilización de empleo temporal de personal laboral para el acceso a plazas de la categoría profesional de Titulado Superior Especialista, Especialidad Investigación Agropecuaria, Alimentaria y Medioambiental (Grupo I, Nivel 10, Área B) de la Comunidad de Madrid, al amparo de lo recogido en las disposiciones adicionales sexta y octava de la Ley 20/2021, de 28 de diciembre, de Medidas Urgentes para la Reducción de la Temporalidad en el Empleo Público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-18.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden 2735/2022, de 24 de noviembre, de la Consejería de Economía, Hacienda y Empleo, por la que se convocan pruebas selectivas del proceso extraordinario de estabilización de empleo temporal de personal laboral para el acceso a plazas de la categoría profesional de Técnico Especialista I, Especialidad de Gestión de Técnicas y Tecnologías del Espectáculo, Grupo III, Nivel 6, Área B, de la Comunidad de Madrid, al amparo de lo recogido en las disposiciones adicionales sexta y octava de la Ley 20/2021, de 28 de diciembre, de medidas urgentes para la reducción de la temporalidad en el empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-19.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden 2736/2022, de 24 de noviembre, de la Consejería de Economía, Hacienda y Empleo, por la que se convocan pruebas selectivas del proceso extraordinario de estabilización de empleo temporal de personal laboral para el acceso a plazas de la categoría profesional de Técnico Especialista I, Integrador Social (Grupo III, Nivel 6, Área C) de la Comunidad de Madrid, al amparo de lo recogido en las disposiciones adicionales sexta y octava de la Ley 20/2021, de 28 de diciembre, de Medidas Urgentes para la Reducción de la Temporalidad en el Empleo Público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-20.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 29 de noviembre de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Administración Local y Digitalización, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-21.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 30 de noviembre de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicha Consejería, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-22.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 30 de noviembre de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Administración Local y Digitalización, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-23.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 30 de noviembre de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de dos puestos de trabajo vacantes en la Consejería de Administración Local y Digitalización, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-24.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 1 de diciembre de 2022, de la Dirección General de Función Pública, por la que se aprueba y publica la lista de espera de personal funcionario interino del Cuerpo de Letrados, de Administración Especial, Grupo A, Subgrupo A1, de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-25.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 1 de diciembre de 2022, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden del Consejero de Economía, Hacienda y Empleo de 4 de octubre de 2022 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 17 de octubre), para la provisión de un puesto de trabajo vacante en la Consejería de Presidencia, Justicia e Interior, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-26.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 1 de diciembre de 2022, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden del Consejero de Economía, Hacienda y Empleo de 21 de septiembre de 2022 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 4 de octubre), para la provisión de un puesto de trabajo vacante en la Consejería de Administración Local y Digitalización, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-27.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Administración Local y Digitalización",
+      "description": "Resolución 609/2022, de 30 de noviembre, de la Consejera-Delegada de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se modifica la puntuación total de candidata en el perfil de Consultor de Gestión (Código de Identificación P06) del proceso selectivo convocado por Resolución 605/2020, de 10 de noviembre",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-28.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 30 de noviembre de 2022, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se procede a convocar el puesto directivo de Director/a Médico en el Hospital Universitario “Ramón y Cajal” adscrito al Servicio Madrileño de Salud",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-29.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 21 de noviembre de 2022, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre”, del Servicio Madrileño de Salud, por la que se convoca un puesto de Jefe de Sección de Otorrinolaringología en este centro asistencial para su cobertura mediante nombramiento provisional",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-30.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 24 de noviembre de 2022, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre” del Servicio Madrileño de Salud, por la que se convoca un puesto de Jefe de Servicio de Cirugía Cardiovascular en este centro asistencial para su cobertura mediante nombramiento provisional",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-31.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 29 de noviembre de 2022, de la Dirección-Gerencia del Hospital Universitario “Infanta Sofía” del Servicio Madrileño de Salud, por la que se convoca un puesto de Coordinador de Urgencias en este centro asistencial para su cobertura mediante nombramiento provisional",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-32.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 15 de noviembre de 2022, de la Dirección-Gerencia del Hospital Universitario del Sureste del Servicio Madrileño de Salud, por la que se convoca un puesto de Jefe de Sección de Medicina Intensiva en este centro asistencial para su cobertura mediante nombramiento provisional",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-33.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Decreto 130 /2022, de 14 de diciembre, del Consejo de Gobierno, por el que se nombra Director de Área de la Oficina del Español a don José Ramiro Alonso de Villapadierna Sánchez",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-34.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Orden 2440/2022, de 1 de diciembre, de la Consejera de Cultura, Turismo y Deporte, por la que se resuelve la convocatoria aprobada mediante Orden 1195/2022, de 22 de julio (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 8 de agosto) para la provisión de puestos de trabajo por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-35.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Complutense de Madrid",
+      "description": "Resolución de 28 de noviembre de 2022, de la Universidad Complutense de Madrid, por la que se nombran funcionarios de los Cuerpos Docentes Universitarios",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-36.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Autónoma de Madrid",
+      "description": "Resolución de 30 de noviembre de 2022, de la Universidad Autónoma de Madrid, por la que se nombran funcionarios de Cuerpos Docentes Universitarios: Profesores y Profesoras Titulares de Universidad y Catedráticos y Catedráticas de Universidad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-37.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Carlos III",
+      "description": "Corrección de errores de la Resolución de 25 de noviembre de 2022, de la Universidad Carlos III de Madrid, por la que se nombran funcionarios y funcionarias de Cuerpos Docentes Universitarios",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-38.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Rey Juan Carlos",
+      "description": "Resolución de 24 de noviembre de 2022, de la Universidad Rey Juan Carlos, por la que se anuncia la publicación de la convocatoria de procesos selectivos por el sistema general de acceso libre por concurso, en el marco del proceso de estabilización del personal temporal de esta Universidad, previstas en la Oferta de Empleo Público complementaria de 2021, para el ingreso en Escalas de personal funcionario de la Universidad Rey Juan Carlos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-39.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Rey Juan Carlos",
+      "description": "Resolución de 24 de noviembre de 2022, de la Universidad Rey Juan Carlos, por la que se anuncia la publicación de convocatorias de concurso-oposición libre, en el marco del proceso de estabilización del personal temporal de esta Universidad, previstas en la Oferta de Empleo Público complementaria de 2021, para el ingreso en Escalas de personal funcionario de la Universidad Rey Juan Carlos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-40.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Rey Juan Carlos",
+      "description": "Resolución de 25 de noviembre de 2022, de la Universidad Rey Juan Carlos, por la que se anuncia la publicación de convocatorias de concurso-oposición libre para la provisión de plazas de personal laboral de administración y servicios de la Universidad Rey Juan Carlos, de los grupos A, B, C y D, en el marco del proceso de estabilización del personal temporal de esta Universidad, previstas en la Oferta de Empleo Público complementaria de 2021",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-41.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Rey Juan Carlos",
+      "description": "Resolución de 25 de noviembre de 2022, de la Universidad Rey Juan Carlos, por la que se anuncia la publicación de la convocatoria del proceso selectivo, por el sistema general de acceso libre por concurso, para la provisión de plazas de personal laboral de administración y servicios de la Universidad Rey Juan Carlos, de los grupos A, B, C y D, en el marco del proceso de estabilización del personal temporal de esta Universidad, previstas en la Oferta de Empleo Público complementaria de 2021",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-42.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Rey Juan Carlos",
+      "description": "Resolución de 2 de diciembre de 2022, de la Universidad Rey Juan Carlos, por la que se nombran Catedráticos de Universidad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-43.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Rey Juan Carlos",
+      "description": "Resolución de 2 de diciembre de 2022, de la Universidad Rey Juan Carlos, por la que se nombran Profesores Titulares de Universidad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-44.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Vicepresidencia, Consejería de Educación y Universidades",
+      "description": "Orden 3750/2022, de 1 de diciembre, de la Vicepresidencia, Consejería de Educación y Universidades, por la que se aprueba el Plan Estratégico de Subvenciones relativo a la concesión directa de ayudas individualizadas al transporte escolar correspondiente a los cursos 2022-2023, 2023-2024 y 2024-2025",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-45.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Publicación de 29 de noviembre de 2022, de prórroga expresa del Acuerdo de encomienda de gestión entre la Dirección General de Recursos Humanos y Relaciones con la Administración de Justicia y la Dirección General de Inspección, Ordenación y Estrategia Sanitaria para la realización de determinadas actuaciones en los procedimientos de control y seguimiento de situaciones de incapacidad temporal del personal funcionario al servicio de la Administración de Justicia dependiente de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-46.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 13 de diciembre de 2022, del Director Gerente del Instituto Madrileño de Investigación y Desarrollo Rural, Agrario y Alimentario, por la que se acuerda la tramitación de urgencia de las ayudas a empresas pertenecientes a los sectores agrícola, ganadero, forestal e industria asociada o agroalimentaria, para la realización de proyectos de investigación, desarrollo e innovación, para 2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-47.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Resolución de 13 de diciembre de 2022, de la Dirección General de Transportes y Movilidad, por la que se convocan pruebas para la obtención del certificado de competencia profesional para el ejercicio de las actividades de transporte público por carretera a celebrar en el año 2023 en la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-48.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Decreto 128/2022, de 7 de diciembre, del Consejo de Gobierno, por el que se declara Bien de Interés Cultural de la Comunidad de Madrid el archivo personal de Vicente Aleixandre",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-49.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Decreto 129/2022, de 7 de diciembre, del Consejo de Gobierno, por el que se declara Bien de Interés Cultural de la Comunidad de Madrid, en la categoría de monumento, La Cartuja, en Talamanca de Jarama (Madrid)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-50.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Orden 2207/2022, de 2 de diciembre, de la Consejería de Cultura Turismo y Deporte, por la que se revocan o minoran determinadas ayudas concedidas mediante la Orden 977/2022, de 20 de junio, de la Consejera de Cultura, Turismo y Deporte, a municipios de la Comunidad de Madrid o sus entes deportivos municipales por la organización o participación en actividades del deporte infantil en la temporada 2020-2021",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-51.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 2 de diciembre de 2022, de Canal de Isabel II, S. A., por la que se hace pública la convocatoria del contrato, por procedimiento abierto, para el “Suministro de contadores de agua con NB-IoT integrado (calibres 15, 20, 32 y 40 mm) y servicios de telecomunicaciones para su telelectura automática”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-52.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Adenda de 29 de noviembre de 2022, de prórroga para el año 2023, del convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Economía, Empleo y Competitividad (actualmente Consejería de Economía, Hacienda y Empleo), la Asociación de Amas de Casa y Consumidores-Usuarios de la Comunidad de Madrid “Ascensión Sedeño” (AACCU) y los Ayuntamientos de Alpedrete, El Boalo-Cerceda-Mataelpino, Cercedilla, Collado Mediano, Guadalix de la Sierra, Manzanares el Real, Miraflores de la Sierra, Moralzarzal, Navacerrada, Soto del Real y Villamanta, para implantar un sistema de información al consumidor",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-53.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 1 de diciembre de 2022, de la Viceconsejería de Asistencia Sanitaria y Salud Pública del Servicio Madrileño de Salud, por la que se hace pública la convocatoria de licitación del contrato de servicios de “Oficinas Técnicas para el Gobierno de la Transformación Digital del Servicio Madrileño de Salud (4 lotes)”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-54.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 1 de diciembre de 2022, de la Gerencia Asistencial de Atención Primaria del Servicio Madrileño de Salud, por la que se hace pública la formalización del contrato denominado “Suministro de Agujas de insulina para bolígrafo con destino a los Centros de Salud y consultorios locales de la Gerencia Asistencial de Atención Primaria”.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-55.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 1 de diciembre de 2022, de la Dirección-Gerencia del Hospital General Universitario “Gregorio Marañón”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la formalización del contrato de «Suministro de frutas frescas, frutas de cuarta gama y compota de frutas, para el Hospital General Universitario “Gregorio Marañón”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-56.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 2 de diciembre de 2022, de la Dirección-Gerencia del Hospital General Universitario “Gregorio Marañón”, por la que se dispone la publicación en el boletín y en el “perfil del contratante” en Internet de la convocatoria del contrato de: «Servicio para la Redacción del Plan Funcional, Plan de Espacios, Plan Especial de Reforma Interior (PERI), Anteproyecto Completo de la parcela del hospital, así como el Proyecto Básico y de Ejecución, Estudio de Seguridad y Salud, correspondientes a la primera fase de las obras contenidas en el Anteproyecto de Ordenación del Hospital General Universitario “Gregorio Marañón”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-57.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 29 de noviembre de 2022, de la Gerencia del Hospital Universitario “La Paz”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de suministro de batas de protección tejido no tejido (TNT). Prórroga 2022-7-52 (PA 2020-0-90 [A. M.])",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-58.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 29 de noviembre de 2022, de la Gerencia del Hospital Universitario “La Paz”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de suministro de medicamentos exclusivos: Ioflupano 123I (DATSCAN) y Iodixanol (VISIPAQUE). 2.a   Prórroga P. N. S. P. 12/2020",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-59.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 30 de noviembre de 2022, de la Gerencia del Hospital Universitario “La Paz”, por la que se dispone la publicación en los boletines oficiales y en el perfil de contratante de la formalización del contrato de suministro de “Prótesis vascular híbrida para disección y aneurisma aórtico”, así como el equipamiento necesario para su implantación. Modificación 2022-9-26 (P. A. 2021-0-60)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-60.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 1 de diciembre de 2022, del Director-Gerente del Hospital Clínico “San Carlos” de Madrid, por suplencia (vacante) el Subgerente dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato del PNSP 2021-1-143 «Suministro de fungible para el Sistema Apoteca de distribución exclusiva para el Servicio de Farmacia del Hospital Clínico “San Carlos” de Madrid»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-61.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 29 de noviembre de 2022, de la Gerencia del Hospital Universitario “Príncipe de Asturias”, de formalización del contrato P. A. HUPA 108/22: clavos intramedulares para fractura de cadera y huesos largos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-62.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Organización y funcionamiento: Área de Gobierno de Hacienda y Personal. Organización y competencias Área Gobierno Hacienda y Personal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-63.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Urbanismo: Área de Gobierno de Desarrollo Urbano. Plan especial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-64.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Licencias: O. A",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-65.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Licencias: Distrito de Centro. Plan especial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-66.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Otros anuncios: Área de Gobierno de Medio Ambiente y Movilidad. Declaración Zona Protección Acústica",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-67.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcalá de Henares",
+      "description": "Organización y funcionamiento: Nombramiento personal eventual",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-68.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Brunete",
+      "description": "Régimen económico: Ordenanza fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-69.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Camarma de Esteruelas",
+      "description": "Régimen económico: Precio público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-70.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Camarma de Esteruelas",
+      "description": "Régimen económico: Precio público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-71.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Camarma de Esteruelas",
+      "description": "Licencias: Fanibisnis, S. L.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-72.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Casarrubuelos",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-73.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Ciempozuelos",
+      "description": "Personal: Nombramiento funcionarios",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-74.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Coslada",
+      "description": "Régimen económico: Ordenanzas fiscales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-75.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "El Boalo",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-76.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "El Boalo",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-77.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "El Escorial",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-78.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Estremera",
+      "description": "Otros anuncios: Candidaturas juez de paz",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-79.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Leganés",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-80.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Leganés",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-81.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Leganés",
+      "description": "Licencias: Anicura Vetsia Hospital Veterinario, S. A. U.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-82.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Manzanares el Real",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-83.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Manzanares el Real",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-84.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Manzanares el Real",
+      "description": "Personal: Plantilla personal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-85.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Manzanares el Real",
+      "description": "Personal: Plantilla personal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-86.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Mejorada del Campo",
+      "description": "Ofertas de empleo: Oferta empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-87.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Móstoles",
+      "description": "Régimen económico: Ordenanzas fiscales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-88.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Pozuelo de Alarcón",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-89.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Ribatejada",
+      "description": "Régimen económico: Calendario fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-90.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Martín de la Vega",
+      "description": "Urbanismo: Estudio detalle",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-91.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Sebastián de los Reyes",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-92.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Sebastián de los Reyes",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-93.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Tielmes",
+      "description": "Ofertas de empleo: Convocatoria procesos selectivos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-94.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Valdeavero",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-95.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Valdemorillo",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-96.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villanueva de la Cañada",
+      "description": "Régimen económico: Ordenanzas fiscales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-97.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Mancomunidad Barrio de Los Negrales",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-98.PDF"
+    }
+  }
+]
