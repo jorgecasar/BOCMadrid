@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 30 de noviembre de 2022, de la Universidad Autónoma de Madrid, por la que se nombran funcionarios de Cuerpos Docentes Universitarios: Profesores y Profesoras Titulares de Universidad y Catedráticos y Catedráticas de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-37.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Carlos III",
       "description": "Corrección de errores de la Resolución de 25 de noviembre de 2022, de la Universidad Carlos III de Madrid, por la que se nombran funcionarios y funcionarias de Cuerpos Docentes Universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/15/BOCM-20221215-38.PDF"
