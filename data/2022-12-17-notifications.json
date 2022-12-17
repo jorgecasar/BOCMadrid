@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
-      "description": "Anuncio de 1 de diciembre de 2022, de liquidación y extinción del consorcio urbanístico “Espartales Norte”, en liquidación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/16/BOCM-20221216-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Anuncio de 1 de diciembre de 2022, de liquidación y extinción del Consorcio Urbanístico “Área Industrial Valdelacasa”, en liquidación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/16/BOCM-20221216-50.PDF"
     }
