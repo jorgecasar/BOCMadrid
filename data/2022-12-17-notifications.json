@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 2430/2022, de 1 de diciembre, de la Consejería de Cultura, Turismo y Deporte, por la que se resuelve la convocatoria aprobada por Orden 1598/2022 de 20 de septiembre, de la Consejería de Cultura, Turismo y Deporte (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 30 de septiembre), para la provisión de varios puestos de trabajo vacantes en la citada Consejería por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/16/BOCM-20221216-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Resolución de 30 de noviembre de 2022, de la Dirección General de Educación Secundaria, Formación Profesional y Régimen Especial, por la que se convocan en la Comunidad de Madrid en el curso académico 2022-2023 las pruebas de acceso a ciclos formativos de formación profesional y a las enseñanzas profesionales de artes plásticas y diseño, así como la prueba sustitutiva de los requisitos académicos establecidos para el acceso a las enseñanzas deportivas de régimen especial y a las formaciones deportivas en período transitorio",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/16/BOCM-20221216-32.PDF"
