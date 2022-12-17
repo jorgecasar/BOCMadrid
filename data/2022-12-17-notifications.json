@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 1 de diciembre de 2022, por la que se publican diversos Planes de Estudio de Máster Universitario de la Universidad Politécnica de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/16/BOCM-20221216-43.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 1 de diciembre de 2022, por la que se publica el Plan de Estudios de Máster Universitario en Contaminación de Suelos y Aguas Subterráneas por la Universidad Politécnica de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/16/BOCM-20221216-44.PDF"
     }
