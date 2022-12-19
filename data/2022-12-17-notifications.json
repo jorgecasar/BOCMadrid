@@ -1,0 +1,78 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 300,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/12/17/BOCM-20221217300.PDF",
+      "total": 14,
+      "items": {
+        "Comunidad de Madrid": 8,
+        "Administración de Justicia": 6
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Adenda de 30 de noviembre de 2022, al “Convenio de gestión integral del Servicio de Distribución de Agua de Consumo Humano entre la Comunidad de Madrid, Canal de Isabel II y el Ayuntamiento de Colmenar del Arroyo”, para la renovación de la red de distribución de agua en la urbanización “Valle del Sol”, entre la Comunidad de Madrid, el Ente Público Canal de Isabel II, Canal de Isabel II, S. A., el Ayuntamiento de Colmenar del Arroyo y la urbanización “Valle del Sol”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/17/BOCM-20221217-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 20 de noviembre de 2022, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del Convenio Colectivo de la Empresa FCC Medio Ambiente, S. A. U., para su centro de trabajo de Ciempozuelos, limpieza viaria y recogida de residuos sólidos urbanos (código número 28103411012022)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/17/BOCM-20221217-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 2 de diciembre de 2022, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del Convenio Colectivo del Sector de Construcción y Obras Públicas, suscrito por la Asociación de Empresas de la Construcción de Madrid (AECOM) y por la representación sindical CC. OO. del Hábitat de Madrid y UGT FICA Madrid (código número 28001055011982)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/17/BOCM-20221217-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Convenio de colaboración de 30 de noviembre de 2022, entre la Agencia de la Comunidad de Madrid para la Reeducación y Reinserción de Menor Infractor, la Fundación Madrid por el Deporte y la Fundación del Tenis Madrileño, para el desarrollo de escuelas de deporte y valores en el ámbito de los centros de ejecución de medidas judiciales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/17/BOCM-20221217-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Convenio de subvención de 3 de noviembre de 2021, entre la Comunidad de Madrid (Consejería de Economía, Hacienda y Empleo) y la Federación de Cooperativas y de la Economía Social de Madrid (FECOMA), para la realización de actuaciones de fomento del cooperativismo en la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/17/BOCM-20221217-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Convenio de 14 de septiembre de 2022, entre el Consorcio Regional de Transportes Públicos Regulares de Madrid y Radio Televisión Madrid, S. A. U., para trasladar a los ciudadanos una visión completa y actual del Sistema de Transporte Público de la Comunidad de Madrid en los medios de comunicación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/17/BOCM-20221217-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 3 de octubre de 2022, entre la Comunidad de Madrid (Consejería de Cultura, Turismo y Deporte) y la Asociación Madrileña Audiovisual (AMA), para la organización conjunta de la VIII Edición de la “Ventana CineMad”, correspondiente al año 2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/17/BOCM-20221217-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 29 de noviembre de 2022, entre la Comunidad de Madrid, a través de la Consejería de Cultura, Turismo y Deporte, y la Federación Madrileña de Tiro con Arco, para la colaboración en la utilización de espacios deportivos en el “Parque Deportivo Puerta de Hierro”, situado en el “Monte de El Pardo”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/17/BOCM-20221217-8.PDF"
+    }
+  }
+]
