@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 25 de noviembre de 2022, de la Universidad de Alcalá, por la que se nombra Catedrático de Universidad del área de conocimiento de “Didáctica de la Lengua y la Literatura” a don Jesús García Laborda",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/19/BOCM-20221219-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Carlos III",
       "description": "Resolución de 2 de diciembre de 2022, de la Universidad Carlos III de Madrid, por la que se anuncia la publicación de la convocatoria del proceso selectivo, por el sistema general de acceso libre por concurso oposición, en el marco de estabilización de empleo temporal, para la provisión como personal laboral de nuevo ingreso de una plaza de Técnico Auxiliar, Grupo D, área Servicios Generales, especialidad Servicios e Información",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/19/BOCM-20221219-32.PDF"
