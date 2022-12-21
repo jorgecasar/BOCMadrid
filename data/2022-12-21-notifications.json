@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 5 de diciembre de 2022, de la Universidad Politécnica de Madrid, por la que se convoca concurso-oposición libre para la provisión de puestos de trabajo vacantes en la Relación de Puestos de Trabajo de Personal de Administración y Servicios Laboral, en el marco de la estabilización del empleo temporal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/20/BOCM-20221220-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 5 de diciembre de 2022, de la Universidad Politécnica de Madrid, por la que se convoca concurso de méritos libre para la provisión de puestos de trabajo vacantes en la Relación de Puestos de Trabajo de Personal de Administración y Servicios Laboral, en el marco de la estabilización del empleo temporal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/20/BOCM-20221220-26.PDF"
     }
