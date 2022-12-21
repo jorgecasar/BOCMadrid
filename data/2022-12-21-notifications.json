@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
-      "description": "Anuncio de 5 de diciembre de 2022, por el que se hace público el siguiente Acuerdo adoptado",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/20/BOCM-20221220-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 22 de noviembre de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se resuelve la convocatoria aprobada mediante Orden de 27 de junio de 2022 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 7 de julio), para la provisión de varios puestos de trabajo por el procedimiento de Concurso de Méritos en la Consejería de Economía, Hacienda y Empleo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/20/BOCM-20221220-2.PDF"
