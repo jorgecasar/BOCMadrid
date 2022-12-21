@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 2 de diciembre de 2022, de la Universidad de Alcalá, por la que se nombra Profesora Titular de Universidad del área de conocimiento de “Química Analítica”, a doña Beatriz Jurado Sánchez",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/20/BOCM-20221220-28.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 1 de diciembre de 2022, de la Universidad Rey Juan Carlos, por la que se convocan pruebas selectivas para ingreso en la Escala de Gestión de Sistemas e Informática de la Universidad Rey Juan Carlos, Grupo A, Subgrupo A2, previstas en la Oferta de Empleo Público de 2021",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/20/BOCM-20221220-29.PDF"
