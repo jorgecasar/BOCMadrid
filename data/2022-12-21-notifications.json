@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Vicepresidencia, Consejería de Educación y Universidades",
-      "description": "Orden 3859/2022, de 16 de diciembre, del Vicepresidente, Consejero de Educación y Universidades, por la que se resuelve la convocatoria de becas para el estudio de Formación Profesional de Grado Superior en la Comunidad de Madrid para el curso 2022-2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/20/BOCM-20221220-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 4 de octubre de 2022, de la Consejería de Economía, Hacienda y Empleo, por la que se establecen las normas reguladoras para la concesión directa de ayudas al transporte público urbano y/o interurbano a trabajadores desempleados que participen en acciones de formación profesional para el empleo financiadas con fondos públicos, a través del Consorcio Regional de Transportes de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/20/BOCM-20221220-33.PDF"
