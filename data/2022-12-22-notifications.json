@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 7 de diciembre de 2022, del Rectorado de la Universidad Autónoma de Madrid, por la que se nombra personal eventual a doña Isabel Esparza Orduña como Directora de Comunicación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/21/BOCM-20221221-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 5 de diciembre de 2022, de la Universidad Politécnica de Madrid, por la que se convocan, para su provisión mediante el procedimiento de Libre Designación, plazas vacantes en la Relación de Puestos de Trabajo de Personal Funcionario de esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/21/BOCM-20221221-24.PDF"
