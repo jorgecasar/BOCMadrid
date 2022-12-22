@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 2 de diciembre de 2022, de la Universidad Rey Juan Carlos, por la que se anuncian convocatorias de concursos para la provisión de plazas de Profesor Contratado Doctor",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/21/BOCM-20221221-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 12 de diciembre de 2022, por la que se aprueba la Oferta de Empleo Público de personal de administración y servicios de la Universidad Rey Juan Carlos para el año 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/21/BOCM-20221221-27.PDF"
     }
