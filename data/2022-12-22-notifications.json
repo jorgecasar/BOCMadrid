@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 15 de diciembre de 2022, del Rector de la Universidad Complutense de Madrid, por la que se ordena la publicación de la modificación parcial de la relación de puestos de trabajo del personal de administración y servicios laboral de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/21/BOCM-20221221-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 7 de diciembre de 2022, del Rectorado de la Universidad Autónoma de Madrid, por la que se nombra personal eventual a doña Isabel Esparza Orduña como Directora de Comunicación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/21/BOCM-20221221-23.PDF"
