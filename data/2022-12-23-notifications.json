@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Presidencia de La Comunidad",
-      "description": "Ley 12/2022, de 21 de diciembre, de Servicios Sociales de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/22/BOCM-20221222-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Presidencia de La Comunidad",
       "description": "Ley 13/2022, de 21 de diciembre, de Ordenación y Atención Farmacéutica de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/22/BOCM-20221222-3.PDF"
     }
