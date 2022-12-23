@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 13 de diciembre de 2022, de la Universidad Complutense de Madrid, por la que se publica la Oferta de Empleo Público del personal de Administración y Servicios para el año 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/22/BOCM-20221222-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Corrección de errores de la Resolución de 19 de diciembre de 2022, del Director General de Presupuestos, por el que acuerda hacer pública la Decisión de ejecución de la Comisión europea de 7 de diciembre de 2022, por la que se aprueba el Programa de la Comunidad de Madrid FEDER 2021-2027 para recibir ayuda del Fondo Europeo de Desarrollo Regional en el marco del objetivo de inversión en empleo y crecimiento para la Comunidad de Madrid, en aplicación de la Ley 21/2013, de 9 de diciembre, de Evaluación Ambiental",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/22/BOCM-20221222-18.PDF"
