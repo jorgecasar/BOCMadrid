@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Régimen económico: Área de Gobierno de Medio Ambiente y Movilidad. Concesión premios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/23/BOCM-20221223-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Régimen económico: Pleno del Ayuntamiento. Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/23/BOCM-20221223-50.PDF"
     }
