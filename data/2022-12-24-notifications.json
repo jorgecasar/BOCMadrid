@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 13 de diciembre de 2022, de la Universidad Carlos III de Madrid, por la que se anuncia la publicación de la Resolución por la que se declara desierta la convocatoria para la provisión, por el sistema de concurso específico de méritos, de un puesto de trabajo en esta Universidad, convocada por Resolución de 28 de octubre de 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/23/BOCM-20221223-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 12 de diciembre de 2022, de la Universidad Rey Juan Carlos, por la que se modifican, parcialmente, las bases contenidas en la Resolución de 11 de noviembre de 2022, por la que se convoca concurso-oposición de promoción interna para la provisión de plazas de personal laboral fijo de administración y servicios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/23/BOCM-20221223-20.PDF"
