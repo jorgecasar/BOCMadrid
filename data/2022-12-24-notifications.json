@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Carlos III",
-      "description": "Resolución de 13 de diciembre de 2022, de la Universidad Carlos III de Madrid, por la que se nombra personal funcionario de cuerpos docentes universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/23/BOCM-20221223-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Carlos III",
       "description": "Resolución de 13 de diciembre de 2022, de la Universidad Carlos III de Madrid, por la que se anuncia la publicación de la Resolución por la que se declara desierta la convocatoria para la provisión, por el sistema de concurso específico de méritos, de un puesto de trabajo en esta Universidad, convocada por Resolución de 28 de octubre de 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/23/BOCM-20221223-19.PDF"
     }
