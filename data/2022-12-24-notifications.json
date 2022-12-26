@@ -1,0 +1,62 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 306,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/12/24/BOCM-20221224306.PDF",
+      "total": 11,
+      "items": {
+        "Comunidad de Madrid": 6,
+        "Administración de Justicia": 5
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 30 de noviembre de 2022, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa Atresmedia Corporación de Medios de Comunicación, S. A. (código número 28100482012013)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/24/BOCM-20221224-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 30 de noviembre de 2022, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa Fiesta Colombina, S. L. U., centro de trabajo de Alcalá de Henares (código número 28102051012018)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/24/BOCM-20221224-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 3 de diciembre de 2022, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del acta de 28 de noviembre de 2022, de la comisión negociadora, por la que aprueba el calendario laboral para el año 2023 del convenio colectivo del sector derivados del cemento (código número 28001175011982)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/24/BOCM-20221224-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 12 de diciembre de 2022, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación de la modificación del convenio colectivo de la empresa Loreto Mutua, Mutualidad de Previsión Social (código número 28010252011998)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/24/BOCM-20221224-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 12 de diciembre de 2022, de la Dirección General de Trabajo de la Consejería de economía, Hacienda y Empleo, sobre registro, depósito y publicación de la revisión salarial de 2022 del convenio colectivo del Sector de la Madera de la Comunidad de Madrid, suscrita por la comisión negociadora (código número 28002235011982)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/24/BOCM-20221224-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 13 de diciembre de 2022, entre la Comunidad de Madrid, a través de la Consejería de Cultura, Turismo y Deporte, y la Federación Madrileña de Rugby, para la colaboración en la utilización de espacios deportivos en el Parque Deportivo Puerta de Hierro, situado en el Monte de El Pardo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/24/BOCM-20221224-6.PDF"
+    }
+  }
+]
