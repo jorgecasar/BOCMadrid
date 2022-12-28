@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 8 de noviembre de 2022, de la Universidad Complutense de Madrid, por la que se convocan concursos de movilidad para la provisión de plazas de Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/27/BOCM-20221227-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 19 de diciembre de 2022, de la Universidad Rey Juan Carlos, por la que se convoca concurso de acceso a plazas de cuerpos docentes universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/27/BOCM-20221227-15.PDF"
