@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 22 de diciembre de 2022, de la Dirección General de Función Pública, por la que se modifica la Resolución de 29 de septiembre de 2022, de la citada Dirección General, por la que se aprueban y publican las relaciones definitivas de aspirantes admitidos y excluidos en el proceso selectivo para el ingreso en el Cuerpo de Letrados, de Administración Especial, Grupo A, Subgrupo A1, de la Comunidad de Madrid, y se anuncia la celebración del primer ejercicio del citado proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/28/BOCM-20221228-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Resolución de 23 de diciembre de 2022, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se desiste de la Resolución de 7 de febrero de 2019 de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convoca pruebas selectivas por el turno libre para el acceso a la condición de personal estatutario fijo en la categoría de Médico de Urgencia Hospitalaria del Servicio de Salud de la Comunidad de Madrid (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 14 de febrero de 2019)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/28/BOCM-20221228-13.PDF"
