@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 21 de diciembre de 2022, de la Universidad Complutense de Madrid, por la que se acuerda hacer público el Presupuesto de esta Universidad para 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/28/BOCM-20221228-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 21 de diciembre de 2022, de la Universidad Rey Juan Carlos, por la que se dispone la publicación del Presupuesto de la Universidad para 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/28/BOCM-20221228-24.PDF"
