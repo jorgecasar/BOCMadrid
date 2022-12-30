@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Vicepresidencia, Consejería de Educación y Universidades",
-      "description": "Orden 3865/2022, de 20 de diciembre, de la Vicepresidencia, Consejería de Educación y Universidades, por la que se desarrollan determinados aspectos de la organización y el funcionamiento de los conservatorios profesionales y los centros integrados de enseñanzas artísticas de música de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/29/BOCM-20221229-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Acuerdo de 28 de diciembre de 2022, del Consejo de Gobierno, por el que se fija el calendario para el año 2023 de días inhábiles a efectos del cómputo de plazos administrativos en la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/29/BOCM-20221229-27.PDF"
