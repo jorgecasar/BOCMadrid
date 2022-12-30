@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia e Interior",
-      "description": "Acuerdo de 28 de diciembre de 2022, del Consejo de Gobierno, por el que se fija el calendario para el año 2023 de días inhábiles a efectos del cómputo de plazos administrativos en la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/29/BOCM-20221229-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Política Social",
       "description": "Acuerdo de 21 de diciembre de 2022, del Consejo de Gobierno, por el que se modifica el Acuerdo del Consejo de Gobierno de 9 de diciembre de 2021, por el que se aprueban las normas reguladoras y se establece el procedimiento de concesión directa de ayudas económicas de pago mensual por gestación, nacimiento de hijo o adopción de menores en la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/29/BOCM-20221229-28.PDF"
