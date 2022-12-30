@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Resolución de 22 de diciembre de 2022, de la Dirección-Gerencia del Hospital Universitario de Fuenlabrada, por la que se hace pública la información de las plazas y de los procesos selectivos a convocar en el período 2022-2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/29/BOCM-20221229-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Anuncio de 28 de diciembre de 2022, por el que se convocan las bases del procedimiento de selección para cubrir cuatro puestos indefinidos en la Fundación de la Universidad Autónoma de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/29/BOCM-20221229-24.PDF"
