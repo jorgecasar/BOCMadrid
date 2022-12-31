@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Carlos III",
-      "description": "Resolución de 21 de diciembre de 2022, de la Universidad Carlos III de Madrid, por la que se publica la Relación de Puestos de Trabajo del Personal de Administración y Servicios Laboral de esta universidad, aprobada en Consejo de Gobierno de 15 de diciembre de 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/30/BOCM-20221230-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Carlos III",
       "description": "Resolución de 21 de diciembre de 2022, de la Universidad Carlos III de Madrid, por la que se publica la Relación de Puestos de Trabajo del personal de administración y servicios funcionario de esta universidad, aprobada en Consejo de Gobierno de 15 de diciembre de 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/30/BOCM-20221230-21.PDF"
     }
