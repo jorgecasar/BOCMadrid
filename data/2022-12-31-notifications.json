@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Decreto 136/2022, de 28 de diciembre, del Consejo de Gobierno, por el que se aprueba la Oferta de Empleo Público del personal de Instituciones Sanitarias de la Comunidad de Madrid para el año 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/30/BOCM-20221230-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Decreto 137/2022, de 28 de diciembre, por el que se establecen los criterios de aplicación de la prórroga automática de los presupuestos generales de la Comunidad de Madrid para 2022, hasta la entrada en vigor de los presupuestos generales para 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/30/BOCM-20221230-3.PDF"
     }
