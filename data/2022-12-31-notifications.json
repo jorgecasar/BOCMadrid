@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Decreto 137/2022, de 28 de diciembre, por el que se establecen los criterios de aplicación de la prórroga automática de los presupuestos generales de la Comunidad de Madrid para 2022, hasta la entrada en vigor de los presupuestos generales para 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/30/BOCM-20221230-3.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Decreto 135/2022, de 28 de diciembre, del Consejo de Gobierno, por el que se nombra Presidente del Consejo Social de la Universidad Autónoma de Madrid a don Eduardo Sicilia Cavanillas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/30/BOCM-20221230-4.PDF"
