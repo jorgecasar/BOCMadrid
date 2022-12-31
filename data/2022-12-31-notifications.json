@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 13 de diciembre de 2022, de la Universidad Carlos III de Madrid, por la que se acuerda hacer público el presupuesto de la Universidad para el ejercicio económico del año 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/30/BOCM-20221230-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Resolución de 16 de diciembre de 2022, del Director General de Descarbonización y Transición Energética de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se acuerda hacer público la Declaración Ambiental Estratégica de la Modificación de las Normas Urbanísticas del PGOU de 1997 de Madrid, promovido por el Ayuntamiento de Madrid (expediente: 10-UB2-00210.2/2022, SIA 22/211)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/30/BOCM-20221230-30.PDF"
