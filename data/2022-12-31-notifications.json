@@ -1,0 +1,21 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 313,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2022/12/31/bocm-20221231_1.pdf",
+      "total": 1,
+      "items": {
+        "Comunidad de Madrid": 1
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Presidencia de La Comunidad",
+      "description": "Decreto 76/2022, de 31 de diciembre, de la Presidenta de la Comunidad de Madrid, por el que se declara luto oficial los días 31 de diciembre de 2022 y 1 y 2 de enero de 2023, como consecuencia del fallecimiento de Su Santidad el Papa Emérito Benedicto XVI",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/12/31/BOCM-20221231-23.PDF"
+    }
+  }
+]
