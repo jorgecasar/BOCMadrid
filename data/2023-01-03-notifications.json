@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 19 de diciembre de 2022, de la Universidad de Alcalá, por la que se convoca concurso de acceso a plazas de funcionarios de carrera de los cuerpos docentes universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/02/BOCM-20230102-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Resolución de 30 de diciembre de 2022, del Director General de Emergencias, por la que se dictan instrucciones para dar cumplimiento a lo dispuesto en el artículo 27.3 de la ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular, tras su modificación mediante Ley 30/2022, de 23 de diciembre, por la que se regulan el sistema de gestión de la Política Agrícola Común y otras materias conexas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/02/BOCM-20230102-16.PDF"
