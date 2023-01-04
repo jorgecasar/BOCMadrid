@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 19 de diciembre de 2022, de la Universidad Rey Juan Carlos, por la que se resuelve la provisión de puestos de trabajo reservados a personal funcionario mediante el sistema de Libre Designación, convocada por Resolución de 20 de octubre de 2022 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID del día 21)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/03/BOCM-20230103-34.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 21 de diciembre de 2022, de la Universidad Rey Juan Carlos, por la que se hace pública la relación de aspirantes que han superado el proceso selectivo para la cobertura de 36 plazas de la Escala Auxiliar Administrativa de esta Universidad, grupo C, subgrupo C2, previstas en la oferta de empleo público de 2018",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/03/BOCM-20230103-35.PDF"
     }
