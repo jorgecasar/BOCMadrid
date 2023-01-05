@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Resolución de 21 de diciembre de 2022, de la Gerencia de la Universidad de Alcalá, por la que se publica una modificación de la relación de puestos de trabajo del personal funcionario de administración y servicios de este organismo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/04/BOCM-20230104-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Resolución de 21 de diciembre de 2022, de la Universidad de Alcalá, por la que se publica una modificación de la relación de puestos de trabajo del personal laboral de administración y servicios de este organismo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/04/BOCM-20230104-23.PDF"
     }
