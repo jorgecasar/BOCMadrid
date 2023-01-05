@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 22 de diciembre de 2022, de la Universidad Rey Juan Carlos, por la que se nombran Profesores Titulares de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/04/BOCM-20230104-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Orden 3930/2022, de 27 de diciembre, del Vicepresidente, Consejero de Educación y Universidades, por la que se resuelve la convocatoria de ayudas destinadas a los investigadores de la modalidad 1 del programa de atracción de talento investigador de la Comunidad de Madrid del año 2018, para su contratación y realización de actividades de I+D durante un período adicional de un año",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/04/BOCM-20230104-27.PDF"
