@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 22 de diciembre de 2022, de la Universidad Rey Juan Carlos, por la que se nombran Profesores Titulares de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/04/BOCM-20230104-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 22 de diciembre de 2022, de la Universidad Rey Juan Carlos, por la que se nombran Catedráticos de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/04/BOCM-20230104-25.PDF"
     }
