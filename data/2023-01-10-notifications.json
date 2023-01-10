@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Vicepresidencia, Consejería de Educación y Universidades",
-      "description": "Extracto de la Orden 3789/2022, de 9 de diciembre, del Vicepresidente, Consejero de Educación y Universidades, por la que se convocan ayudas para la contratación de personal investigador predoctoral en formación para el año 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/09/BOCM-20230109-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Extracto de la Orden 4402/2022, de 23 de diciembre, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se convocan para el año 2023 ayudas para el mantenimiento de razas autóctonas españolas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/09/BOCM-20230109-27.PDF"
