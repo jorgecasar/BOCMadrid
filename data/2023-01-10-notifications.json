@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 22 de diciembre de 2022, de la Rectora de la Universidad Autónoma de Madrid, por la que se resuelve la convocatoria pública para la provisión de un puesto de trabajo vacante mediante el sistema de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/09/BOCM-20230109-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 17 de diciembre de 2022, de la Universidad de Alcalá, por la que se anuncia convocatoria de Concurso de Méritos para la provisión de determinadas plazas vacantes en la relación de puestos de trabajo de personal funcionario (Administración)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/09/BOCM-20230109-18.PDF"
