@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Resolución de 22 de diciembre de 2022, de la Universidad de Alcalá, por la que se nombra Profesora Titular de Universidad del Área de Conocimiento de \"Fisiología\", a doña Cecilia Fernández Vaquero",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/10/BOCM-20230110-4.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Resolución de 22 de diciembre de 2022, de la Universidad de Alcalá, por la que se nombra Catedrático de Universidad del Área de Conocimiento de “Proyectos Arquitectónicos” a don Fernando Quesada López",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/10/BOCM-20230110-5.PDF"
     }
