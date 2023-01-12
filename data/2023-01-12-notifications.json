@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Política Social",
-      "description": "Resolución 60/2023, de 9 de enero, de la Presidenta del Consejo de la Mujer de la Comunidad de Madrid, por la que cesa y nombra Secretario del Consejo de la Mujer de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/11/BOCM-20230111-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Administración Local y Digitalización",
       "description": "Orden de 29 de diciembre de 2022, de la Consejería de Administración Local y Digitalización, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicha Consejería por el procedimiento de Concurso de Méritos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/11/BOCM-20230111-8.PDF"
