@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia e Interior",
-      "description": "Resolución de 10 de enero de 2023, de la Dirección General de Seguridad, Protección Civil y Formación, por la que se convocan cursos selectivos de acceso y ascenso a las diferentes categorías de los Cuerpos de Policía Local de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/11/BOCM-20230111-3.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 27 de diciembre de 2022, de la Directora General de Función Pública, por la que se aprueba y da publicidad al Plan de Formación para Empleados Públicos de la Comunidad de Madrid para 2023 y se abre el plazo de presentación de solicitudes de participación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/11/BOCM-20230111-4.PDF"
