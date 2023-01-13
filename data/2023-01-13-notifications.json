@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcalá de Henares",
-      "description": "Otros anuncios: Tarifas autotaxi",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/12/BOCM-20230112-41.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcorcón",
       "description": "Organización y funcionamiento: Ordenanza tarjeta estacionamiento vehículos movilidad reducida",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/12/BOCM-20230112-42.PDF"
