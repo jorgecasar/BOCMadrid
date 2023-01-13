@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Arganda del Rey",
-      "description": "Personal: Nombramiento funcionarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/12/BOCM-20230112-44.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Hoyo de Manzanares",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/12/BOCM-20230112-45.PDF"
