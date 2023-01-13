@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Hoyo de Manzanares",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/12/BOCM-20230112-45.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Las Rozas de Madrid",
       "description": "Ofertas de empleo: Proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/12/BOCM-20230112-46.PDF"
