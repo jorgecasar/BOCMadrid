@@ -1,0 +1,383 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 11,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/01/13/BOCM-20230113011.PDF",
+      "total": 54,
+      "items": {
+        "Comunidad de Madrid": 25,
+        "Administración Local Ayuntamientos": 21,
+        "Administración de Justicia": 8
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Vicepresidencia, Consejería de Educación y Universidades",
+      "description": "Acuerdo de 11 de enero de 2023, del Consejo de Gobierno, por el que se cesa a don José Luis Daza Somolinos y se nombra, en su sustitución, a don Jesús La Roda Muñoz, como vocal del Consejo Social de la Universidad de Alcalá, en representación de los intereses sociales, designado por el sindicato con mayor implantación en la Comunidad de Madrid UGT Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Vicepresidencia, Consejería de Educación y Universidades",
+      "description": "Resolución de 11 de enero de 2023, de la Dirección General de Recursos Humanos, por la que se nombran los Tribunales de Selección y las Comisiones de Baremación correspondientes al proceso selectivo para el ingreso en el Cuerpo de Maestros, por el sistema excepcional de Concurso de Méritos, a plazas del ámbito de gestión de la Administración de la Comunidad de Madrid, convocado por Resolución de 10 de noviembre de 2022, del Director General de Recursos Humanos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Resolución de 4 de enero de 2023, del Director General de Emergencias, por la que se da publicidad al calendario, programa y regulación del curso selectivo, elaborado por el servicio de formación del cuerpo de agentes forestales, en cumplimiento de lo establecido en la Orden 1564/2019, de 20 de mayo, de la Vicepresidencia, Consejería de Presidencia y Portavocía del Gobierno",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 27 de diciembre de 2022, del Director-Gerente del Instituto Madrileño de Investigación y Desarrollo Rural, Agrario y Alimentario (IMIDRA), por la que se publican las subvenciones concedidas por el IMIDRA en el cuarto trimestre de 2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Extracto de la Orden 2467/2022, de 30 de noviembre, de la Consejera de Familia, Juventud y Política Social, de tramitación anticipada, por la que se convocan subvenciones a entidades sin ánimo de lucro para proyectos de voluntariado y proyectos de innovación social para el año 2023",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Vicepresidencia, Consejería de Educación y Universidades",
+      "description": "Resolución de 28 de diciembre de 2022, de la Dirección General de Infraestructuras y Servicios de la Vicepresidencia, Consejería de Educación y Universidades, por la que se dispone la publicación en el “perfil del contratante” de la formalización del refuerzo de la Red de Infraestructuras Educativas de la Comunidad de Madrid mediante la construcción de 6 aulas de Secundaria, 3 aulas específicas, 3 aulas de desdoble, un aula de grupo pequeño, aseos y urbanización en el IES “Gonzalo Chacón” en Arroyomolinos; ampliación de 15 aulas de Primaria, más específicas, en el CEIP “Ángel Nieto”, en el Ensanche de Vallecas, Madrid; ampliación de 3 aulas de ESO, 3 de Bachillerato y aulas de apoyo y desdoble en el IES “Don Pelayo” en Villalbilla, y acondicionamiento de edificio para adaptación a aulario en el CEIP “María Martín” en Navalcarnero",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Vicepresidencia, Consejería de Educación y Universidades",
+      "description": "Resolución de 30 de diciembre de 2022, de la Secretaria General Técnica de la Vicepresidencia, Consejería de Educación y Universidades, por la que se hace pública la formalización del contrato de servicios denominado “Solución tecnológica de aprendizaje digital de la Comunidad de Madrid”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Convenio de colaboración de 22 de diciembre de 2022, entre la Agencia de la Comunidad de Madrid para la Reeducación y Reinserción del Menor Infractor y la Asociación Eslabón Iniciativas de Promoción de Empleo para la inserción sociolaboral de menores y jóvenes sujetos a medidas judiciales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-8.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 19 de diciembre de 2022, del Director General de Descarbonización y Transición Energética de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se acuerda hacer público el Informe de Impacto Ambiental del proyecto de “Instalación de estación de servicio en calle Narciso Monturiol, número 28”, en el término municipal de Valdemoro, promovida por Ganesha Combustibles, S. L. (Expediente: 10-EIA-00039.1/2021)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-9.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Convenio de 23 de diciembre de 2022, entre la Comunidad de Madrid, a través de la Consejería de Medio Ambiente, Vivienda y Agricultura, y el Ayuntamiento de Titulcia, para la concesión directa de una subvención en especie valorada en 42.000,00 euros destinada a financiar el incremento de los costes presupuestados para la ejecución del Plan Integrado de Actuación “Plaza Mayor de Titulcia”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-10.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Convenio de 23 de diciembre de 2022, entre la Comunidad de Madrid, a través de la Consejería de Medio Ambiente, Vivienda y Agricultura, y el Ayuntamiento de Villavieja del Lozoya, para la concesión directa de una subvención en especie valorada en 41.998,50 euros destinada a financiar el incremento de los costes presupuestados para la ejecución del Plan Integrado de Actuación “Recuperación y puesta en valor del espacio público de acceso al edificio de las antiguas escuelas y mejora de edificios municipales”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-11.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Convenio de 23 de diciembre de 2022, entre la Comunidad de Madrid, a través de la Consejería de Medio Ambiente, Vivienda y Agricultura, y el Ayuntamiento de Torremocha de Jarama, para la concesión directa de una subvención en especie valorada en 41.577,11 euros destinada a financiar el incremento de los costes presupuestados para la ejecución del Plan Integrado de actuación “Recuperación integral de fachadas y espacios públicos del casco histórico de Torremocha de Jarama”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-12.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Convenio de 23 de diciembre de 2022, entre la Comunidad de Madrid, a través de la Consejería de Medio Ambiente, Vivienda y Agricultura, y el Ayuntamiento de Batres para la concesión directa de una subvención en especie valorada en 37.829,63 euros destinada a financiar el incremento de los costes presupuestados para la ejecución del Plan Integrado de Actuación “Recuperación urbana del entorno del Paseo Fuente del Chorro”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-13.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Convenio de 23 de diciembre de 2022, entre la Comunidad de Madrid, a través de la Consejería de Medio Ambiente, Vivienda y Agricultura, y el Ayuntamiento de Brea de Tajo, para la concesión directa de una subvención en especie valorada en 34.379,28 euros destinada a financiar el incremento de los costes presupuestados para la ejecución del plan integrado de actuación “Restauración del entorno de la Ermita San Roque”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-14.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Convenio de 23 de diciembre de 2022, entre la Comunidad de Madrid, a través de la Consejería de Medio Ambiente, Vivienda y Agricultura, y el Ayuntamiento de Santorcaz, para la concesión directa de una subvención en especie valorada en 42.000,00 euros, destinada a financiar el incremento de los costes presupuestados para la ejecución del plan integrado de actuación “Adecuación del parque de Nuestra Señora de Orcalez, reparación de la cubierta del lavadero y adecuación del camino de la Galiana”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-15.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Convenio de 23 de diciembre de 2022, entre la Comunidad de Madrid, a través de la Consejería de Medio Ambiente, Vivienda y Agricultura, y el Ayuntamiento de Rascafría, para la concesión directa de una subvención en especie valorada en 41.774,04 euros, destinada a financiar el incremento de los costes presupuestados para la ejecución del plan integrado de actuación “Recuperación y adecuación de la plaza de Trastámara de Rascafría”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-16.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 30 de diciembre de 2022, de la Secretaría General Técnica de la Consejería de Economía, Hacienda y Empleo, por la que se dispone la publicación de la formalización del contrato de “Servicios dirigidos a la compra de espacios en medios de comunicación y demás soportes publicitarios, para la difusión de campañas de publicidad institucional y otros anuncios oficiales de la Comunidad de Madrid”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-17.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Resolución de 21 de diciembre de 2022, de la Secretaría General Técnica de la Consejería de Familia, Juventud y Política Social, por la que se dispone la publicación de la declaración de desierto del contrato de servicios denominado “Gestión del Centro de Atención a Personas Mayores Dependientes (Residencia y Centro de Día) Peñuelas, de Madrid”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-18.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 28 de diciembre de 2022, de la Gerencia del Hospital Universitario “La Paz”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de “Suministro de implantes: dispositivos para tratamiento de aneurismas implantables”. Modificación 2022-9-28 (P. A. 2021-0-49)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-19.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 30 de diciembre de 2022, del Director-Gerente del Hospital Clínico “San Carlos” de Madrid, por suplencia temporal el Director Médico, por la que se dispone la publicación, en los boletines oficiales y en el “perfil del contratante”, de la formalización del contrato del P. A. 2022-0-010 «Suministro de productos y equipos necesarios para el tratamiento de patologías nasales mediante la Turbinoplastia Inferior Endoscópica (TIE), por parte del Servicio de Otorrinolaringología del Hospital Clínico “San Carlos”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-20.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 30 de diciembre de 2022, del Director-Gerente del Hospital Clínico “San Carlos” de Madrid, por suplencia el Director Médico, por la que se dispone la publicación, en los boletines oficiales y en el “perfil del contratante”, de la formalización del contrato del P. A. 2022-0-013 «Suministro de reactivos, equipamiento en cesión y otros materiales necesarios, para la detección automatizada del virus SARS-CoV-2, de patógenos causantes de infecciones de transmisión sexual y de parásitos causantes de infecciones gastrointestinales, por parte del Servicio de Microbiología y del Centro de Salud Sandoval del Hospital Clínico “San Carlos”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-21.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Resolución de 14 de diciembre de 2022, de la Dirección General de Patrimonio Cultural de la Comunidad de Madrid, para la inclusión en el Inventario del Patrimonio Cultural Inmaterial de la Comunidad de Madrid de la técnica constructiva de la piedra seca en la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-22.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Adenda I, de 3 de octubre de 2022, al convenio específico de colaboración, entre la Comunidad de Madrid y la Empresa Municipal Madrid Destino Cultura Turismo y Negocio, S. A., para realización de una campaña de marketing conjunta para la promoción del destino de Madrid como destino turístico de compras en el mercado británico",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-23.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 19 de diciembre de 2022, entre la Secretaría de Estado de Turismo, la Comunidad de Madrid y la Mancomunidad del Embalse del Atazar, para la ejecución del Plan de Sostenibilidad Turística en la Mancomunidad del Embalse del Atazar",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-24.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 19 de diciembre de 2022, entre la Secretaría de Estado de Turismo, la Comunidad de Madrid y el Ayuntamiento de Torrelaguna, para la ejecución del Plan de Sostenibilidad Turística en Torrelaguna",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-25.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Ajalvir",
+      "description": "Régimen económico: Ordenanza fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-26.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcalá de Henares",
+      "description": "Licencias: Julio Águeda e Hijos, S. A.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-27.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Algete",
+      "description": "Personal: Nombramiento",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-28.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Algete",
+      "description": "Personal: Nombramiento",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-29.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Berzosa del Lozoya",
+      "description": "Urbanismo: Modificación puntual Normas Subsidiarias",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-30.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Boadilla del Monte",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-31.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Boadilla del Monte",
+      "description": "Personal: Nombramiento funcionarios",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-32.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Bustarviejo",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-33.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Bustarviejo",
+      "description": "Urbanismo: Estudio detalle",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-34.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Collado Mediano",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-35.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "El Boalo",
+      "description": "Otros anuncios: Convenio gestión",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-36.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Getafe",
+      "description": "Ofertas de empleo: Convocatoria procesos selectivos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-37.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Martín de la Vega",
+      "description": "Personal: Nombramiento funcionarios",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-38.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Martín de la Vega",
+      "description": "Personal: Nombramientos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-39.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Santa María de la Alameda",
+      "description": "Régimen económico: Padrones impuestos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-40.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Velilla de San Antonio",
+      "description": "Régimen económico: Calendario fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-41.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Velilla de San Antonio",
+      "description": "Otros anuncios: Revocación sanciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-42.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villanueva de Perales",
+      "description": "Régimen económico: Padrones fiscales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-43.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villarejo de Salvanés",
+      "description": "Organización y funcionamiento: Designación tenientes Alcaldía",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-44.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villaviciosa de Odón",
+      "description": "Régimen económico: Ordenanza fiscal bienes inmuebles",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-45.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Mancomunidad de Servicios Sociales y Mujer La Maliciosa",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-46.PDF"
+    }
+  }
+]
