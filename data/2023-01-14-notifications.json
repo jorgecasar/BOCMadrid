@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Santa María de la Alameda",
-      "description": "Régimen económico: Padrones impuestos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-40.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Velilla de San Antonio",
       "description": "Régimen económico: Calendario fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-41.PDF"
