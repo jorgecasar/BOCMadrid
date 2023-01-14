@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Getafe",
-      "description": "Ofertas de empleo: Convocatoria procesos selectivos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-37.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "San Martín de la Vega",
       "description": "Personal: Nombramiento funcionarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/13/BOCM-20230113-38.PDF"
