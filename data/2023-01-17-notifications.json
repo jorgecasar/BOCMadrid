@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Administración Local y Digitalización",
-      "description": "Extracto de la Orden 734/2022, de 21 de diciembre, de la Consejería de Administración Local y Digitalización, por la que se convocan para el año 2023 las subvenciones destinadas a sufragar los gastos corrientes de las Mancomunidades de Municipios de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/16/BOCM-20230116-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Administración Local y Digitalización",
       "description": "Extracto de la Orden 755/2022, de 29 de diciembre, de la Consejería de Administración Local y Digitalización, por la que se convocan para el año 2023 las subvenciones destinadas a agrupaciones de municipios de la Comunidad de Madrid para el sostenimiento en común de puestos de trabajo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/16/BOCM-20230116-22.PDF"
     }
