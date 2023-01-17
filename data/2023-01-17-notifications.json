@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Acuerdo de 11 de enero de 2023, del Consejo de Gobierno, sobre incremento retributivo del personal al servicio del sector público de la Comunidad de Madrid para el ejercicio 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/16/BOCM-20230116-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Corrección de errores y omisiones de la Resolución de 26 de agosto de 2022, de la Dirección General de Recursos Humanos, por la que se regula la fase de prácticas de los aspirantes seleccionados en el concurso-oposición para acceso al Cuerpo de Inspectores de Educación, convocado por Resolución de 17 de diciembre de 2020",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/16/BOCM-20230116-2.PDF"
