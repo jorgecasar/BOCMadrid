@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 21 de diciembre de 2022, de la Universidad Complutense de Madrid, por la que se nombra a don Antonio Valdecantos Alcaide Catedrático de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/18/BOCM-20230118-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Decreto 1/2023, de 11 de enero, del Consejo de Gobierno, por el que se declara Bien de Interés Cultural de la Comunidad de Madrid, en la categoría de monumento, La Casa García Valdecasas, en Pozuelo de Alarcón (Madrid)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/18/BOCM-20230118-17.PDF"
