@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Decreto 1/2023, de 11 de enero, del Consejo de Gobierno, por el que se declara Bien de Interés Cultural de la Comunidad de Madrid, en la categoría de monumento, La Casa García Valdecasas, en Pozuelo de Alarcón (Madrid)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/18/BOCM-20230118-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Publicación de 29 de noviembre de 2022, de tercera adenda de prórroga del convenio de asistencia jurídica al Consorcio Urbanístico Leganés Norte, en liquidación, de Leganés (Madrid), de 11 de agosto de 2020",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/18/BOCM-20230118-18.PDF"
