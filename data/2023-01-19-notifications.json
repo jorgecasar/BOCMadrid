@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Pozuelo de Alarcón",
-      "description": "Personal: Relación puestos trabajo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/18/BOCM-20230118-39.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Sevilla la Nueva",
       "description": "Régimen económico: Período voluntario pago impuestos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/18/BOCM-20230118-40.PDF"
