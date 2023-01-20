@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Corrección de errores de la Resolución de 7 de noviembre de 2022, del Rector de la Universidad Complutense de Madrid, por la que se ordena la publicación de la modificación parcial de la relación de puestos de trabajo del personal de administración y servicios laboral de esta universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/19/BOCM-20230119-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Acuerdo de 11 de enero de 2023, del Consejo de Gobierno, por el que se aprueba definitivamente la Modificación Puntual No Sustancial del Plan General de Ordenación Urbana de Madrid para la subsanación de un error en la calle de San Lorenzo, números 6, 8 y 10, del Distrito de Centro de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/19/BOCM-20230119-17.PDF"
