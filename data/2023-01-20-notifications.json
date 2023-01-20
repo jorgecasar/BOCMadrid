@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Resolución de 21 de diciembre de 2022, de la Universidad de Alcalá, por la que se publican los planes de estudio de títulos oficiales de Grado",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/19/BOCM-20230119-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Extracto de 11 de enero de 2023, de la Resolución del Vicerrectorado de Estudios de Grado y Acceso, por la que se convocan las ayudas al estudio para situaciones socioeconómicas desfavorables. Curso 2022-2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/19/BOCM-20230119-22.PDF"
     }
