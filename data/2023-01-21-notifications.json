@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 22 de diciembre de 2022, por la que se publica el plan de estudios del Máster Universitario en Psicología del Envejecimiento, Bienestar y Calidad de Vida, por la Universidad Complutense de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/20/BOCM-20230120-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 22 de diciembre de 2022, de la Universidad Complutense de Madrid, por la que se publica la modificación del plan de estudios del Grado en Ciencias Políticas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/20/BOCM-20230120-20.PDF"
     }
