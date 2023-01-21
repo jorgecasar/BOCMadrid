@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Urbanismo: Área de Gobierno de Desarrollo Urbano. Estudio de detalle",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/20/BOCM-20230120-50.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Urbanismo: Distrito de Chamartín. Plan especial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/20/BOCM-20230120-51.PDF"
     }
