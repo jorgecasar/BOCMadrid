@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 22 de diciembre de 2022, de la Universidad Complutense de Madrid, por la que se publica la modificación del plan de estudios del Grado en Ciencias Políticas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/20/BOCM-20230120-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 19 de diciembre de 2022, del Rector de la Universidad Rey Juan Carlos, por la que se aprueban las Bases Reguladoras y se hace pública la Convocatoria de Premios a los mejores Trabajos Fin de Grado, Trabajos Fin de Máster y Tesis Doctorales relacionados con los objetivos de desarrollo sostenible",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/20/BOCM-20230120-21.PDF"
