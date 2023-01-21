@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 22 de diciembre de 2022, por la que se publica el plan de estudios del Máster Universitario en Arteterapia y Educación Artística para la Inclusión Social por la Universidad Complutense de Madrid y la Universidad Autónoma de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/20/BOCM-20230120-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 22 de diciembre de 2022, por la que se publica el plan de estudios del Máster Universitario en Audiología por la Universidad Complutense de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/20/BOCM-20230120-16.PDF"
     }
