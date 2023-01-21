@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Vicepresidencia, Consejería de Educación y Universidades",
-      "description": "Resolución de 16 de enero de 2023, de la Dirección General de Recursos Humanos, por la que se hacen públicas las vacantes provisionales de las inspecciones territoriales y de los centros docentes dependientes de la Vicepresidencia, Consejería de Educación y Universidades, donde imparten enseñanzas los funcionarios de los Cuerpos de Catedráticos y Profesores de Enseñanza Secundaria, Profesores Técnicos de Formación Profesional, Catedráticos y Profesores de Escuelas Oficiales de Idiomas, Catedráticos y Profesores de Música y Artes Escénicas y Catedráticos, Profesores y Maestros de Taller de Artes Plásticas y Diseño",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/20/BOCM-20230120-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 11 de enero de 2023, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Economía, Hacienda y Empleo por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/20/BOCM-20230120-3.PDF"
