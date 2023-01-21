@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Corrección de errores de 18 de enero de 2023, de la Resolución de 25 de noviembre de 2022, de la Universidad Rey Juan Carlos, por la que se convoca proceso selectivo, por el sistema general de acceso libre por concurso, para la provisión de plazas de personal laboral de administración y servicios de la Universidad Rey Juan Carlos, de los grupos A, B, C y D, en el marco del proceso de estabilización del personal temporal de esta Universidad, previstas en la Oferta de Empleo Público complementaria de 2021",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/20/BOCM-20230120-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 22 de diciembre de 2022, por la que se publica el plan de estudios del Máster Universitario en Arteterapia y Educación Artística para la Inclusión Social por la Universidad Complutense de Madrid y la Universidad Autónoma de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/20/BOCM-20230120-15.PDF"
