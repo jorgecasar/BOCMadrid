@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Publicación de listado de 28 de diciembre de 2022, de las cooperativas cuyas cuentas anuales han quedado depositadas en el Registro de Cooperativas de la Comunidad de Madrid en el trimestre tercero del año 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/23/BOCM-20230123-34.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Política Social",
       "description": "Convenio de colaboración de 28 de diciembre de 2022, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Política Social, y el Ayuntamiento de Campo Real, para articular la atención a personas mayores en la Residencia de Personas Mayores de Campo Real",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/23/BOCM-20230123-35.PDF"
