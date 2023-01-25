@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 11 de enero de 2023, de la Universidad Politécnica de Madrid, por la que se anuncia convocatoria pública de concurso de traslado para cubrir plazas vacantes en la relación de puestos de trabajo del personal de administración y servicios laboral de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/24/BOCM-20230124-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Orden 66/2023, de 13 de enero, del Vicepresidente, Consejero de Educación y Universidades, por la que se aprueba el Plan Anual de Publicaciones 2023 de la Vicepresidencia, Consejería de Educación y Universidades",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/24/BOCM-20230124-10.PDF"
