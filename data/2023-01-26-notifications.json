@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Anuncio del 24 de enero de 2023, por el que se convoca procedimiento de selección para cubrir una plaza para Invest in Madrid de la Fundación Madrid por la Competitividad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/25/BOCM-20230125-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 43/2023, de 16 de enero, del Consejero de Sanidad, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/25/BOCM-20230125-16.PDF"
