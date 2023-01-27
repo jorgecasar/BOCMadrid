@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 10 de enero de 2023, de la Universidad Carlos III de Madrid, por la que se publica la modificación de los planes de estudios de los siguientes títulos oficiales: Máster Universitario en Propiedad Intelectual, Máster Universitario en Ciencias Sociales/Master in Social Sciences, Máster Universitario en Teoría y Crítica de la Cultura y Máster Universitario en Ingeniería Informática",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/26/BOCM-20230126-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 17 de enero de 2023, del Rector de la Universidad Rey Juan Carlos, de 17 de enero de 2023, de revocación de la delegación de competencias efectuadas por Resolución de 24 de julio de 2020",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/26/BOCM-20230126-26.PDF"
