@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Corrección de errores de la Resolución de 12 de diciembre de 2022, de la Dirección General de Trabajo, por la que se declaran las fiestas laborales de ámbito local en la Comunidad de Madrid para el año 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/26/BOCM-20230126-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 11 de enero de 2023, de la Dirección General de Presupuestos, por la que se hace público el “Estado de ejecución del presupuesto de gastos” correspondiente al mes de noviembre de 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/26/BOCM-20230126-22.PDF"
     }
