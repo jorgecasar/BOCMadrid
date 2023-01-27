@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 19 de enero de 2023, de la Universidad Rey Juan Carlos, por la que se convoca concurso de acceso a plazas de cuerpos docentes universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/26/BOCM-20230126-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Resolución de 17 de enero de 2023, de la Dirección General de Educación Concertada, Becas y Ayudas al Estudio, por la que se dictan instrucciones para la tramitación de las solicitudes de autorización para la continuidad de la enseñanza bilingüe en la etapa de Educación Secundaria Obligatoria en los centros concertados bilingües del ámbito de gestión de la Comunidad de Madrid en el curso 2023-2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/26/BOCM-20230126-14.PDF"
