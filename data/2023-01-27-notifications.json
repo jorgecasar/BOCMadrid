@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
-      "description": "Orden 86/2023, de 17 de enero, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se resuelve la convocatoria aprobada por Orden 3687/2022, de 24 de octubre (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 4 de noviembre de 2022), para la provisión de puestos de trabajo vacantes en dicha Consejería por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/26/BOCM-20230126-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden 3127/2022, de 28 de diciembre, de la Consejería de Economía, Hacienda y Empleo, por la que se convoca proceso selectivo para el personal laboral fijo de las categorías profesionales de Técnico Especialista I y Técnico Especialista II, Grupo III, Niveles 6 y 5, Área B, para la adquisición de la condición de personal funcionario de carrera del Cuerpo de Técnicos Auxiliares de Administración Especial, Escala Delineantes, Grupo C, Subgrupo C1, de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/26/BOCM-20230126-3.PDF"
