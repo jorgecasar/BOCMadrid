@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 11 de enero de 2023, de la Dirección General de Presupuestos, por la que se hace público el “Estado de ejecución del presupuesto de gastos” correspondiente al mes de noviembre de 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/26/BOCM-20230126-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Política Social",
       "description": "Orden 69/2023, de 13 de enero, de la Consejera de Familia, Juventud y Política Social, por la que se aprueba el Plan Estratégico de la Dirección General de Juventud para la concesión de subvenciones durante el ejercicio 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/26/BOCM-20230126-23.PDF"
