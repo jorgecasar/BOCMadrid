@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Getafe",
-      "description": "Régimen económico: Extracto convocatoria subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/27/BOCM-20230127-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "La Cabrera",
       "description": "Régimen económico: Presupuesto general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/27/BOCM-20230127-50.PDF"
