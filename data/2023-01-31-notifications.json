@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución conjunta de 27 de diciembre de 2022, de la Universidad Complutense de Madrid y de la Consejería de Sanidad de la Comunidad de Madrid, por la que se convocan concursos de acceso a plazas de Cuerpos Docentes Universitarios vinculadas con plazas asistenciales en instituciones sanitarias",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/30/BOCM-20230130-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 19 de enero de 2023, de la Universidad Rey Juan Carlos, por la que se hace pública la relación de aspirantes que han superado el proceso selectivo para el ingreso en la Escala de Oficial de Oficios (turno de promoción interna), Grupo C, Subgrupo C1, previstas en la oferta de empleo público de 2018, convocado por Resolución de 5 de noviembre de 2021 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID del día 12)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/30/BOCM-20230130-20.PDF"
