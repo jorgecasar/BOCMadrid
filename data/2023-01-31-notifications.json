@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 19 de enero de 2023, de la Universidad Rey Juan Carlos, por la que se nombran Profesores Titulares de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/30/BOCM-20230130-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Orden 127/2023, de 20 de enero, de la Vicepresidencia, Consejería de Educación y Universidades, por la que se modifica la Orden 784/2017, de 15 de marzo, de la Consejería de Educación, Juventud y Deporte, por la que se establecen para la Comunidad de Madrid las bases reguladoras de los Premios Extraordinarios de Educación Secundaria Obligatoria, derivados de la Ley Orgánica 8/2013, de 9 de diciembre, para la Mejora de la Calidad Educativa",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/30/BOCM-20230130-22.PDF"
