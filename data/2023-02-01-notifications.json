@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 19 de enero de 2023, de la Universidad Autónoma de Madrid, por la que se nombran funcionarios de cuerpos docentes universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/31/BOCM-20230131-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 18 de enero de 2023, de la Directora General de Formación, por la que se hace pública la relación de subvenciones concedidas con cargo al Programa 241A “Formación para el empleo” de la Consejería de Economía, Hacienda y Empleo, durante el cuarto trimestre del ejercicio 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/31/BOCM-20230131-13.PDF"
