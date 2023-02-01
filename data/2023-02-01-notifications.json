@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Régimen económico: Área de Gobierno de Medio Ambiente y Movilidad. Concesión subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/31/BOCM-20230131-36.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Urbanismo: Área de Gobierno de Desarrollo Urbano. Disolución Junta de Compensación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/31/BOCM-20230131-37.PDF"
     }
