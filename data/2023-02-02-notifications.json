@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 20 de enero de 2023, de la Universidad Autónoma de Madrid, por la que se convocan plazas de personal docente e investigador funcionario, para su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID: Profesores y Profesoras Titulares de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/01/BOCM-20230201-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 21 de enero de 2023, de la Universidad Autónoma de Madrid, por la que se convoca concurso de acceso por el sistema de promoción interna a plazas del Cuerpo de funcionarios Docentes Universitarios entre Acreditados: Catedráticos y Catedráticas de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/01/BOCM-20230201-25.PDF"
     }
