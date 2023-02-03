@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
-      "description": "Convenio de 20 de enero de 2023, relativo a la incorporación del Ayuntamiento de Moralzarzal al modelo de gestión de Canal de Isabel II, entre la Comunidad de Madrid, Canal de Isabel II y el Ayuntamiento de Moralzarzal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/02/BOCM-20230202-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Corrección de errores de la Resolución 2645/2022, de 20 de octubre, por la que se determinan las condiciones y precios de venta a ofertar a los arrendatarios de inmuebles titularidad de la Agencia de Vivienda Social de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/02/BOCM-20230202-24.PDF"
     }
