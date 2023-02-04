@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Boadilla del Monte",
-      "description": "Régimen económico: Calendario fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/03/BOCM-20230203-46.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Boadilla del Monte",
       "description": "Personal: Nombramientos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/03/BOCM-20230203-47.PDF"
     }
