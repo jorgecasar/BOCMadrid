@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Bustarviejo",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/03/BOCM-20230203-48.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Cadalso de los Vidrios",
       "description": "Régimen económico: Padrones impuestos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/03/BOCM-20230203-49.PDF"
