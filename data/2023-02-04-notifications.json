@@ -1,0 +1,46 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 30,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/02/04/BOCM-20230204030.PDF",
+      "total": 9,
+      "items": {
+        "Comunidad de Madrid": 4,
+        "Administración de Justicia": 5
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 20 de enero de 2023, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa Rivas-Vaciamadrid Empresa Municipal de Servicios, S. A. (código número 28013412012006)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/04/BOCM-20230204-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 20 de enero de 2023, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación de la revisión salarial 2022 del Convenio Colectivo de la empresa Dalka Expert, S. L., suscrito por la comisión negociadora (código 28103182012021)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/04/BOCM-20230204-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 20 de enero de 2023, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa Multicanal Iberia, S. L.U. (código 28100081012011)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/04/BOCM-20230204-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Vicepresidencia, Consejería de Educación y Universidades",
+      "description": "Publicación de convenio-subvención de 29 de diciembre de 2022, entre la Comunidad de Madrid (Vicepresidencia, Consejería de Educación y Universidades) y la Fundación Arenales, para el desarrollo del Componente 21, Inversión 2: Programa para la orientación, avance y enriquecimiento educativo en centros de especial complejidad educativa (Programa PROA+) en el marco del Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea-Next Generation EU",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/04/BOCM-20230204-4.PDF"
+    }
+  }
+]
