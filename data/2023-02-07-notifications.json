@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Resolución 8/2023, de 25 de enero, del Director General de Deportes, por la que se dispone la publicación de los deportistas de alto rendimiento de la Comunidad de Madrid que han obtenido su calificación durante el año 2022 y la de los deportistas que pierden dicha condición en 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/06/BOCM-20230206-38.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Disposiciones y Anuncios del Estado",
       "description": "Ministerio para la Transición Ecológica y el Reto Demográfico. Confederación Hidrográfica del Tajo. Extinción aguas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/06/BOCM-20230206-39.PDF"
