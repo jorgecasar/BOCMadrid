@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Orden 115/2023, de 25 de enero, del Consejero de Sanidad, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/06/BOCM-20230206-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 19 de enero de 2023, de la Universidad Autónoma de Madrid, por la que se convoca concurso de acceso a plazas de Docentes Universitarios entre Acreditados: Profesores Contratados Doctores y Profesoras Contratadas Doctoras",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/06/BOCM-20230206-16.PDF"
