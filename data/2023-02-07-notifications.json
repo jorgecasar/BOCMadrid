@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Disposiciones y Anuncios del Estado",
-      "description": "Ministerio para la Transición Ecológica y el Reto Demográfico. Confederación Hidrográfica del Tajo. Extinción aguas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/06/BOCM-20230206-39.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Madrid",
       "description": "Régimen económico: Área de Gobierno de Economía, Innovación y Empleo. Extracto convocatoria subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/06/BOCM-20230206-40.PDF"
