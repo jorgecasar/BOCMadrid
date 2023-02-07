@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Otros anuncios: Pleno del Ayuntamiento. Recurso contencioso-administrativo 13/2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/06/BOCM-20230206-45.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcalá de Henares",
       "description": "Urbanismo: Plan parcial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/06/BOCM-20230206-46.PDF"
