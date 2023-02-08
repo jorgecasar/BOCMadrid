@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia e Interior",
-      "description": "Corrección de errores a la Resolución de 17 de enero de 2023, de la Gerente del Organismo Autónomo Madrid 112, por la que se publica la adjudicación de puestos a los aspirantes que han superado el proceso selectivo para el acceso a plazas de carácter laboral, de la categoría de Gestor de Emergencias 112 (Grupo III, Área B, Nivel 6) de la Comunidad de Madrid y la Bolsa de trabajo (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 27 de enero)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/07/BOCM-20230207-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 24 de enero de 2023, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Medio Ambiente, Vivienda y Agricultura (Organismo Autónomo Agencia de Vivienda Social de la Comunidad de Madrid), de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/07/BOCM-20230207-2.PDF"
