@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Licencias: O. A",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/07/BOCM-20230207-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcalá de Henares",
       "description": "Otros anuncios: Autorización espacios dominio público",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/07/BOCM-20230207-31.PDF"
