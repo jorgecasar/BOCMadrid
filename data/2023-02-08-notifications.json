@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "El Álamo",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/07/BOCM-20230207-41.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Fresnedillas de la Oliva",
       "description": "Ofertas de empleo: Oferta empleo público",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/07/BOCM-20230207-42.PDF"
