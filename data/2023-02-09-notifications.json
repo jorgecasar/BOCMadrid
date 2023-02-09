@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Carlos III",
-      "description": "Resolución de 27 de enero de 2023, de la Universidad Carlos III de Madrid, por la que se nombran Profesores y Profesoras Titulares de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/08/BOCM-20230208-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Carlos III",
       "description": "Resolución de 27 de enero de 2023, de la Universidad Carlos III de Madrid, por la que se nombra personal funcionario de Cuerpos Docentes Universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/08/BOCM-20230208-21.PDF"
     }
