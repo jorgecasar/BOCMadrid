@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Decreto 6/2023, de 1 de febrero, del Consejo de Gobierno, por el que se declara bien de interés cultural de la Comunidad de Madrid, en la categoría de Zona de Interés Arqueológico, el yacimiento “Calatalifa”, en Villaviciosa de Odón (Madrid)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/08/BOCM-20230208-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Decreto 7/2023, de 1 de febrero, del Consejo de Gobierno, por el que se declara Bien de Interés Cultural de la Comunidad de Madrid la pintura titulada “Maja y Celestina”, realizada por Francisco de Goya y Lucientes",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/08/BOCM-20230208-25.PDF"
     }
