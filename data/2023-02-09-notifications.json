@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 27 de enero de 2023, de la Universidad Carlos III de Madrid, por la que se nombra personal funcionario de Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/08/BOCM-20230208-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Política Social",
       "description": "Orden 136/2023, de 30 de enero, de la Consejera de Familia, Juventud y Política Social, por la que se aprueba el Plan Estratégico de Subvenciones 2023 de la Consejería de Familia, Juventud y Política Social de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/08/BOCM-20230208-22.PDF"
