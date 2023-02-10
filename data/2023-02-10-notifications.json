@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 30 de enero de 2023, de la Universidad Rey Juan Carlos, por la que se nombran Profesores Titulares de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/09/BOCM-20230209-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 1 de febrero de 2023, de la Universidad Rey Juan Carlos, por la que se convoca concurso específico de méritos para la provisión de determinados puestos de trabajo entre Personal de Administración y Servicios Funcionario",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/09/BOCM-20230209-16.PDF"
     }
