@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 30 de enero de 2023, de la Universidad Rey Juan Carlos, por la que se nombra Profesor Titular de Universidad a don Jesús del Olmo Barbero",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/09/BOCM-20230209-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 30 de enero de 2023, de la Universidad Rey Juan Carlos, por la que se nombran Profesores Titulares de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/09/BOCM-20230209-15.PDF"
     }
