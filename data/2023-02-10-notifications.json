@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
-      "description": "Acuerdo de 8 de febrero de 2023, del Consejo de Gobierno, por el que se designan Vocales del Consejo de Administración de la Agencia de la Comunidad de Madrid para la Reeducación y Reinserción del Menor Infractor",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/09/BOCM-20230209-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Orden de 30 de enero de 2023, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Presidencia, Justicia e Interior, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/09/BOCM-20230209-3.PDF"
     }
