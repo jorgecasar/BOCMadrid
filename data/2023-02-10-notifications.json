@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 1 de febrero de 2023, de la Universidad Rey Juan Carlos, por la que se convoca concurso específico de méritos para la provisión de determinados puestos de trabajo entre Personal de Administración y Servicios Funcionario",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/09/BOCM-20230209-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 70/2023, de 26 de enero, de la Consejera de Cultura, Turismo y Deporte, por la que se aprueban las Tablas de Valoración de determinadas series documentales de la Administración de la Comunidad de Madrid, de las universidades madrileñas y de asociaciones y colegios profesionales madrileños y se autoriza la eliminación de determinadas fracciones temporales de series documentales de la Administración de la Comunidad de Madrid y de las Administraciones locales madrileñas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/09/BOCM-20230209-17.PDF"
