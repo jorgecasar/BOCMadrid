@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Anuncio del extracto de la Orden 2632/2022, de 29 de diciembre, de la Consejería de Cultura, Turismo y Deporte, por la que se convocan ayudas a empresas y personas físicas para la creación y desarrollo de proyectos de videojuego en la Comunidad de Madrid en 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/13/BOCM-20230213-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Anuncio del extracto de la Orden 2634/2022, de 29 de diciembre, de la Consejería de Cultura, Turismo y Deporte, por la que se convocan ayudas a la creación en artes visuales para el año 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/13/BOCM-20230213-25.PDF"
     }
