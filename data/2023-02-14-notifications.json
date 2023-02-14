@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 23 de enero de 2023, de la Universidad Complutense de Madrid, por la que se publica el plan de estudios de Graduado o Graduada en European Studies",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/13/BOCM-20230213-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 3 de febrero de 2023, del Rector Magnífico de la Universidad Rey Juan Carlos, por la que se aprueba y hacen públicas las bases reguladoras y la convocatoria del programa de “Becas-Prácticas Fundación ONCE-CRUE” curso 2022-2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/13/BOCM-20230213-28.PDF"
