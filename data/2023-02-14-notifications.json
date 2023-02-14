@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Anuncio del extracto de la Orden 2628/2022, de 28 de diciembre, de la Consejería de Cultura, Turismo y Deporte, por la que se convocan ayudas a empresas audiovisuales para el desarrollo de proyectos audiovisuales en la Comunidad de Madrid en 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/13/BOCM-20230213-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Anuncio del extracto de la Orden 2629/2022, de 28 de diciembre, de la Consejería de Cultura, Turismo y Deporte, por la que se convocan ayudas a entidades culturales privadas sin ánimo de lucro para la realización de actividades culturales relacionadas con el teatro, la música, la danza, la cinematografía, las artes visuales y la moda como disciplina creativa en el año 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/13/BOCM-20230213-21.PDF"
     }
