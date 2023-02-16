@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Administración Local y Digitalización",
-      "description": "Resolución de 26 de enero de 2023, del Director General de Reequilibrio Territorial sobre la supresión del puesto de colaboración, reservado a funcionarios de Administración Local con Habilitación de Carácter Nacional, denominado Oficial Mayor Clase 3.a, del Ayuntamiento de Torrejón de Ardoz",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/15/BOCM-20230215-36.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Resolución de 23 de enero de 2023, de la Dirección-Gerencia del Hospital Universitario de Getafe, por la que se hace pública la constitución de la mesa de contratación del Hospital Universitario de Getafe, con carácter permanente, y se designa a los miembros que han de componer la misma",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/15/BOCM-20230215-37.PDF"
