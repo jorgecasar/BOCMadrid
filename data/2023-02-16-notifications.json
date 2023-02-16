@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Transportes e Infraestructuras",
-      "description": "Orden de 3 de febrero de 2023, del Consejero de Transportes e Infraestructuras, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en la Consejería de Transportes e Infraestructuras, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/15/BOCM-20230215-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Acuerdo de 8 de febrero de 2023, del Consejo de Gobierno, por el que se nombran los miembros del Jurado del Premio Arco de la Comunidad de Madrid para jóvenes artistas en su edición de 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/15/BOCM-20230215-28.PDF"
