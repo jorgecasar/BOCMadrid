@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 13 de enero de 2023, de la Universidad de Alcalá, por la que se convoca concurso de acceso a plaza de funcionario de carrera de los cuerpos docentes universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/15/BOCM-20230215-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 2 de febrero de 2023, de la Universidad Rey Juan Carlos, por la que se nombra a doña María Teresa Gómez del Río como Catedrática de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/15/BOCM-20230215-31.PDF"
