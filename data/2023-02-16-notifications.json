@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Acuerdo de 8 de febrero de 2023, del Consejo de Gobierno, por el que se nombran los miembros del Jurado del Premio Arco de la Comunidad de Madrid para jóvenes artistas en su edición de 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/15/BOCM-20230215-28.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 3 de febrero de 2023, de la Universidad Politécnica de Madrid, por la que se resuelve parcialmente la convocatoria para la cobertura de diversos puestos de trabajo, por el procedimiento de Libre Designación, anunciada por Resolución de 5 de diciembre de 2022 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID número 303 de 21 de diciembre de 2022)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/15/BOCM-20230215-29.PDF"
