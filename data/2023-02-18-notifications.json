@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Otros anuncios: Área de Gobierno de Medio Ambiente y Movilidad. Autorización demanial huertos urbanos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/17/BOCM-20230217-46.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcalá de Henares",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/17/BOCM-20230217-47.PDF"
