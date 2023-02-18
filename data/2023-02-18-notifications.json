@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Vicepresidencia, Consejería de Educación y Universidades",
-      "description": "Orden 372/2023, de 8 de febrero, del Vicepresidente, Consejero de Educación y Universidades, por la que se aprueba el plan estratégico, para el período 2023-2025, de las ayudas en materia de investigación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/17/BOCM-20230217-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 13 de febrero de 2023, del Consejero de Economía, Hacienda y Empleo, por la que se hace pública la declaración del crédito presupuestario disponible en 2023 para financiar las ayudas destinadas a proyectos de digitalización de la pyme madrileña, cofinanciadas por el Fondo Europeo de Desarrollo Regional (FEDER) en el marco del programa de la Comunidad de Madrid 2021-2027",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/17/BOCM-20230217-22.PDF"
