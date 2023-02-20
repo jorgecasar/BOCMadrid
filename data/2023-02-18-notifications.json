@@ -1,0 +1,118 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 42,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/02/18/BOCM-20230218042.PDF",
+      "total": 18,
+      "items": {
+        "Comunidad de Madrid": 13,
+        "Administración de Justicia": 5
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Asamblea de Madrid",
+      "description": "Resolución de 8 de febrero de 2023, de la Secretaría General, por la que se aprueba la lista provisional de admitidos y excluidos del proceso selectivo de estabilización de empleo, mediante procedimiento de concurso de tres plazas del Cuerpo de Administrativos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/18/BOCM-20230218-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Asamblea de Madrid",
+      "description": "Resolución de 8 de febrero de 2023, de Secretaría General, por la que se aprueba la lista provisional de admitidos y excluidos del proceso selectivo de estabilización de empleo, mediante procedimiento de concurso-oposición de dos plazas del Cuerpo de Redactores, Taquígrafos, Estenotipistas y Catalogadoras",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/18/BOCM-20230218-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Asamblea de Madrid",
+      "description": "Resolución de 8 de febrero de 2023, de Secretaría General, por la que se aprueba la lista provisional de admitidos y excluidos del proceso selectivo de estabilización de empleo, mediante procedimiento de concurso de una plaza del Cuerpo de Subalternos, Escala Conductores",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/18/BOCM-20230218-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Asamblea de Madrid",
+      "description": "Resolución de 8 de febrero de 2023, de Secretaría General, por la que se aprueba la lista provisional de admitidos y excluidos del proceso selectivo de estabilización de empleo, mediante procedimiento de concurso de una plaza del Cuerpo de Redactores, Taquígrafas, Estenotipistas y Catalogadoras",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/18/BOCM-20230218-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Asamblea de Madrid",
+      "description": "Resolución de 8 de febrero de 2023, de Secretaría General, por la que se aprueba la lista provisional de admitidos y excluidos del proceso selectivo de estabilización de empleo, mediante procedimiento de concurso-oposición de una plaza del Cuerpo Facultativo de Técnicos en Informática, Escala de Gestión",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/18/BOCM-20230218-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Asamblea de Madrid",
+      "description": "Resolución de 8 de febrero de 2023, de Secretaría General, por la que se aprueba la lista provisional de admitidos y excluidos del proceso selectivo de estabilización de empleo, mediante procedimiento de concurso de una plaza del Cuerpo Facultativo de Técnicos en Informática, Escala de Gestión",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/18/BOCM-20230218-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Asamblea de Madrid",
+      "description": "Resolución de 8 de febrero de 2023, de Secretaría General, por la que se aprueba la lista provisional de admitidos y excluidos del proceso selectivo de estabilización de empleo, mediante procedimiento de concurso-oposición de dos plazas del Cuerpo de Administrativos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/18/BOCM-20230218-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Asamblea de Madrid",
+      "description": "Resolución de 8 de febrero de 2023, de Secretaría General, por la que se aprueba la lista provisional de admitidos y excluidos del proceso selectivo de estabilización de empleo, mediante procedimiento de concurso de seis plazas del Cuerpo de Subalternos, Escala Ujieres",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/18/BOCM-20230218-8.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 30 de enero de 2023, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación de la revisión salarial de 2023 del convenio colectivo del Sector de la Madera de la Comunidad de Madrid, suscrita por la Comisión Negociadora. (Código: 28002235011982)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/18/BOCM-20230218-9.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 30 de enero de 2023, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa Albia Gestión de Servicios, S. L. U. (código número 28103461012023)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/18/BOCM-20230218-10.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 30 de enero de 2023, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa Transporte Integral de Paquetería, S. A. (Código número 28101011012016)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/18/BOCM-20230218-11.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 30 de enero de 2023, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa FCC Medio Ambiente, S. A. U., para el Centro de Trabajo de la Planta de Clasificación de Residuos de Envases de Pinto (Código número 28103471012023)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/18/BOCM-20230218-12.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 30 de enero de 2023, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa Tradition Financial Services España Sociedad de Valores, S. A. U. (Código número 28103482012023)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/18/BOCM-20230218-13.PDF"
+    }
+  }
+]
