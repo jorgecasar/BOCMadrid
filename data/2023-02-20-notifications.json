@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Asamblea de Madrid",
-      "description": "Resolución de 8 de febrero de 2023, de Secretaría General, por la que se aprueba la lista provisional de admitidos y excluidos del proceso selectivo de estabilización de empleo, mediante procedimiento de concurso-oposición de dos plazas del Cuerpo de Administrativos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/18/BOCM-20230218-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Asamblea de Madrid",
       "description": "Resolución de 8 de febrero de 2023, de Secretaría General, por la que se aprueba la lista provisional de admitidos y excluidos del proceso selectivo de estabilización de empleo, mediante procedimiento de concurso de seis plazas del Cuerpo de Subalternos, Escala Ujieres",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/18/BOCM-20230218-8.PDF"
     }
