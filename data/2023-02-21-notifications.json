@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Convenio de 6 de febrero de 2023, entre la Comunidad de Madrid, a través de la Consejería de Sanidad, el Servicio Madrileño de Salud y la Fundación Make-a-Wish Spain Ilusiones para el acompañamiento de los pacientes en los centros sanitarios del Servicio Madrileño de Salud, mediante el desarrollo de actividades de apoyo emocional",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/20/BOCM-20230220-34.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Convenio de 2 de febrero de 2023, entre el Servicio Madrileño de Salud, a través del Centro de Transfusión de la Comunidad de Madrid, y la Clínica Dator, para el suministro de componentes sanguíneos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/20/BOCM-20230220-35.PDF"
     }
