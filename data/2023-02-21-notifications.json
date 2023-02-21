@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Extracto de 2 de febrero de 2023, del Acuerdo de la Comisión de Investigación de la Universidad de Alcalá, por el que se convocan las Ayudas para la Organización de Congresos 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/20/BOCM-20230220-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Corrección de errores de 9 de febrero de 2023, del Convenio entre la Comunidad de Madrid (Vicepresidencia, Consejería de Educación y Universidades) y Hm Hospitales 1989, S. L., para el funcionamiento y sostenimiento con fondos públicos del Centro de Formación en Profesiones Biosanitarias HM Hospitales, de Rivas-Vaciamadrid para la impartición de enseñanzas de formación profesional de grado medio",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/20/BOCM-20230220-26.PDF"
