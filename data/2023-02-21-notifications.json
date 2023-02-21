@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Extracto de la Orden 114/2023, de 8 de febrero, de la Consejería de Cultura, Turismo y Deporte de la Comunidad de Madrid, por la que se efectúa la convocatoria de ayudas a municipios de la Comunidad de Madrid para la dotación de fondos bibliográficos de sus centros bibliotecarios municipales correspondiente a 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/20/BOCM-20230220-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Extracto de 2 de febrero de 2023, del Acuerdo de la Comisión de Investigación de la Universidad de Alcalá, por el que se convocan las Ayudas para la Organización de Congresos 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/20/BOCM-20230220-25.PDF"
