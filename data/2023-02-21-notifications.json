@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Anuncio de 16 de febrero de 2023, por el que se convocan las bases del procedimiento de selección para cubrir dos puestos indefinidos en la Fundación de la Universidad Autónoma de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/20/BOCM-20230220-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 7 de febrero de 2023, de la Universidad Politécnica de Madrid, por la que se convocan pruebas selectivas para el ingreso en la Escala Técnica Auxiliar de Informática, Grupo C, Subgrupo C1, de la Universidad Politécnica de Madrid por el sistema general de acceso libre",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/20/BOCM-20230220-18.PDF"
