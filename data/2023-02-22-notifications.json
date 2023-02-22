@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 13 de febrero de 2023, de la Universidad Complutense de Madrid, por la que se nombran funcionarios de carrera de la Escala Administrativa de la Universidad Complutense, Grupo C, Subgrupo C1",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/21/BOCM-20230221-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 10 de febrero de 2023, de la Universidad de Alcalá, por la que se da publicidad a la Resolución de 30 de diciembre de 2022, de la Universidad de Alcalá y la Consejería de Sanidad de la Comunidad de Madrid, por la que se convocan concursos de acceso a plazas vinculadas de cuerpos docentes universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/21/BOCM-20230221-22.PDF"
