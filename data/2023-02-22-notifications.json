@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 9 de febrero de 2023, de la Universidad Carlos III de Madrid, por la que se anuncia la convocatoria para la provisión, por el sistema de libre designación, de un puesto de trabajo en esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/21/BOCM-20230221-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 13 de febrero de 2023, de la Universidad Rey Juan Carlos, por la que se nombra Profesor Titular de Universidad a don Sergio Lorenzo Jiménez Sáiz",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/21/BOCM-20230221-24.PDF"
