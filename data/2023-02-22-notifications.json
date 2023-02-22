@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 10 de febrero de 2023, del Rector de la Universidad Complutense de Madrid, por la que se ordena la publicación de la modificación parcial de la Relación de Puestos de Trabajo del Personal de Administración y Servicios Laboral de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/21/BOCM-20230221-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 10 de febrero de 2023, del Rector de la Universidad Complutense de Madrid, por la que se ordena la publicación de la modificación parcial de la relación de puestos de trabajo del personal funcionario de administración y servicios de esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/21/BOCM-20230221-20.PDF"
     }
