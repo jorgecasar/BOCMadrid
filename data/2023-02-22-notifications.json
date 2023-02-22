@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Licencias: Área de Gobierno de Desarrollo Urbano",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/21/BOCM-20230221-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Licencias: O. A",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/21/BOCM-20230221-33.PDF"
     }
