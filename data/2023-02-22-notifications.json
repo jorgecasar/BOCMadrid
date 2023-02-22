@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 13 de febrero de 2023, de la Universidad Rey Juan Carlos, por la que se nombra Profesor Titular de Universidad a don Sergio Lorenzo Jiménez Sáiz",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/21/BOCM-20230221-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 15 de febrero de 2023, la Consejería de Economía, Hacienda y Empleo, por la que se establecen las condiciones de una emisión de Deuda Pública sostenible de la Comunidad de Madrid por un importe nominal máximo de 1.000.000.000,00 de euros",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/21/BOCM-20230221-25.PDF"
