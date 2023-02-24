@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 15 de febrero de 2023, de la Universidad Complutense de Madrid, por la que se aprueban las listas definitivas de aspirantes admitidos y excluidos, así como la fecha, lugar y hora de realización del primer ejercicio, en el proceso selectivo para ingreso, por el sistema general de acceso libre, en la Escala Auxiliar Administrativa (Grupo C, Subgrupo C2) de la Universidad, convocado por Resolución de 25 de octubre de 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/23/BOCM-20230223-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 9 de febrero de 2023, de la Universidad Autónoma de Madrid, por la que se convocan pruebas selectivas para el ingreso en la Escala Especial Superior de Gestión Universitaria de la Universidad Autónoma de Madrid, por el sistema general de concurso-oposición libre",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/23/BOCM-20230223-21.PDF"
