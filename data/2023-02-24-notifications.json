@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 9 de febrero de 2023, de la Universidad Autónoma de Madrid, por la que se convocan pruebas selectivas para el ingreso en la Escala Especial Superior de Gestión Universitaria de la Universidad Autónoma de Madrid, por el sistema general de concurso-oposición libre",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/23/BOCM-20230223-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Carlos III",
       "description": "Resolución de 13 de febrero de 2023, de la Universidad Carlos III de Madrid, por la que se nombra personal funcionario de Cuerpos Docentes Universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/23/BOCM-20230223-22.PDF"
