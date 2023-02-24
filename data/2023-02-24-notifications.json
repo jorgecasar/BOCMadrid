@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Corrección de errores de la Resolución de 14 de febrero de 2023, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se fija la fecha y el procedimiento a seguir para la elección de plazas por los aspirantes que han superado las pruebas selectivas por el turno libre para el acceso a la condición de personal estatutario fijo en la categoría de Enfermero/a, se publica la relación de plazas ofertadas y se determina la entrega de documentación acreditativa",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/23/BOCM-20230223-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 15 de febrero de 2023, de la Universidad Complutense de Madrid, por la que se aprueban las listas definitivas de aspirantes admitidos y excluidos, así como la fecha, lugar y hora de realización del primer ejercicio, en el proceso selectivo para ingreso, por el sistema general de acceso libre, en la Escala Auxiliar Administrativa (Grupo C, Subgrupo C2) de la Universidad, convocado por Resolución de 25 de octubre de 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/23/BOCM-20230223-20.PDF"
