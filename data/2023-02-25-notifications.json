@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
-      "description": "Acuerdo de 23 de febrero de 2023, del Consejo de Gobierno, por el que se procede a la corrección de errores del Decreto 114/2022, de 26 de octubre, del Consejo de Gobierno, por el que se concede la Gran Cruz de la Comunidad de Madrid a víctimas del terrorismo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/24/BOCM-20230224-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Resolución de 10 de febrero de 2023, de la Dirección General de Seguridad, Protección Civil y Formación, por la que se hace pública la relación definitiva de aspirantes declarados aptos en las pruebas para renovación de los certificados acreditativos del personal de control de acceso a espectáculos públicos y actividades recreativas expedidos en el año 2017",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/24/BOCM-20230224-18.PDF"
     }
