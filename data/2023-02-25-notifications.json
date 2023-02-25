@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
-      "description": "Decreto 10/2023, de 23 de febrero, del Consejo de Gobierno, por el que cesa doña Sandra María Fernández Hernández como Directora General de Medios de Comunicación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/24/BOCM-20230224-4.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Decreto 11/2023, de 23 de febrero, del Consejo de Gobierno, por el que cesa don Francisco Salustiano García de Diego como Jefe de Gabinete Adjunto",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/24/BOCM-20230224-5.PDF"
     }
