@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia e Interior",
-      "description": "Decreto 12/2023, de 23 de febrero, del Consejo de Gobierno, por el que se nombra Director General de Medios de Comunicación a don Francisco Salustiano García de Diego",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/24/BOCM-20230224-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Decreto 13/2023, de 23 de febrero, del Consejo de Gobierno, por el que cesa don Mariano González Sáez como Viceconsejero de Medio Ambiente y Agricultura",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/24/BOCM-20230224-7.PDF"
