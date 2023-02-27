@@ -1,0 +1,62 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 48,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/02/25/BOCM-20230225048.PDF",
+      "total": 12,
+      "items": {
+        "Comunidad de Madrid": 6,
+        "Administración de Justicia": 6
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 11 de febrero de 2023, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del Convenio Colectivo de la Empresa Bosch Service Solutions, S. A. U. (Código número 28013162012005)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/25/BOCM-20230225-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Convenio de 27 de diciembre de 2019, entre la Comunidad de Madrid y la Asociación El Fanal, para desarrollar un programa de prevención y atención a la infancia y la adolescencia en situación de desventaja y dificultad social en la Cañada Real Galiana, Sector 6, Valdemingómez",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/25/BOCM-20230225-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Convenio de 27 de diciembre de 2019, entre la Comunidad de Madrid y la Fundación Amigó, para desarrollar un servicio de prevención y atención a la infancia y la adolescencia en situación de desventaja y dificultad social",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/25/BOCM-20230225-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Convenio de 27 de diciembre de 2019, entre la Comunidad de Madrid y la Fundación Tomillo, para desarrollar un servicio de prevención y atención a la infancia y la adolescencia en situación de desventaja y dificultad social",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/25/BOCM-20230225-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Convenio de 31 de marzo de 2020, entre la Comunidad de Madrid y la Federación de Plataformas Sociales Pinardi, para desarrollar un servicio de prevención y atención a la infancia y la adolescencia en situación de desventaja y dificultad social, durante el período comprendido entre el 1 de abril y el 31 de diciembre de 2020",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/25/BOCM-20230225-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Convenio de colaboración de 7 de febrero de 2023, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Política Social, y la Fundación Nemesio Díez para el fomento de la educación y el deporte para el desarrollo de un programa de tratamientos en materia de atención temprana",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/25/BOCM-20230225-6.PDF"
+    }
+  }
+]
