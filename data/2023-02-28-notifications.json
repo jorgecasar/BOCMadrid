@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Vicepresidencia, Consejería de Educación y Universidades",
-      "description": "Orden 457/2023, de 17 de febrero, de la Vicepresidencia, Consejería de Educación y Universidades, por la que se concreta el procedimiento para el ejercicio de la autonomía de los centros docentes que impartan la Educación Secundaria Obligatoria y el Bachillerato en la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/27/BOCM-20230227-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Orden de 2 de febrero de 2023, de la Consejería de Presidencia, Justicia e Interior, por la que se convocan pruebas para la obtención del certificado acreditativo del personal de control de acceso a espectáculos públicos y actividades recreativas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/27/BOCM-20230227-19.PDF"
