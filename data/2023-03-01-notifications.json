@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Presidencia de La Comunidad",
-      "description": "Ley 2/2023, de 24 de febrero, de Cooperativas de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/28/BOCM-20230228-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Orden 552/2023, de 21 de febrero, del Vicepresidente, Consejero de Educación y Universidades, por la que cesan y se nombran vocales titulares y suplentes en el Observatorio para la Convivencia en los Centros Docentes de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/28/BOCM-20230228-2.PDF"
