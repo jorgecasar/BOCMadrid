@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 10 de febrero de 2023, de la Universidad Complutense de Madrid, por la que se nombra a D. Rafael Hernández Redondo Profesor Titular de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/28/BOCM-20230228-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 10 de febrero de 2023, de la Universidad Complutense de Madrid, por la que se nombra a D. Reynier Suardíaz del Río Profesor Titular de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/28/BOCM-20230228-28.PDF"
     }
