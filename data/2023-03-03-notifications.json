@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Resolución de 17 de febrero de 2023, de la Universidad de Alcalá, por la que se nombra Profesor Titular de Universidad del Área de Conocimiento de “Historia Antigua” a don Antonio Javier Morales Rondán",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/02/BOCM-20230302-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Resolución de 20 de febrero de 2023, de la Universidad de Alcalá, por la que se convoca concurso para la provisión de plazas vacantes de los Cuerpos Docentes Universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/02/BOCM-20230302-24.PDF"
     }
