@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Orden 187/2023, de 8 de febrero, del Consejero de Sanidad, por la que se aprueban el Plan Integral de Inspección de Sanidad y los criterios de actuación para los años 2023-2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/02/BOCM-20230302-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Decreto 9/2023, de 23 de febrero, del Consejo de Gobierno, por el que se declara Bien de Interés Cultural de la Comunidad de Madrid, en la categoría de hecho cultural, la Fiesta de las Mayas de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/02/BOCM-20230302-28.PDF"
