@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Extracto de la Resolución de 20 de febrero de 2023, de la Universidad Complutense de Madrid, por la que se realiza la convocatoria 2023 de ayudas para estancias breves en España y en el extranjero de los beneficiarios de las ayudas UCM para contratos predoctorales de personal investigador en formación de las convocatorias 2019 y 2020",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/02/BOCM-20230302-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 20 de febrero de 2023, por la que se acuerda publicar la aprobación y entrada en vigor del Reglamento de Régimen Disciplinario del Estudiantado de la Universidad de Alcalá y el Reglamento por el que se establecen las Normas de Convivencia de la Universidad de Alcalá",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/02/BOCM-20230302-30.PDF"
