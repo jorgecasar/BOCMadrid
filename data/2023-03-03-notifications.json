@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Decreto 9/2023, de 23 de febrero, del Consejo de Gobierno, por el que se declara Bien de Interés Cultural de la Comunidad de Madrid, en la categoría de hecho cultural, la Fiesta de las Mayas de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/02/BOCM-20230302-28.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Complutense de Madrid",
       "description": "Extracto de la Resolución de 20 de febrero de 2023, de la Universidad Complutense de Madrid, por la que se realiza la convocatoria 2023 de ayudas para estancias breves en España y en el extranjero de los beneficiarios de las ayudas UCM para contratos predoctorales de personal investigador en formación de las convocatorias 2019 y 2020",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/02/BOCM-20230302-29.PDF"
