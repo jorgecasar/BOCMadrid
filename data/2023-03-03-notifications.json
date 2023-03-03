@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 20 de febrero de 2023, de la Universidad de Alcalá, por la que se convoca concurso para la provisión de plazas vacantes de los Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/02/BOCM-20230302-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Orden 399/2023, de 17 de febrero, del Vicepresidente, Consejero de Educación y Universidades, por la que se delega la competencia en materia de celebración de convenios en el ámbito de las Enseñanzas Artísticas Superiores",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/02/BOCM-20230302-25.PDF"
