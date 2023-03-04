@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 21 de febrero de 2023, de la Universidad Rey Juan Carlos, por la que se convoca concurso de acceso a plazas de cuerpos docentes universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/03/BOCM-20230303-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 23 de febrero de 2023, de la Universidad Rey Juan Carlos, por la que se resuelve la provisión de un puesto de trabajo reservado a personal funcionario mediante el sistema de libre designación, convocada por Resolución de 11 de enero de 2023 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID del día 16)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/03/BOCM-20230303-16.PDF"
     }
