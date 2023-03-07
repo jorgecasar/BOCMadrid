@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Decreto 15/2023, de 1 de marzo, del Consejo de Gobierno, por el que se crea y regula la aceleradora de inversiones de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/06/BOCM-20230306-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Acuerdo de 1 de marzo de 2023, del Consejo de Gobierno, por el que se cesa a don José Ramón Sanz Pinedo y se nombra, en su sustitución, a don Carlos Prieto Menéndez como vocal del Consejo Social de la Universidad Autónoma de Madrid, en representación de los intereses sociales, designado por las asociaciones empresariales con mayor representación en la Comunidad de Madrid, a propuesta de CEIM Confederación Empresarial de Madrid-CEOE",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/06/BOCM-20230306-2.PDF"
