@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 22 de febrero de 2023, de la Fundación General de la Universidad de Alcalá, por la que se publica la Oferta de Empleo Público para el año 2023 del Personal con carácter indefinido, con cargo a la tasa de reposición específica de efectivos para 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/06/BOCM-20230306-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 23 de febrero de 2023, de la Universidad Rey Juan Carlos, por la que se hace pública la convocatoria por el sistema de Libre Designación de la plaza de personal laboral, puesto funcional, de Titulado/a Superior-Ingeniero/a de esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/06/BOCM-20230306-20.PDF"
