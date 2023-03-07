@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Política Social",
-      "description": "Orden 452/2023, de 28 de febrero, de la Consejera de Familia, Juventud y Política Social, por la que se nombran los vocales del Consejo de Cooperación al Desarrollo de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/06/BOCM-20230306-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 22 de febrero de 2023, de la Fundación General de la Universidad de Alcalá, por la que se publica la Oferta de Empleo Público para el año 2023 del Personal con carácter indefinido, con cargo a la tasa de reposición específica de efectivos para 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/06/BOCM-20230306-19.PDF"
