@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 3 de marzo de 2023, de la Universidad Autónoma de Madrid, por la que se convocan pruebas selectivas para el ingreso en la Escala Administrativa de la Universidad Autónoma de Madrid por el sistema de promoción interna",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/07/BOCM-20230307-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Orden 542/2023, de 23 de febrero, del Vicepresidente, Consejero de Educación y universidades, por la que se autoriza la primera fase del traslado de las instalaciones de CUNEF Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/07/BOCM-20230307-13.PDF"
