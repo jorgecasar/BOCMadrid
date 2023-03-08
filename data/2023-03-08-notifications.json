@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcalá de Henares",
-      "description": "Personal: Plantilla de personal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/07/BOCM-20230307-41.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcobendas",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/07/BOCM-20230307-42.PDF"
