@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Alpedrete",
-      "description": "Régimen económico: Calendario fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/07/BOCM-20230307-44.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Alpedrete",
       "description": "Régimen económico: Padrones impuestos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/07/BOCM-20230307-45.PDF"
     }
