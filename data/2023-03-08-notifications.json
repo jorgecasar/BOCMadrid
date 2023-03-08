@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Algete",
-      "description": "Organización y funcionamiento: Régimen dedicación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/07/BOCM-20230307-43.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alpedrete",
       "description": "Régimen económico: Calendario fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/07/BOCM-20230307-44.PDF"
