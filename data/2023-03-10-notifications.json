@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Vicepresidencia, Consejería de Educación y Universidades",
-      "description": "Orden 622/2023, de 27 de febrero, del Vicepresidente, Consejero de Educación y Universidades, relativa a la modificación de los módulos económicos para la financiación de centros docentes privados sostenidos con fondos públicos en el ejercicio 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/09/BOCM-20230309-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Acuerdo de 23 de febrero de 2023, del Consejo de Gobierno, por el que se aprueba una cuota suplementaria en la tarifa de alcantarillado del municipio de Collado Mediano, con destino a la financiación de obras de infraestructuras hidráulicas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/09/BOCM-20230309-22.PDF"
