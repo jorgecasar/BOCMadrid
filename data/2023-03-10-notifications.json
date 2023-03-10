@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Resolución de 22 de febrero de 2023, de la Universidad de Alcalá, por la que se publica el Plan de Estudios de Máster Universitario en Arqueología y Gestión del Patrimonio Arqueológico",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/09/BOCM-20230309-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Resolución de 22 de febrero de 2023, de la Universidad de Alcalá, por la que se corrige error en la de 16 de marzo de 2022, por la que se modifica el Plan de Estudios del Máster Universitario en Restauración de Ecosistemas por la Universidad Complutense de Madrid, la Universidad de Alcalá, la Universidad Politécnica de Madrid y la Universidad Rey Juan Carlos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/09/BOCM-20230309-30.PDF"
     }
