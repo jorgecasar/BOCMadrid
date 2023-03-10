@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 27 de febrero de 2023, de la Universidad Politécnica de Madrid, por la que se convocan concursos para la provisión de plazas de personal docente e investigador contratado: Profesores Contratados Doctores, en cumplimiento con el Acuerdo de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/09/BOCM-20230309-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Orden 622/2023, de 27 de febrero, del Vicepresidente, Consejero de Educación y Universidades, relativa a la modificación de los módulos económicos para la financiación de centros docentes privados sostenidos con fondos públicos en el ejercicio 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/09/BOCM-20230309-21.PDF"
