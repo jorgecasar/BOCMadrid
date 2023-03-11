@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 1 de marzo de 2023, de la Universidad Rey Juan Carlos, por la que se nombra a don Manuel Gertrudix Barrio como Catedrático de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/10/BOCM-20230310-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 25 de febrero de 2023, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación de la modificación del convenio colectivo de la empresa Bridgestone Europa NV/SA, sucursal España de ventas (código número 28103331012022)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/10/BOCM-20230310-21.PDF"
