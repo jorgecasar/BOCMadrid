@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Administración Local y Digitalización",
-      "description": "Extracto de la Orden 69/2023, de 23 de febrero, de la Consejería de Administración Local y Digitalización, por la que se convocan para el año 2023, ayudas destinadas a facilitar el acceso a programas y actividades educativas, artísticas y/o deportivas para la población residente en municipios de la Comunidad de Madrid de menos de 5.000 habitantes",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/10/BOCM-20230310-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Extracto de la Orden 227/2023, de 24 de febrero, de la Consejera de Cultura, Turismo y Deporte, por la que se convocan las ayudas a la traducción de libros correspondientes al año 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/10/BOCM-20230310-24.PDF"
