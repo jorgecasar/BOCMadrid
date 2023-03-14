@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 2 de marzo de 2023, de la Dirección General de Tributos, por la que se publican las directrices generales del Plan Anual de Control Tributario de 2023 de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/13/BOCM-20230313-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Política Social",
       "description": "Orden 646/2023, de 3 de marzo, de la Consejería de Familia, Juventud y Política Social, por la que se aprueban las bases reguladoras para la concesión de subvenciones a entidades sin fin de lucro para acciones dirigidas a la inserción sociolaboral de personas con discapacidad, línea cofinanciable en un 40 % por el Fondo Social Europeo Plus (2021-2027), Objetivo Político 4, Prioridad 2, Objetivo Específico H",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/13/BOCM-20230313-21.PDF"
