@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Extracto de la Orden 256/2023, de 2 de marzo, de la Consejería de Cultura, Turismo y Deporte, por la que se aprueba la convocatoria para el año 2023 de ayudas a deportistas madrileños por participar en competiciones deportivas oficiales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/15/BOCM-20230315-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 6 de marzo de 2023, del Sr. Rector Magfco. de la Universidad Rey Juan Carlos, por la que se aprueban las Bases Reguladoras y se hace pública la convocatoria de Ayudas a las Asociaciones de Estudiantes de la Universidad Rey Juan Carlos para el año 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/15/BOCM-20230315-23.PDF"
