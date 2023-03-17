@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Resolución de 2 de marzo de 2023, de la Dirección-Gerencia del Hospital Universitario “Infanta Cristina” del Servicio Madrileño de la Salud, por la que se resuelve la convocatoria de fecha 14 de septiembre de 2022, de un puesto de Jefe/a de Sección de Aparato Digestivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/16/BOCM-20230316-41.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 6 de marzo de 2023, de la Universidad de Alcalá, por la que se convoca plaza de promoción interna para el acceso al Cuerpo de Catedrático de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/16/BOCM-20230316-42.PDF"
