@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 6 de marzo de 2023, de la Universidad Autónoma de Madrid, por la que se nombra funcionario de carrera de la Escala Especial Superior de Sistemas y Tecnologías de la Información de la Universidad Autónoma de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/17/BOCM-20230317-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 6 de marzo de 2023, de la Universidad Rey Juan Carlos, por la que se nombran funcionarios de carrera de la Escala de Oficial de Oficios de la Universidad Rey Juan Carlos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/17/BOCM-20230317-10.PDF"
