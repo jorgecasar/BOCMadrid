@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Ambite",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/17/BOCM-20230317-45.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Bustarviejo",
       "description": "Régimen económico: Presupuesto",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/17/BOCM-20230317-46.PDF"
