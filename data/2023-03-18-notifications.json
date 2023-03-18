@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Extracto de la Orden 2633/2022, de 29 de diciembre, de la Consejería de Cultura, Turismo y Deporte, por la que se convocan la XXXIV Edición de los “Circuitos de Artes Plásticas de la Comunidad de Madrid”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/17/BOCM-20230317-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Extracto del acuerdo de 8 de marzo de 2023, por parte de la Comisión de Estudios Oficiales de Posgrado y Doctorado, del XX Programa de becas UAH-BSCH “Miguel de Cervantes” de residencia para estudios de máster en la Universidad de Alcalá. Curso 2023-2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/17/BOCM-20230317-16.PDF"
