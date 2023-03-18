@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Daganzo de Arriba",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/17/BOCM-20230317-48.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "El Boalo",
       "description": "Ofertas de empleo: Proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/17/BOCM-20230317-49.PDF"
