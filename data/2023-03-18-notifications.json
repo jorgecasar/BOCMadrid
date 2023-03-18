@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia e Interior",
-      "description": "Convenio de 3 de marzo de 2023, entre la Comunidad de Madrid (Consejería de Presidencia, Justicia e Interior) y el Ayuntamiento de Nuevo Baztán para establecer un protocolo de actuación de la agrupación municipal de voluntarios de Protección Civil en el ámbito de la extinción de incendios y salvamento",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/17/BOCM-20230317-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Acuerdo de 15 de marzo de 2023, del Consejo de Gobierno, por el que se somete al trámite de información pública a la segunda revisión del Catálogo de Embalses y Humedales de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/17/BOCM-20230317-19.PDF"
