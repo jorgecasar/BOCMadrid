@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución conjunta de 2 de marzo de 2023, de la Universidad Autónoma de Madrid y la Consejería de Sanidad de la Comunidad de Madrid, por la que se convocan concursos de acceso a plazas de Cuerpos de Funcionarios Docentes Universitarios vinculadas con instituciones sanitarias",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/17/BOCM-20230317-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 6 de marzo de 2023, de la Universidad Autónoma de Madrid, por la que se nombra funcionario de carrera de la Escala Especial Superior de Sistemas y Tecnologías de la Información de la Universidad Autónoma de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/17/BOCM-20230317-9.PDF"
     }
