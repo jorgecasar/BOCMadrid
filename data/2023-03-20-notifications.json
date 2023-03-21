@@ -1,0 +1,62 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 67,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/03/20/BOCM-20230320067.PDF",
+      "total": 11,
+      "items": {
+        "Comunidad de Madrid": 6,
+        "Administración de Justicia": 5
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 6 de marzo de 2023, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa UTE RSU y LV Torrejón de Ardoz (FCC Medioambiente, S. A. U. y Valoriza Servicios Medioambientales, S. A.) (código número 28013763012006)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/20/BOCM-20230320-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 7 de marzo de 2023, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa Bluetietar Multiservicios, S. L. (código número 28103562012023)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/20/BOCM-20230320-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 7 de marzo de 2023, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa FCC Medio Ambiente, S. A. U. servicio de retirada de residuos clínicos del Hospital Gregorio Marañón (código número 28103061012021)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/20/BOCM-20230320-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 7 de marzo de 2023, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa General Logistics Systems Spain, S. A. (código número 28103551012023)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/20/BOCM-20230320-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 7 de marzo de 2023, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación de la modificación del convenio colectivo de la empresa Albia Gestión de Servicios, S. L. U. (código número 28103461012023)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/20/BOCM-20230320-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Convenio de 8 de marzo de 2023, específico entre la Comunidad de Madrid, a través de la Consejería de Sanidad, el Servicio Madrileño de Salud y la Fundación Juegaterapia, para la complementación del proyecto “El Jardín de mi Hospi”, consistente en la remodelación del patio este de la planta baja del Hospital Infantil Universitario “Niño Jesús”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/20/BOCM-20230320-6.PDF"
+    }
+  }
+]
