@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Listado de 6 de marzo de 2023, de las cooperativas cuyas cuentas anuales han quedado depositadas en el Registro de Cooperativas de la Comunidad de Madrid en el trimestre cuarto del año 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/21/BOCM-20230321-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Política Social",
       "description": "Resolución de 13 de marzo de 2023, de la Gerencia de la Agencia Madrileña de Atención Social, por la que se hace público el anuncio de información previa del contrato denominado: Servicio integral de lavandería de 9 centros adscritos a la Agencia Madrileña de Atención Social (3 lotes)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/21/BOCM-20230321-32.PDF"
