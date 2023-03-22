@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Urbanismo: Área de Gobierno de Desarrollo Urbano. Notificación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/21/BOCM-20230321-46.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Licencias: O. A",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/21/BOCM-20230321-47.PDF"
     }
