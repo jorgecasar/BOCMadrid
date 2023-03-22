@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución conjunta de 6 de marzo de 2023, de la Universidad Rey Juan Carlos de Madrid y la Consejería de Sanidad de la Comunidad de Madrid, por la que se convoca concurso de acceso a plazas vinculadas de cuerpos docentes universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/21/BOCM-20230321-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Orden 551/2023, de 14 de marzo, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se modifica el Plan Estratégico de Subvenciones de la Consejería para el período 2020-2023 aprobado mediante Orden 611/2020, de 5 de mayo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/21/BOCM-20230321-18.PDF"
