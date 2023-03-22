@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Vicepresidencia, Consejería de Educación y Universidades",
-      "description": "Acuerdo de 15 de marzo de 2023, del Consejo de Gobierno, por el que se cesa a don Eric Koening González y se nombra, en su sustitución, a don Luis Moreno Morera, como vocal del Consejo Social de la Universidad Politécnica de Madrid, en representación de la comunidad universitaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/21/BOCM-20230321-3.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Orden de 8 de marzo de 2023, por la que se aprueba convocatoria pública para la provisión de dos puestos de trabajo vacantes en la Consejería de Presidencia, Justicia e Interior, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/21/BOCM-20230321-4.PDF"
