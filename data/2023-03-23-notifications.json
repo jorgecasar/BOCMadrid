@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 14 de marzo de 2023, de la Dirección General de Función Pública, por la que se hace público el resultado del sorteo efectuado con objeto de determinar el orden de actuación de los aspirantes en los procesos selectivos que se celebren durante el año 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/22/BOCM-20230322-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Política Social",
       "description": "Orden 725/2023, de 9 de marzo, de la Consejera de Familia, Juventud y Política Social, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Agencia Madrileña de Atención Social, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/22/BOCM-20230322-9.PDF"
