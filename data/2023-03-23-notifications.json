@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 17 de marzo de 2023, de la Universidad Carlos III de Madrid, por la que se nombra personal funcionario de carrera de la Escala Técnica Auxiliar de Informática (Subgrupo C1) de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/22/BOCM-20230322-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Orden 403/2023, de 9 de marzo, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se aprueba el “Plan Estratégico de Subvenciones del Instituto Madrileño de Investigación y Desarrollo Rural, Agrario y Alimentario (IMIDRA) para la concesión de ayudas a empresas pertenecientes a los sectores agrícola, ganadero, forestal e industria asociada o agroalimentaria, para la realización de proyectos de investigación, desarrollo e innovación”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/22/BOCM-20230322-17.PDF"
