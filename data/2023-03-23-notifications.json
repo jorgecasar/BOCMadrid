@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Extracto de la Orden 134/2023, de 9 de marzo, de la Consejera de Cultura, Turismo y Deporte, por la que se convocan ayudas a entidades privadas sin ánimo de lucro de la Comunidad de Madrid en materia de archivos correspondientes al año 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/22/BOCM-20230322-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Extracto de la Orden 305/2023, de 9 de marzo, de la Consejera de Cultura, Turismo y Deporte, por la que se efectúa la convocatoria de ayudas a municipios de la Comunidad de Madrid para el equipamiento y la implantación de nuevos servicios y tecnologías en las bibliotecas públicas correspondiente a 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/22/BOCM-20230322-23.PDF"
     }
