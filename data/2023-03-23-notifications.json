@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Decreto 20/2023, de 15 de marzo, del Consejo de Gobierno, por el que se declara Bien de Interés Cultural de la Comunidad de Madrid, el documento titulado Real provisión original otorgada por los Reyes Católicos concediendo a Cristóbal Colón escudo de armas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/22/BOCM-20230322-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Decreto 21/2023, de 15 de marzo, del Consejo de Gobierno, por el que se declara Bien de Interés Cultural de la Comunidad de Madrid la pintura titulada Retrato de Valentín Belvís de Moncada, realizada por Francisco de Goya y Lucientes",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/22/BOCM-20230322-21.PDF"
     }
