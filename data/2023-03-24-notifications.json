@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Administración Local y Digitalización",
-      "description": "Corrección de errores del extracto, publicado el 10 de marzo de 2023, de la Orden 69/2023, de 23 de febrero, de la Consejería de Administración Local y Digitalización, por la que se convocan para el año 2023 ayudas destinadas a facilitar el acceso a programas y actividades educativas, artísticas y/o deportivas para la población residente en municipios de la Comunidad de Madrid de menos de 5.000 habitantes",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/23/BOCM-20230323-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 298/2023, de 8 de marzo, de la Consejera de Cultura, Turismo y Deporte, por la que se autoriza la eliminación de determinadas fracciones temporales de series documentales de la Administración de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/23/BOCM-20230323-33.PDF"
