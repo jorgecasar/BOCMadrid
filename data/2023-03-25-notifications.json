@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 13 de marzo de 2023, de la Universidad Rey Juan Carlos, por la que se convoca concurso de acceso a plazas de Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/24/BOCM-20230324-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Orden 470/2023, de 6 de marzo, de la Consejera de Medio Ambiente, Vivienda y Agricultura, por la que se declara el importe del crédito presupuestario disponible para la concesión directa de las ayudas para compatibilizar la actividad ganadera con la existencia de poblaciones de lobos, perros asilvestrados y buitres en la Comunidad de Madrid, durante el año 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/24/BOCM-20230324-26.PDF"
