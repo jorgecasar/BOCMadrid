@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Administración Local y Digitalización",
-      "description": "Resolución de 14 de marzo de 2023, de la Dirección General de Reequilibrio Territorial, sobre la convocatoria por el sistema de Libre Designación del puesto de Secretario General del Pleno, reservado a funcionarios de Administración Local con habilitación de carácter nacional, del Ayuntamiento de San Sebastián de los Reyes",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/24/BOCM-20230324-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Extracto del Acuerdo de 14 de marzo de 2023, de la Comisión de Investigación de la Universidad de Alcalá, por el que se convocan los Premios de Investigación “Doctora de Alcalá” a la excelencia investigadora 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/24/BOCM-20230324-30.PDF"
