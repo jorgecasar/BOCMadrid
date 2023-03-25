@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 8 de marzo de 2023, de la Universidad Complutense de Madrid, por la que se nombra a D. Salvador Gómez García Profesor Titular de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/24/BOCM-20230324-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 11 de marzo de 2023, de la Universidad Autónoma de Madrid, por la que se rectifica error material detectado en Resolución de 3 de marzo de 2023, por la que se convoca concurso de acceso a plazas de Cuerpos Docentes Universitarios entre Acreditados: Profesores Contratados Doctores",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/24/BOCM-20230324-24.PDF"
