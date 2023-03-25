@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Vicepresidencia, Consejería de Educación y Universidades",
-      "description": "Decreto 23/2023, de 22 de marzo, del Consejo de Gobierno, por el que se regula la atención educativa a las diferencias individuales del alumnado en la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/24/BOCM-20230324-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Acuerdo de 22 de marzo de 2023, del Consejo de Gobierno, por el que se procede a la corrección de errores del Decreto 15/2023, de 1 de marzo, del Consejo de Gobierno, por el que se crea y regula la aceleradora de inversiones de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/24/BOCM-20230324-2.PDF"
