@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia e Interior",
-      "description": "Orden de 13 de marzo de 2023, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Presidencia, Justicia e Interior, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/24/BOCM-20230324-4.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Acuerdo de 22 de marzo de 2023, del Consejo de Gobierno, por el que se cesan y nombran vocales del Consejo de Administración del Instituto Regional de Seguridad y Salud en el Trabajo (IRSST)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/24/BOCM-20230324-5.PDF"
