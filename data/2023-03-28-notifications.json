@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 11 de marzo de 2023, de la Universidad Autónoma de Madrid, por la que se convoca concurso de acceso a plazas de Docentes Universitarios entre Acreditados: Profesores Contratados Doctores y Profesoras Contratadas Doctoras",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/28/BOCM-20230328-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 8 de marzo de 2023, de la Universidad de Alcalá, por la que se convocan concursos de acceso a plazas de funcionarios de carrera de los Cuerpos Docentes Universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/28/BOCM-20230328-19.PDF"
