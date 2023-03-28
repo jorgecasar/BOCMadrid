@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Política Social",
-      "description": "Convenio de colaboración de 8 de marzo de 2023, entre la Comunidad de Madrid (Consejería de Familia, Juventud y Política Social) y el Ayuntamiento de Valdemoro para la expedición de “Carné Joven Comunidad de Madrid”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/28/BOCM-20230328-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Convenio de 14 de marzo de 2023, entre la Comunidad de Madrid a través de la Consejería de Sanidad, el Servicio Madrileño de Salud y la Fundación Mundo Sano España, para el desarrollo del programa de acompañamiento a los pacientes con enfermedad de Chagas en los centros sanitarios del Servicio Madrileño de Salud",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/28/BOCM-20230328-36.PDF"
