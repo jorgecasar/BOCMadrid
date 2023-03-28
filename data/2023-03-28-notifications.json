@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Presidencia de La Comunidad",
-      "description": "Decreto 41/2022, de 29 de junio, de la Presidenta de la Comunidad de Madrid, por el que se concede la Encomienda de Número de la “Orden del Dos de Mayo” a Fernando Prats Máñez, a título póstumo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/28/BOCM-20230328-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Presidencia de La Comunidad",
       "description": "Decreto 42/2022, de 29 de junio, de la Presidenta de la Comunidad de Madrid, por el que se concede la Encomienda de Número de la “Orden del Dos de Mayo” a Armando Resino Sabater, a título póstumo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/28/BOCM-20230328-24.PDF"
     }
