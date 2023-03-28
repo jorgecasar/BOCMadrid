@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 15 de marzo de 2023, de la Universidad Carlos III de Madrid, por la que se nombra personal funcionario de carrera de la Escala Superior de Técnicos Facultativos de Biblioteca (Subgrupo A1) de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/28/BOCM-20230328-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Presidencia de La Comunidad",
       "description": "Decreto 41/2022, de 29 de junio, de la Presidenta de la Comunidad de Madrid, por el que se concede la Encomienda de Número de la “Orden del Dos de Mayo” a Fernando Prats Máñez, a título póstumo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/28/BOCM-20230328-23.PDF"
