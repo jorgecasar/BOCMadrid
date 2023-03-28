@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Presidencia de La Comunidad",
-      "description": "Decreto 42/2022, de 29 de junio, de la Presidenta de la Comunidad de Madrid, por el que se concede la Encomienda de Número de la “Orden del Dos de Mayo” a Armando Resino Sabater, a título póstumo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/28/BOCM-20230328-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Extracto de la Orden conjunta 1012/2023, de 22 de marzo, de la Vicepresidencia, Consejería de Educación y Universidades y de la Consejera de Familia, Juventud y Política Social, por la que se aprueba la convocatoria para la concesión de becas para la escolarización en el primer ciclo de Educación Infantil en centros de titularidad privada para el curso 2023-2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/28/BOCM-20230328-25.PDF"
