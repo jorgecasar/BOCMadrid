@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia e Interior",
-      "description": "Orden de 15 de marzo de 2023, del Consejero de Presidencia, Justicia e Interior, por la que se nombran Registradores de la Propiedad, Mercantiles y de Bienes Muebles con destino en el territorio de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/30/BOCM-20230330-28.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Orden 720/2023, de 13 de marzo, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se amplía la relación de materiales de base para la producción de material forestal de reproducción de la categoría cualificado en la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/30/BOCM-20230330-29.PDF"
