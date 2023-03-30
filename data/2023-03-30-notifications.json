@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Resolución de 17 de marzo de 2023, de la Universidad de Alcalá, por la que se convoca concurso de acceso a plaza de funcionario de carrera de los cuerpos docentes universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/30/BOCM-20230330-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Resolución de 17 de marzo de 2023, de la Universidad de Alcalá, por la que se convoca plaza de promoción interna para el acceso al cuerpo de Catedrático de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/30/BOCM-20230330-23.PDF"
     }
