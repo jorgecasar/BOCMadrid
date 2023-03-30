@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 17 de marzo de 2023, de la Universidad de Alcalá, por la que se convoca plaza de promoción interna para el acceso al cuerpo de Catedrático de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/30/BOCM-20230330-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 21 de marzo de 2023, de la Universidad Rey Juan Carlos, por la que se hace pública la nueva propuesta para nombramiento como funcionarios/as de carrera del Tribunal encargado de juzgar el proceso selectivo para la cobertura de 36 plazas de la Escala Auxiliar Administrativa de esta Universidad, Grupo C, Subgrupo C2, previstas en la Oferta de Empleo Público de 2018",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/30/BOCM-20230330-24.PDF"
