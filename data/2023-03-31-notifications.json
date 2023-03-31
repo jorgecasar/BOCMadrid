@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Acuerdo de 17 de marzo de 2023, de prórroga de la encomienda de gestión entre la Dirección General de Salud Pública y el Servicio Madrileño de Salud, a través de la Dirección General de Sistemas de Información y Equipamientos Sanitarios, para el desarrollo de una nueva aplicación informática que dé soporte a la vigilancia de las enfermedades de declaración obligatoria en el marco de la Red de Vigilancia Epidemiológica de la Comunidad de Madrid, para su publicación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/31/BOCM-20230331-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Acuerdo de 17 de marzo de 2023, para la encomienda de gestión entre la Dirección General de Salud Pública y el Servicio Madrileño de Salud, a través de la Dirección General de Sistemas de Información y Salud Digital, para desarrollar una nueva versión del aplicativo VIRAS de la Red de Vigilancia Epidemiológica de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/31/BOCM-20230331-31.PDF"
     }
