@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Régimen económico: Distrito de Moratalaz. Extracto convocatoria subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/31/BOCM-20230331-53.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Urbanismo: Área de Gobierno de Desarrollo Urbano. Proyecto reparcelación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/31/BOCM-20230331-54.PDF"
     }
