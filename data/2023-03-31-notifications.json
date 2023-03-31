@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 22 de marzo de 2023, de la Rectora de la Universidad Autónoma de Madrid, por la que se convoca un puesto de trabajo para su provisión por el sistema de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/31/BOCM-20230331-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 22 de marzo de 2023, del Gerente la Universidad de Alcalá, por la que se resuelve el proceso selectivo de concurso-oposición para la provisión, por el sistema de acceso libre y promoción interna, de plaza de personal laboral de la categoría Titulado/a Superior, grupo A, nivel salarial A1 de la especialidad “Medicina del Trabajo”, convocado por Resolución de 10 de mayo de 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/31/BOCM-20230331-24.PDF"
