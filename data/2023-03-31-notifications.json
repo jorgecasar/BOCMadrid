@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Extracto de la Orden 133/2023, de 16 de marzo, de la Consejería de Cultura, Turismo y Deporte de la Comunidad de Madrid, por la que se aprueba la convocatoria de las ayudas a municipios de la Comunidad de Madrid en materia de archivos correspondiente al año 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/31/BOCM-20230331-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Extracto de la Resolución de 19 de marzo de 2023, del Director del Instituto Franklin de la Universidad de Alcalá, por la que publica la convocatoria de ayudas a familias por compensación de gastos de alojamiento de estudiantes extranjeros matriculados en estudios organizados por el Instituto Franklin de la Universidad de Alcalá. Cursos 2022-2023 y 2023-2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/03/31/BOCM-20230331-33.PDF"
