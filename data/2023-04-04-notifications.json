@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Orden 487/2023, de 21 de marzo, del Consejero de Sanidad, por la que se conceden las Insignias de Plata de la Sanidad Madrileña solicitadas en los años 2018, 2019, 2020 y 2021",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/04/BOCM-20230404-41.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Transportes e Infraestructuras",
       "description": "Resolución de 31 de marzo de 2023, de la Dirección General de Transportes y Movilidad de la Consejería de Transportes e Infraestructuras, por la que se hacen públicas las fechas y lugar de celebración de las pruebas de obtención y renovación de la capacitación profesional de los Consejeros de Seguridad para el transporte de mercancías peligrosas en la modalidad de transportes por carretera, a celebrar en abril de 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/04/BOCM-20230404-42.PDF"
