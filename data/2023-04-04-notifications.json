@@ -1,19 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 80,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/04/04/BOCM-20230404080.PDF",
-      "total": 131,
-      "items": {
-        "Comunidad de Madrid": 65,
-        "Administración Local Ayuntamientos": 63,
-        "Administración de Justicia": 1,
-        "Otros Anuncios": 2
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Presidencia de La Comunidad",
