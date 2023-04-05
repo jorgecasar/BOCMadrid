@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 26 de marzo de 2023, de la Rectora de la Universidad Autónoma de Madrid, por la que se convoca un puesto de trabajo para su provisión por el sistema de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/05/BOCM-20230405-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 23 de marzo de 2023, del Consejero de Economía, Hacienda y Empleo, por la que se declara el importe del crédito presupuestario disponible para financiar la concesión directa durante el año 2023 de solicitudes de subvención de 2022 correspondientes al Programa de Estímulo a la Contratación de Jóvenes para la Recuperación Económica",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/05/BOCM-20230405-19.PDF"
