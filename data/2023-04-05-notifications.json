@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Disposiciones y Anuncios del Estado",
-      "description": "Ministerio de Hacienda y Función Pública. Delegación Especial de Economía y Hacienda de Madrid. Subasta bienes inmuebles",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/05/BOCM-20230405-43.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Madrid",
       "description": "Urbanismo: Distrito de Moncloa-Aravaca. Concesión demanial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/05/BOCM-20230405-44.PDF"
