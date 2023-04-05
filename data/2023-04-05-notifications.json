@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Transportes e Infraestructuras",
-      "description": "Resolución de 27 de marzo de 2023, de la Dirección-Gerencia del Consorcio Regional de Transportes Públicos Regulares de Madrid, por la que se resuelve la convocatoria aprobada mediante Resolución de 6 de febrero de 2023 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 20 de febrero de 2023), para la provisión de un puesto de trabajo vacante en dicho Organismo, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/05/BOCM-20230405-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 26 de marzo de 2023, de la Rectora de la Universidad Autónoma de Madrid, por la que se convoca un puesto de trabajo para su provisión por el sistema de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/05/BOCM-20230405-18.PDF"
