@@ -1,19 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 81,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/04/05/BOCM-20230405081.PDF",
-      "total": 97,
-      "items": {
-        "Comunidad de Madrid": 42,
-        "Disposiciones y Anuncios del Estado": 1,
-        "Administración Local Ayuntamientos": 50,
-        "Administración de Justicia": 4
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Familia, Juventud y Política Social",
