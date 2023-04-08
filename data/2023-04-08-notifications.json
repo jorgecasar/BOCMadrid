@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
-      "description": "Convenio de 21 de marzo de 2023, entre la Comunidad de Madrid (Consejería de Medio Ambiente, Vivienda y Agricultura) y REPSOL, para la recogida de aceite de cocina usado doméstico en la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/08/BOCM-20230408-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Convenio de 17 de marzo de 2023, entre la Comunidad de Madrid, a través de la Consejería de Sanidad, el Servicio Madrileño de Salud y la Organización Nacional de Ciegos Españoles (ONCE), a través de su Delegación Territorial en Madrid, para la colaboración en el ámbito de la atención sanitaria a las personas ciegas o con deficiencia visual grave en los centros del Servicio Madrileño de Salud",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/08/BOCM-20230408-3.PDF"
