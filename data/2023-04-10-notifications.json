@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Extracto de la Resolución de 27 de marzo de 2023, por la que se convocan ayudas al estudio para personas refugiadas en la Universidad Rey Juan Carlos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/10/BOCM-20230410-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Resolución de 28 de marzo de 2023, de la Secretaría General Técnica de la Consejería de Presidencia, Justicia e Interior, por la que se dispone la publicación del anuncio previo relativo al contrato titulado “Tratamiento archivístico de los documentos generados por los Órganos Judiciales de la Administración de Justicia de la Comunidad de Madrid”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/10/BOCM-20230410-28.PDF"
