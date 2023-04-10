@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Disposiciones y Anuncios del Estado",
-      "description": "Instituto Nacional de Estadística. Delegación Provincial de la Oficina del Censo Electoral de Madrid. Elecciones locales y autonómicas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/10/BOCM-20230410-36.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Disposiciones y Anuncios del Estado",
       "description": "Ministerio de Transportes, Movilidad y Agenda Urbana. ADIF Administrador de Infraestructuras Ferroviarias. Expropiación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/10/BOCM-20230410-37.PDF"
     }
