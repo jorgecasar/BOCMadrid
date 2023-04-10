@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 27 de marzo de 2023, de la Rectora de la Universidad Autónoma de Madrid, por la que se publica la modificación parcial de la Relación de Puestos de Trabajo del Personal de Administración y Servicios Laboral de esta Universidad, aprobada en Consejo de Gobierno de 24 de marzo de 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/10/BOCM-20230410-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 21 de marzo de 2023, de la Universidad Politécnica de Madrid, por la que se convocan concursos para la provisión de plazas de personal docente e investigador contratado: Profesores Contratados Doctores, en cumplimiento con el Acuerdo de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/10/BOCM-20230410-8.PDF"
