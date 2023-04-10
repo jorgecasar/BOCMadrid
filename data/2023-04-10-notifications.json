@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Fuenlabrada",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/10/BOCM-20230410-56.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Las Rozas de Madrid",
       "description": "Ofertas de empleo: Proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/10/BOCM-20230410-57.PDF"
