@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Transportes e Infraestructuras",
-      "description": "Resolución de 28 de marzo de 2023, del Director-Gerente del Consorcio Regional de Transportes Públicos Regulares de Madrid, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en el citado organismo por el procedimiento de Concurso de Méritos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/10/BOCM-20230410-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 27 de marzo de 2023, de la Rectora de la Universidad Autónoma de Madrid, por la que se publica la modificación parcial de la Relación de Puestos de Trabajo del Personal de Administración y Servicios Laboral de esta Universidad, aprobada en Consejo de Gobierno de 24 de marzo de 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/10/BOCM-20230410-7.PDF"
