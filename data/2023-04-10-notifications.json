@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Política Social",
-      "description": "Extracto de la Orden 873/2023, de 24 de marzo, de la Consejera de Familia, Juventud y Política Social, por la que se convocan para el año 2023 subvenciones a entidades sin fin de lucro, en concepto de mantenimiento de servicios y desarrollo de programas de atención a personas con discapacidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/10/BOCM-20230410-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Decreto 31/2023, de 5 de abril, del Consejo de Gobierno, por el que se modifica el Decreto 196/2002, de 26 de diciembre, del Consejo de Gobierno, por el que se aprueban los estatutos del Ente Público Hospital de Fuenlabrada",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/10/BOCM-20230410-21.PDF"
