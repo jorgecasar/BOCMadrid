@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Decreto 31/2023, de 5 de abril, del Consejo de Gobierno, por el que se modifica el Decreto 196/2002, de 26 de diciembre, del Consejo de Gobierno, por el que se aprueban los estatutos del Ente Público Hospital de Fuenlabrada",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/10/BOCM-20230410-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Extracto de la Orden 297/2023, de 9 de marzo, de la Consejería de Cultura, Turismo y Deporte, por la que se aprueba la convocatoria, para el año 2023, de las subvenciones destinadas a los clubes deportivos madrileños por la participación de sus equipos en las máximas categorías y niveles de competiciones oficiales de ámbito nacional o internacional, de carácter no profesional en la temporada 2021-2022 o, en su caso, en el año 2022, según el funcionamiento federativo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/10/BOCM-20230410-22.PDF"
