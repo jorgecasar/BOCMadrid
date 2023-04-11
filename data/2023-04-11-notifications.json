@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Extracto de la Resolución de 9 de marzo de 2023, del Sr. Rector Magnífico de la Universidad Rey Juan Carlos, por la que se aprueban y hacen públicas las bases reguladoras de la Convocatoria del Concurso de Relato Breve de la Universidad Rey Juan Carlos 2023, XVII edición, “La aventura del viaje”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/10/BOCM-20230410-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Extracto de la Resolución de 27 de marzo de 2023, por la que se convocan ayudas al estudio para personas refugiadas en la Universidad Rey Juan Carlos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/10/BOCM-20230410-27.PDF"
     }
