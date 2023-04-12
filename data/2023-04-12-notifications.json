@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Corrección de errores de la Orden de 23 de febrero de 2023, de la Consejería de Economía, Hacienda y Empleo, por la que se establece el procedimiento para la elaboración, presentación y pago electrónico de autoliquidaciones, se aprueba la diligencia acreditativa de la presentación y pago electrónico, se establecen los supuestos de obligatoriedad de presentación electrónica y se aprueban los modelos de autoliquidación correspondientes a los impuestos gestionados por la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/11/BOCM-20230411-40.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Política Social",
       "description": "Orden 873/2023, de 5 de abril, de la Consejera de Familia, Juventud y Política Social por la que se convocan para el año 2023, subvenciones a entidades sin fin de lucro, en concepto de mantenimiento de servicios y desarrollo de programas de atención a personas con discapacidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/11/BOCM-20230411-41.PDF"
