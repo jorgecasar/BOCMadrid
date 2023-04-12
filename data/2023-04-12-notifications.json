@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 27 de marzo de 2023, del Rectorado de la Universidad de Alcalá, por la que se ordena la publicación de la Relación de Puestos de Trabajo del Personal Docente e Investigador a 31 de diciembre de 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/11/BOCM-20230411-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 29 de marzo de 2023, del Rector de la Universidad Rey Juan Carlos, por la que se convoca concurso público para la contratación de cuatro técnicos gestores del Proyecto Erasmus+, acción clave 1: movilidad de las personas por motivos de aprendizaje (número de convenio 2022-1-es01-ka103-hed-000055194) dentro Programa Marco Erasmus+ 2021-2027",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/11/BOCM-20230411-32.PDF"
