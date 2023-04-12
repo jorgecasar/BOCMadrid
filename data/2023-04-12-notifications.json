@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 21 de marzo de 2023, de la Universidad Politécnica de Madrid, por la que se convocan concursos para la provisión de plazas de personal docente e investigador contratado: Profesores Contratados Doctores, para el reequilibrio de los Departamentos con alta proporción de personal docente temporal a tiempo parcial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/11/BOCM-20230411-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 27 de marzo de 2023, del Rectorado de la Universidad de Alcalá, por la que se ordena la publicación de la Relación de Puestos de Trabajo del Personal Docente e Investigador a 31 de diciembre de 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/11/BOCM-20230411-31.PDF"
