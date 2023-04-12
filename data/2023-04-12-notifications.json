@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Transportes e Infraestructuras",
-      "description": "Orden de 24 de marzo de 2023, de la Consejería de Transportes e Infraestructuras, por la que se resuelve la convocatoria aprobada mediante Orden de 6 de septiembre de 2022, del Consejero de Transportes e Infraestructuras (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 16 de septiembre), por la que se convocan, para su cobertura interina, dos puestos de trabajo vacantes en dicha Consejería, y se prevé la constitución de lista de espera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/11/BOCM-20230411-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 350/2023, de 27 de marzo, de la Consejera de Cultura, Turismo y Deporte, por la que se declara el cese y se nombra Vocal del Consejo Regional de Patrimonio Histórico de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/11/BOCM-20230411-25.PDF"
