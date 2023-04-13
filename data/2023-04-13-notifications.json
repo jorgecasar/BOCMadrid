@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Presidencia de La Comunidad",
-      "description": "Ley 6/2023, de 30 de marzo, de Archivos y Documentos de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Presidencia de La Comunidad",
       "description": "Ley 7/2023, de 30 de marzo, del Libro, la Lectura y el Patrimonio Bibliográfico de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-2.PDF"
     }
