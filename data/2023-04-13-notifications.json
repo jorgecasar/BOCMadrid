@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Presidencia de La Comunidad",
-      "description": "Ley 8/2023, de 30 de marzo, de Patrimonio Cultural de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-3.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Orden 1062/2023, de 29 de marzo, del Vicepresidente, Consejero de Educación y Universidades, por la que se convoca el puesto de Secretario/a del Centro Territorial de Innovación y Formación Madrid Capital (CTIF Madrid-Capital), para su provisión por el sistema de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-4.PDF"
