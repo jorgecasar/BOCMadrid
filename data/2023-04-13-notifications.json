@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 30 de marzo de 2023, del Presidente de la Junta Arbitral de Consumo de la Comunidad de Madrid, por la que se dispone la publicación de las empresas a las que se ha concedido y retirado el distintivo público de adhesión al Sistema Arbitral de Consumo durante el primer trimestre de 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Resolución de 29 de marzo de 2023, de la Viceconsejería de Gestión Económica, por la que se hace pública la formalización del contrato del Acuerdo Marco para el “Suministro de gases medicinales líquidos con destino a todos los centros dependientes del Servicio Madrileño de Salud”, 3 lotes",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-50.PDF"
