@@ -1,0 +1,752 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 86,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/04/12/BOCM-20230412086.PDF",
+      "total": 103,
+      "items": {
+        "Comunidad de Madrid": 66,
+        "Administración Local Ayuntamientos": 26,
+        "Administración de Justicia": 10,
+        "Otros Anuncios": 1
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Presidencia de La Comunidad",
+      "description": "Ley 6/2023, de 30 de marzo, de Archivos y Documentos de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Presidencia de La Comunidad",
+      "description": "Ley 7/2023, de 30 de marzo, del Libro, la Lectura y el Patrimonio Bibliográfico de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Presidencia de La Comunidad",
+      "description": "Ley 8/2023, de 30 de marzo, de Patrimonio Cultural de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Vicepresidencia, Consejería de Educación y Universidades",
+      "description": "Orden 1062/2023, de 29 de marzo, del Vicepresidente, Consejero de Educación y Universidades, por la que se convoca el puesto de Secretario/a del Centro Territorial de Innovación y Formación Madrid Capital (CTIF Madrid-Capital), para su provisión por el sistema de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Vicepresidencia, Consejería de Educación y Universidades",
+      "description": "Orden 1076/2023, de 29 de marzo, del Vicepresidente, Consejero de Educación y Universidades, por la que se dispone el nombramiento de Vocal del Consejo Universitario de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Vicepresidencia, Consejería de Educación y Universidades",
+      "description": "Anuncio de 31 de marzo de 2023, de la Universitas XXI S. T. U., por el que se hace pública la convocatoria de un proceso selectivo para la cobertura de tres vacantes",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Orden de 30 de marzo de 2023, del Consejero de Presidencia, Justicia e Interior, por la que se resuelve la convocatoria aprobada mediante Orden de 30 de enero de 2023 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 9 de febrero de 2023), de la Consejería de Presidencia, Justicia e Interior, por la que se aprobó la convocatoria pública para la provisión de un puesto de trabajo por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia e Interior",
+      "description": "Resolución de 28 de marzo de 2023, de la Dirección General de Seguridad, Protección Civil y Formación, por la que se convocan cursos de formación de actualización y de especialización dirigidos a funcionarios de los Cuerpos de Policía Local de la Comunidad de Madrid para 2023",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-8.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 23 de marzo de 2023, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicha Consejería, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-9.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 23 de marzo de 2023, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicha Consejería, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-10.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 23 de marzo de 2023, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicha Consejería (Organismo Autónomo Instituto Regional de Seguridad y Salud en el Trabajo), de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-11.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 23 de marzo de 2023, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicha Consejería, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-12.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 23 de marzo de 2023, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicha Consejería, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-13.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 29 de marzo de 2023, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Medio Ambiente, Vivienda y Agricultura, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-14.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 30 de marzo de 2023, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Vicepresidencia, Consejería de Educación y Universidades, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-15.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 30 de marzo de 2023, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Cultura, Turismo y Deporte, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-16.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 29 de marzo de 2023, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden del Consejero de Economía, Hacienda y Empleo, de 1 de febrero de 2023 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 17 de febrero), para la provisión de un puesto de trabajo vacante en dicha Consejería, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-17.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 29 de marzo de 2023, de la Dirección General de Función Pública, por la que se hace pública la composición del Tribunal Calificador de las pruebas selectivas del proceso extraordinario de estabilización de empleo temporal del personal laboral para el acceso a plazas de la categoría profesional de Técnico Especialista I (Grupo III, Nivel 6, Área C) de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-18.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 31 de marzo de 2023, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden del Consejero de Economía, Hacienda y Empleo de 24 de enero de 2023 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 7 de febrero), para la provisión de un puesto de trabajo vacante en la Consejería de Medio Ambiente, Vivienda y Agricultura (Organismo Autónomo Agencia de Vivienda Social de la Comunidad de Madrid), de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-19.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 31 de marzo de 2023, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden del Consejero de Economía, Hacienda y Empleo de 10 de enero de 2023 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 24 de enero), para la provisión de un puesto de trabajo vacante en la Consejería de Medio Ambiente, Vivienda y Agricultura (Organismo Autónomo Agencia de Vivienda Social de la Comunidad de Madrid), de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-20.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 31 de marzo de 2023, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden del Consejero de Economía, Hacienda y Empleo de 30 de enero de 2023 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 10 de febrero), para la provisión de un puesto de trabajo vacante en la Consejería de Medio Ambiente, Vivienda y Agricultura, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-21.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Orden de 29 de marzo de 2023, de la Consejera de Familia, Juventud y Política Social, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Familia, Juventud y Política Social por el procedimiento de Libre Designación (Agencia Madrileña para la Tutela de Adultos)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-22.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Orden 551/2023, de 29 de marzo, del Consejero de Sanidad, por la que se resuelve la convocatoria aprobada por Orden 115/2023, de 25 de enero, de esta Consejería de Sanidad (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 6 de febrero), para la provisión de un puesto de trabajo vacante en la citada Consejería por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-23.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Orden de 31 de marzo de 2023, de la Consejería de Transportes e Infraestructuras, por la que se resuelve la convocatoria aprobada por Orden de 8 de febrero de 2023 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 21 de febrero) para la provisión de un puesto de trabajo vacante en dicha Consejería por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-24.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Autónoma de Madrid",
+      "description": "Resolución de 30 de marzo de 2023, de la Rectora de la Universidad Autónoma de Madrid, por la que se convoca un puesto de trabajo para su provisión por el sistema de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-25.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Politécnica de Madrid",
+      "description": "Resolución de 21 de marzo de 2023, de la Universidad Politécnica de Madrid, por la que se convocan concursos para la provisión de plazas de personal docente e investigador contratado: Profesores Contratados Doctores para la promoción de PAS a PDI",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-26.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Carlos III",
+      "description": "Resolución de 30 de marzo de 2023, de la Universidad Carlos III de Madrid, por la que se nombra personal funcionario de carrera de la Escala de Gestión de Archivos y Bibliotecas (Subgrupo A2) de esta Universidad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-27.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Rey Juan Carlos",
+      "description": "Corrección de errores de 31 de marzo de 2023, de la Resolución de 1 de febrero de 2023 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID del día 9), de la Universidad Rey Juan Carlos, por la que se convoca concurso específico de méritos para la provisión de determinados puestos de trabajo entre Personal de Administración y Servicios Funcionario",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-28.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Vicepresidencia, Consejería de Educación y Universidades",
+      "description": "Extracto de la Orden 671/2023, de 1 de marzo, del Vicepresidente, Consejero de Educación y Universidades, por la que se convocan las ayudas a alumnos con discapacidad que cursan estudios universitarios o de enseñanzas artísticas superiores para el curso 2022-2023",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-29.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Extracto de la Orden 931/2023, de 30 de marzo, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se aprueba la convocatoria para la concesión de ayudas a entidades locales y municipios de la Comunidad de Madrid para la implantación de zonas de bajas emisiones y la adaptación al cambio climático",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-30.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Corrección de errores de la Resolución de 11 de febrero de 2023, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, por la que se registra y pública la sentencia del Tribunal Superior de Justicia de Madrid, el auto de aclaración de la sentencia y el desistimiento del recurso de casación ante el Tribunal Supremo por parte del recurrente, relativa al convenio colectivo del sector de Empresas de Servicios Funerarios de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-31.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Extracto de la Orden de 14 de diciembre de 2022, del Consejero de Economía, Hacienda y Empleo, por la que se convocan para el año 2023 subvenciones para la integración laboral de personas en riesgo o situación de exclusión social mediante ayudas a las empresas de inserción",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-32.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Extracto de la Orden de 27 de marzo de 2023, de la Consejería de Economía, Hacienda y Empleo, por la que se aprueba la convocatoria para el año 2023 de las subvenciones a entidades locales y Federaciones o Asociaciones de Municipios del ámbito de la Comunidad de Madrid, destinadas a la financiación de planes de formación en el marco del Acuerdo de Formación para el Empleo de las Administraciones Públicas",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-33.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Acuerdo de 23 de marzo de 2023, para la encomienda de gestión entre la Dirección General del Proceso Integrado de Salud y la Dirección General de Sistemas de Información y Salud Digital, para completar la automatización y llevar a cabo los desarrollos informáticos que se requieren en el programa de cribado poblacional de cáncer colorrectal de la Comunidad de Madrid que soporten la invitación, comunicación y seguimiento del proceso",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-34.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Extracto de la Orden 340/2023, de 21 de marzo, de la Consejería de Cultura, Turismo y Deporte, por la que se convocan subvenciones a Ayuntamientos de municipios de la Comunidad de Madrid de menos de 2.500 habitantes, para la mejora de la seguridad, accesibilidad y mantenimiento de las instalaciones deportivas municipales para el año 2023",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-35.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Extracto de la Orden 365/2023, de 23 de marzo, de la Consejera de Cultura, Turismo y Deporte, por la que se convocan subvenciones a Ayuntamientos de municipios de la Comunidad de Madrid de 2.500 a 20.000 habitantes, para el mantenimiento y la mejora de las instalaciones deportivas municipales para el año 2023",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-36.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Politécnica de Madrid",
+      "description": "Resolución de 23 de marzo de 2023, por la que se declara inhábil el período comprendido entre los días 1 y 27 de agosto de 2023 y el período comprendido entre los días 23 de diciembre de 2023 y el 6 de enero de 2024, ambos inclusive, a efectos del cómputo de plazos en los expedientes de contratación de la Universidad Politécnica de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-37.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad de Alcalá",
+      "description": "Acuerdo de 28 de marzo de 2023, de delegación de competencia en la Comisión de Servicios y Actividades del Consejo Social, para la aprobación de la distribución de becas de colaboración que asigna anualmente el Ministerio de Educación y Formación Profesional a la Universidad de Alcalá",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-38.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad de Alcalá",
+      "description": "Acuerdo de 28 de marzo de 2023, de delegación de competencia en la Comisión Económica del Consejo Social, para la aprobación de las transferencias de crédito",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-39.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Vicepresidencia, Consejería de Educación y Universidades",
+      "description": "Resolución de 31 de marzo de 2023, de la Secretaría General Técnica, por la que se dispone la publicación de la convocatoria del contrato de servicios denominado “Seguridad y vigilancia en los inmuebles de dos centros de enseñanzas artísticas superiores”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-40.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 6 de marzo de 2023, del Director General de Descarbonización y Transición Energética de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se acuerda hacer público el Informe Ambiental Estratégico del Plan Especial de la Unidad de Ejecución UE-34 del término municipal de Parla, promovido por Desguaces La Torre, S. A. (expediente: 10-UB2-00037.5/2022, SIA 22/037)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-41.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 9 de marzo de 2023, del Director General de Descarbonización y Transición Energética de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se acuerda hacer público el cambio de titularidad de la Autorización Ambiental Integrada otorgada a Matadero Madrid Norte, S. A., para una instalación de sacrificio y conservación de ganado bovino, sita en la Carretera Nacional I, kilómetro 32,3, Polígono Industrial Sur Autovía A1, en el término municipal de San Agustín de Guadalix, a favor de Complejo Alimentario Madrid Norte, S. A. (expediente: 10-IPPC-00056.8/2022)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-42.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 10 de marzo de 2023, del Director General de Agricultura, Ganadería y Alimentación, por la que se anuncia la exposición pública relativa a la autorización de ocupación temporal de la vía pecuaria Cañada Real Coruñesa, en el término municipal de Alpedrete, para la acometida de gas a la avenida Reina Victoria, número 17, actuación promovida por Madrileña Red de Gas, S. A. U.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-43.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 23 de marzo de 2023, de la Dirección General de Descarbonización y Transición Energética, por la que se somete a información pública la petición de autorización administrativa y aprobación del proyecto para la construcción de 2 líneas en la avenida de la Tierra y avenida de la Democracia, Urbanización Cristo de Rivas, en el término municipal de Rivas-Vaciamadrid, solicitada por UFD Distribución Electricidad, S. A. (14-0141-00947.2/2022)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-44.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 28 de marzo de 2023, del Director General de Descarbonización y Transición Energética de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se acuerda hacer público el Informe Ambiental Estratégico de la Modificación Puntual 2/2022, de flexibilidad de la ordenanza de equipamientos del término municipal de Ajalvir, promovido por el Ayuntamiento de Ajalvir. (Expediente: 10-UB2-00038.3/2023, SIA 23/038)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-45.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 14 de marzo de 2023, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre modificación de los estatutos de la organización sindical denominada Sindicato Independiente de Técnicos Sociosanitarios de Grado Medio de Madrid-SIAET (Número de depósito: 28000848)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-46.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 17 de marzo de 2023, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre depósito de los estatutos del sindicato denominado Sindicato Independiente de Gestores y Técnicos de Madrid, en siglas SIGTE (número de depósito: 28100049)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-47.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 26 de marzo de 2023, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre modificación de los estatutos de la asociación empresarial denominada A. M. E. T. T.-Asociación de Madrid de Expendedores de Tabaco y Timbre (Número de depósito: 28001926)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-48.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 30 de marzo de 2023, del Presidente de la Junta Arbitral de Consumo de la Comunidad de Madrid, por la que se dispone la publicación de las empresas a las que se ha concedido y retirado el distintivo público de adhesión al Sistema Arbitral de Consumo durante el primer trimestre de 2023",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-49.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 29 de marzo de 2023, de la Viceconsejería de Gestión Económica, por la que se hace pública la formalización del contrato del Acuerdo Marco para el “Suministro de gases medicinales líquidos con destino a todos los centros dependientes del Servicio Madrileño de Salud”, 3 lotes",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-50.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 22 de marzo de 2023, de la Dirección-Gerencia del Hospital General Universitario “Gregorio Marañón”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la formalización del contrato de «Suministro de fluidoterapia (con gestión integral del Servicio de Logística del lote 1) para el Hospital General Universitario “Gregorio Marañón”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-51.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 28 de marzo de 2023, de la Gerencia del Hospital Universitario “La Paz”, por la que se dispone la publicación, en los boletines oficiales y en el “perfil del contratante”, de la formalización del contrato de «Servicios de depósito de almacenamiento externo del Hospital Universitario “La Paz-Carlos III-Cantoblanco”». P. A. 51/2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-52.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 28 de marzo de 2023, de la Gerencia del Hospital Universitario “La Paz”, por la que se dispone la publicación, en los boletines oficiales y en el “perfil del contratante”, de la formalización del contrato de “Suministro de materiales de resección transuretral, así como la cesión de equipos necesarios para su correcta utilización”. Prórroga 2022-7-65 (P. A. 2020-0-84)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-53.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 28 de marzo de 2023, de la Gerencia del Hospital Universitario “La Paz”, por la que se dispone la publicación, en los boletines oficiales y en el “perfil del contratante”, de la formalización del contrato de medicamentos exclusivos: Palivizumab (Synagis), Glecaprevir/Pibrentasvir (Maviret), Levodopa/Carbidopa (Duodopa). Tercera prórroga P. N. S. P. 43/2019",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-54.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 28 de marzo de 2023, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la convocatoria del contrato 2023-0-05, «Suministro de sistemas de capsuloscopia para el Hospital Universitario “12 de Octubre”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-55.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 29 de marzo de 2023, de la Dirección Médica del Hospital Infantil Universitario “Niño Jesús”, por vacante de la Dirección-Gerencia, por la que se publica la declaración de desierto del expediente denominado «Servicio de suministro y gestión de víveres para la elaboración de dietas alimenticias y explotación de la cafetería y máquinas de vending del Hospital Infantil Universitario “Niño Jesús”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-56.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 28 de marzo de 2023, de la Dirección-Gerencia del Hospital Universitario de Getafe, por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante”, de la prórroga del contrato de “Suministro de material fungible para aspiración y evacuación del humo quirúrgico en procedimientos de cirugía abierta y laparoscópica y provisión de medios mecánicos de compresión venosa en extremidades inferiores en el Hospital Universitario de Getafe”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-57.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 28 de marzo de 2023, de la Dirección-Gerencia del Hospital Universitario de Getafe, por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante” de la prórroga del contrato de “Suministro de fludesoxiglucosa 18 fdg en el Hospital Universitario de Getafe”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-58.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 3 de abril de 2023, de la Dirección-Gerencia del Hospital Universitario de Getafe, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la convocatoria del contrato de  “Suministro de material para litotricia y colangioscopia en el Hospital Universitario de Getafe”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-59.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 29 de marzo de 2023, de la Dirección-Gerencia del Hospital Universitario “Infanta Leonor”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la convocatoria del contrato titulado «Adquisición de endoclips, balón extracción cálculos biliares y aguja de punción transbronquial para el Hospital Universitario “Infanta Leonor”» (3 lotes)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-60.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Anuncio de 10 de abril de 2023, por el que se convoca la licitación para la contratación de un servicio de soporte informático para el mantenimiento de los sistemas de los centros de control (expediente 6012300086)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-61.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Anuncio de 10 de abril de 2023, por el que se convoca la licitación para la contratación de un suministro de renovación tecnológica de la plataforma de virtualización (expediente 6012300085)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-62.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Anuncio de 10 de abril de 2023, por el que se convoca la licitación para la contratación de un “Servicio de transporte sustitutivo de viajeros mediante una ruta de autobús debido a la suspensión de servicio programada en Línea 7B San Fernando-Hospital del Henares” (expediente: 6012300088)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-63.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Transportes e Infraestructuras",
+      "description": "Anuncio de 10 de abril de 2023, de declaración de desierto de la licitación para la contratación de un “Suministro de bobinas de pasamanos y sus kit`s de empalme para el mantenimiento de las escaleras mecánicas instaladas en la red de Metro de Madrid” (Expediente 6012200391)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-64.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Resolución de 29 de marzo de 2023, de imposibilidad de ejercicio de actividad y anulación en el registro de empresas turísticas a “Your Place In The World, S. L. L.”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-65.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Resolución de 29 de marzo de 2023, de cese de actividad de las agencias de viajes “Seven Colors Tour”, “Unión Cultural de Turismo, S. L.” y “Vuelos RD”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-66.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Organización y funcionamiento: Área de Gobierno de Medio Ambiente y Movilidad. Ordenanza limpieza espacios públicos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-67.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Régimen económico: Área de Gobierno de Cultura, Turismo y Deporte. Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-68.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Régimen económico: Área de Gobierno de Familias, Igualdad y Bienestar Social. Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-69.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Ajalvir",
+      "description": "Licencias: West Química Europa, S. L.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-70.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Ajalvir",
+      "description": "Licencias: West Química Europa, S. L.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-71.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcalá de Henares",
+      "description": "Urbanismo: Estatutos entidad urbanística",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-72.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcorcón",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-73.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Algete",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-74.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Buitrago del Lozoya",
+      "description": "Régimen económico: Ordenanza",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-75.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Ciempozuelos",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-76.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Ciempozuelos",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-77.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Ciempozuelos",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-78.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Cubas de la Sagra",
+      "description": "Contratación: Mesa contratación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-79.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Fuenlabrada",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-80.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Fuenlabrada",
+      "description": "Urbanismo: Expropiación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-81.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Fuenlabrada",
+      "description": "Urbanismo: Expropiación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-82.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Getafe",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-83.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Navas del Rey",
+      "description": "Régimen económico: Calendario fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-84.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Navas del Rey",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-85.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Patones",
+      "description": "Régimen económico: Ordenanza fiscal tasa utilización privativa dominio",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-86.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Rivas-Vaciamadrid",
+      "description": "Personal: Nombramientos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-87.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Agustín del Guadalix",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-88.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Lorenzo de El Escorial",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-89.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrejón de Ardoz",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-90.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrejón de Ardoz",
+      "description": "Urbanismo: Modificación puntual",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-91.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Valverde de Alcalá",
+      "description": "Régimen económico: Cuenta general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-92.PDF"
+    }
+  }
+]
