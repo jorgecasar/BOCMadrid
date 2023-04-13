@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 21 de marzo de 2023, de la Universidad Politécnica de Madrid, por la que se convocan concursos para la provisión de plazas de personal docente e investigador contratado: Profesores Contratados Doctores para la promoción de PAS a PDI",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Carlos III",
       "description": "Resolución de 30 de marzo de 2023, de la Universidad Carlos III de Madrid, por la que se nombra personal funcionario de carrera de la Escala de Gestión de Archivos y Bibliotecas (Subgrupo A2) de esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-27.PDF"
