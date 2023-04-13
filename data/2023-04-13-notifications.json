@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Extracto de la Orden de 27 de marzo de 2023, de la Consejería de Economía, Hacienda y Empleo, por la que se aprueba la convocatoria para el año 2023 de las subvenciones a entidades locales y Federaciones o Asociaciones de Municipios del ámbito de la Comunidad de Madrid, destinadas a la financiación de planes de formación en el marco del Acuerdo de Formación para el Empleo de las Administraciones Públicas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-33.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Acuerdo de 23 de marzo de 2023, para la encomienda de gestión entre la Dirección General del Proceso Integrado de Salud y la Dirección General de Sistemas de Información y Salud Digital, para completar la automatización y llevar a cabo los desarrollos informáticos que se requieren en el programa de cribado poblacional de cáncer colorrectal de la Comunidad de Madrid que soporten la invitación, comunicación y seguimiento del proceso",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/12/BOCM-20230412-34.PDF"
