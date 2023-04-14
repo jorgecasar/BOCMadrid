@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 21 de marzo de 2023, de la Universidad Politécnica de Madrid, por la que se convocan concursos para la provisión de plazas de personal docente e investigador contratado: Profesores Contratados Doctores con Certificación I3",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/13/BOCM-20230413-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 31 de marzo de 2023, de la Universidad Rey Juan Carlos, por la que se nombra a don Alberto Sánchez Campos como Catedrático de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/13/BOCM-20230413-20.PDF"
