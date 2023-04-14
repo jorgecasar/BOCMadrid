@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Administración Local y Digitalización",
-      "description": "Orden 137/2023, de 30 de marzo, de la Consejería de Administración Local y Digitalización, sobre la aprobación del deslinde de los términos municipales de Villalbilla y Torres de la Alameda, ambos pertenecientes a la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/13/BOCM-20230413-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Administración Local y Digitalización",
       "description": "Resolución de 27 de marzo de 2023, del Director General de Reequilibrio Territorial, sobre la supresión del puesto de colaboración, reservado a funcionarios de Administración Local con habilitación de carácter nacional, denominado Viceintervencion, del Ayuntamiento de Las Rozas de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/13/BOCM-20230413-28.PDF"
     }
