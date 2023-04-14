@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 31 de marzo de 2023, de la Universidad Rey Juan Carlos, por la que se nombra a don Alberto Sánchez Campos como Catedrático de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/13/BOCM-20230413-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Decreto 35/2023, de 12 de abril, del Consejo de Gobierno, por el que se establecen las gratificaciones de los miembros de las Juntas Electorales Provincial y de Zona y del Personal a su Servicio, como consecuencia del proceso electoral a la Asamblea de Madrid del 28 de mayo de 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/13/BOCM-20230413-21.PDF"
