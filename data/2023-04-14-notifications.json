@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Presidencia de La Comunidad",
-      "description": "Ley 11/2023, de 12 de abril, por la que se modifica la Ley 20/1998, de 27 de noviembre, de Ordenación y Coordinación de los Transportes Urbanos de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/13/BOCM-20230413-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Orden 777/2023, de 30 de marzo, del Vicepresidente, Consejero de Educación y Universidades, por la que se resuelve la convocatoria aprobada mediante Orden 3667/2022, de 1 de diciembre (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 19 de diciembre de 2022), de la Vicepresidencia, Consejería de Educación y Universidades, para la provisión de puestos de trabajo por el procedimiento de Concurso de Méritos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/13/BOCM-20230413-2.PDF"
