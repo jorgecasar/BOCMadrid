@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alpedrete",
-      "description": "Ofertas de empleo: Oferta empleo público",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/18/BOCM-20230418-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Batres",
       "description": "Régimen económico: Presupuesto general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/18/BOCM-20230418-50.PDF"
