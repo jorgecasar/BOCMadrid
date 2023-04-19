@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Vicepresidencia, Consejería de Educación y Universidades",
-      "description": "Resolución de 5 de abril de 2023, de la Dirección General de Recursos Humanos, por la que se anuncia la publicación de las listas provisionales de admitidos y excluidos en los procedimientos selectivos para ingreso y accesos a los cuerpos de Profesores de Enseñanza Secundaria, Profesores de Escuelas Oficiales de Idiomas, Profesores de Música y Artes Escénicas, Profesores de Artes Plásticas y Diseño, Maestros de Taller de Artes Plásticas y Diseño y procedimiento para la adquisición de nuevas especialidades por los funcionarios de los citados Cuerpos convocados por Resolución de 2 de febrero de 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/18/BOCM-20230418-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Orden de 10 de abril de 2023, de la Consejería de Presidencia, Justicia e Interior, por la que se resuelve la Orden de 17 de febrero de 2023, del Consejero de Presidencia, Justicia e Interior (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 28 de febrero), por la que se aprobó convocatoria pública para la provisión de varios puestos de trabajo vacantes en la citada Consejería, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/18/BOCM-20230418-2.PDF"
