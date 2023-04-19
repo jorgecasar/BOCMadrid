@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Corrección de errores de la Resolución de 27 de febrero de 2023, de la Dirección General de Función Pública, por la que se aprueban las relaciones provisionales de personas aspirantes admitidas y excluidas en las pruebas selectivas de promoción interna para el ingreso en el Cuerpo Superior de Gestión, de Administración General, Grupo A, Subgrupo A1, de la Comunidad de Madrid, y se publica la relación provisional de personas aspirantes excluidas en las citadas pruebas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/18/BOCM-20230418-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Resolución de 29 de marzo de 2023, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se procede a convocar el puesto directivo de Subdirector/a de Enfermería en el Hospital Central de la Cruz Roja “San José y Santa Adela” adscrito al Servicio Madrileño de Salud",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/18/BOCM-20230418-7.PDF"
