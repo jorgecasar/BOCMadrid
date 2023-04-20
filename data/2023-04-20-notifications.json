@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
-      "description": "Acuerdo de 19 de abril de 2023, del Consejo de Gobierno, por el que se concede la Medalla de la Comunidad de Madrid, en su categoría de Plata, a don Jesús Carmona Moreno",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/20/BOCM-20230420-28.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Resolución de 28 de marzo de 2023, de la Dirección General de Seguridad, Protección Civil y Formación, por la que se aprueban y se hacen públicos los listados provisionales de admitidos a las pruebas para la obtención del Certificado Acreditativo del Personal de Control de Acceso a Espectáculos Públicos y Actividades Recreativas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/20/BOCM-20230420-29.PDF"
     }
