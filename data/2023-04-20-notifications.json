@@ -1,19 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 93,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/04/20/BOCM-20230420093.PDF",
-      "total": 73,
-      "items": {
-        "Comunidad de Madrid": 42,
-        "Disposiciones y Anuncios del Estado": 4,
-        "Administración Local Ayuntamientos": 24,
-        "Administración de Justicia": 3
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
