@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Urbanismo: Área de Gobierno de Desarrollo Urbano. Plan especial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/20/BOCM-20230420-50.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcalá de Henares",
       "description": "Urbanismo: Plan especial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/20/BOCM-20230420-51.PDF"
