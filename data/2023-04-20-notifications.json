@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Presidencia de La Comunidad",
-      "description": "Decreto 20/2023, de 19 de abril, de la Presidenta de la Comunidad de Madrid, por el que se concede la Encomienda de Número de la “Orden del Dos de Mayo” a la Denominación de Origen Protegida “Aceites de Madrid”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/20/BOCM-20230420-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Decreto 41/2023, de 19 de abril, del Consejo de Gobierno, por el que se establecen las gratificaciones de los miembros de las Juntas Electorales Provincial y de Zona y del personal a su servicio, como consecuencia del proceso electoral a la Asamblea de Madrid del 28 de mayo de 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/20/BOCM-20230420-15.PDF"
