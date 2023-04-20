@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "El Escorial",
-      "description": "Régimen económico: Modificaciones presupuestarias",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/20/BOCM-20230420-54.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Fresno de Torote",
       "description": "Régimen económico: Baja obligaciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/20/BOCM-20230420-55.PDF"
