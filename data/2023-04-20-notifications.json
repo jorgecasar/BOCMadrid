@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Régimen económico: Distrito de Latina. Extracto convocatoria subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/20/BOCM-20230420-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Urbanismo: Área de Gobierno de Desarrollo Urbano. Plan especial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/20/BOCM-20230420-50.PDF"
     }
