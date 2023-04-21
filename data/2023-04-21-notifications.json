@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 20 de diciembre de 2022, del Rectorado de la Universidad de Alcalá, por la que se acuerda hacer público el presupuesto de la Universidad para el ejercicio económico 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/21/BOCM-20230421-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Resolución de 30 de marzo de 2023, de la Secretaria General Técnica de la Vicepresidencia, Consejería de Educación y Universidades, por la que se hace pública la formalización del contrato de servicios denominado “Apoyo en la gestión de los fondos Next Generation-EU y trabajos de apoyo técnico para la gestión de ayudas de la Dirección General de Investigación e Innovación Tecnológica gestionadas por la Subdirección General de Investigación”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/21/BOCM-20230421-24.PDF"
