@@ -1,0 +1,38 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 95,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/04/22/BOCM-20230422095.PDF",
+      "total": 8,
+      "items": {
+        "Comunidad de Madrid": 3,
+        "Administración de Justicia": 5
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Vicepresidencia, Consejería de Educación y Universidades",
+      "description": "Convenio de colaboración de 11 de abril de 2023, entre la Comunidad de Madrid (Vicepresidencia, Consejería de Educación y Universidades) y el Consorcio de Universidades de la Comunidad de Madrid y de la Universidad Nacional de Educación a Distancia para la cooperación bibliotecaria (Consorcio Madroño), para mejorar la prestación del servicio público bibliotecario a la comunidad científica universitaria y acercar la ciencia a la sociedad mediante la creación y desarrollo de repositorios institucionales y portales de acceso abierto de la producción científica",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/22/BOCM-20230422-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Convenio de 3 de abril de 2023, en virtud del cual se instrumenta la concesión directa de una subvención de la Comunidad de Madrid (Consejería de Medio Ambiente, Vivienda y Agricultura) al Ayuntamiento de Torrejón de Ardoz, para las actuaciones de mejora o rehabilitación de edificios de uso predominante residencial para vivienda, para la prestación de servicios de oficina de rehabilitación y para la ejecución de actuaciones de urbanización, reurbanización y mejora del entorno físico en los entornos residenciales de rehabilitación programada de “Barrio Verde-Fronteras”, “Inta-Cobos” y “San José-Rosario”, en el municipio de Torrejón de Ardoz, dentro del Programa 1 del Real Decreto 853/2021, y en el marco de C02.I01 del Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea-Next Generation-EU",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/22/BOCM-20230422-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 4 de abril de 2023, entre la Comunidad de Madrid, a través de la Consejería de Cultura, Turismo y Deporte, y la Federación Hípica de Madrid, para la organización de la I Copa de la Comunidad de Madrid de Salto de Obstáculos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/22/BOCM-20230422-3.PDF"
+    }
+  }
+]
