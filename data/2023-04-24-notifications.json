@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Vicepresidencia, Consejería de Educación y Universidades",
-      "description": "Corrección de errores del Decreto 40/2023, de 19 de abril, del Consejo de Gobierno, por el que se nombra Rector de la Universidad Carlos III de Madrid a don Ángel Arias Hernández",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/24/BOCM-20230424-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Orden de 13 de abril de 2023, de la Consejería de Presidencia, Justicia e Interior, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en la Consejería de Presidencia, Justicia e Interior, por el procedimiento de Concurso de Méritos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/24/BOCM-20230424-2.PDF"
