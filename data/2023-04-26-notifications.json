@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Disposiciones y Anuncios del Estado",
-      "description": "Junta Electoral Provincial de Madrid. Elecciones Asamblea de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/26/BOCM-20230426-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Disposiciones y Anuncios del Estado",
       "description": "Junta Electoral de Zona de Alcalá de Henares. Elecciones Municipales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/26/BOCM-20230426-27.PDF"
     }
