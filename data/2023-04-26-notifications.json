@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Titulcia",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/26/BOCM-20230426-44.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Titulcia",
       "description": "Régimen económico: Padrón fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/26/BOCM-20230426-45.PDF"
     }
