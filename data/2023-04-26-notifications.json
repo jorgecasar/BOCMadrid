@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Titulcia",
-      "description": "Régimen económico: Padrón fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/26/BOCM-20230426-45.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Torrejón de la Calzada",
       "description": "Régimen económico: Cuenta general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/26/BOCM-20230426-46.PDF"
