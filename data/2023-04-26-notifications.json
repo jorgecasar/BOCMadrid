@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Disposiciones y Anuncios del Estado",
-      "description": "Junta Electoral de Zona de Aranjuez. Elecciones Municipales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/26/BOCM-20230426-28.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Disposiciones y Anuncios del Estado",
       "description": "Junta Electoral de Zona de Colmenar Viejo. Elecciones Municipales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/26/BOCM-20230426-29.PDF"
     }
