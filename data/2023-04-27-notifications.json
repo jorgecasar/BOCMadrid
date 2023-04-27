@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 18 de abril de 2023, de la Universidad Autónoma de Madrid, por la que se convoca Concurso de Méritos específico para la provisión de varios puestos de trabajo vacantes en la Relación de Puestos de Trabajo de personal funcionario de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/27/BOCM-20230427-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 18 de abril de 2023, de la Universidad Autónoma de Madrid, por la que se convoca Concurso de Méritos General para la provisión de dos puestos de trabajo vacantes en la relación de puestos de trabajo de personal funcionario de esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/27/BOCM-20230427-21.PDF"
     }
