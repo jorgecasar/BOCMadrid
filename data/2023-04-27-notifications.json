@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Organización y funcionamiento: Área de Gobierno de Vicealcaldía. Masa salarial personal laboral",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/27/BOCM-20230427-50.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Organización y funcionamiento: Área de Gobierno de Vicealcaldía. Delegación de funciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/27/BOCM-20230427-51.PDF"
     }
