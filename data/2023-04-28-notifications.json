@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Disposiciones y Anuncios del Estado",
-      "description": "Junta Electoral de Zona de Aranjuez. Elecciones Municipales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/28/BOCM-20230428-51.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Disposiciones y Anuncios del Estado",
       "description": "Ministerio para la Transición Ecológica y el Reto Demográfico. Confederación Hidrográfica del Tajo. Concesión aguas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/28/BOCM-20230428-52.PDF"
     }
