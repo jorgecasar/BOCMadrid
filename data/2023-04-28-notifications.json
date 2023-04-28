@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Régimen económico: Distrito de Arganzuela. Extracto convocatoria subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/28/BOCM-20230428-53.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Urbanismo: Área de Gobierno de Desarrollo Urbano. Disolución junta compensación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/28/BOCM-20230428-54.PDF"
     }
