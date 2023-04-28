@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Urbanismo: Área de Gobierno de Desarrollo Urbano. Estudio detalle",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/28/BOCM-20230428-56.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Urbanismo: Área de Gobierno de Obras y Equipamientos. Proyecto urbanización",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/28/BOCM-20230428-57.PDF"
     }
