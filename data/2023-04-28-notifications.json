@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia e Interior",
-      "description": "Orden de 19 de abril de 2023, de la Consejería de Presidencia Justicia e Interior, por la que se resuelve la convocatoria aprobada mediante Orden de 23 de septiembre de 2022 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 4 de octubre de 2022), por la que se aprobó convocatoria pública para la provisión de varios puestos de trabajo vacantes en la Consejería de Presidencia, Justicia e Interior, por el procedimiento de Concurso de Méritos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/28/BOCM-20230428-3.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 3 de abril de 2023, del Consejero de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Vicepresidencia, Consejería de Educación y Universidades, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/04/28/BOCM-20230428-4.PDF"
