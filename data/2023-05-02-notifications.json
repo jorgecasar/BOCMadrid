@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Disposiciones y Anuncios del Estado",
-      "description": "Junta Electoral de Zona de Navalcarnero. Elecciones Municipales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/02/BOCM-20230502-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Disposiciones y Anuncios del Estado",
       "description": "Junta Electoral de Zona de San Lorenzo de El Escorial. Elecciones Municipales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/02/BOCM-20230502-8.PDF"
     }
