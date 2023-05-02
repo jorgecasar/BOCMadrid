@@ -1,17 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 103,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/05/02/BOCM-20230502103.PDF",
-      "total": 8,
-      "items": {
-        "Comunidad de Madrid": 1,
-        "Disposiciones y Anuncios del Estado": 7
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
