@@ -1,0 +1,78 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 103,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/05/02/BOCM-20230502103.PDF",
+      "total": 8,
+      "items": {
+        "Comunidad de Madrid": 1,
+        "Disposiciones y Anuncios del Estado": 7
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 4 de abril de 2023, entre la Comunidad de Madrid, a través de la Consejería de Cultura, Turismo y Deporte, y la Federación Madrileña de Hockey, por el que se articula la concesión directa de una subvención para sufragar gastos derivados de las actividades de deporte federado durante la temporada 2022-2023, por importe de 97.509 euros",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/02/BOCM-20230502-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Disposiciones y Anuncios del Estado",
+      "description": "Junta Electoral Provincial de Madrid. Elecciones Asamblea de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/02/BOCM-20230502-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Disposiciones y Anuncios del Estado",
+      "description": "Junta Electoral de Zona de Alcalá de Henares. Elecciones Municipales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/02/BOCM-20230502-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Disposiciones y Anuncios del Estado",
+      "description": "Junta Electoral de Zona de Aranjuez. Elecciones Municipales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/02/BOCM-20230502-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Disposiciones y Anuncios del Estado",
+      "description": "Junta Electoral de Zona de Colmenar Viejo. Elecciones Municipales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/02/BOCM-20230502-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Disposiciones y Anuncios del Estado",
+      "description": "Junta Electoral de Zona de Madrid. Elecciones Municipales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/02/BOCM-20230502-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Disposiciones y Anuncios del Estado",
+      "description": "Junta Electoral de Zona de Navalcarnero. Elecciones Municipales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/02/BOCM-20230502-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Disposiciones y Anuncios del Estado",
+      "description": "Junta Electoral de Zona de San Lorenzo de El Escorial. Elecciones Municipales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/02/BOCM-20230502-8.PDF"
+    }
+  }
+]
