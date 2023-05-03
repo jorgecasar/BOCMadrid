@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia e Interior",
-      "description": "Orden de 28 de abril de 2023, del Consejero de Presidencia, Justicia e Interior, por la que se fijan servicios mínimos en relación con la convocatoria de huelga en la Administración de Justicia para los días 4, 9, 10, 11, 16, 17 y 18 de mayo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/03/BOCM-20230503-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Resolución de 23 de enero de 2023, de la Dirección General de Descarbonización y Transición Energética, por la que se somete a información pública la petición de autorización administrativa y aprobación del proyecto para la modificación de la ST Tres Cantos, en Ronda Valdecarrizo, número 51, en el término municipal de Madrid, solicitada por I-DE Redes Eléctricas Inteligentes, S. A. U.",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/03/BOCM-20230503-22.PDF"
