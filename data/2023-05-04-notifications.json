@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 18 de abril 2023, de la Universidad Complutense de Madrid, por la que se convocan concurso de acceso a plazas de cuerpos docentes universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/03/BOCM-20230503-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Orden de 28 de abril de 2023, del Consejero de Presidencia, Justicia e Interior, por la que se fijan servicios mínimos en relación con la convocatoria de huelga en la Administración de Justicia para los días 4, 9, 10, 11, 16, 17 y 18 de mayo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/03/BOCM-20230503-21.PDF"
