@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Arganda del Rey",
-      "description": "Régimen económico: Extracto convocatoria subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/03/BOCM-20230503-50.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Buitrago del Lozoya",
       "description": "Régimen económico: Padrones fiscales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/03/BOCM-20230503-51.PDF"
