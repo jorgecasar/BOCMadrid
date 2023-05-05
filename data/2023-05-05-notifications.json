@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Vicepresidencia, Consejería de Educación y Universidades",
-      "description": "Orden 1354/2023, de 21 de abril, del Vicepresidente, Consejero de Educación y Universidades, por la que se autoriza a la Universidad Alfonso X el Sabio a ampliar sus instalaciones en el municipio de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/05/BOCM-20230505-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Orden 1143/2023, de 18 de abril, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se hace pública la declaración del crédito presupuestario disponible en el ejercicio 2023 para financiar las ayudas para el fomento de la movilidad cero emisiones en la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/05/BOCM-20230505-20.PDF"
