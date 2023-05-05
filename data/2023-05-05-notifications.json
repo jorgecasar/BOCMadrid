@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcalá de Henares",
-      "description": "Urbanismo: Plan General Ordenación Urbana",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/05/BOCM-20230505-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcorcón",
       "description": "Personal: Plantilla de personal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/05/BOCM-20230505-50.PDF"
