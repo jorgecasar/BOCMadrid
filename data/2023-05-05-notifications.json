@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Vicepresidencia, Consejería de Educación y Universidades",
-      "description": "Acuerdo de 3 de mayo de 2023, del Consejo de Gobierno, por el que se reelige a doña Blanca Losada Martín como Vocal del Consejo Social de la Universidad Politécnica de Madrid, en representación de los intereses sociales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/05/BOCM-20230505-5.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Acuerdo de 3 de mayo de 2023, del Consejo de Gobierno, por el que se cesa y nombra a un vocal de la Comisión Regional de Coordinación de las Policías Locales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/05/BOCM-20230505-6.PDF"
