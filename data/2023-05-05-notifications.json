@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcorcón",
-      "description": "Personal: Plantilla de personal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/05/BOCM-20230505-50.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Algete",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/05/BOCM-20230505-51.PDF"
