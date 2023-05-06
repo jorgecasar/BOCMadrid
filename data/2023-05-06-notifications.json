@@ -1,0 +1,38 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 107,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/05/06/BOCM-20230506107.PDF",
+      "total": 8,
+      "items": {
+        "Comunidad de Madrid": 3,
+        "Administración de Justicia": 5
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 18 de abril de 2023, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa DHL Express Spain, S. L. U. (código número 28102301012019)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/06/BOCM-20230506-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 18 de abril de 2023, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación de la revisión salarial 2023 del convenio colectivo de la empresa Transportes Pibejo, S. L., suscrito por la comisión negociadora (código número 28101132012015)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/06/BOCM-20230506-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 18 de abril de 2023, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa TK Elevator Manufacturing Spain, S. L. U. (provincia de Madrid) (código número 28015092012010)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/06/BOCM-20230506-3.PDF"
+    }
+  }
+]
