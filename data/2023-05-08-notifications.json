@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Canencia",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/08/BOCM-20230508-50.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Colmenar Viejo",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/08/BOCM-20230508-51.PDF"
