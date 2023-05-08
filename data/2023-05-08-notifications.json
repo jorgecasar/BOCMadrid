@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "El Boalo",
-      "description": "Organización y funcionamiento: Reglamento Protección Civil",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/08/BOCM-20230508-52.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "El Boalo",
       "description": "Organización y funcionamiento: Reglamento Participación Ciudadana",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/08/BOCM-20230508-53.PDF"
     }
