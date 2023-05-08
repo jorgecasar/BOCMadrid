@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Disposiciones y Anuncios del Estado",
-      "description": "Junta Electoral Provincial de Madrid. Distribución espacios en medios de comunicación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/08/BOCM-20230508-43.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Madrid",
       "description": "Licencias: O. A",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/08/BOCM-20230508-44.PDF"
