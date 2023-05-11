@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Transportes e Infraestructuras",
-      "description": "Anuncio periódico indicativo de 26 de abril de 2023, relativo al contrato de suministro de repuestos originales del proveedor Knorr Bremse",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/11/BOCM-20230511-45.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Transportes e Infraestructuras",
       "description": "Anuncio periódico indicativo de 26 de abril de 2023, relativo al Acuerdo Marco para la renovación de los sistemas PCI en depósitos y subestaciones eléctricas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/11/BOCM-20230511-46.PDF"
     }
