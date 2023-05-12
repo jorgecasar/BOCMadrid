@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 24 de abril de 2023, de la Universidad Complutense de Madrid, por la que se nombran funcionarios de los Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/11/BOCM-20230511-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 27 de abril de 2023, de la Universidad Politécnica de Madrid, por la que se resuelve el concurso de traslado para cubrir plazas vacantes en la relación de puestos de trabajo de personal de administración y servicios laboral de esta Universidad, convocado por Resolución Rectoral de 11 de enero de 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/11/BOCM-20230511-17.PDF"
