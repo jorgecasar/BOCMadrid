@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 601/2023, de 28 de abril, de la Consejera de Cultura, Turismo y Deporte, por la que se resuelve la convocatoria aprobada mediante Orden 2084/2022, de 27 de octubre (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 8 de noviembre) para la provisión de puestos de trabajo por el procedimiento de Concurso de Méritos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/11/BOCM-20230511-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 24 de abril de 2023, de la Universidad Complutense de Madrid, por la que se nombran funcionarios de los Cuerpos Docentes Universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/11/BOCM-20230511-15.PDF"
