@@ -1,17 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 114,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/05/15/BOCM-20230515114.PDF",
-      "total": 19,
-      "items": {
-        "Comunidad de Madrid": 8,
-        "Administración de Justicia": 11
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
