@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Urbanismo: Área de Gobierno de Desarrollo Urbano. Plan Especial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/17/BOCM-20230517-56.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Urbanismo: Área de Gobierno de Desarrollo Urbano. Convenio urbanístico",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/17/BOCM-20230517-57.PDF"
     }
