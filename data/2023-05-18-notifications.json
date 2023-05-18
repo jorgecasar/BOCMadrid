@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 5 de mayo de 2023, por la que se publican diversos planes de estudio de Máster Universitario de la Universidad Politécnica de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/18/BOCM-20230518-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 5 de mayo de 2023, por la que se publican modificaciones de los planes de estudios de Graduado/a en Ingeniería Informática y Graduado/a en Matemáticas e Informática",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/18/BOCM-20230518-27.PDF"
     }
