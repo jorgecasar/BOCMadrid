@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia e Interior",
-      "description": "Resolución de 16 de mayo de 2023, del Director General de Emergencias, por la que se aplican las prohibiciones y limitaciones de circulación y acceso previstas en el artículo 48.6 de la Ley 43/2003, de 21 de noviembre, de Montes",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/18/BOCM-20230518-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 5 de mayo de 2023, por la que se publica el Plan de Estudios de Graduado o Graduada en Matemáticas por la Universidad Politécnica de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/18/BOCM-20230518-25.PDF"
