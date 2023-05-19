@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Vicepresidencia, Consejería de Educación y Universidades",
-      "description": "Decreto 52/2023, de 17 de mayo, del Consejo de Gobierno, por el que se aprueba la nueva denominación específica “Ana de Mendoza” para el Centro de Educación de Personas Adultas “Madrid VII Estremera”, en el municipio de Estremera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/19/BOCM-20230519-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Orden de 18 de mayo de 2023, del Consejero de Presidencia, Justicia e Interior, por la que se fijan servicios mínimos en relación con la convocatoria de huelga en la Administración de Justicia a partir del día 22 de mayo con carácter indefinido",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/19/BOCM-20230519-21.PDF"
