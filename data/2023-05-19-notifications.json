@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Urbanismo: Área de Gobierno de Desarrollo Urbano. Modificación puntual plan general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/19/BOCM-20230519-57.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Urbanismo: Área de Gobierno de Desarrollo Urbano. Proyecto delimitación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/19/BOCM-20230519-58.PDF"
     }
