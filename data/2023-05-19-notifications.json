@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
-      "description": "Orden 1581/2023, de 12 de mayo, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se establecen las bases reguladoras para la concesión de ayudas del Plan Regional de Ascensores de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/19/BOCM-20230519-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Política Social",
       "description": "Extracto de la Orden 1070/2023, de la Consejería de Familia, Juventud y Política Social, por la que se convocan los premios Emprendimiento Joven-Carné Joven Comunidad de Madrid, correspondientes al año 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/19/BOCM-20230519-23.PDF"
