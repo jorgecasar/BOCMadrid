@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 8 de mayo de 2023, de la Universidad Complutense de Madrid, por la que se convoca concurso de acceso a plaza de cuerpos docentes universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/23/BOCM-20230523-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Acuerdo de 10 de mayo de 2023, del Consejo de Gobierno, por el que se aprueba definitivamente la Modificación Puntual del Plan General de Ordenación Urbana de Alcalá de Henares, en el ámbito del “Acuartelamiento Primo de Rivera” Sector 22-A",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/23/BOCM-20230523-26.PDF"
