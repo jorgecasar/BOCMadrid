@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Transportes e Infraestructuras",
-      "description": "Anuncio de 10 de mayo de 2023, del convenio marco de colaboración entre Metro de Madrid, S. A. y la Fundación Freno al Ictus",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/23/BOCM-20230523-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Transportes e Infraestructuras",
       "description": "Anuncio de 19 de mayo de 2023, por el que se convoca la licitación para la contratación de un servicio de creación de la plataforma de archivado de logs de Metro de Madrid (expediente 6012300137)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/23/BOCM-20230523-50.PDF"
     }
