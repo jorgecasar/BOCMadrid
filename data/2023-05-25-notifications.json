@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Decreto 54/2023, de 17 de mayo, del Consejo de Gobierno, por el que se declara Bien de Interés Cultural de la Comunidad de Madrid, en la categoría de Paisaje Cultural, la Dehesa de Sotomayor y Casa de la Monta en Aranjuez",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/24/BOCM-20230524-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Decreto 55/2023, de 17 de mayo, del Consejo de Gobierno, por el que se declara Bien de Interés Cultural de la Comunidad de Madrid, en la categoría de monumento, El Teatro Barceló en Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/24/BOCM-20230524-28.PDF"
     }
