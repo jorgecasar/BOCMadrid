@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 12 de mayo de 2023, de la Rectora de la Universidad Autónoma de Madrid, por la que se resuelve la convocatoria pública para la provisión de un puestos de trabajo vacantes mediante el sistema de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/24/BOCM-20230524-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Orden 1543/2023, de 11 de mayo, por la que se modifica la Orden 3138/2022, de 22 de septiembre, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se aprueba el Plan Estratégico de Subvenciones para el desarrollo del Plan Estatal de Acceso a la Vivienda 2022-2025 de la Consejería de Medio Ambiente, Vivienda y Agricultura para el período 2022-2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/24/BOCM-20230524-20.PDF"
