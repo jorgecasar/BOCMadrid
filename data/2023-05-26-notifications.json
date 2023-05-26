@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Alcobendas",
-      "description": "Organización y funcionamiento: Reglamento Teletrabajo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/26/BOCM-20230526-52.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Alcobendas",
       "description": "Organización y funcionamiento: Reglamento Orgánico de Gobierno y Administración",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/26/BOCM-20230526-53.PDF"
     }
