@@ -1,0 +1,94 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 125,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/05/27/BOCM-20230527125.PDF",
+      "total": 15,
+      "items": {
+        "Comunidad de Madrid": 10,
+        "Administración de Justicia": 5
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 8 de mayo de 2023, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa Cooltra Motosharing, S. L. U. (código número 28102851012020)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/27/BOCM-20230527-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 8 de mayo de 2023, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa Pernod Ricard España, S. A. (antes Larios Pernod Ricard, S. A.) (código número 28012452012003)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/27/BOCM-20230527-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 8 de mayo de 2023, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Eempleo, sobre registro, depósito y publicación del Acuerdo de Modificación del convenio colectivo de la empresa Real Madrid Club de Fútbol (excluidos fijos discontinuos)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/27/BOCM-20230527-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Vicepresidencia, Consejería de Educación y Universidades",
+      "description": "Convenio de 2 de septiembre de 2022, entre la Comunidad de Madrid (Vicepresidencia, Consejería de Educación y Universidades) y la Fundación para el Conocimiento Madrimasd para la concesión directa de una ayuda de 1.000.000,00 euros para financiar la realización de un proyecto de investigación sobre el Sars-Cov 2 y la enfermedad COVID-19 financiado con los recursos REACT-UE del Fondo Europeo de Desarrollo Regional",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/27/BOCM-20230527-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Convenio de colaboración de 24 de abril de 2023, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Política Social, y la Fundación Gregal, para el desarrollo del “Programa Duplo” en residencias públicas y concertadas de la Comunidad de Madrid durante los años 2023 y 2024",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/27/BOCM-20230527-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Política Social",
+      "description": "Adenda de 9 de mayo de 2023, de prórroga del convenio entre la Comunidad de Madrid (Consejería de Familia, Juventud y Política Social) y la Asociación Barró, para desarrollar un programa de intervención integral con familias y menores en la Cañada Real Galiana y El Gallinero durante el período comprendido entre el 1 de enero y el 31 de diciembre de 2024",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/27/BOCM-20230527-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Adenda de 31 de marzo de 2023, al convenio de colaboración suscrito entre la Comunidad de Madrid (Consejería de Cultura y Turismo) y el Ayuntamiento de Moralzarzal, para la regulación de las condiciones de integración de dicho municipio en la Red de Teatros de la Comunidad de Madrid, en su modalidad permanente, por la que se prorroga la vigencia del mismo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/27/BOCM-20230527-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Adenda de 31 de marzo de 2023, al convenio de colaboración suscrito entre la Comunidad de Madrid (Consejería de Cultura y Turismo) y el Ayuntamiento de Villa del Prado, para la regulación de las condiciones de integración de dicho municipio en la Red de Teatros de la Comunidad de Madrid, en su modalidad intermitente, por la que se prorroga la vigencia del mismo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/27/BOCM-20230527-8.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Adenda de 31 de marzo de 2023, al convenio de colaboración suscrito entre la Comunidad de Madrid (Consejería de Cultura y Turismo) y el Ayuntamiento de Galapagar, para la regulación de las condiciones de integración de dicho municipio en la Red de Teatros de la Comunidad de Madrid, en su modalidad intermitente, por la que se prorroga la vigencia del mismo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/27/BOCM-20230527-9.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Adenda de 31 de marzo de 2023, al convenio de colaboración suscrito entre la Comunidad de Madrid (Consejería de Cultura y Turismo) y el Ayuntamiento de Colmenarejo, para la regulación de las condiciones de integración de dicho municipio en la Red de Teatros de la Comunidad de Madrid, en su modalidad intermitente, por la que se prorroga la vigencia del mismo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/27/BOCM-20230527-10.PDF"
+    }
+  }
+]
