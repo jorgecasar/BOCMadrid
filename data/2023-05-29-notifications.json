@@ -1,19 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 126,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/05/29/BOCM-20230529126.PDF",
-      "total": 101,
-      "items": {
-        "Comunidad de Madrid": 60,
-        "Disposiciones y Anuncios del Estado": 5,
-        "Administración Local Ayuntamientos": 33,
-        "Otros Anuncios": 3
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
