@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 699/2023, de 22 de mayo, de la Consejería de Cultura, Turismo y Deporte, por la que se regula el Programa de colaboración institucional en proyectos de actividad física y salud de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/30/BOCM-20230530-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Resolución de 18 de mayo de 2023, de la Secretaría General Técnica de la Vicepresidencia, Consejería de Educación y Universidades, por la que se dispone la publicación de la convocatoria del contrato de “Servicios para la gestión de Escuelas Infantiles 2-3-3, dividido en cuatro lotes”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/30/BOCM-20230530-20.PDF"
