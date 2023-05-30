@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Urbanismo: Área de Gobierno de Obras y Equipamientos. Proyecto urbanización",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/30/BOCM-20230530-55.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcalá de Henares",
       "description": "Ofertas de empleo: Ente Público Empresarial Alcalá Desarrollo. Licitación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/30/BOCM-20230530-56.PDF"
