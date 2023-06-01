@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Urbanismo: Área de Gobierno de Desarrollo Urbano. Proyecto de reparcelación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/01/BOCM-20230601-46.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcalá de Henares",
       "description": "Organización y funcionamiento: Delegación de funciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/01/BOCM-20230601-47.PDF"
