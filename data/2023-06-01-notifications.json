@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcobendas",
-      "description": "Ofertas de empleo: Procesos selectivos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/01/BOCM-20230601-50.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcorcón",
       "description": "Régimen económico: Matrícula impuestos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/01/BOCM-20230601-51.PDF"
