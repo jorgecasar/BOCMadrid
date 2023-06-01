@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
-      "description": "Orden 1720/2023, de 23 de mayo, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se reconoce la condición de beneficiarios del Bono Alquiler Joven, regulado en el Real Decreto 42/2022, de 18 de enero",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/01/BOCM-20230601-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Extracto de la Orden de 26 de mayo de 2023, del Consejero de Economía, Hacienda y Empleo, por la que se convocan subvenciones en el año 2023 para la realización de los programas públicos de empleo-formación de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/01/BOCM-20230601-19.PDF"
