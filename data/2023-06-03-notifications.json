@@ -1,17 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 131,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/06/03/BOCM-20230603131.PDF",
-      "total": 15,
-      "items": {
-        "Comunidad de Madrid": 9,
-        "Administración de Justicia": 6
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
