@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 2 de junio de 2023, de la Rectora de la Universidad Autónoma de Madrid, por la que se convocan cuatro puestos de trabajo para su provisión por el sistema de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/05/BOCM-20230605-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Extracto de la Orden 1623/2023, de 11 de mayo, del Vicepresidente, Consejero de Educación y Universidades, por la que se convocan los Premios Extraordinarios de la Comunidad de Madrid de Enseñanzas Artísticas Profesionales de Artes Plásticas y Diseño, de Danza y de Música correspondientes al curso académico 2022-2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/05/BOCM-20230605-23.PDF"
