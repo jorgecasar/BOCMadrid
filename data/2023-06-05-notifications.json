@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Presidencia de La Comunidad",
-      "description": "Decreto 29/2023, de 31 de mayo, de la Presidenta de la Comunidad de Madrid, por el que se cesa, como Conductor de la Presidenta, a D. Juan Antonio Díaz Sastre",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/05/BOCM-20230605-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Presidencia de La Comunidad",
       "description": "Decreto 30/2023, de 1 de junio, de la Presidenta de la Comunidad de Madrid, por el que se nombra a D. Juan Manuel Sánchez Blázquez como Conductor de la Presidenta",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/05/BOCM-20230605-2.PDF"
     }
