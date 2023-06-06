@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Orden 868/2023, de 26 de mayo, del Consejero de Sanidad, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/06/BOCM-20230606-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 26 de mayo de 2023, del Director-Gerente del Hospital Universitario de Móstoles, como Órgano de Contratación, por la que se designan con carácter permanente los miembros de la Mesa de Contratación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/06/BOCM-20230606-12.PDF"
     }
