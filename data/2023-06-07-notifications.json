@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Transportes e Infraestructuras",
-      "description": "Anuncio periódico indicativo de 25 de mayo de 2023, relativo al contrato de sustitución plantas de energía Enertel L1",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/06/BOCM-20230606-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Transportes e Infraestructuras",
       "description": "Anuncio de 2 de junio de 2023, por el que se convoca la licitación para la contratación del servicio de soporte y mantenimiento de licencias de Documentum (expediente 6012300163)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/06/BOCM-20230606-36.PDF"
     }
