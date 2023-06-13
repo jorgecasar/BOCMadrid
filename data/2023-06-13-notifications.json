@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 2 de junio de 2023, de la Universidad de Alcalá, por la que se nombra Profesor Titular de Universidad del Área de Conocimiento de “Organización de Empresas”, a don Antonio de Lucas Ancillo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/13/BOCM-20230613-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 5 de junio de 2023, de la Universidad Rey Juan Carlos, por la que se nombra Profesora Titular de Universidad a doña Nuria Navarro Sierra",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/13/BOCM-20230613-15.PDF"
