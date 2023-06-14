@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Presidencia de La Comunidad",
-      "description": "Decreto 32/2023, de 13 de junio, de la Presidenta de la Comunidad de Madrid en funciones, por el que cesa don Enrique Ossorio Crespo como Vicepresidente, Consejero de Educación y Universidades y se designa suplente",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/14/BOCM-20230614-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Orden 1891/2023, de 6 de junio, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacantes en la Consejería de Medio Ambiente, Vivienda y Agricultura, por el procedimiento de Concurso de Méritos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/14/BOCM-20230614-2.PDF"
