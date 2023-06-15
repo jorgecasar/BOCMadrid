@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Decreto 71/2023, de 14 de junio, del Consejo de Gobierno, por el que cesa doña María Dolores Moreno Molino como Directora General de Humanización y Atención al Paciente",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/15/BOCM-20230615-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Decreto 72/2023, de 14 de junio, del Consejo de Gobierno, por el que cesa don Andrés Gómez Blanco como Director General de Infraestructuras Sanitarias del Servicio Madrileño de Salud",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/15/BOCM-20230615-24.PDF"
     }
