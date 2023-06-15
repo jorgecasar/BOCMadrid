@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Decreto 69/2023, de 14 de junio, del Consejo de Gobierno, por el que cesa don Alberto González Díaz como Director General de Autónomos y Emprendimiento",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/15/BOCM-20230615-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Decreto 70/2023, de 14 de junio, del Consejo de Gobierno, por el que cesa doña María del Mar Paños Arriba como Directora General de Promoción Económica e Industrial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/15/BOCM-20230615-13.PDF"
     }
