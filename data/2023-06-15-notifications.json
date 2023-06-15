@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Presidencia de La Comunidad",
-      "description": "Decreto 36/2023, de 14 de junio, de la Presidenta de la Comunidad de Madrid en funciones, por el que cesa doña Marta Rivera de la Cruz como Consejera de Cultura, Turismo y Deporte y se designa suplente",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/15/BOCM-20230615-5.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Decreto 66/2023, de 14 de junio, del Consejo de Gobierno, por el que cesa don Manuel Bautista Monjón como Viceconsejero de Organización Educativa",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/15/BOCM-20230615-6.PDF"
