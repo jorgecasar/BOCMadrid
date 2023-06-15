@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia e Interior",
-      "description": "Decreto 67/2023, de 14 de junio, del Consejo de Gobierno, por el que cesa don Diego López del Hierro como Director-Gerente de la Agencia de la Comunidad de Madrid para la Reeducación y Reinserción del Menor Infractor",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/15/BOCM-20230615-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Decreto 68/2023, de 14 de junio, del Consejo de Gobierno, por el que cesa doña Paloma Tejero Toledo como Viceconsejera de Medio Ambiente y Agricultura",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/15/BOCM-20230615-11.PDF"
