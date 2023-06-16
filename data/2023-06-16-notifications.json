@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Vicepresidencia, Consejería de Educación y Universidades",
-      "description": "Extracto de la Orden 1796/2023, de 24 de mayo, del Vicepresidente, Consejero de Educación y Universidades, por la que se convocan los Premios Extraordinarios de Educación Secundaria Obligatoria de la Comunidad de Madrid, correspondientes al curso académico 2022-2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/16/BOCM-20230616-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia e Interior",
       "description": "Orden de 5 de junio de 2023, del Consejero de Presidencia, Justicia e Interior, por la que se nombran Registradores de la Propiedad, Mercantiles y de Bienes Muebles con destino en el territorio de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/16/BOCM-20230616-32.PDF"
