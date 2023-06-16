@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Disposiciones y Anuncios del Estado",
-      "description": "Junta Electoral de Zona de Colmenar Viejo. Elecciones Generales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/16/BOCM-20230616-53.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Disposiciones y Anuncios del Estado",
       "description": "Tribunal Constitucional. Cuestión de inconstitucionalidad 3133/2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/16/BOCM-20230616-54.PDF"
     }
