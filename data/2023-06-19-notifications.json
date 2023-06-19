@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Disposiciones y Anuncios del Estado",
-      "description": "Delegación del Gobierno en Madrid. Área Funcional de Industria y Energía. Autorización administrativa",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/19/BOCM-20230619-52.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Disposiciones y Anuncios del Estado",
       "description": "Instituto Nacional de Estadística. Elecciones a Cortes Generales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/19/BOCM-20230619-53.PDF"
     }
