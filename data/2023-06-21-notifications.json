@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "El Atazar",
-      "description": "Régimen económico: Padrones fiscales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/21/BOCM-20230621-55.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Fuente el Saz de Jarama",
       "description": "Organización y funcionamiento: Concesión de productividades",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/21/BOCM-20230621-56.PDF"
