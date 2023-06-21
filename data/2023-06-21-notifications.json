@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 19 de junio de 2023, del Rectorado de la Universidad Autónoma de Madrid, por la que se publica la Oferta de Empleo Público para el ejercicio 2023, correspondiente al personal de Administración y Servicios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/21/BOCM-20230621-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 12 de junio de 2023, de la Universidad de Alcalá, por la que se resuelve la convocatoria pública para la provisión, mediante el sistema de Libre Designación, de un puesto de trabajo vacante en la Universidad de Alcalá, convocada por Resolución de 21 de abril de 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/21/BOCM-20230621-13.PDF"
