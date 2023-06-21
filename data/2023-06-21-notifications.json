@@ -1,19 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 146,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/06/21/BOCM-20230621146.PDF",
-      "total": 69,
-      "items": {
-        "Comunidad de Madrid": 46,
-        "Administración Local Ayuntamientos": 19,
-        "Administración de Justicia": 3,
-        "Otros Anuncios": 1
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
