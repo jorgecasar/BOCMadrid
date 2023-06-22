@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Resolución de 6 de junio de 2023, de la Universidad de Alcalá, por la que se convoca concurso de acceso a plaza de funcionario de carrera de los Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/22/BOCM-20230622-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Resolución de 14 de junio de 2023, de la Universidad de Alcalá, por la que se anuncian las convocatorias de concursos para la provisión de plazas de Profesorado Permanente Laboral y Profesorado Contratado Temporal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/22/BOCM-20230622-14.PDF"
     }
