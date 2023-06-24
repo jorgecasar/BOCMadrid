@@ -1,0 +1,79 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 149,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/06/24/BOCM-20230624149.PDF",
+      "total": 14,
+      "items": {
+        "Comunidad de Madrid": 6,
+        "Administración Local Ayuntamientos": 2,
+        "Administración de Justicia": 6
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 22 de junio de 2023, de la Consejería de Economía, Hacienda y Empleo, por la que se modifica la Orden de 18 de febrero de 2022, de la Consejería de Economía, Hacienda y Empleo, por la que se establecen criterios objetivos para la asignación de productividad a los funcionarios de Cuerpos Docentes no Universitarios, por la participación en programas de enseñanza bilingüe, de innovación educativa y que impliquen especial dedicación al centro",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/24/BOCM-20230624-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Vicepresidencia, Consejería de Educación y Universidades",
+      "description": "Orden 2276/2023, de 22 de junio, del Vicepresidente, Consejero de Educación y Universidades, por la que se establecen los servicios mínimos esenciales en los centros de Educación Infantil de la Comunidad de Madrid, incluidos en el ámbito funcional del XII Convenio colectivo de centros de asistencia y educación infantil, con ocasión de la huelga convocada para los días 26 al 30 de junio de 2023",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/24/BOCM-20230624-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 1 de junio de 2023, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa Actren Mantenimiento Ferroviario, S. A. (Código número 28100701012015)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/24/BOCM-20230624-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 5 de junio de 2023, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa Fundación Once del Perro Guía (Código número 28010382011998)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/24/BOCM-20230624-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 5 de junio de 2023, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa Mercados Centrales de Abastecimiento, S. A. (Código número 28100721012015)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/24/BOCM-20230624-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 5 de junio de 2023, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa ZF CV Distribution Spain, S. L. (Código número 28008582011994)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/24/BOCM-20230624-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Organización y funcionamiento: Alcaldía. Delegación de funciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/24/BOCM-20230624-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Otros anuncios: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Suspensión Servicio Estacionamiento Regulado",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/24/BOCM-20230624-8.PDF"
+    }
+  }
+]
