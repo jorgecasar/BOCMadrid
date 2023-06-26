@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Vicepresidencia, Consejería de Educación y Universidades",
-      "description": "Extracto de la Orden 2185/2023, de 15 de junio, del Vicepresidente, Consejero de Educación y Universidades, por la que se aprueba la convocatoria de becas para el estudio de Formación Profesional de Grado Superior en la Comunidad de Madrid correspondiente al curso 2023-2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/26/BOCM-20230626-36.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 20 de junio de 2023, de la Consejería de Economía, Hacienda y Empleo, por la que se establecen las condiciones de una emisión de Deuda Pública verde de la Comunidad de Madrid por importe de 600.000.000,00 de euros",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/26/BOCM-20230626-37.PDF"
