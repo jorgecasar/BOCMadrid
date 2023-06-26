@@ -1,19 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 150,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/06/26/BOCM-20230626150.PDF",
-      "total": 100,
-      "items": {
-        "Comunidad de Madrid": 73,
-        "Disposiciones y Anuncios del Estado": 1,
-        "Administración Local Ayuntamientos": 24,
-        "Otros Anuncios": 2
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Presidencia de La Comunidad",
