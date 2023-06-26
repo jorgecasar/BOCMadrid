@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Orden 985/2023, de 16 de junio, de la Consejería de Sanidad, por la que se resuelve la Orden 449/2023, de 13 de marzo, de la referida Consejería (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 24 de marzo de 2023), por la que se convocan para su cobertura interina dos puestos de trabajo en esta Consejería de Sanidad y se constituyen listas de espera para futuras coberturas interinas de puestos de esta Consejería",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/26/BOCM-20230626-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 9 de junio de 2023, de la Universidad Complutense de Madrid, por la que se nombran funcionarios de los Cuerpos Docentes Universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/26/BOCM-20230626-33.PDF"
