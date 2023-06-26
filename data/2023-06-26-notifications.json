@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Presidencia de La Comunidad",
-      "description": "Decreto 48/2023, de 23 de junio, de la Presidenta de la Comunidad de Madrid, por el que se nombra a doña Oliva Cristina García Robredo, Asesor de la Presidenta",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/26/BOCM-20230626-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Presidencia de La Comunidad",
       "description": "Decreto 49/2023, de 23 de junio, de la Presidenta de la Comunidad de Madrid, por el que se nombra a don José María Ortiz Claver, Asesor de la Presidenta",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/26/BOCM-20230626-12.PDF"
     }
