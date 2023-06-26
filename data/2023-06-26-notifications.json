@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 9 de junio de 2023, de la Universidad Complutense de Madrid, por la que se nombra a D. Rafael Barrientos Yuste Profesor Titular de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/26/BOCM-20230626-34.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 22 de junio de 2023, de la Universidad de Alcalá, por la que se anuncia convocatoria de concurso específico para la provisión de puestos de trabajo vacantes en la relación de puestos de trabajo de personal funcionario de la Universidad de Alcalá",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/26/BOCM-20230626-35.PDF"
