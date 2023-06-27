@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Presidencia de La Comunidad",
-      "description": "Decreto 39/2023, de 23 de junio, de la Presidenta de la Comunidad de Madrid, por el que se nombra Consejero de Presidencia, Justicia y Administración Local a don Miguel Ángel García Martín",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/26/BOCM-20230626-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Presidencia de La Comunidad",
       "description": "Decreto 40/2023, de 23 de junio, de la Presidenta de la Comunidad de Madrid, por el que se nombra Consejera de Economía, Hacienda y Empleo a doña Rocío Albert López-Ibor",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/26/BOCM-20230626-3.PDF"
     }
