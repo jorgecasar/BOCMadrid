@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Presidencia de La Comunidad",
-      "description": "Decreto 50/2023, de 23 de junio, de la Presidenta de la Comunidad de Madrid, por el que se nombra a doña Almudena Martínez-Fornes Galindo, Asesor de la Presidenta",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/26/BOCM-20230626-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Presidencia de La Comunidad",
       "description": "Decreto 51/2023, de 23 de junio, de la Presidenta de la Comunidad de Madrid, por el que se nombra a don Álvaro Sanz Esteban, Jefe de Despacho de la Secretaría de la Presidenta",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/26/BOCM-20230626-14.PDF"
     }
