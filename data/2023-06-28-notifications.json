@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
-      "description": "Resolución de 7 de junio de 2023, del Director General de Descarbonización y Transición Energética de la Comunidad de Madrid, por la que se hace público el listado de concesiones de licencias de etiqueta ecológica de la UE emitidas por esta Dirección General",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/28/BOCM-20230628-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 15 de junio de 2023, de la Secretaría General Técnica de la Consejería de Economía, Hacienda y Empleo, por la que se delega determinada competencia en materia de personal en la Dirección General de Recursos Humanos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/28/BOCM-20230628-8.PDF"
