@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Extracto del Acuerdo del Consejo de Gobierno de 24 de mayo de 2023, por el que se aprueban las normas reguladoras y se establece el procedimiento de concesión directa de subvenciones del programa de incentivos a la contratación de personas empleadas de hogar para la conciliación de la vida familiar y laboral",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/29/BOCM-20230629-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Extracto de la Orden de 21 de junio de 2023, del Consejero de Economía, Hacienda y Empleo, por la que se convocan ayudas para el año 2023 dirigidas a empresas artesanas de la Comunidad de Madrid para la promoción y formación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/29/BOCM-20230629-19.PDF"
     }
