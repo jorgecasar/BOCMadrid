@@ -1,18 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 155,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/07/01/BOCM-20230701155.PDF",
-      "total": 18,
-      "items": {
-        "Comunidad de Madrid": 12,
-        "Disposiciones y Anuncios del Estado": 1,
-        "Administración de Justicia": 5
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
