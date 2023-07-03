@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Disposiciones y Anuncios del Estado",
-      "description": "Delegación del Gobierno en Madrid. Área Funcional de Industria y Energía. Autorización administrativa",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/03/BOCM-20230703-50.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Disposiciones y Anuncios del Estado",
       "description": "Fábrica Nacional de Moneda y Timbre. Enajenación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/03/BOCM-20230703-51.PDF"
     }
