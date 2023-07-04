@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 26 de junio de 2023, de la Universidad Rey Juan Carlos, por la que se anuncia convocatoria pública para la provisión de un puesto de trabajo reservado a personal funcionario mediante el sistema de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/04/BOCM-20230704-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Administración Local y Digitalización",
       "description": "Orden 265/2023, de 16 de junio, de la Consejería de Administración Local y Digitalización por la que se declara el importe del crédito presupuestario disponible para la concesión directa de subvenciones en especie destinadas a la ejecución de actuaciones de mantenimiento de caminos rurales de municipios de menos de 10.000 habitantes de la Comunidad de Madrid para el año 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/04/BOCM-20230704-23.PDF"
