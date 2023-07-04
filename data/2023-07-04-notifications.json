@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 26 de junio de 2023, de la Universidad Autónoma de Madrid, por la que se convocan pruebas selectivas para el ingreso en diversas escalas de la Universidad Autónoma de Madrid, por el sistema general de concurso-oposición libre y oposición libre",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/04/BOCM-20230704-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 26 de junio de 2023, de la Universidad Autónoma de Madrid, por la que se declara desierto el puesto de trabajo de personal funcionario de administración y servicio, convocado para su provisión a Concurso de Méritos específico por Resolución de 18 de abril de 2023 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 27 de abril)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/04/BOCM-20230704-18.PDF"
     }
