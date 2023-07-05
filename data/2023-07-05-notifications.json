@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Extracto del Acuerdo de 23 de junio de 2023, de la Comisión de Investigación de la Universidad de Alcalá, por el que se convocan las Bolsas de Viaje (II), para el año 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/05/BOCM-20230705-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 19 de junio de 2023, del Rector Magnífico de la Universidad Rey Juan Carlos, por la que se aprueba y se hace pública la convocatoria, y sus correspondientes bases reguladoras de las ayudas KA171 a la Movilidad Internacional de estudiantes a terceros países no asociados al Programa Eramsus+ para realizar estudios en el curso académico 2023-2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/05/BOCM-20230705-26.PDF"
