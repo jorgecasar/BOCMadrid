@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Extracto del Acuerdo de 23 de junio de 2023, de la Comisión de Investigación de la Universidad de Alcalá, por el que se convocan las Becas de Introducción a la Investigación 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/05/BOCM-20230705-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Extracto del Acuerdo de 23 de junio de 2023, de la Comisión de Investigación de la Universidad de Alcalá, por el que se convocan las Bolsas de Viaje (II), para el año 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/05/BOCM-20230705-25.PDF"
     }
