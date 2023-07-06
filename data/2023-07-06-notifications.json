@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Decreto 103/2023, de 5 de julio, del Consejo de Gobierno, por el que cesa don Ignacio Martín Blasco como Director General de Educación Infantil, Primaria y Especial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/06/BOCM-20230706-33.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Decreto 104/2023, de 5 de julio, del Consejo de Gobierno, por el que se nombra Viceconsejero de Política Educativa a don Ignacio Martín Blasco",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/06/BOCM-20230706-34.PDF"
     }
