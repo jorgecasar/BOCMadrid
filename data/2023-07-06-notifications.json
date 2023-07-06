@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Decreto 93/2023, de 5 de julio, del Consejo de Gobierno, por el que se nombra Directora General de Comercio, Consumo y Servicios a doña Marta Nieto Novo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/06/BOCM-20230706-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Decreto 94/2023, de 5 de julio, del Consejo de Gobierno, por el que se nombra Directora General de Autónomos y Emprendimiento a doña Irene Correas Sosa",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/06/BOCM-20230706-19.PDF"
     }
