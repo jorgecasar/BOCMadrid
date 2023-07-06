@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Decreto 87/2023, de 5 de julio, del Consejo de Gobierno, por el que cesa don Manuel Llamas Fraga como Viceconsejero de Economía",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/06/BOCM-20230706-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Decreto 88/2023, de 5 de julio, del Consejo de Gobierno, por el que cesa don Alfredo Timermans del Olmo como Viceconsejero de Empleo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/06/BOCM-20230706-13.PDF"
     }
