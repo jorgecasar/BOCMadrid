@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Digitalización",
-      "description": "Decreto 97/2023, de 5 de julio, del Consejo de Gobierno, por el que se nombra Secretaria General Técnica de la Consejería de Digitalización a doña Judit Díez Manzanedo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/06/BOCM-20230706-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Digitalización",
       "description": "Decreto 98/2023, de 5 de julio, del Consejo de Gobierno, por el que cesa don José Antonio Sánchez Serrano como Viceconsejero de Administración Local y Digitalización",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/06/BOCM-20230706-28.PDF"
     }
