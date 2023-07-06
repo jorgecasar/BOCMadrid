@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Decreto 90/2023, de 5 de julio, del Consejo de Gobierno, por el que cesa doña María de la O Olivera Fernández como Directora General de Formación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/06/BOCM-20230706-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Decreto 91/2023, de 5 de julio, del Consejo de Gobierno, por el que se nombra Viceconsejero de Economía y Empleo a don Daniel Rodríguez Asensio",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/06/BOCM-20230706-16.PDF"
     }
