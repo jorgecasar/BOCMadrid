@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Decreto 109/2023, de 5 de julio, del Consejo de Gobierno, por el que cesa doña María Mercedes Marín García como Directora General de Bilingüismo y Calidad de la Enseñanza",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/06/BOCM-20230706-39.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Decreto 110/2023, de 5 de julio, del Consejo de Gobierno, por el que cesa don Ricardo Díaz Martín como Director General de Universidades y Enseñanzas Artísticas Superiores",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/06/BOCM-20230706-40.PDF"
     }
