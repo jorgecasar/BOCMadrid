@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Decreto 113/2023, de 5 de julio, del Consejo de Gobierno, por el se nombra Director General de Enseñanzas Artísticas a don Miguel Olite Lumbreras",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/06/BOCM-20230706-42.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Decreto 114/2023, de 5 de julio, del Consejo de Gobierno, por el que cesa doña Mar Pérez Merino como Secretaria General Técnica de Vicepresidencia, Consejería de Educación y Universidades",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/06/BOCM-20230706-43.PDF"
     }
