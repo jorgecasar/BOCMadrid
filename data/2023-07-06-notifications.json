@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Digitalización",
-      "description": "Decreto 101/2023, de 5 de julio, del Consejo de Gobierno, por el que se nombra Directora General de Salud Digital a doña Nuria Ruiz Hombrebueno",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/06/BOCM-20230706-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Digitalización",
       "description": "Decreto 102/2023, de 5 de julio, del Consejo de Gobierno, por el que se nombra Director General de Estrategia Digital a don Ignacio Azorín González",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/06/BOCM-20230706-32.PDF"
     }
