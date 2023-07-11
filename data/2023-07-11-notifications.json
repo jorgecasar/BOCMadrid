@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio periódico indicativo de 29 de junio de 2023, relativo al contrato del acuerdo marco para la “Certificación y reparación de las instalaciones de bucle inductivo vinculadas al sistema de interfonía de Metro de Madrid”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/11/BOCM-20230711-36.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 7 de julio de 2023, por el que se convoca la licitación para la contratación de un servicio de mediación de seguros para Metro de Madrid, S. A. (Expediente 6012300214)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/11/BOCM-20230711-37.PDF"
     }
