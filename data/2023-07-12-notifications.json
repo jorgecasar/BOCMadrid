@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Disposiciones y Anuncios del Estado",
-      "description": "Ministerio de Hacienda y Función Pública. Delegación Especial de Economía y Hacienda en Madrid. Subasta inmuebles",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/12/BOCM-20230712-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Madrid",
       "description": "Licencias: O. A",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/12/BOCM-20230712-33.PDF"
