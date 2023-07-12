@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Arganda del Rey",
-      "description": "Organización y funcionamiento: Comisiones informativas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/12/BOCM-20230712-43.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Arganda del Rey",
       "description": "Organización y funcionamiento: Delegación de funciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/12/BOCM-20230712-44.PDF"
     }
