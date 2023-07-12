@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 3 de julio de 2023, de la Universidad Rey Juan Carlos, por la que se nombra a don José Miguel Buenaposada Biencinto como Catedrático de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/12/BOCM-20230712-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 2414/2023, de 29 de junio, del Consejero de Educación, Ciencia y Universidades, por la que se corrige un error material en la Orden 1944/2023, de 1 de junio, del Vicepresidente, Consejero de Educación y Universidades, por la que se da la conformidad al inicio de actividades de la Universidad Internacional en las instalaciones ubicadas en la calle de Arapiles, número 14, de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/12/BOCM-20230712-13.PDF"
