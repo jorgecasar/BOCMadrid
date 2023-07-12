@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 5 de julio de 2022, del Rector de la Universidad Rey Juan Carlos, por la que se convocan los Premios del Consejo Social para Jóvenes Investigadores e Innovadores URJC",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/12/BOCM-20230712-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Resolución de 6 de junio de 2023, de la Dirección General de Descarbonización y Transición Energética, por la que se somete a información pública la petición de autorización administrativa y aprobación del proyecto para la construcción de una subestación denominada ST Equinix en el término municipal de Alcobendas (Madrid), solicitada por Equinix (Spain), S. A. U.",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/12/BOCM-20230712-17.PDF"
