@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 6 de julio de 2023, de la Universidad Carlos III de Madrid, por la que se anuncia la publicación de la convocatoria de proceso selectivo para el acceso por promoción interna en la Escala Superior de Técnicos de Administración de la Universidad Carlos III de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/14/BOCM-20230714-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 7 de julio de 2023, de la Universidad Rey Juan Carlos, por la que se convoca proceso selectivo para la constitución de bolsas de empleo para nombramientos temporales de funcionarios/as interinos/as la Escala de Oficial de Oficios de esta Universidad, Especialidades de Diseño y Moda y de Fabricación y Talleres de Bellas Artes",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/14/BOCM-20230714-11.PDF"
