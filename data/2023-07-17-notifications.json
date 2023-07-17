@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 6 de julio de 2023, de la Universidad Autónoma de Madrid, por la que se nombran funcionarios/as de carrera de la Escala Administrativa de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/17/BOCM-20230717-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 6 de julio de 2023, de la Rectora de la Universidad Autónoma de Madrid, por la que se convoca un puesto de trabajo para su provisión por el sistema de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/17/BOCM-20230717-23.PDF"
     }
