@@ -1,20 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 168,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/07/17/BOCM-20230717168.PDF",
-      "total": 82,
-      "items": {
-        "Comunidad de Madrid": 49,
-        "Disposiciones y Anuncios del Estado": 1,
-        "Administración Local Ayuntamientos": 30,
-        "Administración de Justicia": 1,
-        "Otros Anuncios": 1
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Administración Local y Digitalización",
