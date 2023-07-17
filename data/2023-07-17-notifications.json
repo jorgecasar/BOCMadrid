@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Corrección de errores de la Resolución de 22 de junio de 2023, de la Gerencia de la Universidad de Alcalá, por la que se publica la Oferta de Empleo Público de Personal de Administración y Servicios para el año 2023 resultante de la tasa de reposición de efectivos prevista en la Ley 31/2022, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/17/BOCM-20230717-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 7 de julio de 2023, de la Universidad Rey Juan Carlos, por la que se nombra Profesor Titular de Universidad a doña Ana Arboleya Arboleya",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/17/BOCM-20230717-25.PDF"
