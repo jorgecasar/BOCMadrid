@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 7 de julio de 2023, de la Universidad Rey Juan Carlos, por la que se nombra Profesor Titular de Universidad a doña Ana Arboleya Arboleya",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/17/BOCM-20230717-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Transportes e Infraestructuras",
       "description": "Corrección de errores de la Resolución de 19 de junio de 2023, de la Dirección General de Transportes y Movilidad de la Consejería de Transportes e Infraestructuras, por la que se da la conformidad a la adhesión de nuevos municipios al Área de Prestación Conjunta de los Servicios de Transporte de Viajeros en Automóviles de Turismo Sierra Norte de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/17/BOCM-20230717-26.PDF"
