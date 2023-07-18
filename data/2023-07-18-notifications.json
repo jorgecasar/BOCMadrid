@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio periódico indicativo de 6 de julio de 2023, relativo al contrato de “Mantenimiento de los sistemas centrales de Protección Contra Incendios (PCI)”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/18/BOCM-20230718-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio periódico indicativo de 6 de julio de 2023, relativo al contrato de reacondicionamiento pozos bombeo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/18/BOCM-20230718-36.PDF"
     }
