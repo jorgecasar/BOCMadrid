@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Cercedilla",
-      "description": "Régimen económico: Ordenanza fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/18/BOCM-20230718-52.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Cercedilla",
       "description": "Régimen económico: Ordenanza fiscal incremento valor terrenos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/18/BOCM-20230718-53.PDF"
     }
