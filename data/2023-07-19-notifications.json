@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 17 de julio de 2023, de la Rectora de la Universidad Autónoma de Madrid, por la que se declara el próximo mes de agosto inhábil a los efectos señalados en esta Resolución",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/19/BOCM-20230719-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Extracto de 6 de julio de 2023, de la convocatoria de ayudas para la cooperación universitaria 2023/2024 para proyectos y actividades relacionadas con el impulso de la Agenda 2030 para el desarrollo sostenible en el marco del HUB UAH comprometida",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/19/BOCM-20230719-21.PDF"
