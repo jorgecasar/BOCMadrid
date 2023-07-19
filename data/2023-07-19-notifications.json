@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 5 de julio de 2023, por la que se publica la Oferta de Empleo Público para el ejercicio 2023 del Personal Docente e Investigador de la Universidad Rey Juan Carlos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/19/BOCM-20230719-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 10 de julio de 2023, de la Universidad Rey Juan Carlos, por la que se nombra a don Antonio Pastor Palomar como Catedrático de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/19/BOCM-20230719-14.PDF"
     }
