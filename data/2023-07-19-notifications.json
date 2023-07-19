@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Resolución de 4 de julio de 2023, de la Dirección-Gerencia del Hospital Universitario del Tajo del Servicio Madrileño de la Salud, por la que se resuelve la convocatoria de fecha 16 de enero de 2023 de un puesto de Jefe/a de Servicio de Cirugía General y Aparato Digestivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/19/BOCM-20230719-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 4 de julio de 2023, de la Universidad Complutense de Madrid, por la que se convocan concurso de acceso a plazas de Cuerpos Docentes Universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/19/BOCM-20230719-12.PDF"
