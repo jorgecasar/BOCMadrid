@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Decreto 182/2023, de 12 de julio, del Consejo de Gobierno, por el que se declara Bien de Interés Cultural de la Comunidad de Madrid, en la categoría de Zona de Interés Arqueológico, el yacimiento “Alcalá la Vieja”, en Alcalá de Henares",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/19/BOCM-20230719-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Decreto 183/2023, de 12 de julio, del Consejo de Gobierno, por el que se declara Bien de Interés Cultural de la Comunidad de Madrid, en la categoría de Bien de Interés Industrial, la Fundición Tipográfica Richard Gans, de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/19/BOCM-20230719-19.PDF"
     }
