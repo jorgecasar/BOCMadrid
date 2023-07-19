@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Régimen económico: Pleno del Ayuntamiento. Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/19/BOCM-20230719-53.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Contratación: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Estudio viabilidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/19/BOCM-20230719-54.PDF"
     }
