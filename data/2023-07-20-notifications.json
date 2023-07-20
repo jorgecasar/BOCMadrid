@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio periódico indicativo de 7 de julio de 2023, relativo al contrato de “Renovación por obsolescencia de Sistema de Alimentación Ininterrumpida (SAI) y monitorización básica en cuartos de Protección Contra Incendios (PCI)”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/20/BOCM-20230720-33.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Resolución de 5 de julio de 2023, de la Fundación para la Investigación Biomédica del Hospital General Universitario “Gregorio Marañón”, por la que se dispone la publicación, en los boletines oficiales y en el “perfil del contratante” en internet, de la formalización del contrato de “Suministro de sistema de imagen nuclear CT”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/20/BOCM-20230720-34.PDF"
