@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Decreto 212/2023, de 19 de julio, del Consejo de Gobierno, por el que se nombra Director General de Gestión Económico-Financiera del Servicio Madrileño de Salud a don José Macía Losada",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/20/BOCM-20230720-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Acuerdo de 19 de julio de 2023, del Consejo de Gobierno, por el que se procede a la corrección de error material del Decreto 141/2023, de 5 de julio, del Consejo de Gobierno, por el que se nombra Director de la Agencia de Seguridad y Emergencias Madrid 112 a don Pedro Antonio Ruiz Escobar",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/20/BOCM-20230720-16.PDF"
