@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 11 de julio de 2023, del Gerente la Universidad de Alcalá, por la que se resuelve el proceso selectivo de concurso-oposición para la provisión, por el sistema general de acceso libre y promoción interna, de plaza de personal laboral de la categoría Titulado/a Medio convocado por Resolución de 22 de diciembre de 2021",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/20/BOCM-20230720-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 2530/2023, de 10 de julio, de la Consejería de Educación, Ciencia y Universidades, por la que se suprime la adscripción administrativa a centros públicos de los centros privados autorizados para impartir enseñanzas artísticas superiores en la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/20/BOCM-20230720-24.PDF"
