@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Acuerdo de 19 de julio de 2023, del Consejo de Gobierno, por el que se nombra Presidente del Consejo de Administración del Consorcio Regional de Transportes Públicos Regulares de Madrid a don Jorge Rodrigo Domínguez",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/20/BOCM-20230720-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Decreto 210/2023, de 19 de julio, del Consejo de Gobierno, por el que cesa don José Macía Losada como Director General Asistencial del Servicio Madrileño de Salud",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/20/BOCM-20230720-13.PDF"
