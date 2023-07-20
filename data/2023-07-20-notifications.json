@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Humanes de Madrid",
-      "description": "Organización y funcionamiento: Personal eventual",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/20/BOCM-20230720-52.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Humanes de Madrid",
       "description": "Organización y funcionamiento: Régimen dedicación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/20/BOCM-20230720-53.PDF"
     }
