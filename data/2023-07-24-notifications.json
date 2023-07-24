@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 11 de julio de 2023, de la Universidad de Alcalá, por la que se nombra Profesor Titular de Universidad del Área de Conocimiento de “Fisioterapia” a don Daniel Pecos Martín",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/24/BOCM-20230724-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Orden de 14 de julio de 2023, del Consejero de Presidencia, Justicia y Administración Local, por la que se nombran Notarios con destino en el territorio de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/24/BOCM-20230724-15.PDF"
