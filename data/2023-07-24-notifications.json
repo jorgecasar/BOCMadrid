@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Bustarviejo",
-      "description": "Personal: Nombramientos funcionarios carrera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/24/BOCM-20230724-51.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Camarma de Esteruelas",
       "description": "Organización y funcionamiento: Nombramientos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/24/BOCM-20230724-52.PDF"
