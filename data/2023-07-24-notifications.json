@@ -1,19 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 174,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/07/24/BOCM-20230724174.PDF",
-      "total": 88,
-      "items": {
-        "Comunidad de Madrid": 44,
-        "Disposiciones y Anuncios del Estado": 3,
-        "Administración Local Ayuntamientos": 37,
-        "Administración de Justicia": 4
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
