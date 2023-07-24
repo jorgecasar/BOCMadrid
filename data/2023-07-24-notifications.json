@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Resolución de 10 de julio de 2023, de la Universidad de Alcalá, por la que se nombra Catedrática de Universidad del Área de Conocimiento de “Bioquímica y Biología molecular”, a doña Ana María Bajo Chueca",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/24/BOCM-20230724-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Resolución de 11 de julio de 2023, de la Universidad de Alcalá, por la que se nombra Profesor Titular de Universidad del Área de Conocimiento de “Fisioterapia” a don Daniel Pecos Martín",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/24/BOCM-20230724-14.PDF"
     }
