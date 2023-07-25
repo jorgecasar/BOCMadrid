@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Campo Real",
-      "description": "Organización y funcionamiento: Delegación funciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/25/BOCM-20230725-41.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Cercedilla",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/25/BOCM-20230725-42.PDF"
