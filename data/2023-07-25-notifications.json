@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 13 de julio de 2023, de la Universidad Politécnica de Madrid, por la que se declara el mes de agosto inhábil a los efectos señalados en esta Resolución",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/25/BOCM-20230725-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 14 de julio de 2023, del Presidente de la Junta Arbitral de Consumo de la Comunidad de Madrid, por la que se dispone la publicación de las empresas a las que se ha concedido el distintivo público de adhesión al Sistema Arbitral de Consumo durante el segundo trimestre de 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/25/BOCM-20230725-13.PDF"
