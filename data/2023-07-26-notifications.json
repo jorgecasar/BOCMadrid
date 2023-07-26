@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Extracto de la Orden de 29 de junio de 2023, de la Consejería de Economía, Hacienda y Empleo, por la que se establecen las bases reguladoras para la concesión de subvenciones para financiar acciones de formación, a través de un bono de formación, que faciliten la obtención de permisos de conducción de las clases C, D y C+E, dirigido a personas trabajadoras desempleadas y ocupadas para la mejora de su empleabilidad, en el marco del Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea, Next Generation-EU y se convocan dichas subvenciones para los años 2023, 2024 y 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/25/BOCM-20230725-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Resolución de 19 de julio de 2023, de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se aprueba el primer listado de requeridos de cobro en el proceso de concesión directa del Bono Alquiler Joven, regulado en el Real Decreto 42/2022, de 18 de enero",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/25/BOCM-20230725-10.PDF"
