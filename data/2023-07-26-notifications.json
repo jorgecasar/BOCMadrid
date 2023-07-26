@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Guadalix de la Sierra",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/25/BOCM-20230725-55.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Humanes de Madrid",
       "description": "Organización y funcionamiento: Nombramientos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/25/BOCM-20230725-56.PDF"
