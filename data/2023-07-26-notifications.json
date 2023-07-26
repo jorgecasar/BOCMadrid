@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Chapinería",
-      "description": "Ofertas de empleo: Nombramiento personal laboral",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/25/BOCM-20230725-44.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Collado Villalba",
       "description": "Organización y funcionamiento: Reglamento orgánico",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/25/BOCM-20230725-45.PDF"
