@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Disposiciones y Anuncios del Estado",
-      "description": "Ministerio para la Transición Ecológica y el Reto Demográfico. Confederación Hidrográfica del Tajo. Concesión aguas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/27/BOCM-20230727-36.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Madrid",
       "description": "Urbanismo: Área de Gobierno de Políticas de Vivienda. Concesión subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/27/BOCM-20230727-37.PDF"
