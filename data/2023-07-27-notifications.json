@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Fuenlabrada",
-      "description": "Personal: Nombramiento funcionario carrera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/27/BOCM-20230727-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Fuente el Saz de Jarama",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/27/BOCM-20230727-50.PDF"
