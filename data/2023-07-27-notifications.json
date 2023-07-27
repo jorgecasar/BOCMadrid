@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Decreto 217/2023, de 26 de julio, del Consejo de Gobierno, por el que se establece la estructura directiva de la Agencia de Seguridad y Emergencias Madrid 112",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/27/BOCM-20230727-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Decreto 218/2023, de 26 de julio, del Consejo de Gobierno, por el que cesa don Fabio Pascua Mateo como Viceconsejero de Asuntos Jurídicos y Secretario General del Consejo de Gobierno",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/27/BOCM-20230727-2.PDF"
