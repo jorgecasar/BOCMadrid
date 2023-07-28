@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio periódico indicativo de 18 de julio de 2023, relativo al “Contrato del Acuerdo marco traslado equipos al nuevo CPD Global”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/27/BOCM-20230727-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio periódico indicativo de 18 de julio de 2023, relativo al “Contrato del Acuerdo marco suministros industriales”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/27/BOCM-20230727-24.PDF"
     }
