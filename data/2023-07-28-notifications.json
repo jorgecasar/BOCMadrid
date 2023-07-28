@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Digitalización",
-      "description": "Encomienda de gestión de 25 de julio de 2023, de la Secretaría General Técnica de la Consejería de Digitalización a la Secretaría General Técnica de la Consejería de Presidencia, Justicia y Administración Local",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/27/BOCM-20230727-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Resolución de 18 de julio de 2023, de la Viceconsejería de Organización Educativa, por la que se dictan instrucciones para la aplicación del capítulo IV de la Orden 732/2021, de 24 de marzo, de la Consejería de Educación y Juventud, por la que se desarrolla el Decreto 61/2019, de 9 de julio, del Consejo de Gobierno, por el que se regula la organización, estructura y funcionamiento de la inspección educativa de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/07/27/BOCM-20230727-22.PDF"
