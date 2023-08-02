@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Disposiciones y Anuncios del Estado",
-      "description": "Ministerio de Inclusión, Seguridad Social y Migraciones. Tesorería General de la Seguridad Social. Subasta inmuebles",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/02/BOCM-20230802-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcobendas",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/02/BOCM-20230802-30.PDF"
