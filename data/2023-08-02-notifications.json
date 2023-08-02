@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio periódico indicativo de 20 de julio de 2023, relativo al contrato de “Revisión de equipos en R2 de Metros Ligeros”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/02/BOCM-20230802-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio periódico indicativo de 20 de julio de 2023, relativo al contrato de sustitución de todas las UPS (Sistemas de Alimentación Ininterrumpida) ENERTEL",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/02/BOCM-20230802-19.PDF"
     }
