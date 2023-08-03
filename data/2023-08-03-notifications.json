@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 2758/2023, de 21 de julio, del Consejero de Educación, Ciencia y Universidades, por la que se aprueba la ampliación de unidades de primer ciclo de Educación Infantil en tres escuelas infantiles-casas de niños, el traslado de edificio de una escuela infantil–casa de niños y el traslado de edificio y la ampliación de unidades de primer ciclo de Educación Infantil en una escuela infantil",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/03/BOCM-20230803-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 1126/2023, de 11 de julio, de la Consejería de Sanidad, por la que se derogan diversas órdenes en materia de requisitos de habilitaciones de transporte sanitario, inscripciones en registros y determinados procedimientos, y se modifica la Orden 1085/1998, de 25 de mayo, de la Consejería de Sanidad y Servicios Sociales, por la que se regula el reconocimiento de interés sanitario, y/o social, para actos de carácter científico en la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/03/BOCM-20230803-10.PDF"
