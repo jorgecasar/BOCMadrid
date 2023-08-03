@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Extracto de la convocatoria de 25 de julio de 2023, de la Directora General de la Fundación General de la Universidad de Alcalá, por la que se convocan ayudas por compensación de gastos de alojamiento y transporte a estudiantes extranjeros hablantes nativos de inglés matriculados en Estudios de Máster de formación permanente en Centros de la Universidad de Alcalá, curso 2023-2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/03/BOCM-20230803-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Universidades, Ciencia y Portavocía",
       "description": "Convenio interadministrativo de 21 de junio de 2021, entre la Comunidad de Madrid y el Ayuntamiento de Boadilla del Monte para la prevención y control del absentismo escolar",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/03/BOCM-20230803-13.PDF"
