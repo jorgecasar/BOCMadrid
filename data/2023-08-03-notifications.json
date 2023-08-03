@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 24 de julio de 2023, de la Universidad Politécnica de Madrid, por la que se publica la Oferta de Empleo Público para el ejercicio 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/03/BOCM-20230803-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 2758/2023, de 21 de julio, del Consejero de Educación, Ciencia y Universidades, por la que se aprueba la ampliación de unidades de primer ciclo de Educación Infantil en tres escuelas infantiles-casas de niños, el traslado de edificio de una escuela infantil–casa de niños y el traslado de edificio y la ampliación de unidades de primer ciclo de Educación Infantil en una escuela infantil",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/03/BOCM-20230803-9.PDF"
