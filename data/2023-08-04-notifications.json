@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 21 de julio de 2023, conjunta de la Universidad Complutense de Madrid y de la Consejería de Sanidad de la Comunidad de Madrid, por la que se nombra Profesor Titular de Universidad con plaza vinculada a D. Andrés Sánchez Pernaute",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/04/BOCM-20230804-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 26 de julio de 2023, de la Rectora de la Universidad Autónoma de Madrid, por la que se convoca un puesto de trabajo para su provisión por el sistema de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/04/BOCM-20230804-10.PDF"
