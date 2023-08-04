@@ -1,20 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 184,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/08/04/BOCM-20230804184.PDF",
-      "total": 88,
-      "items": {
-        "Comunidad de Madrid": 40,
-        "Disposiciones y Anuncios del Estado": 2,
-        "Administración Local Ayuntamientos": 36,
-        "Administración de Justicia": 5,
-        "Otros Anuncios": 5
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
