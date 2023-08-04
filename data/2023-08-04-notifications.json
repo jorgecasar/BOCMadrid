@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 2 de agosto de 2023, de nombramiento de cargo de Metro de Madrid, S. A.",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/04/BOCM-20230804-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 21 de julio de 2023, conjunta de la Universidad Complutense de Madrid y de la Consejería de Sanidad de la Comunidad de Madrid, por la que se nombra Profesor Titular de Universidad con plaza vinculada a D. Andrés Sánchez Pernaute",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/04/BOCM-20230804-9.PDF"
