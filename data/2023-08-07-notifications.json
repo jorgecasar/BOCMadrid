@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Disposiciones y Anuncios del Estado",
-      "description": "Ministerio de Transportes, Movilidad y Agenda Urbana. Demarcación de Carreteras del Estado en Madrid. Expropiación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/07/BOCM-20230807-44.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Disposiciones y Anuncios del Estado",
       "description": "Ministerio para la Transición Ecológica y el Reto Demográfico. Confederación Hidrográfica del Tajo. Extinción aguas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/07/BOCM-20230807-45.PDF"
     }
