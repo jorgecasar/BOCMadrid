@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Colmenar Viejo",
-      "description": "Ofertas de empleo: Convocatoria procesos selectivos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/07/BOCM-20230807-60.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "El Escorial",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/07/BOCM-20230807-61.PDF"
