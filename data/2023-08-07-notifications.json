@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "El Escorial",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/07/BOCM-20230807-61.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Fresnedillas de la Oliva",
       "description": "Régimen económico: Precios públicos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/07/BOCM-20230807-62.PDF"
