@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 2708/2023, de 24 de julio, del Consejero de Educación, Ciencia y Universidades, sobre la realización del prácticum del alumnado de los grados de Magisterio, Pedagogía y Psicología, Máster Universitario en Formación del Profesorado de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanza de Idiomas y de la formación equivalente, durante el curso 2023-2024 en centros educativos no universitarios de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/08/BOCM-20230808-4.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Corrección de errores advertidos en la publicación del Acuerdo de 26 de julio de 2023, del Consejo de Gobierno, por el que se aprueban las normas reguladoras y se establece el procedimiento de concesión directa de ayudas para sufragar gastos extraordinarios destinados al apoyo al acogimiento familiar con cargo a la Dirección General de Infancia, Familia y Fomento de la Natalidad (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID número 178, de 28 de julio de 2023)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/08/BOCM-20230808-5.PDF"
