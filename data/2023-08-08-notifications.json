@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Navas del Rey",
-      "description": "Régimen económico: Cuenta general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/08/BOCM-20230808-43.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Rivas-Vaciamadrid",
       "description": "Organización y funcionamiento: Nombramiento",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/08/BOCM-20230808-44.PDF"
