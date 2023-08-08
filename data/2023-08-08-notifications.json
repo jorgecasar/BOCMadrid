@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Leganés",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/08/BOCM-20230808-41.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Mejorada del Campo",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/08/BOCM-20230808-42.PDF"
