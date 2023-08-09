@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Orden 388/2023, de 28 de julio, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se aprueba la delegación del ejercicio de las competencias en materia de ordenación y control del juego",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/09/BOCM-20230809-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Orden 2435/2023, de 31 de julio, de la Consejera de Familia, Juventud y Asuntos Sociales, por la que se amplía el importe del crédito presupuestario disponible para el procedimiento de concesión directa de ayudas económicas de pago mensual por gestación, nacimiento de hijo o adopción de menores en la Comunidad de Madrid en el ejercicio 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/09/BOCM-20230809-18.PDF"
