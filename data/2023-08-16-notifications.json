@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Soto del Real",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/16/BOCM-20230816-38.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Torrejón de Ardoz",
       "description": "Urbanismo: Disolución junta compensación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/16/BOCM-20230816-39.PDF"
