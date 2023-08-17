@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 2935/2023, de 7 de agosto, del Consejero de Educación, Ciencia y Universidades, por la que se autorizan enseñanzas en centros públicos de educación secundaria, a partir del curso 2023-2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/17/BOCM-20230817-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Extracto de la Orden 414/2023, por la que amplía plazo de presentación de solicitudes previsto en la Orden 60/2023, de la Consejería de Medio Ambiente, Agricultura e Interior, que aprueba las convocatorias 2023 de ayuda a inversiones productivas en explotaciones agrarias vinculadas a contribuir a mitigación-adaptación al cambio climático y uso eficiente recursos naturales y ayuda a inversiones en modernización explotaciones agrarias cofinanciadas por FEADER y Administración General del Estado",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/17/BOCM-20230817-8.PDF"
