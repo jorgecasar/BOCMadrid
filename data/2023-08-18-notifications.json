@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Resolución 3293/2023, de 9 de agosto, del Director-Gerente de la Agencia de Vivienda Social de la Comunidad de Madrid, por la que se delega la competencia en materia de modificaciones presupuestarias",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/18/BOCM-20230818-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 1245/2023, de 31 de julio, de la Consejería de Cultura, Turismo y Deporte, por la que se conceden ayudas a federaciones deportivas madrileñas para la adquisición de equipamiento y material deportivo y de accesibilidad, destinadas a facilitar y mejorar las condiciones de la práctica deportiva para las personas con discapacidad en la temporada 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/18/BOCM-20230818-9.PDF"
