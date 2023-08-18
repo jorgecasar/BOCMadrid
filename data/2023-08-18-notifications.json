@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 1338/2023, de 7 de agosto, del Consejero de Cultura, Turismo y Deporte, por la que se nombran vocales, vocales suplentes, secretario y secretario suplente del Consejo Madrileño de la Lectura, el Libro y las Bibliotecas de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/18/BOCM-20230818-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Resolución 3293/2023, de 9 de agosto, del Director-Gerente de la Agencia de Vivienda Social de la Comunidad de Madrid, por la que se delega la competencia en materia de modificaciones presupuestarias",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/18/BOCM-20230818-8.PDF"
