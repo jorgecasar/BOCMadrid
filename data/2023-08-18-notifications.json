@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio de 27 de julio de 2023, entre la Comunidad de Madrid y la Universidad de Alcalá, para la concesión de una subvención directa para el fomento y promoción de la investigación y la transferencia de tecnología por importe de 4.400.000 euros",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/18/BOCM-20230818-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Convenio de 27 de julio de 2023, entre la Comunidad de Madrid y la Universidad Complutense de Madrid, para la concesión de una subvención directa para el fomento y promoción de la investigación y la transferencia de tecnología por importe de 9.100.000,00 euros",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/18/BOCM-20230818-15.PDF"
     }
