@@ -1,0 +1,62 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 197,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/08/19/BOCM-20230819197.PDF",
+      "total": 11,
+      "items": {
+        "Comunidad de Madrid": 6,
+        "Administración de Justicia": 5
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Convenio de colaboración de 2 de agosto de 2023, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Asuntos Sociales, y el Ayuntamiento de Algete, para el desarrollo de la atención social primaria y otros programas por los Servicios Sociales de las entidades locales para el año 2023",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/19/BOCM-20230819-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Convenio de colaboración de 2 de agosto de 2023, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Asuntos Sociales, y la Mancomunidad de Servicios Sociales Pantueña, para el desarrollo de la Atención Social Primaria y otros programas por los Servicios Sociales de las entidades locales para el año 2023",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/19/BOCM-20230819-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Convenio de colaboración de 2 de agosto de 2023, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Asuntos Sociales, y el Ayuntamiento de Casarrubuelos, para el desarrollo de la Atención Social Primaria y otros programas por los Servicios Sociales de las entidades locales para el año 2023",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/19/BOCM-20230819-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Convenio de colaboración de 2 de agosto de 2023, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Asuntos Sociales, y el Ayuntamiento de Navalcarnero, para el desarrollo de la Atención Social Primaria y otros programas por los Servicios Sociales de las entidades locales para el año 2023",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/19/BOCM-20230819-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Convenio de colaboración de 2 de agosto de 2023, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Asuntos Sociales, y el Ayuntamiento de Navas del Rey, para el desarrollo de la Atención Social Primaria y otros programas por los Servicios Sociales de las entidades locales para el año 2023",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/19/BOCM-20230819-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Convenio de colaboración de 2 de agosto de 2023, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Asuntos Sociales y el Ayuntamiento de Nuevo Baztán para el desarrollo de la atención social primaria y otros programas por los servicios sociales de las entidades locales para el año 2023",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/19/BOCM-20230819-6.PDF"
+    }
+  }
+]
