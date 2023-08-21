@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Alcobendas",
-      "description": "Régimen económico: Padrones fiscales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/21/BOCM-20230821-40.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Alcobendas",
       "description": "Régimen económico: Período pago impuesto",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/21/BOCM-20230821-41.PDF"
     }
