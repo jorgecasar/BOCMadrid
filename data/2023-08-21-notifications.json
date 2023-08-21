@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Las Rozas de Madrid",
-      "description": "Ofertas de empleo: Nombramiento funcionaria carrera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/21/BOCM-20230821-56.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Majadahonda",
       "description": "Régimen económico: Extracto convocatoria subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/21/BOCM-20230821-57.PDF"
