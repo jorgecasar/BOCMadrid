@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Manzanares el Real",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/21/BOCM-20230821-58.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Meco",
       "description": "Régimen económico: Padrón fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/21/BOCM-20230821-59.PDF"
