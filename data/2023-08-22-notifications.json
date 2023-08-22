@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Las Rozas de Madrid",
-      "description": "Organización y funcionamiento: Nombramiento",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/22/BOCM-20230822-45.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Majadahonda",
       "description": "Organización y funcionamiento: Nombramiento personal eventual",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/22/BOCM-20230822-46.PDF"
