@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Robledo de Chavela",
-      "description": "Personal: Nombramiento funcionario carrera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/22/BOCM-20230822-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "San Martín de la Vega",
       "description": "Régimen económico: Precios públicos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/22/BOCM-20230822-50.PDF"
