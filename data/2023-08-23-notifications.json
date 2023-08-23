@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "San Martín de la Vega",
-      "description": "Urbanismo: Estudio detalle",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/22/BOCM-20230822-51.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "San Martín de la Vega",
       "description": "Urbanismo: Expropiación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/22/BOCM-20230822-52.PDF"
     }
