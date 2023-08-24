@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcobendas",
-      "description": "Organización y funcionamiento: Constitución junta gobierno",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/24/BOCM-20230824-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcorcón",
       "description": "Organización y funcionamiento: Junta Gobierno Local",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/24/BOCM-20230824-18.PDF"
