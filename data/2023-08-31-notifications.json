@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 3207/2023, de 25 de agosto, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria aprobada por la Orden 2891/2023, de 3 de agosto, del Consejero de Educación, Ciencia y Universidades, por la que se convocan los puestos de Director del Centro Territorial de Innovación y Formación Madrid-Oeste (CTIF Madrid-Oeste), Secretario del Instituto Superior Madrileño de Innovación Educativa (ISMIE), Secretario del Centro Territorial de Innovación y Formación Madrid-Oeste (CTIF Madrid-Oeste), y Secretario del Centro Territorial de Innovación y Formación Madrid-Sur (CTIF Madrid-Sur), para su provisión por el sistema de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/31/BOCM-20230831-5.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 1263/2023, de 8 de agosto, de la Consejera de Sanidad, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacantes en la Consejería de Sanidad por el procedimiento de Concurso de Méritos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/31/BOCM-20230831-6.PDF"
