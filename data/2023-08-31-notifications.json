@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Decreto 227/2023, de 30 de agosto, del Consejo de Gobierno, por el que se establece una moratoria hasta el 31 de diciembre de 2023 en la antigüedad máxima de los vehículos que prestan servicios de transporte de viajeros, adscritos a licencias de autotaxi en la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/31/BOCM-20230831-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Extracto de la Orden 497/2023 de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se convocan para el año 2023 las ayudas destinadas a las entidades locales, para fomentar la protección de los animales de compañía en la Comunidad de Madrid reguladas por la Orden 59/2023 de la Consejería de Medio Ambiente, Agricultura e Interior",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/31/BOCM-20230831-14.PDF"
