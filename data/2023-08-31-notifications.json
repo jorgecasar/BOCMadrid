@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Aranjuez",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/31/BOCM-20230831-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Aranjuez",
       "description": "Urbanismo: Delimitación unidad ejecución",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/31/BOCM-20230831-28.PDF"
     }
