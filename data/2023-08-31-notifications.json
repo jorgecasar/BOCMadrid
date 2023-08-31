@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "La Cabrera",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/31/BOCM-20230831-41.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Las Rozas de Madrid",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/31/BOCM-20230831-42.PDF"
