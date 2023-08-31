@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Convenio de 27 de julio de 2023, entre la empresa SAP España Sistemas, Aplicaciones y Productos en la Informática, S. A. y la Comunidad de Madrid con objeto de impulsar la formación profesional para el empleo dirigida a los trabajadores ocupados y desempleados, como medio para conseguir el desarrollo económico y social de nuestra región y proporcionar oportunidades de formación en tecnologías específicas de fabricantes tecnológicos en el ámbito de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/31/BOCM-20230831-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Convenio de 27 de julio de 2023, entre la empresa Oracle Ibérica, S. R. L., y la Comunidad de Madrid, con objeto de impulsar la formación profesional para el empleo dirigida a los trabajadores ocupados y desempleados, como medio para conseguir el desarrollo económico y social de nuestra región y proporcionar oportunidades de formación en tecnologías específicas de fabricantes tecnológicos en el ámbito de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/31/BOCM-20230831-18.PDF"
     }
