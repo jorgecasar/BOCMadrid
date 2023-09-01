@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Extracto de la Resolución de 18 de agosto de 2023, de la Secretaría General Técnica de la Consejería de Vivienda, Transportes e Infraestructuras, de corrección de errores del extracto de la Orden 2003/2023, de 22 de junio, de la Consejería de Medio Ambiente, Vivienda y Agricultura, actual Consejería de Vivienda, Transportes e Infraestructuras, por la que se convocan subvenciones para la ejecución de obras de mejora o rehabilitación de edificios de uso predominante residencial para vivienda previstas dentro del Programa 1, de ayuda a las actuaciones de rehabilitación a nivel de barrio, del Real Decreto 853/2021, de 5 de octubre, y en el marco de C02.I01 del Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea, Next-Generation-EU, en el entorno residencial de rehabilitación programada de “Distrito Centro. Fase 1”, en el municipio de Alcobendas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/01/BOCM-20230901-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Orden 359/2023, de 29 de agosto, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se regula la inscripción en el programa escolar de consumo de frutas, hortalizas y leche de la Unión Europea para el curso 2023-2024 de los centros escolares de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/01/BOCM-20230901-18.PDF"
