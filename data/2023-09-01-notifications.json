@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 19 de julio de 2023, de la Universidad Autónoma de Madrid, por la que se nombran funcionarios/as de carrera de la Escala de Gestión Administrativa con Idiomas de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/01/BOCM-20230901-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 28 de julio de 2023, de la Universidad Rey Juan Carlos, por la que se anuncia convocatoria pública para la provisión de un puesto de trabajo reservado a personal funcionario mediante el sistema de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/01/BOCM-20230901-14.PDF"
