@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 31 de julio de 2023, de la Universidad Rey Juan Carlos, por la que se anuncia convocatoria pública para la provisión de un puesto de trabajo reservado a personal funcionario mediante el sistema de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/01/BOCM-20230901-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Extracto de la Orden 2640/2023, de 18 de julio, del Consejero de Educación, Ciencia y Universidades, por la que se aprueba convocatoria de ayudas destinadas a los investigadores de la modalidad 1 del Programa de Atracción de Talento Investigador de la Comunidad de Madrid, para su contratación y realización de actividades de I+D durante un período adicional de un año con cargo al presupuesto del ejercicio 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/01/BOCM-20230901-16.PDF"
