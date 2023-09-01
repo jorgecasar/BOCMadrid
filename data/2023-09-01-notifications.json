@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Acuerdo de 30 de agosto de 2023, del Consejo de Gobierno, por el que se nombran vocales de la Comisión de Urbanismo de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/01/BOCM-20230901-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 19 de julio de 2023, de la Universidad Autónoma de Madrid, por la que se nombran funcionarios/as de carrera de la Escala de Gestión Administrativa con Idiomas de esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/01/BOCM-20230901-13.PDF"
