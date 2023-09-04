@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio periódico indicativo de 18 de agosto de 2023, relativo al Acuerdo Marco II Convergencia normativa estaciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/04/BOCM-20230904-39.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio periódico indicativo de 18 de agosto de 2023, relativo al contrato de homogeneización del parque de bombas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/04/BOCM-20230904-40.PDF"
     }
