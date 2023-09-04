@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Decreto 224/2023, de 30 de agosto, del Consejo de Gobierno, por el que se establece para la Comunidad de Madrid el plan de estudios del curso de especialización de formación profesional en Aeronaves pilotadas de forma remota-Drones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/04/BOCM-20230904-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Decreto 225/2023, de 30 de agosto, del Consejo de Gobierno, por el que se establece para la Comunidad de Madrid el plan de estudios del curso de especialización de formación profesional en panadería y bollería artesanales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/04/BOCM-20230904-7.PDF"
     }
