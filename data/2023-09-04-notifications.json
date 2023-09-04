@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio periódico indicativo de 23 de agosto de 2023, relativo al contrato de renovación integral, de la superestructura de vía en línea 6. Fase 1: Conde de Casal-Ciudad Universitaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/04/BOCM-20230904-41.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Resolución de 16 de agosto de 2023, del Director General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se emplaza a los interesados en el recurso contencioso-administrativo, procedimiento abreviado número 776/2023, a fin de que puedan personarse en autos, si a su derecho conviniere",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/04/BOCM-20230904-42.PDF"
