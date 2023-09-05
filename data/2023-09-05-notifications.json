@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alpedrete",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/05/BOCM-20230905-51.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Aranjuez",
       "description": "Régimen económico: Padrones fiscales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/05/BOCM-20230905-52.PDF"
