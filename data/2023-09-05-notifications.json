@@ -1,18 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 211,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/09/05/BOCM-20230905211.PDF",
-      "total": 68,
-      "items": {
-        "Comunidad de Madrid": 41,
-        "Disposiciones y Anuncios del Estado": 3,
-        "Administración Local Ayuntamientos": 24
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
