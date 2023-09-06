@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 25 de agosto de 2023, de la Universidad Rey Juan Carlos, por la que se nombran Catedráticos de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/06/BOCM-20230906-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Extracto de la Orden de 10 de agosto de 2023, de la Consejería de Economía, Hacienda y Empleo, por la que se convocan para 2023 las subvenciones dirigidas a la reducción de la siniestralidad laboral mediante la mejora de las condiciones de seguridad y salud en el trabajo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/06/BOCM-20230906-12.PDF"
