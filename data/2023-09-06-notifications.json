@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Extracto de la Orden de 10 de agosto de 2023, de la Consejería de Economía, Hacienda y Empleo, por la que se convocan para 2023 las subvenciones dirigidas a la reducción de la siniestralidad laboral mediante la mejora de las condiciones de seguridad y salud en el trabajo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/06/BOCM-20230906-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 2989/2023, de 17 de agosto, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria para la concesión de ayudas a alumnos con discapacidad que cursan estudios universitarios o de enseñanzas artísticas superiores en el curso 2022-2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/06/BOCM-20230906-13.PDF"
