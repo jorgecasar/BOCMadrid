@@ -1,0 +1,320 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 213,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/09/07/BOCM-20230907213.PDF",
+      "total": 41,
+      "items": {
+        "Comunidad de Madrid": 26,
+        "Administración Local Ayuntamientos": 12,
+        "Administración de Justicia": 1,
+        "Otros Anuncios": 2
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia y Administración Local",
+      "description": "Decreto 229/2023, de 6 de septiembre, del Consejo de Gobierno, por el que se establece la estructura orgánica de la Consejería de Presidencia, Justicia y Administración Local",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Decreto 230/2023, de 6 de septiembre, del Consejo de Gobierno, por el que se establece la estructura orgánica de la Consejería de Economía, Hacienda y Empleo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Decreto 234/2023, de 6 de septiembre, del Consejo de Gobierno, por el que se modifica el Decreto 244/2015, de 29 de diciembre, por el que se establece la organización, estructura y régimen de funcionamiento de la Agencia de Vivienda Social de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Decreto 235 /2023, de 6 de septiembre, del Consejo de Gobierno, por el que se establece la estructura orgánica de la Consejería de Medio Ambiente, Agricultura e Interior",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia y Administración Local",
+      "description": "Decreto 236/2023, de 6 de septiembre, del Consejo de Gobierno, por el que se nombra Secretaria General del Consejo de Gobierno a doña Alejandra Frías López",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia y Administración Local",
+      "description": "Decreto 237/2023, de 6 de septiembre, del Consejo de Gobierno, por el que se nombra Directora General de Cooperación con el Estado y la Unión Europea a doña Cristina Menéndez Álvarez",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Orden 3074/2023, de 25 de agosto, del Consejero de Educación, Ciencia y Universidades, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacante en la Consejería de Educación, Ciencia y Universidades, por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Orden 3230/2023, de 29 de agosto, del Consejero de Educación, Ciencia y Universidades, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Educación, Ciencia y Universidades, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-8.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Resolución de 31 de agosto de 2023, de la Dirección General de Recursos Humanos, por la que se modifican las listas definitivas de seleccionados en el proceso selectivo de ingreso en el Cuerpo de Maestros, por el sistema excepcional de Concurso de Méritos, a plazas del ámbito de gestión de la Administración de la Comunidad de Madrid, convocado por Resolución de 10 de noviembre de 2022, cuya exposición fue anunciada por Resolución de la Dirección General de Recursos Humanos, de 7 de junio de 2023",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-9.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Resolución de 6 de septiembre de 2023, de la Directora de Área Territorial de Madrid-Capital, por la que se resuelve la convocatoria aprobada por Resolución de 3 de agosto de 2023 por la que se convoca el puesto de Inspector-Jefe Adjunto del Servicio de Inspección Educativa de Madrid Capital",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-10.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 25 de agosto de 2023, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se nombra personal estatutario fijo en la categoría de Enfermero/a del Servicio Madrileño de Salud",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-11.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Autónoma de Madrid",
+      "description": "Resolución de 5 de septiembre de 2023, de la Rectora de la Universidad Autónoma de Madrid, por la que se resuelve la convocatoria pública para la provisión de un puesto de trabajo vacante mediante el sistema de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-12.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 21 de agosto de 2023, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa UTE Mercamadrid de la Unidad Alimentaria (código número 28103681012023)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-13.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Digitalización",
+      "description": "Resolución de 24 de agosto de 2023, de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se dispone la publicación de la rectificación en los boletines oficiales y en el “perfil del contratante” de la convocatoria de licitación por procedimiento abierto con pluralidad de criterios del contrato denominado «Plan de Aprendizaje Digital de la Comunidad de Madrid, en el marco del “Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea-NextGenerationEU”», expediente ECON/000097/2022, y publicado en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID número 200, de 23 de agosto de 2023",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-14.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 28 de agosto de 2023, de la Viceconsejería de Sanidad y Dirección General del Servicio Madrileño de Salud, por la que se hace pública la convocatoria de licitación del contrato de servicios “Unidad de hospitalización psiquiátrica de rehabilitación y retorno a la comunidad para adultos con trastorno mental grave”, a adjudicar por procedimiento abierto mediante pluralidad de criterios por tramitación ordinaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-15.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 25 de agosto de 2023, de la Gerencia del Hospital Universitario “La Paz”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de suministro de carnes frescas. 1.a prórroga 26/2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-16.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 25 de agosto de 2023, de la Gerencia del Hospital Universitario “La Paz”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de suministros de sistemas de estimulación para tratamiento del dolor. Modificación 2023-9-20 [P. A. (A. M.) 2021-0-15]",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-17.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 25 de agosto de 2023, de la Gerencia del Hospital Universitario “La Paz”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de suministro de batas de protección tejido no tejido (TNT). Prórroga 2023-7-45 [P. A. 2020-0-90 (A. M.)]",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-18.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 29 de agosto de 2023, de la Dirección-Gerencia del Hospital Universitario “Ramón y Cajal”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la formalización del contrato de «Suministro cestilla extractora de cálculos de riñón para el Servicio de Urología del Hospital Universitario “Ramón y Cajal”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-19.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 28 de agosto de 2023, de la Dirección-Gerencia del Hospital Universitario “Puerta de Hierro Majadahonda”, Madrid, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la convocatoria del contrato de “Servicio de apoyo de oficina de proyecto (PMO) para los sistemas de información”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-20.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 29 de agosto de 2023, de la Dirección-Gerencia del Hospital “Dr. R. Lafora”, por la que se dispone la publicación en los boletines oficiales y en el portal de contratación pública de la corrección de errores en el Pliego de Prescripciones Técnicas Particulares y en el Pliego de Cláusulas Administrativas Particulares y apertura de un nuevo plazo de presentación de ofertas de la convocatoria del contrato de «Suministro de productos congelados para el Hospital “Dr. R. Lafora”» (número expediente: A/SUM-029747/2023)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-21.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 25 de julio de 2023, de la Dirección General de Transición Energética y Economía Circular, por la que se somete a información pública la petición de autorización administrativa, aprobación del proyecto de ejecución y declaración en concreto de utilidad pública para la construcción de seis líneas y un centro de transformación en Sector 6 de la Cañada Real, en el término municipal de Madrid, solicitada por UFD Distribución Electricidad, S. A.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-22.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 30 de agosto de 2023, de la Secretaría General Técnica de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se anuncia la licitación del contrato “Suministro de dos vehículos autoescalera automática (AEA) con destino al Cuerpo de Bomberos de la Comunidad de Madrid”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-23.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 30 de agosto de 2023, de la Secretaría General Técnica de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se anuncia la licitación del contrato “Adquisición de chaquetas de protección frente a condiciones meteorológicas adversas para el personal operativo del Cuerpo de Bomberos de la Comunidad de Madrid”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-24.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 30 de agosto de 2023, de la Secretaría General Técnica de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se anuncia la licitación del contrato “Servicio de gestión de almacén del Cuerpo de Agentes Forestales de la Comunidad de Madrid”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-25.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 30 de agosto de 2023, de la Secretaría General Técnica de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se anuncia la licitación del contrato “Servicio de mantenimiento preventivo de los Equipos de Protección Individual y material auxiliar para actuaciones de rescate en altura de la Dirección General de Emergencias de la Comunidad de Madrid”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-26.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Arganda del Rey",
+      "description": "Régimen económico: Cuenta general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-27.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Corpa",
+      "description": "Régimen económico: Padrones fiscales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-28.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "El Álamo",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-29.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "El Álamo",
+      "description": "Régimen económico: Padrón fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-30.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Galapagar",
+      "description": "Régimen económico: Prescripción obligaciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-31.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Las Rozas de Madrid",
+      "description": "Ofertas de empleo: Oferta empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-32.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Loeches",
+      "description": "Personal: Plantilla personal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-33.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Meco",
+      "description": "Licencias: FSR Calderería y Estructuras, S. L.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-34.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Parla",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-35.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Rivas-Vaciamadrid",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-36.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrejón de Ardoz",
+      "description": "Organización y funcionamiento: Nombramientos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-37.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrejón de Ardoz",
+      "description": "Organización y funcionamiento: Sesiones pleno",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-38.PDF"
+    }
+  }
+]
