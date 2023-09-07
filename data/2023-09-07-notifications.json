@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Las Rozas de Madrid",
-      "description": "Ofertas de empleo: Oferta empleo público",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Loeches",
       "description": "Personal: Plantilla personal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-33.PDF"
