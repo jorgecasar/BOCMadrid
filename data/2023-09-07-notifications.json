@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Decreto 236/2023, de 6 de septiembre, del Consejo de Gobierno, por el que se nombra Secretaria General del Consejo de Gobierno a doña Alejandra Frías López",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-5.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Decreto 237/2023, de 6 de septiembre, del Consejo de Gobierno, por el que se nombra Directora General de Cooperación con el Estado y la Unión Europea a doña Cristina Menéndez Álvarez",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-6.PDF"
     }
