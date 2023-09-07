@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "El Álamo",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "El Álamo",
       "description": "Régimen económico: Padrón fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-30.PDF"
     }
