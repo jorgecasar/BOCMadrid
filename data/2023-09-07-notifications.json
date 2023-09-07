@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Decreto 229/2023, de 6 de septiembre, del Consejo de Gobierno, por el que se establece la estructura orgánica de la Consejería de Presidencia, Justicia y Administración Local",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Decreto 230/2023, de 6 de septiembre, del Consejo de Gobierno, por el que se establece la estructura orgánica de la Consejería de Economía, Hacienda y Empleo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/07/BOCM-20230907-2.PDF"
