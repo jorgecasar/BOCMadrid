@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Decreto 233/2023, de 6 de septiembre, del Consejo de Gobierno, por el que se modifica el Decreto 133/2014, de 27 de noviembre, del Consejo de Gobierno, por el que se establece el procedimiento de acceso al Cuerpo de Inspectores de Educación en el ámbito de la Comunidad de Madrid, en materia del procedimiento de elaboración de la lista de aspirantes a desempeñar puestos de Inspectores Accidentales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/08/BOCM-20230908-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Orden 568/2023, de 30 de agosto, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se resuelve la convocatoria aprobada por Orden 1863/2023, de 1 de junio (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 9 de junio de 2023), para la provisión de un puesto de trabajo vacante en la entonces Consejería de Medio Ambiente, Vivienda y Agricultura por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/08/BOCM-20230908-12.PDF"
