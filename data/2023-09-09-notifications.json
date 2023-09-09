@@ -1,0 +1,70 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 215,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/09/09/BOCM-20230909215.PDF",
+      "total": 11,
+      "items": {
+        "Comunidad de Madrid": 7,
+        "Administración de Justicia": 4
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Convenio de 24 de agosto de 2023, entre la Comunidad de Madrid (Instituto Regional de Seguridad y Salud en el Trabajo) y el Ayuntamiento de Chinchón, para la realización de actuaciones en materia de seguridad y salud en el trabajo previstas en el VI Plan Director de Prevención de Riesgos Laborales de la Comunidad de Madrid 2021-2024",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/09/BOCM-20230909-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Convenio de colaboración de 31 de julio de 2023, entre la Comunidad de Madrid (Consejería de Familia, Juventud y Asuntos Sociales) y el Ayuntamiento de Serranillos del Valle para la expedición de “Carné Joven Comunidad de Madrid”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/09/BOCM-20230909-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Convenio de colaboración de 2 de agosto de 2023, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Asuntos Sociales, y el Ayuntamiento de Villaviciosa de Odón, para el desarrollo de la Atención Social Primaria y otros programas por los servicios sociales de las entidades locales para el año 2023",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/09/BOCM-20230909-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Convenio de colaboración de 25 de agosto de 2023, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Asuntos Sociales y el Ayuntamiento de Cubas de la Sagra, para el desarrollo de la atención social primaria y otros programas por los servicios sociales de las entidades locales para el año 2023",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/09/BOCM-20230909-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Convenio de 28 de agosto de 2023, entre la Comunidad de Madrid (Consejería de Familia, Juventud y Asuntos Sociales) y la Asociación Seniors Españoles para la Cooperación Técnica, en materia de talleres de envejecimiento activo de la Dirección General de Atención al Mayor y a la Dependencia, para el año 2023",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/09/BOCM-20230909-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Convenio de colaboración de 28 de agosto de 2023, entre la Comunidad de Madrid (Consejería de Familia, Juventud y Asuntos Sociales) y el Ayuntamiento de Majadahonda, para la autorización gratuita de uso del inmueble ubicado en la avenida de Guadarrama, número 34, de Majadahonda, para la prestación de servicios de un Centro de Apoyo y Encuentro Familiar (CAEF)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/09/BOCM-20230909-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 23 de agosto de 2023, entre la Comunidad de Madrid y la Federación Empresarial de Asociaciones Territoriales de Agencias de Viaje Españolas (FETAVE), para el diseño, desarrollo y puesta en marcha de herramientas de inteligencia de mercado favoreciendo la competitividad del destino Madrid, a través de su transformación digital",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/09/BOCM-20230909-7.PDF"
+    }
+  }
+]
