@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Decreto 231/2023, de 6 de septiembre, del Consejo de Gobierno, por el que se crea el Centro Integrado de Formación Profesional “Federica Montseny” en Fuenlabrada",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/11/BOCM-20230911-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Decreto 232/2023, de 6 de septiembre, del Consejo de Gobierno, por el que se crea el Centro Integrado de Formación Profesional “Barrio de Bilbao” en Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/11/BOCM-20230911-2.PDF"
     }
