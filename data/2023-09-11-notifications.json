@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Decreto 232/2023, de 6 de septiembre, del Consejo de Gobierno, por el que se crea el Centro Integrado de Formación Profesional “Barrio de Bilbao” en Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/11/BOCM-20230911-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden 2109/2023, de 23 de agosto, de la Consejería de Economía, Hacienda y Empleo, por la que se convocan pruebas selectivas para el ingreso, por el sistema general de acceso libre, en el Cuerpo de Técnicos y Diplomados Especialistas, Escala de Ayudantes de Archivos, Bibliotecas y Museos, Especialidad de Bibliotecas, de Administración Especial, Grupo A, Subgrupo A2, de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/11/BOCM-20230911-3.PDF"
