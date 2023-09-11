@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 24 de agosto de 2023, de la Universidad Complutense de Madrid, por la que se nombra a D. Julio Álvarez Sánchez Profesor Titular de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/11/BOCM-20230911-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Extracto de la Orden 2624/2023, de 4 de septiembre, de la Consejera de Familia, Juventud y Asuntos Sociales, por la que se convocan para el año 2023 subvenciones dirigidas a entidades sin ánimo de lucro para la ejecución de proyectos de atención de personas LGTBI en situación de vulnerabilidad y de sensibilización de la sociedad madrileña dirigidos a la consecución de la igualdad real y efectiva de las personas LGTBI",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/11/BOCM-20230911-15.PDF"
