@@ -1,17 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 216,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/09/11/BOCM-20230911216.PDF",
-      "total": 55,
-      "items": {
-        "Comunidad de Madrid": 29,
-        "Administración Local Ayuntamientos": 26
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
