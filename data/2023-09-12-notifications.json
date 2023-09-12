@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Torrelodones",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/12/BOCM-20230912-55.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Valdemoro",
       "description": "Régimen económico: Extracto convocatoria subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/12/BOCM-20230912-56.PDF"
