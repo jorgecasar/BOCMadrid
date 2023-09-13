@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Arroyomolinos",
-      "description": "Ofertas de empleo: Bases generales proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/13/BOCM-20230913-34.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Arroyomolinos",
       "description": "Ofertas de empleo: Convocatoria procesos selectivos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/13/BOCM-20230913-35.PDF"
     }
