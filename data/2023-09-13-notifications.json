@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Paracuellos de Jarama",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/13/BOCM-20230913-42.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Perales de Tajuña",
       "description": "Régimen económico: Cuenta general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/13/BOCM-20230913-43.PDF"
