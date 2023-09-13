@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 31 de agosto de 2023, del Rector de la Universidad de Alcalá, sobre delegación de competencias",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/13/BOCM-20230913-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
       "description": "Acuerdo 33/2023, de 27 de abril, de la Comisión de Urbanismo de Madrid, relativo a la aprobación inicial del Plan Especial de Infraestructuras del “Proyecto de Construcción-Adecuación de los caminos de acceso a los pozos de aireación y compuertas del desagüe de entretúneles. Embalse de El Villar (documento técnico de fecha junio de 2018), promovido por Canal de Isabel II, S. A., M. P.",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/13/BOCM-20230913-20.PDF"
