@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Majadahonda",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-51.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Moralzarzal",
       "description": "Régimen económico: Cuenta general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-52.PDF"
