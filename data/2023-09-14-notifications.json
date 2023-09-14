@@ -1,0 +1,497 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 219,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/09/14/BOCM-20230914219.PDF",
+      "total": 75,
+      "items": {
+        "Comunidad de Madrid": 31,
+        "Disposiciones y Anuncios del Estado": 1,
+        "Administración Local Ayuntamientos": 28,
+        "Administración de Justicia": 3,
+        "Otros Anuncios": 12
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia y Administración Local",
+      "description": "Decreto 239/2023, de 13 de septiembre, del Consejo de Gobierno, por el que se nombra Directora-Gerente de la Agencia de la Comunidad de Madrid para la Reeducación y Reinserción del Menor Infractor a doña María Pilar López González",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia y Administración Local",
+      "description": "Decreto 240/2023, de 13 de septiembre, del Consejo de Gobierno, por el que se nombra Director General de Inversiones y Desarrollo Local a don José Tortosa de la Iglesia",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Corrección de errores de la Orden 2110/2023, de 23 de agosto, de la Consejería de Economía, Hacienda y Empleo, por la que se convocan pruebas selectivas para el ingreso, por el sistema de promoción interna, en el Cuerpo de Técnicos Medioambientales, de Administración Especial, Grupo A, Subgrupo A2, de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Resolución de 31 de agosto de 2023, de la Dirección General de Recursos Humanos, por la que se aprueba el expediente en el procedimiento selectivo de ingreso, por el sistema excepcional de Concurso de Méritos, en los Cuerpos de Profesores de Enseñanza Secundaria, Profesores de Escuelas Oficiales de Idiomas, Catedráticos de Música y Artes Escénicas, Profesores de Música y Artes Escénicas, Profesores de Artes Plásticas y Diseño y Profesores Especialistas en Sectores Singulares de Formación Profesional, a plazas del ámbito de gestión de la Administración de la Comunidad de Madrid, convocado por Resolución de 11 de noviembre de 2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Resolución de 31 de agosto de 2023, de la Dirección General de Recursos Humanos, por la que se aprueba el expediente en el procedimiento selectivo de ingreso, por el sistema excepcional de Concurso de Méritos, en el Cuerpo de Maestros, a plazas del ámbito de gestión de la Administración de la Comunidad de Madrid, convocado por Resolución de 10 de noviembre de 2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Orden de 5 de septiembre de 2023, del Consejero de Vivienda, Transportes e Infraestructuras, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Vivienda, Transportes e Infraestructuras, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Resolución de 4 de septiembre de 2023, del Director-Gerente del O. A. Consorcio Regional de Transportes Públicos Regulares de Madrid, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicho organismo, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Anuncio de 11 de septiembre de 2023, de nombramiento de cargo de Metro de Madrid, S. A.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-8.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad de Alcalá",
+      "description": "Resolución de 27 de julio de 2023, de la Gerencia de la Universidad de Alcalá, por la que se resuelve el Concurso de Méritos para la provisión de determinadas plazas vacantes en la relación de puesto de trabajo de personal funcionario-Administración, convocado por Resolución de 17 de diciembre de 2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-9.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 5 de septiembre de 2023, de la Consejera de Economía, Hacienda y Empleo, por la que se declara el importe de la ampliación del crédito presupuestario disponible para la concesión directa de subvenciones, en el año 2023, de la línea 2, contratación estable de personas jóvenes, y de la línea 4, impulso al contrato de formación en alternancia, de personas jóvenes, del Programa para el Fomento de la Contratación en el Ámbito de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-10.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Extracto de la Orden de 5 de septiembre de 2023, de la Consejera de Economía, Hacienda y Empleo, por la que se convocan ayudas a proyectos de inversión para la modernización, digitalización e innovación tecnológica de las pequeñas y medianas empresas y empresarios individuales del sector comercial y artesano de la Comunidad de Madrid para el año 2023",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-11.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad de Alcalá",
+      "description": "Resolución de 31 de agosto de 2023, del Rector de la Universidad de Alcalá, por la que se revoca la delegación de competencias efectuada por Resolución de 1 de abril de 2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-12.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "description": "Resolución de 19 de mayo de 2023, de la Dirección General de Descarbonización y Transición Energética, sobre autorización administrativa y aprobación del proyecto para la construcción de dos líneas y un centro de seccionamiento ubicados en los términos municipales de Tres Cantos y Colmenar Viejo, solicitado por I-DE Redes Eléctricas Inteligentes, S. A. U.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-13.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia y Administración Local",
+      "description": "Resolución de 4 de septiembre de 2023, de la Secretaría General Técnica de la Consejería Presidencia, Justicia y Administración Local por la que se anuncia la formalización del contrato titulado: “Tratamientos de desratización, desinsectación y desinfección de las sedes judiciales adscritas a la Consejería de Presidencia, Justicia e Interior de la Comunidad de Madrid (tres lotes)” (actualmente Consejería de Presidencia, Justicia y Administración Local)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-14.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Acuerdo de 8 de agosto de 2023, de la Dirección General de Promoción Económica e Industrial, por el que se abre período de información pública del nuevo plan de restauración del espacio natural adaptado al condicionado de la declaración de impacto ambiental de 2019 y al requerimiento con referencia 14-067-00101.8/2019 de la prórroga de la concesión de explotación “Tolsadeco”, número 2566-000, término municipal de Madrid, cuyo titular es Tolsa, S. A. (NIF A-28077709) (Exp.: 14-0167-00035.4/2023)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-15.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Resolución de 5 de septiembre de 2023, de la Dirección General de Infraestructuras y Servicios de la Consejería de Educación, Ciencia y Universidades, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de acuerdo marco de “Suministro de textil, menaje de comedor y menaje de cocina para centros docentes no universitarios de la comunidad de Madrid”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-16.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 4 de septiembre de 2023, de la Gerencia del Hospital Universitario “La Paz”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de suministro de dispositivo y electrodo bipolar histeroscópico desechable. Modificación 2023-9-22 (P. A. 2021-0-74)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-17.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 4 de septiembre de 2023, de la Gerencia del Hospital Universitario “La Paz”, por la que se dispone la publicación, en los boletines oficiales y en el “perfil del contratante”, de la formalización del contrato de «Suministro de medicamentos y productos de fluidoterapia, así como la gestión de su aprovisionamiento y distribución logística en el Hospital Universitario “La Paz”, Hospital de Cantoblanco, Hospital “Carlos III” y, en un futuro, el Hospital “Isabel Zendal”». P. A. 27/2023",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-18.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 4 de septiembre de 2023, de la Gerencia del Hospital Universitario “La Paz”, por la que se dispone la publicación, en los boletines oficiales y en el “perfil del contratante”, de la formalización del contrato de «Servicios del proyecto de desarrollo, configuración implantación, migración, digitalización inicial de datos, mantenimiento y soporte de la gestión documental del Hospital Universitario “La Paz” y centros dependientes». P. A. 39/2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-19.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 18 de agosto de 2023, de la Dirección General de Transición Energética y Economía Circular, sobre autorización administrativa y aprobación del proyecto para la modificación de la subestación eléctrica “Colmenar de Oreja” en polígono 55, parcela 12, en el término municipal de Colmenar de Oreja, solicitada por UFD Distribución Electricidad, S. A.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-20.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 28 de agosto de 2023, de la Dirección General de Transición Energética y Economía Circular, sobre autorización administrativa y aprobación del proyecto para la instalación de 1 línea aérea en la carretera M-305 km 5, en el término municipal de Aranjuez, solicitada por UFD Distribución Electricidad, S. A.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-21.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 4 de septiembre de 2023, de Canal de Isabel II, S. A., M. P., por la que se hace pública la formalización del contrato adjudicado por procedimiento Mesa Permanente-Procedimiento Abierto para suministro de 220 toneladas anuales de amoniaco anhidro en contenedores para todas las ETAP",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-22.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Adenda de 31 de agosto de 2023, de modificación del Convenio Interadministrativo entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Asuntos Sociales, y la Mancomunidad de La Encina, para la concesión de ayudas de emergencia a familias en situación de vulnerabilidad por el impacto del COVID 2022-2023, financiado al 100 por 100 en el marco de los recursos REACT-UE del programa operativo FSE de la Comunidad de Madrid 2014-2020",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-23.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Adenda de 31 de agosto de 2023, de modificación del Convenio Interadministrativo entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Asuntos Sociales, y la Mancomunidad de Servicios Sociales Mejorada-Velilla para la concesión de ayudas de emergencia a familias en situación de vulnerabilidad por el impacto del COVID 2022-2023, financiado al 100 por 100 en el marco de los recursos REACT-UE del programa operativo FSE de la Comunidad de Madrid 2014-2020",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-24.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Adenda de 31 de agosto de 2023, de modificación del convenio interadministrativo entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Asuntos Sociales, y el Ayuntamiento de Collado Villalba para la concesión de ayudas de emergencia a familias en situación de vulnerabilidad por el impacto del COVID-2022-2023, financiado al 100 por 100 en el marco de los recursos REACT-UE del programa operativo FSE de la Comunidad de Madrid 2014-2020",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-25.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Adenda de 31 de agosto de 2023, de modificación del Convenio Interadministrativo entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Asuntos Sociales, y la Mancomunidad de Servicios Sociales THAM para la concesión de ayudas de emergencia a familias en situación de vulnerabilidad por el impacto del COVID 2022-2023, financiado al 100 por 100 en el marco de los recursos REACT-UE del programa operativo FSE de la Comunidad de Madrid 2014-2020",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-26.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Adenda de 31 de agosto de 2023, de modificación del Convenio Interadministrativo entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Asuntos Sociales, y la Mancomunidad de Servicios Sociales “Vega del Guadalix” para la concesión de ayudas de emergencia a familias en situación de vulnerabilidad por el impacto del COVID 2022-2023, financiado al 100 por 100 en el marco de los recursos REACT-UE del programa operativo FSE de la Comunidad de Madrid 2014-2020",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-27.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Adenda de 31 de agosto de 2023, de modificación del convenio interadministrativo entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Asuntos Sociales, y el Ayuntamiento de San Fernando de Henares para la concesión de ayudas de emergencia a familias en situación de vulnerabilidad por el impacto del COVID 2022-2023, financiado al 100% en el marco de los recursos REACT-UE del programa operativo FSE de la Comunidad de Madrid 2014-2020",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-28.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Resolución de 5 de septiembre de 2023, de la Secretaría General Técnica de la Consejería de Cultura, Turismo y Deporte, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la licitación para la adjudicación del contrato titulado «Servicios de transporte para las actividades deportivas de los programas “Institutos promotores de la actividad física y el deporte”, “Madrid Comunidad Deportiva” y “Activa tu Capacidad”, en las que participa la Comunidad de Madrid, a través de la Dirección General de Deportes, para los años 2024-2025»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-29.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Resolución de 5 de septiembre de 2023, de la Secretaría General Técnica de la Consejería de Cultura, Turismo y Deporte, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante”, en Internet, de la licitación para la adjudicación del contrato titulado “Acuerdo marco para el suministro de material bibliográfico en los Centros de la Red de Lectura de la Comunidad de Madrid (2 lotes)”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-30.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Corrección de errores del Convenio de 30 de agosto de 2023, entre la Comunidad de Madrid y la Asociación Empresarial Hotelera de Madrid (AEHM), para el diseño, desarrollo y puesta en marcha de herramientas que promueven activamente la sostenibilidad, digitalización y competitividad de la oferta hotelera de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-31.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Disposiciones y Anuncios del Estado",
+      "description": "Ministerio de Transportes, Movilidad y Agenda Urbana. ADIF Administrador de Infraestructuras Ferroviarias. Expropiación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-32.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Régimen económico: Área de Gobierno de Políticas de Vivienda. Convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-33.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Urbanismo: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Disolución junta compensación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-34.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Otros anuncios: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Período aviso dispositivos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-35.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Otros anuncios: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Período aviso radares",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-36.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Otros anuncios: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Período aviso cámaras",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-37.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcobendas",
+      "description": "Licencias: Licencia actividad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-38.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Algete",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-39.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Berzosa del Lozoya",
+      "description": "Organización y funcionamiento: Constitución Corporación Local",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-40.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Casarrubuelos",
+      "description": "Régimen económico: Padrones fiscales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-41.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Collado Villalba",
+      "description": "Régimen económico: Padrones fiscales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-42.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Colmenar del Arroyo",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-43.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Colmenar de Oreja",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-44.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Fresno de Torote",
+      "description": "Régimen económico: Cuenta general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-45.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Getafe",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-46.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Getafe",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-47.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Getafe",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-48.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Griñón",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-49.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Griñón",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-50.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Majadahonda",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-51.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Moralzarzal",
+      "description": "Régimen económico: Cuenta general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-52.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Navalcarnero",
+      "description": "Urbanismo: Estudio detalle",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-53.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Pinilla del Valle",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-54.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Sevilla la Nueva",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-55.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Sevilla la Nueva",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-56.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Valverde de Alcalá",
+      "description": "Ofertas de empleo: Oferta empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-57.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villanueva de la Cañada",
+      "description": "Urbanismo: Proyecto reparcelación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-58.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villar del Olmo",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-59.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Mancomunidad La Jara",
+      "description": "Organización y funcionamiento: Nombramientos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-60.PDF"
+    }
+  }
+]
