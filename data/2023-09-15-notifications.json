@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Disposiciones y Anuncios del Estado",
-      "description": "Ministerio de Transportes, Movilidad y Agenda Urbana. ADIF Administrador de Infraestructuras Ferroviarias. Expropiación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Madrid",
       "description": "Régimen económico: Área de Gobierno de Políticas de Vivienda. Convocatoria subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-33.PDF"
