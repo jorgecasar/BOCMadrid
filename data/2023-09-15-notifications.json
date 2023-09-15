@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Extracto de la Orden de 5 de septiembre de 2023, de la Consejera de Economía, Hacienda y Empleo, por la que se convocan ayudas a proyectos de inversión para la modernización, digitalización e innovación tecnológica de las pequeñas y medianas empresas y empresarios individuales del sector comercial y artesano de la Comunidad de Madrid para el año 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 31 de agosto de 2023, del Rector de la Universidad de Alcalá, por la que se revoca la delegación de competencias efectuada por Resolución de 1 de abril de 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/14/BOCM-20230914-12.PDF"
