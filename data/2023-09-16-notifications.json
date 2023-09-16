@@ -1,0 +1,46 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 221,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/09/16/BOCM-20230916221.PDF",
+      "total": 10,
+      "items": {
+        "Comunidad de Madrid": 4,
+        "Administración de Justicia": 6
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 1 de septiembre de de 2023, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa Unidad de Extracción de Sangre para Donación de Cruz Roja (código número 28007301011991).",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/16/BOCM-20230916-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Adenda de 22 de agosto de 2023, al convenio de colaboración en materia de Educación Infantil suscrito entre la Comunidad de Madrid, Consejería de Educación e Investigación, y el Ayuntamiento de Algete",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/16/BOCM-20230916-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Adenda de 28 de agosto de 2023, al convenio de colaboración en materia de Educación Infantil suscrito entre la Comunidad de Madrid, Consejería de Educación e Investigación, y el Ayuntamiento de Alcobendas",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/16/BOCM-20230916-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Convenio de 5 de septiembre de 2023, entre la Comunidad de Madrid (Consejería de Medio Ambiente, Agricultura e Interior) y el Ayuntamiento de Becerril de la Sierra (Madrid), para establecer un protocolo de actuación de la Agrupación Municipal de Voluntarios de Protección Civil en el ámbito de la extinción de incendios y salvamento",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/16/BOCM-20230916-4.PDF"
+    }
+  }
+]
