@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Adenda de 28 de agosto de 2023, al convenio de colaboración en materia de Educación Infantil suscrito entre la Comunidad de Madrid, Consejería de Educación e Investigación, y el Ayuntamiento de Alcobendas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/16/BOCM-20230916-3.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Convenio de 5 de septiembre de 2023, entre la Comunidad de Madrid (Consejería de Medio Ambiente, Agricultura e Interior) y el Ayuntamiento de Becerril de la Sierra (Madrid), para establecer un protocolo de actuación de la Agrupación Municipal de Voluntarios de Protección Civil en el ámbito de la extinción de incendios y salvamento",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/16/BOCM-20230916-4.PDF"
