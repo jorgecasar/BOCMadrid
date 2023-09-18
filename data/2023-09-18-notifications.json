@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Alcalá de Henares",
-      "description": "Régimen económico: Padrones fiscales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/18/BOCM-20230918-56.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Alcalá de Henares",
       "description": "Ofertas de empleo: Ente Público Empresarial Alcalá Desarrollo. Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/18/BOCM-20230918-57.PDF"
     }
