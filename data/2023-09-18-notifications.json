@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Digitalización",
-      "description": "Resolución 503/2023, de 14 de septiembre, de la Consejera-Delegada de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se aprueba la relación provisional de admitidos y excluidos en el proceso selectivo para la adscripción a la Agencia de diverso personal, por procedimiento restringido, conforme a la Orden de 16 de junio de 2014 del Consejero de Economía y Hacienda (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 2 de julio de 2014), convocado mediante Resolución 405/2023, de 26 de julio, de la Consejera-Delegada (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 28 de julio de 2023) y se fija el período de subsanación de la documentación presentada",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/18/BOCM-20230918-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 1358/2023, de 6 de septiembre, de la Consejera de Sanidad, por la que se resuelve la convocatoria aprobada por Orden 911/2023, de 5 de junio, del entonces Consejero de Sanidad (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 15 de junio), para la provisión de un puesto de trabajo vacante en la citada Consejería por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/18/BOCM-20230918-14.PDF"
