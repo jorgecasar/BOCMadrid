@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución 8 de septiembre de 2023, de la Universidad Autónoma de Madrid, por la que se nombra funcionaria de carrera de la Escala Especial Superior de Gestión Universitaria de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/18/BOCM-20230918-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 8 de septiembre de 2023, de la Rectora de la Universidad Autónoma de Madrid, por la que se resuelve la convocatoria pública para la provisión de un puesto de trabajo vacante mediante el sistema de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/18/BOCM-20230918-30.PDF"
     }
