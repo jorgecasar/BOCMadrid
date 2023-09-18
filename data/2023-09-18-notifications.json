@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Coslada",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/18/BOCM-20230918-61.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Coslada",
       "description": "Régimen económico: Concesión ayudas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/18/BOCM-20230918-62.PDF"
     }
