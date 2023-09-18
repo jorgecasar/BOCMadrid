@@ -1,18 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 222,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/09/18/BOCM-20230918222.PDF",
-      "total": 74,
-      "items": {
-        "Comunidad de Madrid": 54,
-        "Administración Local Ayuntamientos": 17,
-        "Administración de Justicia": 3
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
