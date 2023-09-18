@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Pinto",
-      "description": "Organización y funcionamiento: Clasificación empresas municipales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/18/BOCM-20230918-64.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Pinto",
       "description": "Organización y funcionamiento: Régimen dedicación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/18/BOCM-20230918-65.PDF"
     }
