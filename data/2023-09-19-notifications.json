@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Valdilecha",
-      "description": "Personal: Plantilla personal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/19/BOCM-20230919-43.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Mancomunidad Intermunicipal del Sudeste de la Comunidad de Madrid (MISECAM)",
       "description": "Organización y funcionamiento: Reglamento uso bienes",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/19/BOCM-20230919-44.PDF"
