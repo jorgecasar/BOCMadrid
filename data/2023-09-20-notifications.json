@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 12 de septiembre de 2023, de la Universidad Complutense de Madrid, por la que se aprueba convocatoria pública para la provisión, mediante el sistema de Libre Designación, de puestos de trabajo vacantes de personal Técnico, de Gestión y de Administración y Servicios funcionario (Área de Administración y Área de Biblioteca)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/20/BOCM-20230920-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 12 de septiembre de 2023, de la Universidad Complutense de Madrid, por la que se nombran funcionarios de carrera de la Escala Auxiliar Administrativa, Grupo C, Subgrupo C2",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/20/BOCM-20230920-21.PDF"
     }
