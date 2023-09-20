@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 12 de septiembre de 2023, de la Universidad Complutense de Madrid, por la que se nombran funcionarios de carrera de la Escala Auxiliar Administrativa, Grupo C, Subgrupo C2",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/20/BOCM-20230920-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 3352/2023, de 11 de septiembre, del Consejero de Educación, Ciencia y Universidades, por la que se conceden los premios correspondientes al VIII Concurso de Oratoria en Primaria de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/20/BOCM-20230920-22.PDF"
