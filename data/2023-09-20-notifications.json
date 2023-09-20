@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Colmenar Viejo",
-      "description": "Régimen económico: Extracto convocatoria subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/20/BOCM-20230920-40.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Colmenar Viejo",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/20/BOCM-20230920-41.PDF"
     }
