@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 3352/2023, de 11 de septiembre, del Consejero de Educación, Ciencia y Universidades, por la que se conceden los premios correspondientes al VIII Concurso de Oratoria en Primaria de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/20/BOCM-20230920-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 3431/2023, de 7 de septiembre, del Consejero de Educación, Ciencia y Universidades, de corrección de errores de la Orden 2354/2023, de 28 de junio, del Consejero de Educación, Ciencia y Universidades, de modificación de la aprobación de las modificaciones de los conciertos educativos de los centros docentes privados para el curso 2023-2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/20/BOCM-20230920-23.PDF"
     }
