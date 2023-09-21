@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Los Molinos",
-      "description": "Personal: Nombramiento funcionario carrera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/20/BOCM-20230920-45.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Los Molinos",
       "description": "Personal: Nombramiento",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/20/BOCM-20230920-46.PDF"
     }
