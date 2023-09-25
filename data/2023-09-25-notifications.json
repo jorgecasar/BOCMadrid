@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 15 de septiembre de 2023, de la Universidad Autónoma de Madrid, por la que se nombran funcionarios de carrera de la Escala Aministrativa de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/25/BOCM-20230925-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Carlos III",
       "description": "Resolución de 14 de septiembre de 2023, del Rector de la Universidad Carlos III de Madrid por la que se convoca concurso de acceso a plazas de los cuerpos docentes universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/25/BOCM-20230925-28.PDF"
