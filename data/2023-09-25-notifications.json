@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 14 de septiembre de 2023, del Rector de la Universidad Carlos III de Madrid por la que se convoca concurso de acceso a plazas de los cuerpos docentes universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/25/BOCM-20230925-28.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Orden 2585/2023, de 28 de agosto, de la Consejera de Familia, Juventud y Asuntos Sociales, por la que se declara el importe del crédito presupuestario disponible para el procedimiento de concesión directa de subvenciones destinadas a desarrollar proyectos de inversión para fomentar la autonomía de los usuarios y el modelo de atención centrado en la persona y para la adquisición de equipamiento técnico y tecnológico de los centros de servicios sociales, con cargo al Plan de Recuperación, Transformación y Resiliencia (financiado por la Unión Europea-NextGenerationEU)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/25/BOCM-20230925-29.PDF"
