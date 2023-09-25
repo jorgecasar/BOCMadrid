@@ -1,19 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 228,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/09/25/BOCM-20230925228.PDF",
-      "total": 69,
-      "items": {
-        "Comunidad de Madrid": 47,
-        "Disposiciones y Anuncios del Estado": 3,
-        "Administración Local Ayuntamientos": 18,
-        "Otros Anuncios": 1
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
