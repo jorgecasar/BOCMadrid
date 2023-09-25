@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Robledillo de la Jara",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/25/BOCM-20230925-63.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "San Fernando de Henares",
       "description": "Personal: Nombramiento funcionarios carrera",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/25/BOCM-20230925-64.PDF"
