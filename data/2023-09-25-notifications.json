@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Fuenlabrada",
-      "description": "Otros anuncios: CIFE, Centro de Iniciativas para la Formación y el Empleo. Convocatoria Sello Calidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/25/BOCM-20230925-60.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Humanes de Madrid",
       "description": "Urbanismo: Notificación calificación urbanística",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/25/BOCM-20230925-61.PDF"
