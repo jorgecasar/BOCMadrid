@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Humanes de Madrid",
-      "description": "Urbanismo: Notificación calificación urbanística",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/25/BOCM-20230925-61.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Los Molinos",
       "description": "Personal: Relación puestos trabajo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/25/BOCM-20230925-62.PDF"
