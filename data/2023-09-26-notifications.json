@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio periódico indicativo de 14 de septiembre de 2023, relativo al contrato del mantenimiento integral de plantas de energía y sistemas de alimentación ininterrumpida",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/26/BOCM-20230926-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio periódico indicativo de 14 de septiembre de 2023, relativo al contrato de Migración a SAP S/4 HANA",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/26/BOCM-20230926-20.PDF"
     }
