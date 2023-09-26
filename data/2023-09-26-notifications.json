@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio periódico indicativo de 13 de septiembre de 2023, relativo al contrato de suministro repuestos exclusivos Hitachi",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/26/BOCM-20230926-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio periódico indicativo de 13 de septiembre de 2023, relativo al contrato de mantenimiento del software IBM Tivoli instalado en el Centro de Operaciones de Mantenimiento y Monitorización de Instalaciones y Comunicaciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/26/BOCM-20230926-18.PDF"
     }
