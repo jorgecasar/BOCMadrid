@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Resolución de 11 de septiembre de 2023, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se declara desierto el puesto de subdirector/a médico en el hospital universitario de Móstoles adscrito al Servicio Madrileño de Salud",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/26/BOCM-20230926-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Resolución de 7 de septiembre de 2023, de la Dirección General de Seguridad, por la que se convoca el LX curso selectivo de formación básica para Policías Locales de nuevo ingreso de los Cuerpos de Policía Local de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/26/BOCM-20230926-9.PDF"
