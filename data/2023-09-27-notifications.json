@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 1531/2023, de 18 de septiembre, de la Consejería de Cultura, Turismo y Deporte, por la que se aprueba la convocatoria pública para la provisión de puestos de trabajo vacantes en la citada Consejería por el procedimiento de Concurso de Méritos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/27/BOCM-20230927-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 3449/2023, de 14 de septiembre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria de ayudas económicas para ampliación de estudios de idiomas, música, danza, arte dramático, diseño, conservación y restauración de bienes culturales y artes plásticas y diseño en el extranjero para el año 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/27/BOCM-20230927-14.PDF"
