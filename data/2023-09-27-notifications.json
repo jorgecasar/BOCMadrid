@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Colmenar de Oreja",
-      "description": "Régimen económico: Cuenta general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/27/BOCM-20230927-41.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Colmenar Viejo",
       "description": "Ofertas de empleo: Proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/27/BOCM-20230927-42.PDF"
