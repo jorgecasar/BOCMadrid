@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Corrección de errores del Decreto 229/2023, de 6 de septiembre, del Consejo de Gobierno, por el que se establece la estructura orgánica de la Consejería de Presidencia, Justicia y Administración Local",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/27/BOCM-20230927-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden 2123/2023, de 7 de julio, de la Consejería de Economía, Hacienda y Empleo, por la que se convocan pruebas selectivas para el acceso, por el sistema general de acceso libre, a plazas de carácter laboral de la categoría profesional de Educador especialidad Otras Instituciones (Grupo III, Nivel 6, Área C) de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/27/BOCM-20230927-2.PDF"
