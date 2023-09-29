@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Decreto 242/2023, de 27 de septiembre, del Consejo de Gobierno, por el que se establecen las fiestas laborales para el año 2024 en la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/28/BOCM-20230928-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Resolución conjunta de 18 de septiembre de 2023, de las Direcciones Generales de Bilingüismo y Calidad de la Enseñanza, de Educación Concertada, Becas y Ayudas al Estudio y de Recursos Humanos, por la que se hace pública la lista de candidatos que han obtenido la acreditación para impartir el currículo de Inglés avanzado en los institutos bilingües y en los centros privados concertados autorizados para impartir el Programa Bilingüe en Educación Secundaria de la Comunidad de Madrid, según lo dispuesto en la base quinta de la Resolución conjunta de 18 de febrero de 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/28/BOCM-20230928-18.PDF"
