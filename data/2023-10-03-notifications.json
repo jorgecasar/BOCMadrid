@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Extracto de la Orden 3734/2023, de 27 de septiembre, del Consejero de Educación, Ciencia y Universidades, por la que se convocan ayudas para la implantación del programa piloto de auxiliares de danza en centros educativos madrileños a desarrollar en el curso académico 2023-2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/02/BOCM-20231002-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Extracto de la Orden 1362/2023, de 15 de septiembre, de la Consejería de Sanidad, por la que se convocan subvenciones destinadas a entidades locales de la Comunidad de Madrid, para la realización de actividades en el año 2024 materia de promoción de la salud en el ámbito municipal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/02/BOCM-20231002-28.PDF"
