@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Régimen económico: O. A",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/04/BOCM-20231004-48.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcorcón",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/04/BOCM-20231004-49.PDF"
