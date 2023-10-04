@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Organización y funcionamiento: Alcaldía. Estructura orgánica",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/04/BOCM-20231004-47.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Régimen económico: O. A",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/04/BOCM-20231004-48.PDF"
     }
