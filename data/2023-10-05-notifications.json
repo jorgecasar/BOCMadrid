@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Decreto 244/2023, de 4 de octubre, del Consejo de Gobierno, por el que se establece la estructura orgánica de la Consejería de Vivienda, Transportes e Infraestructuras",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/05/BOCM-20231005-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Decreto 245 /2023, de 4 de octubre, del Consejo de Gobierno, por el que se establece la estructura orgánica de la Consejería de Sanidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/05/BOCM-20231005-2.PDF"
