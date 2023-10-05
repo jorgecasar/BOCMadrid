@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Régimen económico: Área de Gobierno de Economía, Innovación y Empleo. Extracto convocatoria subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/05/BOCM-20231005-37.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Régimen económico: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Concesión premios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/05/BOCM-20231005-38.PDF"
     }
