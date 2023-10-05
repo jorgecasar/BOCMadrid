@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Galapagar",
-      "description": "Personal: Nombramiento funcionario carrera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/05/BOCM-20231005-43.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Meco",
       "description": "Organización y funcionamiento: Delegación funciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/05/BOCM-20231005-44.PDF"
