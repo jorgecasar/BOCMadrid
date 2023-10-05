@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Nuevo Baztán",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/05/BOCM-20231005-48.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Rivas-Vaciamadrid",
       "description": "Ofertas de empleo: Proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/05/BOCM-20231005-49.PDF"
