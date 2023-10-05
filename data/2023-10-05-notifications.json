@@ -1,19 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 237,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/10/05/BOCM-20231005237.PDF",
-      "total": 57,
-      "items": {
-        "Comunidad de Madrid": 34,
-        "Disposiciones y Anuncios del Estado": 2,
-        "Administración Local Ayuntamientos": 18,
-        "Administración de Justicia": 3
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
