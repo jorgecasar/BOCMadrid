@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Decreto 247/2023, de 4 de octubre, del Consejo de Gobierno, por el que se nombra Consejero Delegado de la Agencia de Contratación Sanitaria de la Comunidad de Madrid a don Francisco Javier Galán Serapio",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/06/BOCM-20231006-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 27 de septiembre de 2023, de la Directora de la Fundación de Investigación Biomédica del Hospital Universitario “La Princesa”, por la que se anuncia la cobertura mediante convocatoria pública  de un puesto (1) de Titulado Superior Senior (1)”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/06/BOCM-20231006-22.PDF"
     }
