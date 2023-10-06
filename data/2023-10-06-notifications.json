@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 25 de septiembre de 2023, de la Dirección General de Presupuestos, por la que se hace público el “estado de ejecución del presupuesto de gastos” correspondiente al mes de julio de 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/06/BOCM-20231006-28.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 3685/2023, de 25 de septiembre, del Consejero de Educación, Ciencia y Universidades, por la que se conceden los Premios Extraordinarios de Bachillerato de la Comunidad de Madrid correspondientes al año académico 2022-2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/06/BOCM-20231006-29.PDF"
