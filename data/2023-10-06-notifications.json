@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Pinto",
-      "description": "Otros anuncios: Notificación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/06/BOCM-20231006-60.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "San Agustín del Guadalix",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/06/BOCM-20231006-61.PDF"
