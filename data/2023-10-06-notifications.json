@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 21 de septiembre de 2023, de la Universidad de Alcalá, por la que se convocan concursos de acceso a plazas de funcionarios de carrera de los cuerpos docentes universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/06/BOCM-20231006-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 5 de octubre de 2023, de la Universidad Rey Juan Carlos por la que se resuelve la provisión de un puesto de trabajo reservado a personal funcionario mediante el sistema de libre designación, convocada por Resolución de fecha 26 de junio de 2023 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID del día 4 de julio)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/06/BOCM-20231006-26.PDF"
