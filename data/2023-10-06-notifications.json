@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Corrección de errores de la Resolución de 4 de septiembre de 2023, de la Dirección General de Recursos Humanos, por la que se corrigen errores en la Resolución de 27 de julio de 2023, de la Dirección General de Recursos Humanos, por la que se aprueba el expediente del concurso-oposición para ingreso en el Cuerpo de Maestros convocado por Resolución de 1 de febrero de 2022 y se declaran aptos en la fase de prácticas a los aspirantes seleccionados",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/06/BOCM-20231006-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Decreto 247/2023, de 4 de octubre, del Consejo de Gobierno, por el que se nombra Consejero Delegado de la Agencia de Contratación Sanitaria de la Comunidad de Madrid a don Francisco Javier Galán Serapio",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/06/BOCM-20231006-21.PDF"
