@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Casarrubuelos",
-      "description": "Régimen económico: Ordenanza impuesto vehículos tracción mecánica",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/10/BOCM-20231010-54.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Casarrubuelos",
       "description": "Régimen económico: Ordenanza impuesto bienes inmuebles",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/10/BOCM-20231010-55.PDF"
     }
