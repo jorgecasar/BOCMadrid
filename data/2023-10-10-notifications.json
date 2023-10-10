@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Daganzo de Arriba",
-      "description": "Régimen económico: Ordenanza fiscal bienes inmuebles",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/10/BOCM-20231010-60.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Fuenlabrada",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/10/BOCM-20231010-61.PDF"
