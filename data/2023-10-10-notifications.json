@@ -1,19 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 241,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/10/10/BOCM-20231010241.PDF",
-      "total": 88,
-      "items": {
-        "Comunidad de Madrid": 48,
-        "Administración Local Ayuntamientos": 33,
-        "Administración de Justicia": 6,
-        "Otros Anuncios": 1
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
