@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 3727/2023, de 28 de septiembre, del Consejero de Educación, Ciencia y Universidades, por la que se conceden los premios relativos al XIX Certamen de Coros Escolares de la Comunidad de Madrid correspondiente al curso escolar 2022-2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/10/BOCM-20231010-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 6 de octubre de 2023, por el que se convoca la licitación para la contratación de un “Servicio de pólizas de seguro de Responsabilidad Civil, Accidentes y Asistencia en Viaje”. (Expediente 6012300316)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/10/BOCM-20231010-17.PDF"
