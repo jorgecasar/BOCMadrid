@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 21 de septiembre de 2023, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa Miele, S. A. U. (Código 28100381012014)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/10/BOCM-20231010-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 3727/2023, de 28 de septiembre, del Consejero de Educación, Ciencia y Universidades, por la que se conceden los premios relativos al XIX Certamen de Coros Escolares de la Comunidad de Madrid correspondiente al curso escolar 2022-2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/10/BOCM-20231010-16.PDF"
