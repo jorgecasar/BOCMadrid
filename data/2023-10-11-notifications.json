@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Hoyo de Manzanares",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/11/BOCM-20231011-64.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Hoyo de Manzanares",
       "description": "Régimen económico: Extracto convocatoria subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/11/BOCM-20231011-65.PDF"
     }
