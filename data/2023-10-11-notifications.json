@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Boadilla del Monte",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/11/BOCM-20231011-53.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Camarma de Esteruelas",
       "description": "Régimen económico: Ordenanza fiscal tasa utilización privativa dominio",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/11/BOCM-20231011-54.PDF"
