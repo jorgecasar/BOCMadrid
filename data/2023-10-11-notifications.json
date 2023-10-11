@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Ajalvir",
-      "description": "Régimen económico: Rectificación saldos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/11/BOCM-20231011-47.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Ajalvir",
       "description": "Régimen económico: Cuenta general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/11/BOCM-20231011-48.PDF"
     }
