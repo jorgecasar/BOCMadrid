@@ -1,0 +1,70 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 243,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/10/12/BOCM-20231012243.PDF",
+      "total": 12,
+      "items": {
+        "Comunidad de Madrid": 7,
+        "Administración de Justicia": 5
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia y Administración Local",
+      "description": "Acuerdo de 11 de octubre de 2023, del Consejo de Gobierno, por el que se nombran cuatro vocales del Consejo de Administración del Organismo Autónomo Boletín Oficial de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/12/BOCM-20231012-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 15 de septiembre de 2023, entre la Comunidad de Madrid, a través de la Consejería de Cultura, Turismo y Deporte y la Federación Madrileña de Voleibol, para el desarrollo de Programas Deportivos en centros educativos de la Comunidad de Madrid con población en edad escolar 2023-2024",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/12/BOCM-20231012-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 19 de septiembre de 2023, entre la Comunidad de Madrid, a través de la Consejería de Cultura, Turismo y Deporte y la Federación Madrileña de Tenis de Mesa, para el desarrollo de Programas Deportivos en centros educativos de la Comunidad de Madrid con población en edad escolar 2023-2024",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/12/BOCM-20231012-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 19 de septiembre de 2023, entre la Comunidad de Madrid, a través de la Consejería de Cultura, Turismo y Deporte y la Federación Madrileña de Salvamento y Socorrismo, para el desarrollo de Programas Deportivos en centros educativos de la Comunidad de Madrid con población en edad escolar 2023-2024",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/12/BOCM-20231012-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 19 de septiembre de 2023, entre la Comunidad de Madrid, a través de la Consejería de Cultura, Turismo y Deporte y la Federación Madrileña de Triatlón, para el desarrollo de Programas Deportivos en centros educativos de la Comunidad de Madrid con población en edad escolar 2023-2024",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/12/BOCM-20231012-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 20 de septiembre de 2023, entre la Comunidad de Madrid, a través de la Consejería de Cultura, Turismo y Deporte y la Federación de Tenis de Madrid, para el desarrollo de Programas Deportivos en centros educativos de la Comunidad de Madrid con población en edad escolar 2023-2024",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/12/BOCM-20231012-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 25 de septiembre de 2023, entre la Comunidad de Madrid, a través de la Consejería de Cultura, Turismo y Deporte, y la Real Federación Madrileña de Vela, para el desarrollo del Programa Madrid Azul 2024",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/12/BOCM-20231012-7.PDF"
+    }
+  }
+]
