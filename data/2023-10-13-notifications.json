@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Fresnedillas de la Oliva",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/13/BOCM-20231013-60.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Hoyo de Manzanares",
       "description": "Organización y funcionamiento: Reglamento Orgánico",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/13/BOCM-20231013-61.PDF"
