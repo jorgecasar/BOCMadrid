@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 3 de octubre de 2023, de la Universidad Rey Juan Carlos, por la que se nombra a doña Mónica Campo Gómez como Catedrática de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/13/BOCM-20231013-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 2 de octubre de 2023, de la Dirección General de Presupuestos, por la que se hace público el “Estado de ejecución del presupuesto de gastos”, correspondiente al mes de agosto de 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/13/BOCM-20231013-18.PDF"
