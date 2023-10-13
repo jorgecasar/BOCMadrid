@@ -1,18 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 244,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/10/13/BOCM-20231013244.PDF",
-      "total": 73,
-      "items": {
-        "Comunidad de Madrid": 44,
-        "Disposiciones y Anuncios del Estado": 1,
-        "Administración Local Ayuntamientos": 28
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
