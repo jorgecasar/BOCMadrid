@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Extracto de la Resolución de 3 de octubre de 2023, del Vicerrectorado de Investigación y Transferencia de la Universidad de Alcalá, por la que se autoriza la publicación de la convocatoria de Contrato de Formación de Personal Investigador Predoctoral (FPI) del Instituto Universitario de Investigación en Estudios Norteamericanos “Benjamín Franklin” de la UAH 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/13/BOCM-20231013-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 2 de octubre de 2023, del Presidente de la Junta Arbitral de Consumo de la Comunidad de Madrid, por la que se dispone la publicación de las empresas a las que se ha concedido el distintivo público de adhesión al Sistema Arbitral de Consumo durante el tercer trimestre de 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/13/BOCM-20231013-21.PDF"
