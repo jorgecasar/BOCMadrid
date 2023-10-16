@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Getafe",
-      "description": "Urbanismo: Plan especial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/16/BOCM-20231016-47.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Las Rozas de Madrid",
       "description": "Otros anuncios: Autorización demanial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/16/BOCM-20231016-48.PDF"
