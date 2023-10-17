@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcalá de Henares",
-      "description": "Régimen económico: Extracto convocatoria subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/16/BOCM-20231016-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Aldea del Fresno",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/16/BOCM-20231016-32.PDF"
