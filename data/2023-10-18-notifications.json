@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Resolución ELI/2/2023, de 4 de octubre, del Director General de Patrimonio Cultural, por la que se aprueba la eliminación de determinadas fracciones temporales de series documentales de titularidad de las Entidades Locales Madrileñas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/18/BOCM-20231018-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Acuerdo de 26 de septiembre de 2023, de prórroga para el año 2024 del convenio entre la Comunidad de Madrid y la Mancomunidad de Servicios del Valle Norte del Lozoya, por el que se encomienda la gestión de las actividades materiales y técnicas de la competencia de la Comunidad de Madrid de fomento del desarrollo económico en materia turística, al carecer de medios materiales y técnicos idóneos en la Sierra Norte de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/18/BOCM-20231018-22.PDF"
