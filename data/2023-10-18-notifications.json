@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 3946/2023, de 11 de octubre, del Consejero de Educación, Ciencia y Universidades, por la que se establecen los servicios mínimos esenciales en los centros de educación infantil de la Comunidad de Madrid, incluidos en el ámbito funcional del XII Convenio colectivo de centros de asistencia y educación infantil, con ocasión de la huelga convocada para los días 19 y 25 de octubre, 8 y 15 de noviembre de 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/18/BOCM-20231018-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Extracto de la Orden 887/2023, de 3 de octubre, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se establece el procedimiento de concesión de la ayuda complementaria a la contratación de determinados seguros agrarios en la Comunidad de Madrid y se declara el importe del crédito presupuestario disponible para financiar las pólizas suscritas entre el 1 de octubre de 2023 y el 31 de octubre de 2024, así como posibles regularizaciones de pólizas vigentes",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/18/BOCM-20231018-20.PDF"
