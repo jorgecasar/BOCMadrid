@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Disposiciones y Anuncios del Estado",
-      "description": "Ministerio de Transportes, Movilidad y Agenda Urbana. Demarcación de Carreteras del Estado en Madrid. Expropiación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/19/BOCM-20231019-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Madrid",
       "description": "Urbanismo: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Proyecto delimitación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/19/BOCM-20231019-50.PDF"
