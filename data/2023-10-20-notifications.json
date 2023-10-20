@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Acuerdo de 11 de octubre de 2023, del Consejo de Gobierno, por el que se aprueba definitivamente la modificación puntual del Plan General de Ordenación Urbana de Madrid, para la ampliación del catálogo de edificios protegidos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/19/BOCM-20231019-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Extracto de la Orden 888/2023, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se convocan para 2023 las ayudas para la mejora de las condiciones generales de producción y comercialización de los productos apícolas en la Comunidad de Madrid cofinanciadas por el Fondo Europeo Agrícola de Garantía (FEAGA) y por Administración General del Estado",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/19/BOCM-20231019-23.PDF"
     }
