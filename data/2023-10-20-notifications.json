@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 3623/2023, de 6 de octubre, del Consejero de Educación, Ciencia y Universidades, por la que se autoriza a la Universidad Camilo José Cela a ampliar sus instalaciones en el municipio de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/19/BOCM-20231019-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 3810/2023, de 7 de octubre, del Consejero de Educación, Ciencia y Universidades, por la que se conceden los Premios Extraordinarios de la Comunidad de Madrid de Formación Profesional de Grado Superior, correspondientes al curso académico 2022-2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/19/BOCM-20231019-20.PDF"
     }
