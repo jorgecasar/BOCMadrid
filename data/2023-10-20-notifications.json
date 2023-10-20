@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Resolución de 4 de octubre de 2023, de la Secretaria General Técnica de la Consejería de Presidencia, Justicia y Administración Local, por la que se publican las subvenciones concedidas durante el tercer trimestre de 2023 por la Dirección General de Reequilibrio Territorial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/19/BOCM-20231019-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Corrección de errores de la Orden de 7 de septiembre de 2023, de la Consejera de Economía, Hacienda y Empleo, por la que se regulan las operaciones de fin de ejercicio y cierre contable para 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/19/BOCM-20231019-16.PDF"
