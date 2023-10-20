@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 3816/2023, de 6 de octubre, del Consejero de Educación, Ciencia y Universidades, por la que se adjudican los Premios Extraordinarios de la Comunidad de Madrid de Enseñanzas Artísticas Profesionales de Artes Plásticas y Diseño, de Danza y de Música, correspondientes al curso académico 2022-2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/19/BOCM-20231019-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Acuerdo de 11 de octubre de 2023, del Consejo de Gobierno, por el que se aprueba definitivamente la modificación puntual del Plan General de Ordenación Urbana de Madrid, para la ampliación del catálogo de edificios protegidos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/19/BOCM-20231019-22.PDF"
