@@ -1,17 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 251,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/10/21/BOCM-20231021251.PDF",
-      "total": 13,
-      "items": {
-        "Comunidad de Madrid": 8,
-        "Administración de Justicia": 5
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
