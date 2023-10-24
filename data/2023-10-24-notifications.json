@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "description": "Orden 3057/2023, de 10 de octubre, de la Consejera de Familia, Juventud y Asuntos Sociales de modificación del Plan Estratégico de Subvenciones 2023 de la Consejería de Familia, Juventud y Política Social de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/23/BOCM-20231023-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 1463/2023, de 6 de octubre, de la Consejería de Cultura, Turismo y Deporte, por la que se resuelve la convocatoria de la XXXIV Edición de los “Circuitos de Artes Plásticas de la Comunidad de Madrid” correspondiente a 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/23/BOCM-20231023-25.PDF"
