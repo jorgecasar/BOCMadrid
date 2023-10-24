@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Convenio de 18 de septiembre de 2023, entre la Delegación del Gobierno para el Plan Nacional sobre Drogas y la Comunidad de Madrid, en materia de drogodependencias y con cargo al Fondo de bienes decomisados",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/23/BOCM-20231023-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Convenio de 3 de octubre de 2023, entre la Comunidad de Madrid a través de la Consejería de Sanidad, el Servicio Madrileño de Salud y Cáritas Diocesana de Madrid, para ofrecer alojamiento temporal a familiares de pacientes con determinados tipos de trasplantes ingresados en el Hospital Universitario “Gregorio Marañón” y otros hospitales del Servicio Madrileño de Salud",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/23/BOCM-20231023-36.PDF"
     }
