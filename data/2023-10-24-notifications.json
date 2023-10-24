@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Orden 1523/2023, de 11 de octubre, de la Consejera de Sanidad, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacantes en la Consejería de Sanidad por el procedimiento de Concurso de Méritos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/23/BOCM-20231023-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Orden 1529/2023, de 13 de octubre, de la Consejera de Sanidad, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacantes en la Consejería de Sanidad por el procedimiento de Concurso de Méritos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/23/BOCM-20231023-13.PDF"
     }
