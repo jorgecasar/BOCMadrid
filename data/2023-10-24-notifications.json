@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Acuerdo de 18 de octubre de 2023, del Consejo de Gobierno, sobre incremento retributivo adicional del personal al servicio del sector público de la Comunidad de Madrid para 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/23/BOCM-20231023-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Orden de 16 de octubre de 2023, del Consejero de Presidencia, Justicia y Administración Local, por la que se aprueba convocatoria pública para la provisión de dos puestos de trabajo vacantes en la Consejería de Presidencia, Justicia y Administración Local, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/23/BOCM-20231023-2.PDF"
