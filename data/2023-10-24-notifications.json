@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 1463/2023, de 6 de octubre, de la Consejería de Cultura, Turismo y Deporte, por la que se resuelve la convocatoria de la XXXIV Edición de los “Circuitos de Artes Plásticas de la Comunidad de Madrid” correspondiente a 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/23/BOCM-20231023-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Convenio de colaboración de 22 de septiembre de 2023, entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo, y el Ayuntamiento de Majadahonda, por el que se acuerda y regula la cesión de uso de los locales en los que se ubica la oficina de empleo de Majadahonda",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/23/BOCM-20231023-26.PDF"
