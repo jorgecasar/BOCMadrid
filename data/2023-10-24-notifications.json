@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 13 de octubre de 2023, de la Universidad Rey Juan Carlos, por la que se nombra a doña María Asunción Sacristán Navarro como Catedrática de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/23/BOCM-20231023-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 3853/2023, de 11 de octubre, del Consejero de Educación, Ciencia y Universidades, por la que se autoriza la desadscripción del Centro de Educación Superior “Real Centro Universitario Escorial-María Cristina” a la Universidad Complutense de Madrid y su adscripción a la Universidad San Pablo-CEU",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/23/BOCM-20231023-21.PDF"
