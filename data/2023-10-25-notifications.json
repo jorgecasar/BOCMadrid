@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "El Álamo",
-      "description": "Régimen económico: Cuenta general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/25/BOCM-20231025-58.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "El Álamo",
       "description": "Ofertas de empleo: Oferta empleo público",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/25/BOCM-20231025-59.PDF"
     }
