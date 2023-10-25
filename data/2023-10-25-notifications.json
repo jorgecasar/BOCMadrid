@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "El Álamo",
-      "description": "Ofertas de empleo: Oferta empleo público",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/25/BOCM-20231025-59.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "El Boalo",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/25/BOCM-20231025-60.PDF"
