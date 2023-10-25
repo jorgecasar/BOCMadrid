@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 1795/2023, de 17 de octubre, de la Consejería de Cultura, Turismo y Deporte, por la que se aprueba la convocatoria pública para la provisión de puestos de trabajo vacantes en la citada consejería por el procedimiento de Concurso de Méritos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/25/BOCM-20231025-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Corrección de errores de la Resolución de 11 de octubre de 2023, de la Gerencia de la Universidad Autónoma de Madrid, por la que se convocan la provisión de tres puestos de trabajo mediante el sistema de comisión de servicios, para el personal técnico, de gestión y de administración y servicios funcionario de esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/25/BOCM-20231025-18.PDF"
