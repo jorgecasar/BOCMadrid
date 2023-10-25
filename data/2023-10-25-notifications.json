@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Fuenlabrada",
-      "description": "Personal: Nombramiento funcionarios carrera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/25/BOCM-20231025-64.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Leganés",
       "description": "Otros anuncios: Autorización demanial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/25/BOCM-20231025-65.PDF"
