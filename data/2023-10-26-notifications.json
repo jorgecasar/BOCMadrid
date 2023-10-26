@@ -1,20 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 255,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/10/26/BOCM-20231026255.PDF",
-      "total": 59,
-      "items": {
-        "Comunidad de Madrid": 39,
-        "Disposiciones y Anuncios del Estado": 1,
-        "Administración Local Ayuntamientos": 16,
-        "Administración de Justicia": 1,
-        "Otros Anuncios": 2
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
