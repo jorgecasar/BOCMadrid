@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Acuerdo de 25 de octubre de 2023, del Consejo de Gobierno, por el que se procede a la corrección de errores del Decreto 246/2023, de 4 de octubre, del Consejo de Gobierno, por el que se establece la estructura directiva del Servicio Madrileño de Salud",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/26/BOCM-20231026-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Orden de 18 de octubre de 2023, del Consejero de Presidencia, Justicia y Administración Local, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en la Consejería de Presidencia, Justicia y Administración Local por el procedimiento de Concurso de Méritos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/26/BOCM-20231026-2.PDF"
