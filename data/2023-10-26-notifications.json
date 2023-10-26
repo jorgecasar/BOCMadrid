@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 24 de octubre de 2023, de la Universidad de Alcalá, por la que se anuncia convocatoria de concurso específico para la provisión de puestos de trabajo vacantes en la relación de puestos de trabajo de personal funcionario de la Universidad de Alcalá",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/26/BOCM-20231026-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 4013/2023, de 17 de octubre, del Consejero de Educación, Ciencia y Universidades, por la que se declara el importe de los créditos disponibles para la concesión directa de ayudas individualizadas de transporte escolar para el curso 2023-2024 y se establece el período subvencionable",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/26/BOCM-20231026-21.PDF"
