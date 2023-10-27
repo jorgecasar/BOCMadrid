@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "El Escorial",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/27/BOCM-20231027-62.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Fresno de Torote",
       "description": "Organización y funcionamiento: Junta de Gobierno",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/27/BOCM-20231027-63.PDF"
