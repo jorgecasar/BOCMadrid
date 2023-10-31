@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Régimen económico: O. A",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/30/BOCM-20231030-52.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Urbanismo: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Proyecto reparcelación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/30/BOCM-20231030-53.PDF"
     }
