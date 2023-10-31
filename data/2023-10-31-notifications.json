@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Resolución de 17 de octubre de 2023, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se procede a realizar corrección de errores de la Resolución de 28 de marzo de 2023, sobre reconocimiento de nivel de carrera profesional al personal laboral temporal de los Grupos I, II, III y IV no sanitarios, Grupo V personal Auxiliar y Grupos III y IV sanitarios del Ente Público Hospital de Fuenlabrada con nivel evaluado y reconocido administrativamente con anterioridad al 26 de octubre de 2022",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/30/BOCM-20231030-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Resolución 5248/2023, de 26 de octubre, del Director General de Servicios Sociales e Integración, por la que se concede ayudas del bono social térmico 2022 a 1.311 beneficiarios del bono social eléctrico a 31 de diciembre de 2021 en la Comunidad de Madrid y por la que se inicia el plazo de renuncia de los beneficiarios incluidos en esta resolución al derecho de las ayudas del bono social térmico 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/30/BOCM-20231030-31.PDF"
