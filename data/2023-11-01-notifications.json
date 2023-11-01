@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 23 de octubre de 2023, de la Dirección General de Función Pública, por la que se aprueba y publica la lista de espera de personal funcionario interino del Cuerpo de Letrados, Administración Especial, Grupo A, Subgrupo A1, de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/31/BOCM-20231031-5.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Digitalización",
       "description": "Resolución 598/2023, de 23 de octubre, de la Consejera Delegada de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se convoca proceso selectivo para la selección de personal laboral ordinario indefinido (laboral fijo), de funciones profesionales del área de actividad funcional Informática y Técnica y del área de actividad funcional de Servicios en turno libre",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/31/BOCM-20231031-6.PDF"
