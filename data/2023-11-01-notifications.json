@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 20 de octubre de 2023, de la Universidad Autónoma de Madrid, por la que se nombran funcionario/as de carrera en diversas Escalas de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/31/BOCM-20231031-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 4007/2023, de 18 de octubre, del Consejero de Educación, Ciencia y Universidades, por la que se declara desierto el Premio de Investigación de la Comunidad de Madrid “Margarita Salas” 2023 a investigadores de menos de cuarenta años",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/31/BOCM-20231031-11.PDF"
