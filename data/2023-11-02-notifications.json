@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Convenio de 23 de octubre de 2023, entre la Administración General del Estado (Ministerio de Justicia) y la Comunidad de Madrid, para el acceso al Registro Electrónico de Apoderamientos Judiciales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/01/BOCM-20231101-4.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Adenda de 25 de octubre de 2023, de prórroga del convenio entre la Comunidad de Madrid, a través de la Consejería de Sanidad, el Servicio Madrileño de Salud y la Asociación Madrileña de Personas con Enfermedades Neuromusculares (ASEM Madrid), para desarrollar el “Programa de apoyo al paciente con enfermedad neuromuscular”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/01/BOCM-20231101-5.PDF"
