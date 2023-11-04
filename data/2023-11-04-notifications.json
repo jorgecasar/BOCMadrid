@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Presidencia de La Comunidad",
-      "description": "Decreto 80/2023, de 2 de noviembre, de la Presidenta de la Comunidad de Madrid, por el que se concede la Medalla Internacional de la Comunidad de Madrid a don Daniel Noboa Azín",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/03/BOCM-20231103-42.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Orden de 19 de octubre de 2023, de la Consejería de Vivienda, Trasportes e Infraestructuras, por la que conceden subvenciones del programa de “mejora de la accesibilidad en y a las viviendas” para la convocatoria 2022, previstas en el Real Decreto 42/2022, de 18 de enero, por el que se regula el Bono Alquiler Joven y el Plan Estatal para el acceso a la vivienda 2022-2025 y se aprueba el listado definitivo de solicitantes excluidos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/03/BOCM-20231103-43.PDF"
