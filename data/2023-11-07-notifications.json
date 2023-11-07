@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Resolución de 19 de octubre de 2023, de la Universidad de Alcalá, por la que se nombra Catedrático de Universidad del Área de Conocimiento de “Bioquímica y Biología Molecular”, a don Santiago Ropero Salinas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/06/BOCM-20231106-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Resolución de 19 de octubre de 2023, de la Universidad de Alcalá, por la que se nombra Profesor Titular de Universidad del Área de Conocimiento de “Arquitectura y Tecnología de Computadores”, a don Pablo Parra Espada",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/06/BOCM-20231106-25.PDF"
     }
