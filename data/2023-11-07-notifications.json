@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Las Rozas de Madrid",
-      "description": "Personal: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/06/BOCM-20231106-56.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Los Molinos",
       "description": "Régimen económico: Ordenanza fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/06/BOCM-20231106-57.PDF"
