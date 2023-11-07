@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Colmenarejo",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/06/BOCM-20231106-50.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Gargantilla del Lozoya y Pinilla de Buitrago",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/06/BOCM-20231106-51.PDF"
