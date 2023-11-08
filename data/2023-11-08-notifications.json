@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 4041/2023, de 22 de octubre, de la Consejería de Educación, Ciencia y Universidades, por la que se aprueban las bases reguladoras correspondientes al Certamen de Teatro Escolar de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/07/BOCM-20231107-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 4119/2023, de 26 de octubre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria 2023 de ayudas para la realización de doctorados industriales en la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/07/BOCM-20231107-20.PDF"
     }
