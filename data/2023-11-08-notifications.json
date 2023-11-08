@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 4088/2023, de 30 de octubre, del Consejero de Educación, Ciencia y Universidades, por la que cesan y se nombran Consejeras y Consejeros titulares y suplentes en el Consejo Escolar de la Comunidad de Madrid, por el grupo de padres o madres de alumnos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/07/BOCM-20231107-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 23 de octubre de 2023, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba el Plan Estratégico de Subvenciones para la concesión de ayudas a las empresas industriales madrileñas para la adquisición de medios productivos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/07/BOCM-20231107-16.PDF"
