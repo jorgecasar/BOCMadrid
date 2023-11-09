@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Orden de 26 de octubre de 2023, de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en dicha Consejería (Agencia de Vivienda Social) por el procedimiento de Concurso de Méritos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/08/BOCM-20231108-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 1630/2023, de 30 de octubre, de la Consejera de Sanidad, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacantes en la Consejería de Sanidad por el procedimiento de Concurso de Méritos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/08/BOCM-20231108-18.PDF"
