@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 26 de octubre de 2023, de la Universidad de Alcalá, por la que se resuelve el concurso de traslado convocado por Resolución de 17 de mayo de 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/08/BOCM-20231108-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Acuerdo de 31 de octubre de 2023, del Consejo de Gobierno, por el que se aprueban las normas reguladoras para la concesión directa de ayudas individualizadas de desayuno escolar a los alumnos de segundo ciclo de Educación Infantil y de Educación Primaria de los centros sostenidos con fondos públicos de la Comunidad de Madrid que dispongan del servicio de desayuno escolar, pertenecientes a familias perceptoras de la Renta Mínima de Inserción o del Ingreso Mínimo Vital, durante el período lectivo del curso escolar",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/08/BOCM-20231108-24.PDF"
