@@ -1,0 +1,47 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 267,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/11/09/BOCM-20231109267.PDF",
+      "total": 9,
+      "items": {
+        "Comunidad de Madrid": 3,
+        "Administración Local Ayuntamientos": 1,
+        "Administración de Justicia": 5
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Convenio de 27 de octubre de 2023, entre la Comunidad de Madrid (Instituto Regional de Seguridad y Salud en el Trabajo) y la Universidad Carlos III de Madrid, para la creación de la “Cátedra IRSST: I+D+I para una transformación digital inteligente de la seguridad y salud laboral”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/09/BOCM-20231109-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Convenio de colaboración de 27 de octubre de 2023, entre el Ayuntamiento de Madrid (Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad) y la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades), para la cesión gratuita de la titularidad de la parcela municipal situada en la avda. de Secundino Zuazo, número 123, Distrito de Hortaleza, con destino a un Instituto de Educación Secundaria (Expediente 711/22/03775)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/09/BOCM-20231109-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 26 de octubre de 2023, entre la Comunidad de Madrid (Consejería de Cultura, Turismo y Deporte) y la Fundación Teatro de la Abadía, Centro de Estudios y Creación Escénica de la Comunidad de Madrid, por el que se formaliza la concesión directa de una subvención por importe de 1.750.000 euros, con destino a actividades escénicas y formativas durante el año 2023",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/09/BOCM-20231109-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Navalagamella",
+      "description": "Régimen económico: Ordenanza fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/09/BOCM-20231109-4.PDF"
+    }
+  }
+]
