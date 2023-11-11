@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 31 de octubre de 2023, de la Universidad Politécnica de Madrid, por la que se convocan concursos para la provisión de plazas de personal docente e investigador contratado: Profesor Permanente Laboral",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/10/BOCM-20231110-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 19 de octubre de 2023, de la Universidad de Alcalá, por la que se nombra Profesora Titular de Universidad del Área de Conocimiento de “Fisiología”, a doña Gemma Olmos Centenera",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/10/BOCM-20231110-20.PDF"
