@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 23 de octubre de 2023, de la Universidad Complutense de Madrid, por la que se nombran funcionarios de los Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/10/BOCM-20231110-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 30 de octubre de 2023, de la Universidad Autónoma de Madrid, por la que se convoca concurso oposición libre, para la provisión de varios puestos de trabajo vacantes en la relación de puestos de trabajo de Personal Técnico, de Gestión y de Administración y Servicios Laboral",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/10/BOCM-20231110-17.PDF"
