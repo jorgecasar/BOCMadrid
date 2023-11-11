@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Resolución de 19 de octubre de 2023, de la Universidad de Alcalá, por la que se nombra Profesora Titular de Universidad del Área de Conocimiento de “Fisiología”, a doña Laura Calleros Basilio",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/10/BOCM-20231110-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Resolución de 27 de octubre de 2023, de la Universidad de Alcalá, por la que se convocan concursos de acceso por promoción interna a plazas de funcionarios de carrera de los Cuerpos Docentes Universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/10/BOCM-20231110-22.PDF"
     }
