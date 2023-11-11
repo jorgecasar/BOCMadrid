@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 30 de octubre de 2023, de la Universidad Autónoma de Madrid, por la que se convoca concurso oposición libre, para la provisión de varios puestos de trabajo vacantes en la relación de puestos de trabajo de Personal Técnico, de Gestión y de Administración y Servicios Laboral",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/10/BOCM-20231110-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 30 de octubre de 2023, de la Universidad Politécnica de Madrid, por la que se convocan concursos para la provisión de plazas de personal docente e investigador contratado: Profesor Permanente Laboral",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/10/BOCM-20231110-18.PDF"
