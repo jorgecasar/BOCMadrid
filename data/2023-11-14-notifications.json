@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 23 de octubre de 2023, de la Universidad Politécnica de Madrid, por la que se convocan pruebas selectivas para el ingreso en la Escala Auxiliar Administrativa, Grupo C, Subgrupo C2, de la Universidad Politécnica de Madrid por el sistema general de acceso libre",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/13/BOCM-20231113-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución 30 de octubre de 2023, de la Universidad Rey Juan Carlos, por la que se nombra Profesor Titular de Universidad a don Gustavo Recio Isasi",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/13/BOCM-20231113-13.PDF"
