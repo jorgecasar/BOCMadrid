@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Extracto de 30 de octubre de 2023, del Acuerdo de la Comisión de Investigación de la Universidad de Alcalá, por el que se convocan las Ayudas de Financiación Puente a Grupos Consolidados 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/14/BOCM-20231114-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Extracto de 31 de octubre de 2023, de la Resolución del Vicerrectorado de Investigación y Transferencia de la Universidad de Alcalá, por la que se convocan las Ayudas para la realización de Proyectos Colaborativos de Innovación Sanitaria UAH-IRYCIS para el año 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/14/BOCM-20231114-24.PDF"
     }
