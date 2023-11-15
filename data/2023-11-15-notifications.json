@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Getafe",
-      "description": "Régimen económico: Extracto convocatoria subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/14/BOCM-20231114-52.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Humanes de Madrid",
       "description": "Régimen económico: Extracto convocatoria subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/14/BOCM-20231114-53.PDF"
