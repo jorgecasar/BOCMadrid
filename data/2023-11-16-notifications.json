@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcalá de Henares",
-      "description": "Personal: Plantilla personal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/15/BOCM-20231115-39.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Brunete",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/15/BOCM-20231115-40.PDF"
