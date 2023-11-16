@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Torrejón de Velasco",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/15/BOCM-20231115-55.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Tres Cantos",
       "description": "Régimen económico: Prescripción pago",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/15/BOCM-20231115-56.PDF"
