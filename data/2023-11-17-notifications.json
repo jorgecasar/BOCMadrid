@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Alcorcón",
-      "description": "Personal: Plantilla personal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/16/BOCM-20231116-48.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Alcorcón",
       "description": "Personal: Nombramiento funcionario carrera",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/16/BOCM-20231116-49.PDF"
     }
