@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 4359/2023, de 14 de noviembre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria de becas para comedor escolar para alumnos escolarizados en centros sostenidos con fondos públicos de la Comunidad de Madrid para el curso 2023-2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/16/BOCM-20231116-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Orden 1319/2023, de 2 de noviembre, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se designan los miembros de la Junta Electoral para las elecciones a la Cámara Agraria de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/16/BOCM-20231116-20.PDF"
