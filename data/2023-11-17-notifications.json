@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio interadministrativo de 23 de agosto de 2023, entre la Comunidad de Madrid y el Ayuntamiento de Guadarrama, para la prevención y control del absentismo escolar",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/16/BOCM-20231116-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Resolución de 3 de noviembre de 2023, de la Dirección General de Carreteras de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se somete al trámite de información pública los mapas estratégicos de ruido de los grandes ejes viarios de la Comunidad de Madrid en su cuarta fase",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/16/BOCM-20231116-28.PDF"
