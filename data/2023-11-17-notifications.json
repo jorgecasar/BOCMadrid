@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Bustarviejo",
-      "description": "Régimen económico: Ordenanzas fiscales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/16/BOCM-20231116-52.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Carabaña",
       "description": "Régimen económico: Cuenta general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/16/BOCM-20231116-53.PDF"
