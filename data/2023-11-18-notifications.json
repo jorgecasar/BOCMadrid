@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 2 de noviembre de 2023, de la Universidad Politécnica de Madrid, por la que se nombran funcionarios de carrera en la Escala Técnica Auxiliar de Informática, Grupo C, Subgrupo C1, de la Universidad Politécnica de Madrid, por el sistema general de acceso libre",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/17/BOCM-20231117-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 6 de noviembre de 2023, de la Universidad Rey Juan Carlos, por la que se nombran Profesores Titulares de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/17/BOCM-20231117-20.PDF"
