@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Digitalización",
-      "description": "Resolución de 3 de noviembre de 2023, de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de “Servicios de atención, soporte y mantenimiento del Sistema Saint RR. HH. y Nóminas”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/17/BOCM-20231117-28.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Convenio interadministrativo de 19 de julio de 2023, entre la Comunidad de Madrid y el Ayuntamiento de El Vellón para la prevención y control del absentismo escolar",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/17/BOCM-20231117-29.PDF"
