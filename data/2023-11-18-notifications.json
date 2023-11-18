@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 24 de octubre de 2023, de la Universidad Rey Juan Carlos de Madrid, por la que se publica el plan de estudios de Graduado o Graduada en Cinematografía / Bachelor in Filmmaking",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/17/BOCM-20231117-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 24 de octubre de 2023, de la Universidad Rey Juan Carlos de Madrid, por la que se publica el plan de estudios de Graduado o Graduada en Comunicación Digital",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/17/BOCM-20231117-24.PDF"
     }
