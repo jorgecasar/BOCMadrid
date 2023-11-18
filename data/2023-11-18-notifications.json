@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Orden 1704/2023, de 7 de noviembre, de la Consejería de Sanidad por la que se convoca, para su cobertura interina, un puesto de trabajo vacante en dicha Consejería y se prevé la constitución de lista de espera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/17/BOCM-20231117-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Orden 1705/2023, de 7 de noviembre, de la Consejería de Sanidad, por la que se convoca, para su cobertura interina, un puesto de trabajo vacante en dicha Consejería y se prevé la constitución de lista de espera",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/17/BOCM-20231117-13.PDF"
     }
