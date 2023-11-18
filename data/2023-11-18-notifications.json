@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 24 de octubre de 2023, de la Universidad Rey Juan Carlos de Madrid, por la que se publica el plan de estudios de Graduado o Graduada en Comunicación Digital",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/17/BOCM-20231117-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Vicepresidencia, Consejería de Educación y Universidades",
       "description": "Convenio interadministrativo de 21 de junio de 2023, entre la Comunidad de Madrid y el Ayuntamiento de Coslada para la prevención y control del absentismo escolar",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/17/BOCM-20231117-25.PDF"
