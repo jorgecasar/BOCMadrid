@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Guadarrama",
-      "description": "Personal: Nombramiento funcionarios carrera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/17/BOCM-20231117-59.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Las Rozas de Madrid",
       "description": "Personal: Nombramiento funcionarios carrera",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/17/BOCM-20231117-60.PDF"
