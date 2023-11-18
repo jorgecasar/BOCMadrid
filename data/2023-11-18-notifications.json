@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Orden 1709/2023, de 7 de noviembre, de la Consejería de Sanidad, por la que se resuelve la Orden 1064/2023, de 29 de junio, de esta Consejería (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 10 de julio de 2023), por la que se aprobaba la convocatoria para la selección de los funcionarios interinos del Cuerpo de Técnicos Superiores de Salud Pública, Escala de Veterinaria, que han de integrar la lista de espera para las sustituciones en los Mataderos de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/17/BOCM-20231117-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Corrección de errores de la Resolución de 4 de octubre de 2023, de la Dirección-Gerencia del Hospital Universitario “La Paz” del Servicio Madrileño de Salud, por la que se publica la relación definitiva de admitidos/as y excluidos/as al proceso de provisión convocado para la cobertura de un puesto de Coordinador de Admisión y Documentación Clínica, en ese centro asistencial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/17/BOCM-20231117-15.PDF"
     }
