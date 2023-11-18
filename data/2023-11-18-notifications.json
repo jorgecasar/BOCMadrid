@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Buitrago del Lozoya",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/17/BOCM-20231117-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Cercedilla",
       "description": "Ofertas de empleo: Oferta empleo público",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/17/BOCM-20231117-50.PDF"
