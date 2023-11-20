@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio interadministrativo de 27 de julio de 2023, entre la Comunidad de Madrid y el Ayuntamiento de Sevilla la Nueva para la prevención y control del absentismo escolar",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/18/BOCM-20231118-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Convenio interadministrativo de 23 de agosto de 2023, entre la Comunidad de Madrid y el Ayuntamiento de Villanueva de la Cañada para la prevención y control del absentismo escolar",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/18/BOCM-20231118-2.PDF"
     }
