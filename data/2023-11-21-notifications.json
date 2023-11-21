@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Pozuelo de Alarcón",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/20/BOCM-20231120-53.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "San Fernando de Henares",
       "description": "Ofertas de empleo: Proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/20/BOCM-20231120-54.PDF"
