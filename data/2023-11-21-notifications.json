@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Serranillos del Valle",
-      "description": "Personal: Nombramiento funcionario",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/20/BOCM-20231120-56.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Sevilla la Nueva",
       "description": "Régimen económico: Presupuesto general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/20/BOCM-20231120-57.PDF"
