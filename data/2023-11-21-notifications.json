@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Getafe",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/20/BOCM-20231120-43.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Guadarrama",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/20/BOCM-20231120-44.PDF"
