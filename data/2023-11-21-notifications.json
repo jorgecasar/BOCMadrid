@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Guadarrama",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/20/BOCM-20231120-44.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Guadarrama",
       "description": "Ofertas de empleo: Proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/20/BOCM-20231120-45.PDF"
     }
