@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 2 de noviembre de 2023, conjunta de la Universidad Complutense de Madrid y de la Consejería de Sanidad de la Comunidad de Madrid, por la que se convoca concurso de acceso a plazas de cuerpos docentes universitarios vinculadas con plazas asistenciales en instituciones sanitarias",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/20/BOCM-20231120-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 15 de noviembre de 2023, de la Gerencia de la Universidad de Alcalá, por la que se procede a nombrar personal funcionario de carrera de la Escala Auxiliar Administrativa, Grupo C, Subgrupo C2, de la Universidad de Alcalá",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/20/BOCM-20231120-13.PDF"
