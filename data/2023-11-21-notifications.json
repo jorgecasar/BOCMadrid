@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio interadministrativo de 4 de septiembre de 2023, entre la Comunidad de Madrid y el Ayuntamiento de San Martín de Valdeiglesias, para la prevención y control del absentismo escolar",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/20/BOCM-20231120-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 16 de noviembre de 2023, de adjudicación del contrato titulado “Servicio de limpieza de equipos y piezas en las zonas productivas de los talleres centrales”. (Expediente 6012300087)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/20/BOCM-20231120-23.PDF"
