@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Corrección de errores de las Órdenes de la Consejería de Economía, Hacienda y Empleo 1501/2023, de 6 de junio, 1527/2023, de 7 de junio, 1716/2023, de 23 de junio, 1926/2023, de 17 de julio, 1942/2023, de 17 de julio y 2112/2023, de 23 de agosto",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/21/BOCM-20231121-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Corrección de errores de las Órdenes de la Consejería de Economía, Hacienda y Empleo 1837/2023, de 7 de julio y 2120/2023, de 7 de julio",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/21/BOCM-20231121-2.PDF"
     }
