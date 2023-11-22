@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Digitalización",
-      "description": "Resolución 685/2023, de 17 de noviembre, de la Consejera-Delegada de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se procede a la corrección de errores de la resolución 599/2023, de 23 de octubre, de la Consejera-Delegada de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se convoca proceso selectivo para la selección de personal laboral ordinario indefinido (laboral fijo), de funciones profesionales del área de actividad funcional Administrativa y de Gestión, en turno libre (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID número 259, de 31 de octubre de 2023)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/21/BOCM-20231121-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Resolución de 13 de noviembre de 2023, de la Dirección General de Recursos Humanos, por la que se anulan destinos de los obtenidos en el concurso de traslados del Cuerpo de Maestros, convocado por Resolución de 6 de octubre de 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/21/BOCM-20231121-18.PDF"
