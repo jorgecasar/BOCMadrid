@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio interadministrativo de 19 de septiembre de 2023, entre la Comunidad de Madrid y el Ayuntamiento de Getafe, para la prevención y control del absentismo escolar",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/21/BOCM-20231121-33.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Convenio interadministrativo de 26 de septiembre de 2023, entre la Comunidad de Madrid y el Ayuntamiento de Aranjuez, para la prevención y control del absentismo escolar",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/21/BOCM-20231121-34.PDF"
     }
