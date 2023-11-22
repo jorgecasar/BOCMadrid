@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 7 de noviembre de 2023, de la Dirección General de Presupuestos, por la que se hace público el “estado de ejecución del presupuesto de gastos” correspondiente al mes de septiembre de 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/21/BOCM-20231121-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 4333/2023, de 10 de noviembre, del Consejero de Educación, Ciencia y Universidades, por la que se aprueba el plan estratégico para la concesión directa de subvenciones a las seis universidades públicas de la Comunidad de Madrid, destinadas a la compensación de las cantidades dejadas de percibir por aplicación a los estudiantes de la bajada de precios públicos universitarios en el curso 2022-2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/21/BOCM-20231121-22.PDF"
