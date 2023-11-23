@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Alcorcón",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/22/BOCM-20231122-42.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Alcorcón",
       "description": "Urbanismo: Proyecto reparcelación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/22/BOCM-20231122-43.PDF"
     }
