@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Boadilla del Monte",
-      "description": "Personal: Nombramiento funcionarios carrera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/22/BOCM-20231122-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Bustarviejo",
       "description": "Régimen económico: Ordenanza fiscal bienes inmuebles",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/22/BOCM-20231122-50.PDF"
