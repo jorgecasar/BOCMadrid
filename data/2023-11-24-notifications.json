@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Decreto 259/2023, de 22 de noviembre, del Consejo de Gobierno, por el que se nombra Secretario General Técnico de la Consejería de Sanidad a don Francisco Lobo Montalbán",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/23/BOCM-20231123-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Decreto 260/2023, de 22 de noviembre, del Consejo de Gobierno, por el que cesa don José Macía Losada, como Director General de Gestión Económico-Financiera del Servicio Madrileño de Salud",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/23/BOCM-20231123-18.PDF"
     }
