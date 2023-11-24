@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Decreto 254/2023, de 22 de noviembre, del Consejo de Gobierno, por el que cesa don José Luis Gross Iribas, como Director General de Promoción Económica e Industrial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/23/BOCM-20231123-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Decreto 255/2023, de 22 de noviembre, del Consejo de Gobierno, por el que se nombra Director General de Promoción Económica e Industrial a don Jaime Martínez Muñoz",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/23/BOCM-20231123-9.PDF"
     }
