@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Orden 16/2023, de 27 de junio, del Consejero de Medio Ambiente, Agricultura e Interior, de aceptación de las parcelas adjudicadas a la Comunidad de Madrid en el proceso de liquidación del Consorcio Urbanístico “Escorial”, de El Escorial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/23/BOCM-20231123-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Convenio de 20 de noviembre de 2023, entre la Comunidad de Madrid (Instituto Regional de Seguridad y Salud en el Trabajo) y la Universidad Politécnica de Madrid para la creación de la “Cátedra IRSST-UPM: I+D+I para la prevención de riesgos laborales”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/23/BOCM-20231123-30.PDF"
