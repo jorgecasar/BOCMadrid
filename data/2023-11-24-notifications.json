@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Digitalización",
-      "description": "Orden de 14 de noviembre de 2023, de la Consejería de Digitalización por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicha Consejería por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/23/BOCM-20231123-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Acuerdo de 22 de noviembre de 2023, del Consejo de Gobierno, por el que se procede a la corrección del error material del Acuerdo de Consejo de Gobierno de 8 de noviembre de 2023, por el que se nombran vocales del Consejo para la promoción de la accesibilidad y la supresión de barreras en representación de las Consejerías de la Comunidad de Madrid, de los grupos parlamentarios de la Asamblea de Madrid, del Ayuntamiento de Madrid y de la Federación de Municipios de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/23/BOCM-20231123-13.PDF"
