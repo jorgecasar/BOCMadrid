@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 13 de noviembre de 2023, de la Universidad Rey Juan Carlos, por la que se nombra a don Juan Manuel Vara Mesa como Catedrático de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/24/BOCM-20231124-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Decreto 253/2023, de 22 de noviembre, del Consejo de Gobierno, por el que se convocan elecciones a la Cámara Agraria de la Comunidad de Madrid y se regulan los gastos del proceso electoral",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/24/BOCM-20231124-21.PDF"
