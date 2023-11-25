@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Cubas de la Sagra",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/24/BOCM-20231124-48.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "El Álamo",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/24/BOCM-20231124-49.PDF"
