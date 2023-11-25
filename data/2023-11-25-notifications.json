@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 13 de noviembre de 2023, por la que se procede a la adjudicación parcial de las plazas convocadas mediante concurso libre de méritos (Convocatoria excepcional de estabilización de empleo temporal de larga duración) para las plazas ocupadas de forma temporal con anterioridad al 1 de enero de 2016, en los términos establecidos en las disposiciones adicionales sexta y octava de la Ley 20/2021, de 28 de diciembre, de Medidas Urgentes para la Temporalidad en el Empleo Público, por Resolución de fecha 16 de noviembre de 2022 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, “Boletín Oficial de la Universidad Complutense” de 25 de noviembre)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/24/BOCM-20231124-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 17 de noviembre de 2023, de la Universidad Complutense de Madrid, por la que se resuelve el procedimiento de Libre Designación, convocado por Resolución de 12 de septiembre de 2023 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y BOUC de 20 de septiembre)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/24/BOCM-20231124-18.PDF"
     }
