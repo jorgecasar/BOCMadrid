@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Listado de 8 de noviembre de 2023, de las cooperativas cuyas cuentas anuales han quedado depositadas en el Registro de Cooperativas de la Comunidad de Madrid en el trimestre tercero del año 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/24/BOCM-20231124-28.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Digitalización",
       "description": "Orden 22/2023, de 15 de noviembre, de la Consejería de Digitalización, por la que se convoca concurso público para la adjudicación de una licencia audiovisual de comunicación televisiva disponible, de ámbito autonómico, y se aprueban las bases que han de regir el mismo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/24/BOCM-20231124-29.PDF"
