@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Convenio de colaboración de 15 de noviembre de 2023, entre la Comunidad de Madrid, a través de la Consejería de Sanidad, el Servicio Madrileño de Salud y la Universidad Pontificia Comillas, para la formación práctico-clínica de los alumnos del grado de Enfermería",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/25/BOCM-20231125-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Acuerdo de 13 de noviembre de 2023, de prórroga del convenio entre la Comunidad de Madrid (Consejería de Medio Ambiente, Agricultura e Interior) y el Ayuntamiento de Alcalá de Henares, para la adhesión de información relativa a su patrimonio de suelo disponible al portal de suelo de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/25/BOCM-20231125-8.PDF"
