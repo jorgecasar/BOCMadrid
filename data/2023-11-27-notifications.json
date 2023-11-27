@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Convenio de 3 de noviembre de 2023, entre la Comunidad de Madrid y Radio Televisión Madrid, S. A. U., para la colaboración en la realización de la «Semana de Madrid saludable»",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/25/BOCM-20231125-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Convenio de colaboración de 15 de noviembre de 2023, entre la Comunidad de Madrid, a través de la Consejería de Sanidad, el Servicio Madrileño de Salud y la Universidad Pontificia Comillas, para la formación práctico-clínica de los alumnos del grado de Enfermería",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/25/BOCM-20231125-7.PDF"
     }
