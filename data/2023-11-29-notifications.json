@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 15 de noviembre de 2023, de la Universidad Rey Juan Carlos, por la que se nombran Profesores Titulares de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/28/BOCM-20231128-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Resolución de 14 de noviembre de 2023, del Director General de Reequilibrio Territorial de la Consejería de Presidencia, Justicia y Administración Local, por la que se hace pública la convocatoria del Programa de Formación para el personal y cargos electivos de las Corporaciones Locales de la Comunidad de Madrid correspondiente al primer semestre de 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/28/BOCM-20231128-33.PDF"
