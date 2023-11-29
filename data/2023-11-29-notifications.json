@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Carlos III",
-      "description": "Resolución de 14 de noviembre de 2023, de la Universidad Carlos III de Madrid, por la que se publican los planes de estudios de los siguientes títulos oficiales: Máster Universitario en Ingeniería Circular y Máster Universitario en Ingeniería del Diseño Industrial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/28/BOCM-20231128-38.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Carlos III",
       "description": "Resolución de 14 de noviembre de 2023, de la Universidad Carlos III de Madrid, por la que se publican las modificaciones en varios planes de estudio de Másteres Universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/28/BOCM-20231128-39.PDF"
     }
