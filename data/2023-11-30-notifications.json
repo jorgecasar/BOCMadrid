@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "El Escorial",
-      "description": "Régimen económico: Ordenanzas fiscales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/29/BOCM-20231129-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "El Escorial",
       "description": "Personal: Plantilla personal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/29/BOCM-20231129-36.PDF"
     }
