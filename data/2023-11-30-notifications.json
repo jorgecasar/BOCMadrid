@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Loeches",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/29/BOCM-20231129-43.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Loeches",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/29/BOCM-20231129-44.PDF"
     }
