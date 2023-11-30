@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Cervera de Buitrago",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/29/BOCM-20231129-34.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "El Escorial",
       "description": "Régimen económico: Ordenanzas fiscales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/29/BOCM-20231129-35.PDF"
