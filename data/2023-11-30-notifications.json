@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Fuenlabrada",
-      "description": "Urbanismo: Plan general ordenación urbana",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/29/BOCM-20231129-39.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Getafe",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/29/BOCM-20231129-40.PDF"
