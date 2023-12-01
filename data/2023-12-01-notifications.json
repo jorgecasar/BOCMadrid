@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "El Berrueco",
-      "description": "Régimen económico: Calendario fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/30/BOCM-20231130-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "El Berrueco",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/30/BOCM-20231130-50.PDF"
     }
