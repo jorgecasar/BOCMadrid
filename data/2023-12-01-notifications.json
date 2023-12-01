@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Los Molinos",
-      "description": "Organización y funcionamiento: Régimen dedicación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/30/BOCM-20231130-55.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Los Molinos",
       "description": "Organización y funcionamiento: Asignación grupos políticos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/30/BOCM-20231130-56.PDF"
     }
