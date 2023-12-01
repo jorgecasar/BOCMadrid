@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Digitalización",
-      "description": "Decreto 261/2023, de 29 de noviembre, del Consejo de Gobierno, por el que se establece la estructura orgánica de la Consejería de Digitalización",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/30/BOCM-20231130-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Orden de 22 de noviembre de 2023, de la Consejería de Presidencia, Justicia y Administración Local, por la que se aprueba convocatoria pública para la provisión de dos puestos de trabajo de carrera de naturaleza laboral, denominados “Conductor Alto Cargo”, de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/30/BOCM-20231130-2.PDF"
