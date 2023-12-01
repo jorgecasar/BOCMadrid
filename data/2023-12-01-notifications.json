@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alpedrete",
-      "description": "Ofertas de empleo: Oferta empleo público",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/30/BOCM-20231130-45.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Boadilla del Monte",
       "description": "Régimen económico: Masa salarial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/30/BOCM-20231130-46.PDF"
