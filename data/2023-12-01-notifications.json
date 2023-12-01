@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Griñón",
-      "description": "Régimen económico: Cuenta general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/30/BOCM-20231130-52.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Las Rozas de Madrid",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/11/30/BOCM-20231130-53.PDF"
