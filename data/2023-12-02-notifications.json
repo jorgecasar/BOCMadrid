@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alpedrete",
-      "description": "Personal: Plantilla personal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/01/BOCM-20231201-41.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Belmonte de Tajo",
       "description": "Régimen económico: Calendario fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/01/BOCM-20231201-42.PDF"
