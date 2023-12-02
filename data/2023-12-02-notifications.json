@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Majadahonda",
-      "description": "Personal: Nombramiento funcionarios carrera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/01/BOCM-20231201-55.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Majadahonda",
       "description": "Personal: Nombramiento",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/01/BOCM-20231201-56.PDF"
     }
