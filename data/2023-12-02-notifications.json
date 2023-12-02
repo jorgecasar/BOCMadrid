@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 23 de noviembre de 2023, de la Universidad Rey Juan Carlos, por la que se nombran Profesores Titulares de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/01/BOCM-20231201-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 4647/2023, de 22 de noviembre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve parcialmente la convocatoria de ayudas para la contratación de personal investigador predoctoral en formación de 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/01/BOCM-20231201-16.PDF"
