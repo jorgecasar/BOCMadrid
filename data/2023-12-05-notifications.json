@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 22 de noviembre de 2023, de la Rectora de la Universidad Autónoma de Madrid, por la que se convocan varios puestos de trabajo para su provisión por el sistema de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/04/BOCM-20231204-34.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Encomienda de gestión de 20 de noviembre de 2023, de la Dirección General de Función Pública de la Consejería de Economía, Hacienda y Empleo, a la Dirección General de Emergencias, de la Agencia de Seguridad y Emergencias Madrid 112, en materia de gestión de accidentes de trabajo y enfermedades profesionales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/04/BOCM-20231204-35.PDF"
