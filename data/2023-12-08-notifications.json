@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Decreto 270/2023, de 5 de diciembre, del Consejo de Gobierno, por el que se nombra Director General de Cultura e Industrias Creativas a don Gonzalo Cabrera Martín",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 21 de noviembre de 2023, de la Universidad de Alcalá, por la que se convocan concursos de acceso por promoción interna a plazas de funcionarios de carrera de los cuerpos docentes universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-18.PDF"
