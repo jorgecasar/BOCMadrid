@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Decreto 269/2023, de 5 de diciembre, del Consejo de Gobierno, por el que cesa don Gonzalo Cabrera Martín como Director General de Promoción Cultural",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Decreto 270/2023, de 5 de diciembre, del Consejo de Gobierno, por el que se nombra Director General de Cultura e Industrias Creativas a don Gonzalo Cabrera Martín",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-17.PDF"
     }
