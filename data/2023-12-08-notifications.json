@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Decreto 266/2023, de 5 de diciembre, del Consejo de Gobierno, por el que cesa don José Ramiro Alonso de Villapadierna Sánchez, como Director de Área de la Oficina del Español",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Decreto 267/2023, de 5 de diciembre, del Consejo de Gobierno, por el que cesa don Bartolomé González Jiménez como Director General de Patrimonio Cultural",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-14.PDF"
     }
