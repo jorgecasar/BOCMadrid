@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Decreto 264/2023, de 5 de diciembre, del Consejo de Gobierno, por el que se establece la estructura orgánica de la Consejería de Cultura, Turismo y Deporte",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 27 de noviembre de 2023, de la Consejera de Economía, Hacienda y Empleo, por la que se resuelve la convocatoria aprobada por Orden de 22 de septiembre de 2023 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 2 de octubre de 2023), para la provisión de puestos de trabajo en la citada Consejería por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-3.PDF"
