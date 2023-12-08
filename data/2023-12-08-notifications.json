@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Daganzo de Arriba",
-      "description": "Régimen económico: Ordenanza fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-55.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Daganzo de Arriba",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-56.PDF"
     }
