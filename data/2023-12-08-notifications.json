@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 4760/2023, de 2 de diciembre, del Consejero de Educación, Ciencia y Universidades, por la que se establecen los servicios mínimos esenciales en los centros de Educación Infantil de la Comunidad de Madrid, incluidos en el ámbito funcional del XII Convenio colectivo de centros de asistencia y Educación Infantil, con ocasión de la huelga convocada para los días 11, 12, 13, 18, 19 y 20 de diciembre de 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Adenda de 23 de noviembre de 2023, al convenio entre el Canal de Isabel II y la Comunidad de Madrid para la cesión del derecho de uso de los Teatros del Canal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-22.PDF"
