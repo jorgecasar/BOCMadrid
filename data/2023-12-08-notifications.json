@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcalá de Henares",
-      "description": "Otros anuncios: Autorización demanial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-44.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcorcón",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-45.PDF"
