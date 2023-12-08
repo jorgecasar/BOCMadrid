@@ -1,0 +1,601 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 291,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2023/12/07/BOCM-20231207291.PDF",
+      "total": 76,
+      "items": {
+        "Comunidad de Madrid": 41,
+        "Disposiciones y Anuncios del Estado": 1,
+        "Administración Local Ayuntamientos": 31,
+        "Administración de Justicia": 2,
+        "Otros Anuncios": 1
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Decreto 265/2023, de 5 de diciembre, del Consejo de Gobierno, por el que se establece la estructura directiva de la Agencia de Contratación Sanitaria de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Decreto 264/2023, de 5 de diciembre, del Consejo de Gobierno, por el que se establece la estructura orgánica de la Consejería de Cultura, Turismo y Deporte",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 27 de noviembre de 2023, de la Consejera de Economía, Hacienda y Empleo, por la que se resuelve la convocatoria aprobada por Orden de 22 de septiembre de 2023 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 2 de octubre de 2023), para la provisión de puestos de trabajo en la citada Consejería por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 22 de noviembre de 2023, de la Dirección General de Función Pública, por la que se resuelve el proceso selectivo para el ingreso en el Cuerpo de Auxiliares, de Administración General, Grupo C, Subgrupo C2, de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 27 de noviembre de 2023, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden del Consejero de Economía, Hacienda y Empleo de 12 de mayo de 2023 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 26 de mayo), para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 27 de noviembre de 2023, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden de la Consejera de Economía, Hacienda y Empleo de 26 de septiembre de 2023 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 5 de octubre), para la provisión de un puesto de trabajo vacante en la Consejería de Digitalización, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Orden de 28 de noviembre de 2023, de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se resuelve parcialmente la convocatoria aprobada mediante Orden 1891/2023, de 6 de junio (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 14 de junio de 2023), para la provisión de puestos de trabajo por el procedimiento de Concurso de Méritos en la entonces Consejería de Medio Ambiente, Vivienda y Agricultura",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Orden de 28 de noviembre de 2023, de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se resuelve la convocatoria aprobada por Orden de 26 de septiembre (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 4 de octubre de 2023), para la provisión de puestos de trabajo vacantes en dicha Consejería por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-8.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Orden 1804/2023, de 24 de noviembre, de la Consejera de Sanidad por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-9.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Orden 1805/2023, de 27 de noviembre, de la Consejera de Sanidad por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-10.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Orden 1678/2023, de 27 de noviembre, del Consejero de Medio Ambiente, Agricultura e Interior, por la que se resuelve la convocatoria aprobada mediante Orden 721/2023 de 19 de septiembre de 2023 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 29 de septiembre de 2023), de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se aprobó la convocatoria pública para la provisión de un puesto de trabajo por el procedimiento de Libre designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-11.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Orden 1724/2023, de 28 de noviembre, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se resuelve la convocatoria aprobada por Orden 816/2023, de 22 de septiembre (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 3 de octubre de 2023), para la provisión de un puesto de trabajo vacante en dicha Consejería por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-12.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Decreto 266/2023, de 5 de diciembre, del Consejo de Gobierno, por el que cesa don José Ramiro Alonso de Villapadierna Sánchez, como Director de Área de la Oficina del Español",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-13.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Decreto 267/2023, de 5 de diciembre, del Consejo de Gobierno, por el que cesa don Bartolomé González Jiménez como Director General de Patrimonio Cultural",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-14.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Decreto 268/2023, de 5 de diciembre, del Consejo de Gobierno, por el que se nombra Director General de Patrimonio Cultural y Oficina del Español a don Bartolomé González Jiménez",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-15.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Decreto 269/2023, de 5 de diciembre, del Consejo de Gobierno, por el que cesa don Gonzalo Cabrera Martín como Director General de Promoción Cultural",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-16.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Decreto 270/2023, de 5 de diciembre, del Consejo de Gobierno, por el que se nombra Director General de Cultura e Industrias Creativas a don Gonzalo Cabrera Martín",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-17.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad de Alcalá",
+      "description": "Resolución de 21 de noviembre de 2023, de la Universidad de Alcalá, por la que se convocan concursos de acceso por promoción interna a plazas de funcionarios de carrera de los cuerpos docentes universitarios",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-18.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Rey Juan Carlos",
+      "description": "Resolución de 23 de noviembre de 2023, de la Universidad Rey Juan Carlos, por la que se nombra a don Luis Fernando Sánchez-Barba Merlo como Catedrático de Universidad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-19.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Orden 4681/2023, de 27 de noviembre, del Consejero de Educación, Ciencia y Universidades, por la que se corrige un error material de la Orden 4559/2023, de 17 de noviembre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria correspondiente al curso 2022-2023 de las becas para el estudio de Programas de Segunda Oportunidad, cofinanciadas por el Fondo Social Europeo Plus (FSE+)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-20.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Orden 4760/2023, de 2 de diciembre, del Consejero de Educación, Ciencia y Universidades, por la que se establecen los servicios mínimos esenciales en los centros de Educación Infantil de la Comunidad de Madrid, incluidos en el ámbito funcional del XII Convenio colectivo de centros de asistencia y Educación Infantil, con ocasión de la huelga convocada para los días 11, 12, 13, 18, 19 y 20 de diciembre de 2023",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-21.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Adenda de 23 de noviembre de 2023, al convenio entre el Canal de Isabel II y la Comunidad de Madrid para la cesión del derecho de uso de los Teatros del Canal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-22.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Rey Juan Carlos",
+      "description": "Resolución de 28 de noviembre de 2023, del Sr. Rector Magnífico de la Universidad Rey Juan Carlos por la que se aprueban y hacen públicas las bases reguladoras del I Concurso de Ensayo “¿Cómo afrontar la Inteligencia Artificial desde el Humanismo?”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-23.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 21 de noviembre de 2023, de la Secretaría General Técnica de la Consejería de Economía, Hacienda y Empleo por la que se anuncia la licitación del contrato denominado: “Trabajos de auditoría para la certificación de las cuentas del Feaga y del Feader de los ejercicios financieros 2024 y 2025 del organismo pagador de la Comunidad de Madrid y para la ejecución de los controles de operaciones financiadas por el Feaga asignados a la Intervención General de la Comunidad de Madrid en los planes de control de los períodos 2024-2025 y 2025-2026 (2 lotes)”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-24.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Digitalización",
+      "description": "Resolución de 23 de noviembre de 2023, de la Consejera-Delegada de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se dispone la publicación, en los boletines oficiales y en el “perfil del contratante”, de la formalización del contrato titulado «Acondicionamiento audiovisual y de comunicaciones de las salas de vistas de la Comunidad de Madrid, en el marco del “Plan de Recuperación, Transformación y Resiliencia”, financiado por la Unión Europea-Next Generation EU»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-25.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Resolución de 27 de noviembre de 2023, de la Secretaría General Técnica, por la que se dispone la publicación de la convocatoria del contrato de servicios denominado “Asistencia técnica a la Dirección General Investigación e Innovación Tecnológica, para el análisis y seguimiento de las actuaciones del VI Plan Regional de Investigación Científica e Innovación Tecnológica de la Comunidad de Madrid, desarrolladas durante las anualidades de 2022, 2023, 2024 y 2025 y para la elaboración de un informe final de seguimiento del período 2022-2025”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-26.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Resolución de 27 de noviembre de 2023, del Director General de Recursos Humanos, por la que se emplaza a los posibles interesados para que puedan personarse como demandados en el recurso contencioso-administrativo interpuesto por D. Oscar Piniella Ruiz",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-27.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Adenda de 20 de noviembre de 2023, para el curso escolar 2023-2024 de modificación al convenio entre el Ministerio de Defensa, el Ministerio de Educación y Formación Profesional y la Comunidad de Madrid, para impartir enseñanzas de formación profesional en los Centros Docentes Militares de Formación firmado el 5 de noviembre de 2019 y prorrogado el 4 de abril de 2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-28.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Convenio de colaboración de 22 de noviembre de 2023, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades), la Fundación Bertelsmann y la Fundación Empieza Por Educar, relativo al programa “Proyecto Xcelence-Escuelas Que Inspiran”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-29.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Anuncio de 4 de diciembre de 2023, de adjudicación del contrato titulado “Servicio de pólizas de seguro de Responsabilidad Civil, Accidentes y Asistencia en viajes”. (Expediente 6012300316)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-30.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Anuncio de 4 de diciembre de 2023, de adjudicación del contrato titulado “Suministro de energía eléctrica con garantía de origen procedente de fuentes de energía renovables en los puntos de suministro alimentados en alta y baja tensión para el período 2024-2028” (expediente 6012300283)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-31.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 24 de noviembre de 2023, de la Gerencia Asistencial de Atención Primaria del Servicio Madrileño de Salud, por la que se hace pública la convocatoria de licitación denominado “Contrato mixto de suministro de plantas solares fotovoltaicas para autoconsumo y servicio de instalación y puesta en marcha en diversos centros de salud dependientes de la Gerencia Asistencial de Atención Primaria del Servicio Madrileño de Salud”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-32.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 4 de diciembre de 2023, de la Gerencia Asistencial de Atención Primaria del Servicio Madrileño de Salud, por la que se hace pública la convocatoria de licitación denominado “Contrato mixto de servicio de Instalación, puesta en marcha y legalización de los equipos alarma de seguridad y sistemas de video-detección y suministro de equipos de alarma de seguridad y sistemas de video-detección en centros sanitarios de la Gerencia Asistencial de Atención Primaria”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-33.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 24 de noviembre de 2023, de la Dirección Gerencia del Hospital General Universitario “Gregorio Marañón”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet, de la Resolución número 331/2023 de propuesta de no adjudicación o celebración del contrato del expediente A/SER-025714/2023: «Servicio para la Redacción del Plan Funcional, Plan de Espacios, Plan Especial de Reforma Interior (PERI), Anteproyecto Completo de la parcela del hospital, así como el Proyecto Básico y de Ejecución, Estudio de Seguridad y Salud, correspondientes a la primera fase de las obras contenidas en el Anteproyecto de Ordenación del Hospital General Universitario “Gregorio Marañón”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-34.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 24 de noviembre de 2023, de la Dirección-Gerencia del Hospital Universitario de Getafe, por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de la modificación del contrato de Suministro de Mallas y Prótesis de Pared en el Hospital Universitario de Getafe",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-35.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 14 de noviembre de 2023, de la Secretaría General Técnica de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se dispone la publicación de la modificación del contrato de servicios denominado “Vigilancia de seguridad no armada en diversas dependencias de la Consejería de Medio Ambiente, Vivienda y Agricultura, por asunción de competencias en materia de Vivienda y Comisionado de la Cañada Real Galiana”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-36.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Convenio de 14 de noviembre de 2023, entre la Comunidad de Madrid (Consejería de Medio Ambiente, Agricultura e Interior) y el Ayuntamiento de Montejo de la Sierra, en el que se establece el otorgamiento de una subvención directa por importe de 50.000 euros para el desarrollo de actuaciones de promoción y comunicación en el Hayedo de Montejo (Reserva de la Biosfera de la Sierra del Rincón) en el año 2023",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-37.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Convenio de 21 de noviembre de 2023, por el que se articula la encomienda de gestión del Ministerio de Agricultura, Pesca y Alimentación al Instituto Madrileño de Investigación y Desarrollo Rural, Agrario y Alimentario, a través del centro de selección y reproducción animal de Colmenar Viejo, para la realización de los trabajos relacionados con la gestión del Banco Nacional de Germoplasma Animal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-38.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Extracto del contenido de la Resolución de 23 de noviembre de 2023, del Gerente del Ente Público Canal de Isabel II, dictada en virtud de las facultades delegadas por el Consejo de Administración mediante acuerdo de 31 de enero de 2018 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 26 de febrero de 2018), por la que se autoriza el denominado «Proyecto de Derivación de los Emisarios B y Doblado “Sistema Casaquemada” a la EDAR de Torrejón de Ardoz», en los términos municipales de San Fernando de Henares y Torrejón de Ardoz",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-39.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Convenio de 20 de noviembre de 2023, entre el Instituto de Mayores y Servicios Sociales y la Comunidad de Madrid, para el desarrollo del marco de cooperación interadministrativa previsto en la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia y para el establecimiento y financiación del nivel de protección acordado para el ejercicio 2023",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-40.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 23 de noviembre de 2023, entre la Comunidad de Madrid y la Asociación Academia de las Artes Escénicas de España, por el que se formaliza la concesión directa de una subvención por importe de 30.000 €, con destino a la realización de las actividades culturales y artísticas que conforman su programación en el año 2023",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-41.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Disposiciones y Anuncios del Estado",
+      "description": "Ministerio de Transportes, Movilidad y Agenda Urbana. Demarcación de Carreteras del Estado en Madrid. Expropiación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-42.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Régimen económico: Área de Gobierno de Políticas de Vivienda. Concesión subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-43.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcalá de Henares",
+      "description": "Otros anuncios: Autorización demanial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-44.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcorcón",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-45.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcorcón",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-46.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Boadilla del Monte",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-47.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Boadilla del Monte",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-48.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Casarrubuelos",
+      "description": "Organización y funcionamiento: Reglamento Honores Distinciones y Protocolo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-49.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Casarrubuelos",
+      "description": "Organización y funcionamiento: Ordenanza fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-50.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Casarrubuelos",
+      "description": "Régimen económico: Ordenanza fiscal impuesto bienes inmuebles",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-51.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Casarrubuelos",
+      "description": "Régimen económico: Ordenanza fiscal impuesto vehículos tracción mecánica",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-52.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Chinchón",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-53.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Colmenarejo",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-54.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Daganzo de Arriba",
+      "description": "Régimen económico: Ordenanza fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-55.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Daganzo de Arriba",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-56.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Daganzo de Arriba",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-57.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "El Berrueco",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-58.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Estremera",
+      "description": "Régimen económico: Calendario fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-59.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Horcajo de la Sierra-Aoslos",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-60.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Humanes de Madrid",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-61.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Majadahonda",
+      "description": "Régimen económico: Ordenanzas fiscales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-62.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Nuevo Baztán",
+      "description": "Organización y funcionamiento: Ordenanza honores y distinciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-63.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Paracuellos de Jarama",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-64.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Robledo de Chavela",
+      "description": "Organización y funcionamiento: Nombramientos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-65.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Robledo de Chavela",
+      "description": "Organización y funcionamiento: Delegación funciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-66.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Fernando de Henares",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-67.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrelaguna",
+      "description": "Organización y funcionamiento: Régimen retribuciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-68.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrelaguna",
+      "description": "Organización y funcionamiento: Constitución Junta Gobierno Local",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-69.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrelaguna",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-70.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Valdilecha",
+      "description": "Licencias: Susana Cubero Ramos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-71.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villalbilla",
+      "description": "Organización y funcionamiento: Delegación funciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-72.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villamanrique de Tajo",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-73.PDF"
+    }
+  }
+]
