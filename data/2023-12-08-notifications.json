@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 21 de noviembre de 2023, de la Universidad de Alcalá, por la que se convocan concursos de acceso por promoción interna a plazas de funcionarios de carrera de los cuerpos docentes universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 23 de noviembre de 2023, de la Universidad Rey Juan Carlos, por la que se nombra a don Luis Fernando Sánchez-Barba Merlo como Catedrático de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-19.PDF"
