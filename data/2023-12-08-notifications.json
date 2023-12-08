@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 23 de noviembre de 2023, de la Universidad Rey Juan Carlos, por la que se nombra a don Luis Fernando Sánchez-Barba Merlo como Catedrático de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 4681/2023, de 27 de noviembre, del Consejero de Educación, Ciencia y Universidades, por la que se corrige un error material de la Orden 4559/2023, de 17 de noviembre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria correspondiente al curso 2022-2023 de las becas para el estudio de Programas de Segunda Oportunidad, cofinanciadas por el Fondo Social Europeo Plus (FSE+)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/07/BOCM-20231207-20.PDF"
