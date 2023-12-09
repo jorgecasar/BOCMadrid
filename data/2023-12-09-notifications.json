@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Convenio específico de 27 de noviembre de 2023, entre la Comunidad de Madrid, a través de la Consejería de Sanidad, el Servicio Madrileño de Salud y la Fundación Aladina, para la decoración de la Zona de Obstetricia del Hospital Universitario “Infanta Cristina”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/08/BOCM-20231208-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Convenio de 20 de noviembre de 2023, entre el Servicio Madrileño de Salud, y la Fundación Internacional Josep Carreras para la lucha contra la leucemia",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/08/BOCM-20231208-2.PDF"
     }
