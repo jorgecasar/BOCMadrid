@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Régimen económico: Área de Gobierno de Economía, Innovación y Hacienda. Créditos prescritos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/11/BOCM-20231211-45.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Urbanismo: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Plan especial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/11/BOCM-20231211-46.PDF"
     }
