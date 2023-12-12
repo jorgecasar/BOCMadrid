@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Urbanismo: Área de Gobierno de Obras y Equipamientos. Proyecto urbanización",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/11/BOCM-20231211-47.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Urbanismo: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Plan especial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/11/BOCM-20231211-48.PDF"
     }
