@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Extracto de la Orden 1509/2023, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se amplían los créditos disponibles de la Orden 1387/2022, de 30 de mayo, de la Consejería de Medio Ambiente, Vivienda y Agricultura, por la que se aprueba la convocatoria de ayudas para la ejecución de los programas de incentivos para la implantación de instalaciones de energías renovables térmicas en diferentes sectores de la economía de la Comunidad de Madrid, en el marco del Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea-Next Generation EU, reguladas en el Real Decreto 1124/2021, de 21 de diciembre",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/11/BOCM-20231211-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 2083/2023, de 5 de diciembre, de la Consejería de Cultura, Turismo y Deporte, por la que se resuelve, con carácter definitivo, la convocatoria pública de subvenciones destinadas a ampliar y diversificar la oferta cultural en áreas no urbanas, con cargo al “Plan de Recuperación, Transformación y Resiliencia (financiado por la Unión Europea) Fondo NextGeneration UE”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/11/BOCM-20231211-28.PDF"
