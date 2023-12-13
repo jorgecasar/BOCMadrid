@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio de 17 de noviembre de 2023, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y Cultura Inquieta, S. L., para la realización de prácticas externas de los alumnos de la Escuela Superior de Diseño",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/12/BOCM-20231212-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 5 de diciembre de 2023, por el que se convoca la licitación para la contratación de “Suministros y servicios para la renovación de cargadores y SAIs en subestaciones” (expediente 6012300369)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/12/BOCM-20231212-28.PDF"
