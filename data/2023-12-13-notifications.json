@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 29 de noviembre de 2023, de la Universidad Complutense de Madrid, por la que se publica la Oferta de Empleo Público del Personal Técnico, de Gestión y de Administración y Servicios para el año 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/12/BOCM-20231212-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 29 de noviembre de 2023, de la Universidad Complutense de Madrid, por la que se convocan procesos selectivos para ingreso, por el sistema de promoción interna, en escalas de la Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/12/BOCM-20231212-17.PDF"
     }
