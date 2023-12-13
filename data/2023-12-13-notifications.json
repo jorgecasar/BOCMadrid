@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 29 de noviembre de 2023, de la Universidad Complutense de Madrid, por la que se convocan procesos selectivos para ingreso, por el sistema de promoción interna, en escalas de la Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/12/BOCM-20231212-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 28 de noviembre de 2023, de la Universidad de Alcalá, por la que se nombra Catedrática de Universidad del Área de Conocimiento de “Fisioterapia”, a doña María Torres Lacomba",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/12/BOCM-20231212-18.PDF"
