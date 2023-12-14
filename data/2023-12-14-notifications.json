@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Chapinería",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/13/BOCM-20231213-48.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Colmenar del Arroyo",
       "description": "Régimen económico: Ordenanza cementerio",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/13/BOCM-20231213-49.PDF"
