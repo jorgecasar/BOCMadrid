@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 30 de noviembre de 2023, de la Universidad de Alcalá, por la que se anuncian las convocatorias de concursos para la provisión de plazas de Profesorado Permanente Laboral y Profesorado Contratado Temporal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/13/BOCM-20231213-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 29 de noviembre de 2023, de la Universidad Rey Juan Carlos, por la que se nombran Profesores Titulares de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/13/BOCM-20231213-16.PDF"
