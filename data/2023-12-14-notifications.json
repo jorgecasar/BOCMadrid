@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "El Escorial",
-      "description": "Organización y funcionamiento: Reglamento Presupuestos Participativos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/13/BOCM-20231213-53.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "El Molar",
       "description": "Régimen económico: Presupuesto general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/13/BOCM-20231213-54.PDF"
