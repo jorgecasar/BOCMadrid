@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Chapinería",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/13/BOCM-20231213-47.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Chapinería",
       "description": "Régimen económico: Presupuesto general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/13/BOCM-20231213-48.PDF"
     }
