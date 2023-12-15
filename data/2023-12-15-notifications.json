@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Digitalización",
-      "description": "Orden de 30 de noviembre de 2023, de la Consejería de Digitalización, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicha Consejería por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/14/BOCM-20231214-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Resolución de 1 de diciembre de 2023, de la Dirección General de Recursos Humanos, por la que se modifica la Resolución de 19 de diciembre de 2022, de la Dirección General de Recursos Humanos, por la que se convoca procedimiento selectivo de estabilización por el sistema de concurso-oposición para ingreso en el Cuerpo de Maestros y se acuerda la apertura del plazo de presentación de solicitudes para participar en dichos procedimientos selectivos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/14/BOCM-20231214-18.PDF"
