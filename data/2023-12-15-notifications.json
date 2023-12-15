@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Asamblea de Madrid",
-      "description": "Resolución de 28 de noviembre de 2023, de la Presidencia de la Asamblea de Madrid, por la que se deja sin efecto la Resolución de esta Presidencia de 13 de marzo de 2023 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID número 74 de 28 de marzo), y se designa a los miembros del Tribunal que ha de juzgar las pruebas selectivas para cubrir seis plazas del Cuerpo de Subalternos, Escala de Ujieres de la Asamblea de Madrid, por el procedimiento de concurso para el turno libre",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/14/BOCM-20231214-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Asamblea de Madrid",
       "description": "Resolución de 28 de noviembre de 2023, de la Presidencia de la Asamblea de Madrid, por la que se deja sin efecto la Resolución de esta Presidencia de 13 de marzo de 2023 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID número 74, de 28 de marzo), y se designa a los miembros del Tribunal que ha de juzgar las pruebas selectivas para cubrir dos plazas del cuerpo de Administrativos de la Asamblea de Madrid, por el procedimiento de concurso-oposición para el turno libre",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/14/BOCM-20231214-8.PDF"
     }
