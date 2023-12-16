@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Acuerdo de 13 de diciembre de 2023, del Consejo de Gobierno, por el que se nombra vocal de la Comisión de Urbanismo de Madrid a doña Marta Lora-Tamayo Vallvé",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/15/BOCM-20231215-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 23 de noviembre de 2023, de la Universidad Complutense de Madrid, por la que se convoca proceso selectivo, mediante el sistema de concurso-oposición libre, para la provisión de plazas de Personal Técnico, de Gestión y Administración y Servicios laboral fijo de los grupos y niveles salariales A1, A2, B1, C1, C2 y C3",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/15/BOCM-20231215-17.PDF"
