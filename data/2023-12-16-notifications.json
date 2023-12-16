@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 28 de noviembre de 2023, por la que se procede a la adjudicación parcial de las plazas convocadas mediante concurso libre de méritos (Convocatoria excepcional de estabilización de empleo temporal de larga duración), para las plazas ocupadas de forma temporal con anterioridad al 1 de enero de 2016, en los términos establecidos en las Disposiciones Adicionales Sexta y Octava de la Ley 20/2021 de 28 de diciembre, de medidas urgentes para la temporalidad en el empleo público, por Resolución de 16 de noviembre de 2022 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y BOUC de 25 de noviembre)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/15/BOCM-20231215-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 13 de diciembre de 2023, de la Universidad Autónoma de Madrid, por la que se convoca concurso de acceso a plazas de Docentes Universitarios entre Acreditados: Profesores Permanentes Laborales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/15/BOCM-20231215-21.PDF"
