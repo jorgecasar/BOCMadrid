@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Ambite",
-      "description": "Régimen económico: Ordenanza fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/19/BOCM-20231219-44.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Ambite",
       "description": "Urbanismo: Plan general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/19/BOCM-20231219-45.PDF"
     }
