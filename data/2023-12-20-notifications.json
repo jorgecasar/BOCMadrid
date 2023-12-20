@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Convenio de 27 de noviembre de 2023, entre la Comunidad de Madrid, a través de la Consejería de Sanidad, y el Ilustre Colegio Oficial de Veterinarios de Madrid, en materia de higiene, seguridad alimentaria y sanidad ambiental",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/19/BOCM-20231219-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 4 de diciembre de 2023, del Director-Gerente del Hospital Universitario “Puerta de Hierro Majadahonda”, Madrid, por la que se dispone la publicación, en los boletines oficiales y en el “perfil del contratante”, de la formalización del contrato de “Suministro de contrastes”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/19/BOCM-20231219-33.PDF"
     }
