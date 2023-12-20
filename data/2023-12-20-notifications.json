@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Extracto del Acuerdo de 20 de noviembre de 2023, de la Comisión de Investigación de la Universidad de Alcalá, por el que se convocan los Premios de la Universidad de Alcalá a la Mejor Patente Nacional-Convocatoria 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/19/BOCM-20231219-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Extracto del Acuerdo de 20 de noviembre de 2023, de la Comisión de Investigación de la Universidad de Alcalá, por el que se convocan las Ayudas para la Extensión Internacional de Patentes por el Procedimiento PCT-Convocatoria 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/19/BOCM-20231219-23.PDF"
     }
