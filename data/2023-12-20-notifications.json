@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Meco",
-      "description": "Organización y funcionamiento: Delegación funciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/19/BOCM-20231219-60.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Meco",
       "description": "Régimen económico: Presupuesto general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/19/BOCM-20231219-61.PDF"
     }
