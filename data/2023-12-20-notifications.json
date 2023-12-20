@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 1 de diciembre de 2023, de la Universidad de Alcalá, por la que se convocan concursos de acceso a plazas de funcionarios de carrera de los cuerpos docentes universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/19/BOCM-20231219-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Carlos III",
       "description": "Resolución de 5 de diciembre de 2023, de la Universidad Carlos III de Madrid, por la que se nombra personal funcionario de Cuerpos Docentes Universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/19/BOCM-20231219-20.PDF"
