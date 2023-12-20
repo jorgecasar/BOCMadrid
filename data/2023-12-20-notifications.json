@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Extracto del Acuerdo de 20 de noviembre de 2023, de la Comisión de Investigación de la Universidad de Alcalá, por el que se convocan las Ayudas para la Extensión Internacional de Patentes por el Procedimiento PCT-Convocatoria 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/19/BOCM-20231219-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Digitalización",
       "description": "Resolución de 30 de noviembre de 2023, de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante”, modificación del contrato: “Servicios de telecomunicaciones de la Comunidad de Madrid. Lote 4. Infraestructuras y servicios centrales de telefonía fija, comunicaciones móviles y comunicaciones unificadas”, adjudicado mediante procedimiento abierto con pluralidad de criterios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/19/BOCM-20231219-24.PDF"
