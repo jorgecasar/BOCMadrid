@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Boadilla del Monte",
-      "description": "Personal: Nombramiento funcionario carrera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/19/BOCM-20231219-48.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Boadilla del Monte",
       "description": "Personal: Nombramiento personal laboral",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/19/BOCM-20231219-49.PDF"
     }
