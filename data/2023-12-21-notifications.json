@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Miraflores de la Sierra",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/20/BOCM-20231220-48.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Móstoles",
       "description": "Urbanismo: Plan especial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/20/BOCM-20231220-49.PDF"
