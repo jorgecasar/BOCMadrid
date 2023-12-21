@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Campo Real",
-      "description": "Organización y funcionamiento: Ordenanza tenencia animales domésticos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/20/BOCM-20231220-42.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Fresnedillas de la Oliva",
       "description": "Régimen económico: Precio público",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/20/BOCM-20231220-43.PDF"
