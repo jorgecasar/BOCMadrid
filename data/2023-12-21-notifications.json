@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Cabanillas de la Sierra",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/20/BOCM-20231220-38.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Cabanillas de la Sierra",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/20/BOCM-20231220-39.PDF"
     }
