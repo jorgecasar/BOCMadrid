@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 18 de diciembre de 2023, de la Universidad Autónoma de Madrid, por la que se convoca concurso de acceso a plazas de Docentes Universitarios entre Acreditados: Profesores Permanentes Laborales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/20/BOCM-20231220-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 11 de diciembre de 2023, de la Universidad Rey Juan Carlos, por la que se nombran Profesores Titulares de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/20/BOCM-20231220-10.PDF"
