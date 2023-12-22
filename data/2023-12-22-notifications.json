@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Presidencia de La Comunidad",
-      "description": "Ley 13/2023, de 15 de diciembre, por la que se modifica el Texto Refundido de las disposiciones legales de la Comunidad de Madrid en materia de tributos cedidos por el Estado, aprobado por Decreto Legislativo 1/2010, de 21 de octubre, para deflactar la escala autonómica, el mínimo personal y familiar, las cuantías de las deducciones autonómicas y los límites de renta para la aplicación de las mismas, en el Impuesto sobre la Renta de las Personas Físicas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/21/BOCM-20231221-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Decreto 271/2023, de 20 de diciembre, del Consejo de Gobierno, por el que se modifica el Decreto 74/2005, de 28 de julio, por el que se aprueba el Reglamento de los Servicios de Transporte Público Urbano en Automóviles de Turismo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/21/BOCM-20231221-3.PDF"
