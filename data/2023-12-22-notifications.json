@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 15 de diciembre de 2023, conjunta de la Universidad Autónoma de Madrid y la Consejería de Sanidad de la Comunidad de Madrid, por la que se convocan concursos de acceso a plazas de Cuerpos de Funcionarios Docentes Universitarios vinculadas con instituciones sanitarias",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/21/BOCM-20231221-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 29 de noviembre de 2023, conjunta de la Universidad Rey Juan Carlos de Madrid y la Consejería de Sanidad de la Comunidad de Madrid, por la que se convoca concurso de acceso a plazas vinculadas de cuerpos docentes universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/21/BOCM-20231221-21.PDF"
