@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 29 de noviembre de 2023, conjunta de la Universidad Rey Juan Carlos de Madrid y la Consejería de Sanidad de la Comunidad de Madrid, por la que se convoca concurso de acceso a plazas vinculadas de cuerpos docentes universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/21/BOCM-20231221-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 20 de diciembre de 2023, por la que se aprueba la Oferta de Empleo Público de Personal Técnico, Gestión y Administración y Servicios de la Universidad Rey Juan Carlos para el año 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/21/BOCM-20231221-22.PDF"
     }
