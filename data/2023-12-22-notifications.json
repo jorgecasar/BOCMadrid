@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 13 de diciembre de 2023, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden de la Consejera de Economía, Hacienda y Empleo de 7 de septiembre de 2023 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 20 de septiembre), para la provisión de un puesto de trabajo vacante en la Consejería de Educación, Ciencia y Universidades, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/21/BOCM-20231221-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Corrección de errores de la Resolución de 1 de diciembre de 2023, de la Dirección General de Recursos Humanos, por la que se modifica la Resolución de 19 de diciembre de 2022, de la Dirección General de Recursos Humanos, por la que se convoca procedimiento selectivo de estabilización por el sistema de concurso-oposición para ingreso en el Cuerpo de Maestros y se acuerda la apertura del plazo de presentación de solicitudes para participar en dichos procedimientos selectivos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/21/BOCM-20231221-11.PDF"
