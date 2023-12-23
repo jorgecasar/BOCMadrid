@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 13 de diciembre de 2023, de la Universidad Politécnica de Madrid, por la que se publica la Oferta de Empleo Público adicional para la estabilización de empleo temporal del Personal Técnico, de Gestión y de Administración y Servicios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/22/BOCM-20231222-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Carlos III",
       "description": "Resolución de 20 de diciembre de 2023, de la Universidad Carlos III de Madrid, por la que se publica la Oferta de Empleo Público para el ejercicio 2023 vinculada a la tasa adicional recogida en el artículo 217 del Real Decreto-Ley 5/2023, de 28 de junio",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/22/BOCM-20231222-13.PDF"
