@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Extracto del Acuerdo de 12 de diciembre de 2023, de la Comisión de Investigación de la Universidad de Alcalá, por el que se convocan las Bolsas de Viaje (I) 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/22/BOCM-20231222-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Corrección de errores del Extracto de la Resolución de 4 de diciembre de 2023, por la que se hace pública la convocatoria de la I Edición de los “Premios Gloria Fuertes-URJC” a trabajos fin de grado, fin de máster, y tesis doctorales relacionadas con estudios con perspectiva de género, diversidad sexual y por procedencia de la Universidad Rey Juan Carlos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/22/BOCM-20231222-32.PDF"
