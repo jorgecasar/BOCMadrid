@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Extracto del Acuerdo de 12 de diciembre de 2023, de la Comisión de Investigación de la Universidad de Alcalá, por el que se convocan las Ayudas de Movilidad de Personal Docente y Personal Investigador 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/22/BOCM-20231222-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Extracto del Acuerdo de 12 de diciembre de 2023, de la Comisión de Investigación de la Universidad de Alcalá, por el que se convocan las Ayudas para Estancias de Científicos y Tecnólogos Extranjeros en la UAH 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/22/BOCM-20231222-30.PDF"
     }
