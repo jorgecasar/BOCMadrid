@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Adenda de 5 de diciembre de 2023, de modificación del convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Sanidad, el Servicio Madrileño de Salud y la Universidad Francisco de Vitoria, para la enseñanza del Grado en Medicina",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/26/BOCM-20231226-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 11 de diciembre de 2023, del Director General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se emplaza a los interesados en el recurso contencioso-administrativo, procedimiento abreviado número 324/2023, a fin de que puedan personarse en autos, si a su derecho conviniere",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/26/BOCM-20231226-22.PDF"
     }
