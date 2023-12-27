@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Alcobendas",
-      "description": "Régimen económico: Precios públicos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/26/BOCM-20231226-40.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Alcobendas",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/26/BOCM-20231226-41.PDF"
     }
