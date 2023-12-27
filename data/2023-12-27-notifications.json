@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Orden 1898/2023, de 14 de diciembre, de la Consejera de Sanidad, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/26/BOCM-20231226-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Carlos III",
       "description": "Resolución de 20 de diciembre de 2023, de la Universidad Carlos III de Madrid, por la que se anuncia convocatoria de concurso específico de méritos para la provisión de un puesto de trabajo de personal funcionario técnico, de gestión y de administración y servicios adscrito a los Subgrupos A2 y C1 en esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/26/BOCM-20231226-9.PDF"
