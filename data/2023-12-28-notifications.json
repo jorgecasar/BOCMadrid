@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 20 de diciembre de 2023, del Secretario General de la Universidad de Alcalá, por la que se publica el calendario de días inhábiles del Registro de la Universidad de Alcalá para 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/27/BOCM-20231227-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 21 de diciembre de 2023, de la Universidad Rey Juan Carlos, por la que se dispone la publicación del Presupuesto de la Universidad para 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/27/BOCM-20231227-25.PDF"
