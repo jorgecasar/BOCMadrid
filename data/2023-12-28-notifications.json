@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Urbanismo: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Plan especial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/27/BOCM-20231227-53.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Urbanismo: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Catálogo edificios protegidos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/27/BOCM-20231227-54.PDF"
     }
