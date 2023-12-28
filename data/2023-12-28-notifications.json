@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Disposiciones y Anuncios del Estado",
-      "description": "Delegación del Gobierno en Madrid. Área Funcional de Industria y Energía. Autorización administrativa",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/27/BOCM-20231227-51.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Madrid",
       "description": "Ofertas de empleo: Área de Gobierno de Vicealcaldía, Portavoz, Seguridad y Emergencias. Oferta empleo público",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/27/BOCM-20231227-52.PDF"
