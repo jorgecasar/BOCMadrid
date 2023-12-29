@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Régimen económico: Pleno del Ayuntamiento. Ordenanza fiscal derechos examen",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/28/BOCM-20231228-51.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Régimen económico: Pleno del Ayuntamiento. Ordenanza fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/28/BOCM-20231228-52.PDF"
     }
