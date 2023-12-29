@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Régimen económico: Pleno del Ayuntamiento. Ordenanza fiscal tasa utilización privativa suelo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/28/BOCM-20231228-54.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Régimen económico: Pleno del Ayuntamiento. Ordenanza fiscal expedición documentos administrativos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/28/BOCM-20231228-55.PDF"
     }
