@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 19 de diciembre de 2023, de la Rectora de la Universidad Autónoma de Madrid, por la que se publica la modificación parcial de la relación de puestos de trabajo del Personal Técnico, de Gestión y de Administración y Servicios Funcionario de esta Universidad, aprobada en Consejo de Gobierno de 15 de diciembre de 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/28/BOCM-20231228-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Acuerdo de 27 de diciembre de 2023, del Consejo de Gobierno, por el que se fija el calendario para el año 2024 de días inhábiles a efectos del cómputo de plazos administrativos en la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/28/BOCM-20231228-8.PDF"
