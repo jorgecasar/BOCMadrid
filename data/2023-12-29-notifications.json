@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Resolución de 14 de diciembre de 2023, del Director de la Agencia de Seguridad y Emergencias Madrid 112, por la que se designa, con carácter permanente, los miembros de la mesa de contratación de la Agencia de Seguridad y Emergencias Madrid 112",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/28/BOCM-20231228-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Acuerdo de 27 de diciembre de 2023, del Consejo de Gobierno, por el que se aprueban las normas reguladoras y se establece el procedimiento de concesión directa de ayudas económicas de pago único por nacimiento o adopción múltiple, en la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/28/BOCM-20231228-18.PDF"
