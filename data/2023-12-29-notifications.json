@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Régimen económico: Pleno del Ayuntamiento. Ordenanza fiscal actividades económicas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/28/BOCM-20231228-46.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Régimen económico: Pleno del Ayuntamiento. Ordenanza fiscal construcciones, instalaciones y obras",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/28/BOCM-20231228-47.PDF"
     }
