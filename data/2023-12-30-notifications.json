@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 18 de diciembre de 2023, de la Universidad Carlos III de Madrid, por la que se acuerda hacer público el Presupuesto de la Universidad para el Ejercicio Económico del año 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/29/BOCM-20231229-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Convenio de 20 de octubre de 2023, entre la Comunidad de Madrid y Radio Televisión Madrid, S. A. U., para la colaboración en la realización de la “Semana del 012, Atención e Información de la Ciudadanía”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/29/BOCM-20231229-11.PDF"
