@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Soto del Real",
-      "description": "Personal: Nombramiento",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/29/BOCM-20231229-41.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Tielmes",
       "description": "Régimen económico: Presupuesto general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/29/BOCM-20231229-42.PDF"
