@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Fresno de Torote",
-      "description": "Ofertas de empleo: Oferta empleo público",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/29/BOCM-20231229-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Hoyo de Manzanares",
       "description": "Contratación: Mesa contratación permanente",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/29/BOCM-20231229-31.PDF"
