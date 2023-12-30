@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Presidencia de La Comunidad",
-      "description": "Ley 15/2023, de 27 de diciembre, de Presupuestos Generales de la Comunidad de Madrid para el año 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/29/BOCM-20231229-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Presidencia de La Comunidad",
       "description": "Ley 16/2023, de 27 de diciembre, de medidas para la simplificación y mejora de la eficacia de instituciones y organismos de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/29/BOCM-20231229-2.PDF"
     }
