@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Presidencia de La Comunidad",
-      "description": "Ley 17/2023, de 27 de diciembre, por la que se modifica la Ley 2/2016, de 29 de marzo, de Identidad y Expresión de Género e Igualdad Social y no Discriminación de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/29/BOCM-20231229-3.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Presidencia de La Comunidad",
       "description": "Ley 18/2023, de 27 de diciembre, por la que se modifica la Ley 3/2016, de 22 de julio, de Protección Integral Contra la LGTBIfobia y la discriminación por razón de orientación e identidad sexual en la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/29/BOCM-20231229-4.PDF"
     }
