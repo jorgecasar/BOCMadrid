@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 21 de diciembre de 2023, de la Universidad Complutense de Madrid, por la que se acuerda hacer público el presupuesto de esta Universidad para 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/30/BOCM-20231230-5.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 22 de diciembre de 2023, de la Universidad Politécnica de Madrid, por la que se acuerda hacer público el presupuesto de esta Universidad para 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/30/BOCM-20231230-6.PDF"
