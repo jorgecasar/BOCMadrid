@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "El Vellón",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/30/BOCM-20231230-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Getafe",
       "description": "Ofertas de empleo: Oferta empleo público",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/30/BOCM-20231230-19.PDF"
