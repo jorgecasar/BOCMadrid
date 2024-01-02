@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 22 de diciembre de 2023, de la Universidad Politécnica de Madrid, por la que se acuerda hacer público el presupuesto de esta Universidad para 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/30/BOCM-20231230-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 26 de diciembre de 2023, de adjudicación del contrato titulado “Servicio para la modificación del software de los equipos de venta y peaje de ARCE para su adaptación a la TTP” (expediente 6012300352)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/30/BOCM-20231230-7.PDF"
