@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Pozuelo de Alarcón",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/30/BOCM-20231230-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Rivas-Vaciamadrid",
       "description": "Régimen económico: Presupuesto general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/30/BOCM-20231230-26.PDF"
