@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Getafe",
-      "description": "Personal: Plantilla personal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/30/BOCM-20231230-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Hoyo de Manzanares",
       "description": "Régimen económico: Ordenanza fiscal tasa recogida basuras",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/12/30/BOCM-20231230-21.PDF"
