@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Resolución conjunta de 15 de diciembre de 2023, de las Viceconsejerías de Política Educativa y de Organización Educativa, por la que se dictan instrucciones sobre la participación en el proceso de admisión de alumnos en centros docentes sostenidos con fondos públicos que imparten segundo ciclo de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato, así como las etapas de educación especial en la Comunidad de Madrid para el curso 2024-2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/03/BOCM-20240103-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Resolución conjunta de 15 de diciembre de 2023, de las Viceconsejerías de Política Educativa y de Organización Educativa, por la que se dictan instrucciones sobre la participación en el proceso de admisión de alumnos de primer ciclo de Educación Infantil en centros públicos y en centros privados, sostenidos con fondos públicos de la Comunidad de Madrid, para el curso escolar 2024-2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/03/BOCM-20240103-21.PDF"
     }
