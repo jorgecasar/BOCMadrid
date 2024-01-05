@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 22 de diciembre de 2023, de la Universidad de Alcalá, por la que se nombra Catedrático de Universidad del Área de Conocimiento de “Comercialización e Investigación de Mercados”, a don Pedro Cuesta Valiño",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/04/BOCM-20240104-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Resolución de 15 de diciembre de 2023, de la Dirección General de Educación Concertada, Becas y Ayudas al Estudio, por la que se da publicidad a las autorizaciones y modificaciones o extinciones de la autorización de centros docentes privados aprobadas por la Consejería de Educación, Ciencia y Universidades en el segundo trimestre de 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/04/BOCM-20240104-14.PDF"
