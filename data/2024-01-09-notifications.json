@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Corrección de errores de la Orden de 28 de diciembre de 2023, de la Consejera de Economía, Hacienda y Empleo, por la que se declara el importe del crédito presupuestario disponible para financiar la concesión directa, en el año 2024, de subvenciones correspondientes a las Ayudas de Tarifa Cero de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/08/BOCM-20240108-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 4974/2023, de 19 de diciembre de 2023, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria correspondiente al año 2023 de las ayudas a la atracción de talento investigador “César Nombela”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/08/BOCM-20240108-27.PDF"
