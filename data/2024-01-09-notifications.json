@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 5 de diciembre de 2023, de la Universidad Complutense de Madrid, por la que se nombran funcionarios de carrera de la Escala Auxiliares de Biblioteca, Grupo C, Subgrupo C2",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/08/BOCM-20240108-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 5 de diciembre de 2023, de la Universidad Complutense de Madrid, por la que se nombran funcionarios de carrera de la Escala Administrativa, Grupo C, Subgrupo C1",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/08/BOCM-20240108-13.PDF"
     }
