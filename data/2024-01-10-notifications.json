@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Extracto de la Orden 4122/2023, de 30 de octubre, del Consejero de Educación, Ciencia y Universidades, por la que se aprueba la convocatoria de becas de excelencia para cursar estudios en las universidades y centros superiores de enseñanzas artísticas de la Comunidad de Madrid y se convocan las correspondientes al curso 2023-2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/09/BOCM-20240109-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Convenio de 29 de noviembre de 2023, entre la Consejería de Presidencia, Justicia y Administración Local de la Comunidad de Madrid y la Fundación para el Conocimiento MADRI+D, para promoción de la participación de universidades y centros de investigación en los Programas Europeos de Gestión Directa y la potenciación de la atracción de talento",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/09/BOCM-20240109-13.PDF"
