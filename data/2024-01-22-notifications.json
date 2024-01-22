@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Orden 9/2024, de 10 de enero, de la Consejera de Sanidad, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/22/BOCM-20240122-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Resolución de 8 de enero de 2024, de la Directora-Gerente del Instituto Madrileño de Investigación y Desarrollo Rural, Agrario y Alimentario por la que se resuelve convocatoria pública para la provisión, por el procedimiento de selección objetiva, de dos puestos de carrera vacantes en el organismo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/22/BOCM-20240122-17.PDF"
