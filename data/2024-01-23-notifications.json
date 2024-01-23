@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 10 de enero de 2024, de la Rectora de la Universidad Autónoma de Madrid, por la que se acuerda hacer público el Presupuesto de esta Universidad para el ejercicio 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/22/BOCM-20240122-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 28 de diciembre de 2023, de la Secretaría General Técnica de la Consejería de Economía, Hacienda y Empleo por la que se anuncia la licitación del contrato de servicios denominado: Servicios para la comprobación, investigación y actualización de los bienes inmuebles sobre los que la Comunidad de Madrid ostenta algún derecho (4 lotes)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/22/BOCM-20240122-20.PDF"
