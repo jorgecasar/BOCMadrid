@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Alcobendas",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/22/BOCM-20240122-56.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Alcobendas",
       "description": "Licencias: Licencia actividad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/22/BOCM-20240122-57.PDF"
     }
