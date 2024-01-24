@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 4/2024, de 10 de enero, del Consejero de Educación, Ciencia y Universidades, por la que se aprueba el Plan Anual de Publicaciones 2024 de la Consejería de Educación, Ciencia y Universidades",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/23/BOCM-20240123-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Orden 115/2024, de 11 de enero, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se aprueban las tarifas de Canal de Isabel II, Sociedad Anónima, M. P. para los servicios de radiotelefonía móvil en grupo cerrado de usuarios con tecnología digital, destinado a los órganos y entidades del sector público que prestan servicios de seguridad, emergencias y protección civil",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/23/BOCM-20240123-22.PDF"
