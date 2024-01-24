@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Convenio de 22 de diciembre de 2023, de cooperación educativa entre la Universidad Autónoma de Madrid y la Comunidad de Madrid, para la realización de prácticas externas en la Agencia de la Comunidad de Madrid para la Reeducación y Reinserción del Menor Infractor",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/23/BOCM-20240123-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Corrección de errores de la Adenda de 1 de febrero de 2022, al convenio entre la Agencia Estatal de Administración Tributaria y la Comunidad de Madrid, en materia de suministro de información para finalidades no tributarias",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/23/BOCM-20240123-28.PDF"
