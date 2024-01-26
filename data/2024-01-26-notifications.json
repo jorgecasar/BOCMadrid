@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Extracto de la Orden de 12 de diciembre de 2023, de la Consejera de Economía, Hacienda y Empleo, por la que se convocan subvenciones en el año 2024 para la realización del Programa de Fomento del Empleo Juvenil con Corporaciones Locales en el marco del Programa FSE+ 2021/2027",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/25/BOCM-20240125-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Acuerdo de 17 de enero de 2024, del Consejo de Gobierno, por el que se aprueba una cuota suplementaria en la tarifa de alcantarillado del municipio de Alcorcón, con destino a la financiación de obras de infraestructuras hidráulicas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/25/BOCM-20240125-18.PDF"
