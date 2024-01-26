@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución conjunta de 28 de diciembre de 2023, de la Universidad Complutense de Madrid y de la Consejería de Sanidad de la Comunidad de Madrid por la que se nombra Catedrático de Universidad con plaza vinculada a D. Manuel Ramón Sánchez Luna",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/25/BOCM-20240125-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Carlos III",
       "description": "Resolución de 15 de enero de 2024, de la Universidad Carlos III de Madrid, por la que se nombra personal funcionario de cuerpos docentes universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/25/BOCM-20240125-15.PDF"
