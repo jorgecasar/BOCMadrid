@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Decreto 7/2024, de 24 de enero, del Consejo de Gobierno, por el que se nombran los miembros del Consejo de Administración de la Agencia de Seguridad y Emergencias Madrid 112",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/26/BOCM-20240126-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Acuerdo de 24 de enero de 2024, del Consejo de Gobierno, por el que se dispone el cese y se nombran vocales del Consejo de Administración del Centro de Asuntos Taurinos de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/26/BOCM-20240126-17.PDF"
     }
