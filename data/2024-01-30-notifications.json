@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Resolución de 18 de enero de 2024, del Director General de Recursos Humanos, por la que se emplaza a los posibles interesados para que puedan personarse como demandados en el recurso contencioso-administrativo interpuesto por don Luis Gadea Mateos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/29/BOCM-20240129-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 25 de enero de 2024, por el que se convoca la licitación para la contratación del suministro para la renovación por Obsolescencia de Sistema de Alimentación Ininterrumpida (SAI) y monitorización básica en cuartos de Protección Contra Incendios (PCI) (expediente 6012400031)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/29/BOCM-20240129-18.PDF"
