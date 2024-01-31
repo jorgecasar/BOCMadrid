@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Extracto del Acuerdo del Consejo de Gobierno de la Universidad de Alcalá, en su sesión ordinaria de 14 de diciembre de 2023, por el que se convoca el Programa UAH-Santander de Becas de Residencia “María de Guzmán” para estudiantes internacionales de doctorado en régimen de cotutela para el curso 2023-2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/30/BOCM-20240130-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Carlos III",
       "description": "Resolución de 17 de enero de 2024, del Rector de la Universidad Carlos III de Madrid, por la que se delega en la persona titular del Vicerrectorado con competencias en personal docente e investigador la Presidencia de la Comisión de Reclamaciones de la Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/30/BOCM-20240130-18.PDF"
