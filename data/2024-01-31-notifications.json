@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Orden 172/2024, 18 de enero, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se establecen las bases reguladoras de las ayudas para promover la adopción de medidas de protección para limitar posibles daños provenientes de las poblaciones de lobos existentes en la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/30/BOCM-20240130-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Resolución ELI/1/2024, de 15 de enero, del Director General de Patrimonio Cultural y Oficina del Español, por la que se aprueba la eliminación de determinadas fracciones temporales de series documentales de titularidad pública de entidades locales madrileñas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/30/BOCM-20240130-16.PDF"
