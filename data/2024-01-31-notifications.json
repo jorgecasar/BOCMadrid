@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Resolución ELI/1/2024, de 15 de enero, del Director General de Patrimonio Cultural y Oficina del Español, por la que se aprueba la eliminación de determinadas fracciones temporales de series documentales de titularidad pública de entidades locales madrileñas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/30/BOCM-20240130-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Extracto del Acuerdo del Consejo de Gobierno de la Universidad de Alcalá, en su sesión ordinaria de 14 de diciembre de 2023, por el que se convoca el Programa UAH-Santander de Becas de Residencia “María de Guzmán” para estudiantes internacionales de doctorado en régimen de cotutela para el curso 2023-2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/30/BOCM-20240130-17.PDF"
