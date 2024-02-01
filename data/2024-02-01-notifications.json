@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 19 de enero de 2024, la Universidad de Alcalá, por la que se nombra Profesora Titular de Universidad del Área de Conocimiento de \"Comercialización e Investigación de Mercados\", a doña Estela Núñez Barriopedro",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/31/BOCM-20240131-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 17 de enero de 2024, del Rector Magnífico de la Universidad Rey Juan Carlos, por la que se dispone la publicación de la modificación de la Relación de Puestos de Trabajo de Personal Técnico, Gestión y Administración y Servicios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/31/BOCM-20240131-18.PDF"
