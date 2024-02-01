@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 19 de enero de 2024, de la Universidad Autónoma de Madrid, por la que se convoca proceso selectivo para la constitución de una lista de espera de funcionarios/as interinos/as de la Escala Especial Básica de Servicios de la Universidad Autónoma de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/31/BOCM-20240131-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 19 de enero de 2024, la Universidad de Alcalá, por la que se nombra Profesora Titular de Universidad del Área de Conocimiento de \"Comercialización e Investigación de Mercados\", a doña Estela Núñez Barriopedro",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/31/BOCM-20240131-17.PDF"
