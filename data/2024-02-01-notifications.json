@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Anuncio de 28 de diciembre de 2023, del acto de adhesión de la Comunidad de Madrid, a través de la Consejería de Sanidad, al convenio entre la Agencia Española de Medicamentos y Productos Sanitarios y la Fundació Hospital Universitari Vall d’Hebron-Institut de Recerca, en relación con las autorizaciones o modificaciones de ensayos clínicos de medicamentos de uso humano en territorio español",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/31/BOCM-20240131-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Adenda de 11 de enero de 2024, al convenio entre la Comunidad de Madrid, a través de la Consejería de Sanidad, el Servicio Madrileño de Salud y la Fundación Cultura en Vena, para la implantación del programa “Mediación Cultural” mediante el acompañamiento de los pacientes en los centros sanitarios del Servicio Madrileño de Salud",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/01/31/BOCM-20240131-32.PDF"
     }
