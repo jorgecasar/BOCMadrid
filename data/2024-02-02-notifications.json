@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Decreto 12/2024, de 31 de enero, del Consejo de Gobierno, por el que se nombra Directora General de Investigación e Innovación Tecnológica a doña Marina Pilar Villegas Gracia",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/01/BOCM-20240201-4.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Decreto 13/2024, de 31 de enero, del Consejo de Gobierno, por el que cesa doña María Luz de los Mártires Almingol, como Directora General de Investigación y Docencia",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/01/BOCM-20240201-5.PDF"
