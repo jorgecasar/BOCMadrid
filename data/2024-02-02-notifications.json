@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Decreto 14/2024, de 31 de enero, del Consejo de Gobierno, por el que se nombra Directora General de Investigación y Docencia a doña Inmaculada Ibáñez de Cáceres",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/01/BOCM-20240201-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 16 de enero de 2024, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se modifica la composición del Tribunal Calificador de las pruebas selectivas para el acceso por el turno libre a la condición de personal estatutario fijo en la categoría de Grupo de Gestión de la F. A. del Servicio Madrileño de Salud de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/01/BOCM-20240201-7.PDF"
     }
