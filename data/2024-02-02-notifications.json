@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Arganda del Rey",
-      "description": "Organización y funcionamiento: Ordenanza tenencia perros",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/01/BOCM-20240201-46.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Canencia",
       "description": "Régimen económico: Calendario fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/01/BOCM-20240201-47.PDF"
