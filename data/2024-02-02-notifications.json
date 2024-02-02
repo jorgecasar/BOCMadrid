@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 4839/2023, de 4 de diciembre, de la Consejería de Educación, Ciencia y Universidades, por la que se aceptan renuncias en relación con las becas concedidas mediante la Orden 3343/2022, de 8 de noviembre, del Vicepresidente, Consejero de Educación y Universidades, por la que se resuelve la convocatoria de becas para el estudio de Bachillerato en la Comunidad de Madrid para el curso 2022-2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/01/BOCM-20240201-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 20/2024, de 16 de enero, del Consejero de Cultura, Turismo y Deporte, por la que se declara Bien de Interés Patrimonial de la Comunidad de Madrid, en la categoría de monumento, el Edificio Montano y fábrica de pianos anexa, en Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/01/BOCM-20240201-23.PDF"
