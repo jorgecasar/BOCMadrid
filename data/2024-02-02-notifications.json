@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Decreto 13/2024, de 31 de enero, del Consejo de Gobierno, por el que cesa doña María Luz de los Mártires Almingol, como Directora General de Investigación y Docencia",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/01/BOCM-20240201-5.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Decreto 14/2024, de 31 de enero, del Consejo de Gobierno, por el que se nombra Directora General de Investigación y Docencia a doña Inmaculada Ibáñez de Cáceres",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/01/BOCM-20240201-6.PDF"
     }
