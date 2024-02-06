@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Las Rozas de Madrid",
-      "description": "Otros anuncios: Notificación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/05/BOCM-20240205-57.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Leganés",
       "description": "Régimen económico: Extracto convocatoria subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/05/BOCM-20240205-58.PDF"
