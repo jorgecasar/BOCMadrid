@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 182/2024, de 29 de enero, del Consejero de Educación, Ciencia y Universidades, por la que se establecen los servicios mínimos esenciales en los centros educativos de 0-3 años gestionados por el Grupo Kidsco, S. L., de titularidad de la Comunidad de Madrid, con ocasión de la huelga convocada para los días 6, 7 y 8 de febrero de 2024, de 7:00 a 12:00 horas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/05/BOCM-20240205-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 50/2024, de 24 de enero, de la Consejería de Sanidad, por la que se renueva la autorización de funcionamiento de centros sanitarios adscritos a la Consejería de Sanidad de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/05/BOCM-20240205-19.PDF"
