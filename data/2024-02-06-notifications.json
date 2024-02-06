@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Las Rozas de Madrid",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/05/BOCM-20240205-56.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Las Rozas de Madrid",
       "description": "Otros anuncios: Notificación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/05/BOCM-20240205-57.PDF"
     }
