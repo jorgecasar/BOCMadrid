@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Orden 50/2024, de 24 de enero, de la Consejería de Sanidad, por la que se renueva la autorización de funcionamiento de centros sanitarios adscritos a la Consejería de Sanidad de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/05/BOCM-20240205-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Orden 2318/2023, de 29 de diciembre, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se resuelve el reconocimiento de la subvención y el pago de las solicitudes presentadas al amparo del Acuerdo de 29 de noviembre de 2023, del Consejo de Gobierno, por el que se aprueban las normas reguladoras y se establece el procedimiento de concesión directa de las ayudas extraordinarias para compensar el incremento de costes en las explotaciones agrarias afectadas por la sequía en la Comunidad de Madrid en la campaña 2022-2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/05/BOCM-20240205-20.PDF"
