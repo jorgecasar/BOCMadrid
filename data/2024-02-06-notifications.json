@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 24 de enero de 2024, del Rector de la Universidad Rey Juan Carlos, por la que se convoca concurso público para la contratación de personal para el Proyecto Unidigital, según la Orden por la que se conceden las subvenciones previstas en el Real Decreto 641/2021, de 27 de julio, procedimiento de urgencia",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/05/BOCM-20240205-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 23 de enero de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba el Plan Estratégico de Subvenciones en materia de concesión de ayudas a las asociaciones, federaciones y confederaciones de la Comunidad de Madrid para el desarrollo de actividades de promoción y de proyectos para la digitalización del comercio minorista y los servicios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/05/BOCM-20240205-15.PDF"
