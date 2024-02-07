@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Hoyo de Manzanares",
-      "description": "Organización y funcionamiento: Reglamento orgánico",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/06/BOCM-20240206-39.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Hoyo de Manzanares",
       "description": "Régimen económico: Presupuesto general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/06/BOCM-20240206-40.PDF"
     }
