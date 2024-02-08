@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Navas del Rey",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/07/BOCM-20240207-53.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Nuevo Baztán",
       "description": "Régimen económico: Ordenanza fiscal incremento valor terrenos urbana",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/07/BOCM-20240207-54.PDF"
