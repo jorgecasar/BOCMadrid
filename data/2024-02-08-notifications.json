@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Decreto 10/2024, de 31 de enero, del Consejo de Gobierno, por el que se declara Bien de Interés Cultural del Patrimonio Inmaterial de la Comunidad de Madrid, el Flamenco en la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/07/BOCM-20240207-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 43/2024, de 22 de enero, del Consejero de Cultura, Turismo y Deporte, por la que se establecen las bases reguladoras de las ayudas a Entidades locales de la Comunidad de Madrid en materia de archivos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/07/BOCM-20240207-24.PDF"
     }
