@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Cubas de la Sagra",
-      "description": "Régimen económico: Calendario fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/08/BOCM-20240208-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Daganzo de Arriba",
       "description": "Régimen económico: Ordenanza fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/08/BOCM-20240208-36.PDF"
