@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Parla",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/09/BOCM-20240209-55.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Parla",
       "description": "Personal: Nombramiento funcionario carrera",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/09/BOCM-20240209-56.PDF"
     }
