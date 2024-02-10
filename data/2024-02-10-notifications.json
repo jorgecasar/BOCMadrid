@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Navalafuente",
-      "description": "Régimen económico: Calendario fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/09/BOCM-20240209-54.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Parla",
       "description": "Régimen económico: Presupuesto general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/09/BOCM-20240209-55.PDF"
