@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Collado Mediano",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/12/BOCM-20240212-51.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Griñón",
       "description": "Régimen económico: Padrones fiscales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/12/BOCM-20240212-52.PDF"
