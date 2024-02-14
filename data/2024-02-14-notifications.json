@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Extracto de la Orden 266/2024, de 7 de febrero, del Consejero de Educación, Ciencia y Universidades, por la que se convoca el XX Certamen de Coros Escolares de la Comunidad de Madrid correspondiente al curso escolar 2023-2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/13/BOCM-20240213-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Orden 163/2024, de 22 de enero, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se modifica la Orden 9344/2003, de 1 de octubre, de la Consejería de Economía e Innovación Tecnológica, por la que se establece el procedimiento para la tramitación, puesta en servicio e inspección de las instalaciones eléctricas no industriales conectadas a una alimentación en baja tensión",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/13/BOCM-20240213-17.PDF"
