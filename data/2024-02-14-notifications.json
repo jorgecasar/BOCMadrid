@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Régimen económico: Área de Gobierno de Economía, Innovación y Hacienda. Extracto convocatoria subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/13/BOCM-20240213-36.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Régimen económico: Área de Gobierno de Economía, Innovación y Hacienda. Convocatoria concesión subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/13/BOCM-20240213-37.PDF"
     }
