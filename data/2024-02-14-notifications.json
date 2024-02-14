@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Alcobendas",
-      "description": "Organización y funcionamiento: Ordenanza movilidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/13/BOCM-20240213-40.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Alcobendas",
       "description": "Organización y funcionamiento: Ordenanza venta ambulante",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/13/BOCM-20240213-41.PDF"
     }
