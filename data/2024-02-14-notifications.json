@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Régimen económico: Área de Gobierno de Economía, Innovación y Hacienda. Convocatoria concesión subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/13/BOCM-20240213-37.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Urbanismo: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Parcelas alquiler asequible",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/13/BOCM-20240213-38.PDF"
     }
