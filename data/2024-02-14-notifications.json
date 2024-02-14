@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "San Fernando de Henares",
-      "description": "Organización y funcionamiento: Padrones fiscales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/13/BOCM-20240213-55.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "San Fernando de Henares",
       "description": "Régimen económico: Matrícula impuestos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/13/BOCM-20240213-56.PDF"
     }
