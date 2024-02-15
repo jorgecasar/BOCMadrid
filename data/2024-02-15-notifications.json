@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Acuerdo de 7 de febrero de 2024, del Consejo de Gobierno, por el que se crea la Comisión de Coordinación Sociosanitaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/14/BOCM-20240214-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Resolución de 25 de enero de 2024, de la Dirección General de Reequilibrio Territorial, sobre la convocatoria por el sistema de Libre Designación del puesto de Intervención, reservado a funcionarios de Administración Local con habilitación de carácter nacional, del Ayuntamiento de Getafe",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/14/BOCM-20240214-2.PDF"
     }
