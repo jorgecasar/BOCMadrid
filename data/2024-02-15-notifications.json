@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 25 de enero de 2024, de la Universidad Complutense de Madrid, por la que se declara concluido el procedimiento y desierta la plaza de Profesor/a Titular de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/14/BOCM-20240214-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Carlos III",
       "description": "Resolución de 2 de febrero de 2024, de la Universidad Carlos III de Madrid, por la que se nombran Catedráticas y Catedráticos de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/14/BOCM-20240214-25.PDF"
