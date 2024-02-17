@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 5 de febrero de 2024, de la Universidad de Alcalá, por la que se nombra Catedrática de Universidad del Área de Conocimiento de “Traducción e Interpretación”, a doña María Carmen Pena Díaz",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/16/BOCM-20240216-44.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 6 de febrero de 2024, de la Universidad Rey Juan Carlos, por la que se nombra a don Marcos Gómez Puente como Catedrático de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/16/BOCM-20240216-45.PDF"
