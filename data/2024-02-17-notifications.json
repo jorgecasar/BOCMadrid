@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Resolución de 1 de febrero de 2024, de la Universidad de Alcalá, por la que se nombra Profesor Titular de Universidad del Área de Conocimiento de \"Física Aplicada\", a don José Manuel Alarcón Soriano",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/16/BOCM-20240216-39.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Resolución de 1 de febrero de 2024, de la Universidad de Alcalá, por la que se nombra Profesor Titular de Universidad del Área de Conocimiento de “Matemática Aplicada”, a don Carlos Hermoso Ortiz",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/16/BOCM-20240216-40.PDF"
     }
