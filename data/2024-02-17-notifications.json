@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 6 de febrero de 2024, de la Universidad Rey Juan Carlos, por la que se nombra a don Marcos Gómez Puente como Catedrático de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/16/BOCM-20240216-45.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 7 de febrero de 2024, de la Universidad Rey Juan Carlos, por la que se nombra a don Andrés Martínez Fernández como Catedrático de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/16/BOCM-20240216-46.PDF"
     }
