@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 15 de febrero de 2024, de la Universidad Autónoma de Madrid, por la que se nombran funcionarios/as de carrera de la Escala Administrativa con Idiomas de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/19/BOCM-20240219-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 185/2024, de 30 de enero, por la que se modifican los conciertos educativos de determinados centros docentes privados aprobados por la Orden 2354/2023, de 28 de junio, del Consejero de Educación, Ciencia y Universidades",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/19/BOCM-20240219-11.PDF"
