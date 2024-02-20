@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Getafe",
-      "description": "Organización y funcionamiento: Constitución Junta Gobierno",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/19/BOCM-20240219-50.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Getafe",
       "description": "Organización y funcionamiento: Delegación funciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/19/BOCM-20240219-51.PDF"
     }
