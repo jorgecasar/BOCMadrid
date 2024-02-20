@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Fuenlabrada",
-      "description": "Personal: Nombramiento funcionarios carrera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/19/BOCM-20240219-47.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Getafe",
       "description": "Organización y funcionamiento: Nombramientos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/19/BOCM-20240219-48.PDF"
