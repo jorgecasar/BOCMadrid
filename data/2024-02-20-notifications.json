@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Tres Cantos",
-      "description": "Ofertas de empleo: Oferta empleo público",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/19/BOCM-20240219-58.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Tres Cantos",
       "description": "Contratación: Estudio viabilidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/19/BOCM-20240219-59.PDF"
     }
