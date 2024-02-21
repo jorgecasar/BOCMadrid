@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Aviso de 6 de febrero de 2024, de celebración de Asamblea de participantes de la concentración parcelaria de Valverde de Alcalá (Madrid)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/20/BOCM-20240220-47.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Aviso de 6 de febrero de 2024, del inicio de los trabajos de investigación de la propiedad de la concentración parcelaria de Valverde de Alcalá (Madrid)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/20/BOCM-20240220-48.PDF"
     }
