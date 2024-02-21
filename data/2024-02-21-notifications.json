@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 9 de febrero de 2024, de la Universidad de Alcalá, por la que se nombra Profesor Titular de Universidad del Área de Conocimiento de “Bioquímica y Biología Molecular”, a don Pedro Antonio Mateos Gómez",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/20/BOCM-20240220-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 13 de febrero de 2024, de la Consejería de Economía, Hacienda y Empleo, por la que se establecen procedimientos para la tramitación de determinadas modificaciones presupuestarias y otras operaciones sobre el presupuesto en el ejercicio 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/20/BOCM-20240220-24.PDF"
