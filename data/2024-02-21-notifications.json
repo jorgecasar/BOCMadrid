@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Corrección de errores de la Orden 179/2024, de 30 de enero, del Consejero de Cultura, Turismo y Deporte, por la que se establecen las bases reguladoras de las ayudas a entidades privadas sin ánimo de lucro de la Comunidad de Madrid en materia de archivos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/20/BOCM-20240220-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Adenda de 25 de enero de 2024, de modificación y prórroga del convenio entre la Agencia Estatal de Administración Tributaria y la Comunidad de Madrid, de 6 de febrero de 2020, en materia de suministro de información para finalidades no tributarias",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/20/BOCM-20240220-32.PDF"
