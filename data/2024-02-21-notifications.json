@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 8 de febrero de 2024, de la Universidad Autónoma de Madrid, por la que se nombra funcionarios/as de carrera de la Escala Especial Técnica de Sistemas y Tecnologías de la Información de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/20/BOCM-20240220-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 9 de febrero de 2024, de la Universidad de Alcalá, por la que se nombra Profesor Titular de Universidad del Área de Conocimiento de “Bioquímica y Biología Molecular”, a don Pedro Antonio Mateos Gómez",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/20/BOCM-20240220-23.PDF"
