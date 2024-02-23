@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Majadahonda",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/22/BOCM-20240222-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Majadahonda",
       "description": "Urbanismo: Plan especial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/22/BOCM-20240222-50.PDF"
     }
