@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Coslada",
-      "description": "Régimen económico: Extracto convocatoria subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/23/BOCM-20240223-46.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Daganzo de Arriba",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/23/BOCM-20240223-47.PDF"
