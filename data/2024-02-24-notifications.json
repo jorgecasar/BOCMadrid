@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Aranjuez",
-      "description": "Ofertas de empleo: Plantilla personal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/23/BOCM-20240223-44.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Boadilla del Monte",
       "description": "Personal: Nombramiento funcionario carrera",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/23/BOCM-20240223-45.PDF"
