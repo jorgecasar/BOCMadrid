@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 15 de febrero de 2024, de la Gerencia de la Universidad de Alcalá, por la que se procede a nombrar Personal Funcionario de Carrera de la Escala Técnicos Auxiliares de Informática, Grupo C, Subgrupo C1, de la Universidad de Alcalá",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/26/BOCM-20240226-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 21 de febrero de 2024, de la Consejería de Economía, Hacienda y Empleo, por la que se establecen las condiciones de una emisión de Deuda Pública sostenible de la Comunidad de Madrid por importe de 1.000.000.000,00 de euros",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/26/BOCM-20240226-19.PDF"
