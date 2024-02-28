@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Extracto de la Orden 238/2024, de 6 de febrero, del Consejero de Educación, Ciencia y Universidades, por la que se convoca el XXXI Certamen de Teatro Escolar de la Comunidad de Madrid correspondiente al curso escolar 2023-2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/27/BOCM-20240227-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Extracto de 8 de febrero de 2024, de la Convocatoria de ayudas a familias por compensación de gastos de alojamiento de estudiantes extranjeros matriculados en estudios organizados por el Instituto Franklin de la Universidad de Alcalá. Cursos 2024-2025 y 2025-2026",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/27/BOCM-20240227-22.PDF"
