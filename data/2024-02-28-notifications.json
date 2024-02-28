@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcobendas",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/27/BOCM-20240227-46.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcorcón",
       "description": "Personal: Nombramiento funcionarios carrera",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/27/BOCM-20240227-47.PDF"
