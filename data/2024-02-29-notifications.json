@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "La Cabrera",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/28/BOCM-20240228-44.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "La Hiruela",
       "description": "Organización y funcionamiento: Ordenanza punto limpio",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/28/BOCM-20240228-45.PDF"
