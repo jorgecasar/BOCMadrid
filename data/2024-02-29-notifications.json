@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 14 de febrero de 2024, de la Universidad Rey Juan Carlos, por la que se procede a la adjudicación de las plazas convocadas mediante el proceso selectivo convocado mediante Resolución de 17 de diciembre de 2021 (“Boletín Oficial del Estado” número 306 y BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID número 305, ambos de 23 de diciembre de 2021), para la provisión de varias plazas vacantes en la relación de puestos de trabajo de personal técnico, de gestión y de administración y servicios laboral de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/28/BOCM-20240228-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Corrección de errores en la publicación de la Orden de 21 de febrero de 2024, de la Consejería de Economía, Hacienda y Empleo, por la que se establecen las condiciones de una emisión de Deuda Pública sostenible de la Comunidad de Madrid por importe de 1.000.000.000,00 de euros",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/28/BOCM-20240228-16.PDF"
