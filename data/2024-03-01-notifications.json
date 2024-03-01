@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Extracto del Acuerdo de 13 de febrero de 2024, de la Comisión de Investigación de la Universidad de Alcalá, por el que se convocan las Ayudas para la Adquisición, Ampliación y Renovación de Equipamiento Científico para la Investigación 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/29/BOCM-20240229-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Extracto del Acuerdo de 13 de febrero de 2024, de la Comisión de Investigación de la Universidad de Alcalá, por el que se convocan las Ayudas para la Organización de Congresos 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/29/BOCM-20240229-19.PDF"
     }
