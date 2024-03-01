@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Getafe",
-      "description": "Régimen económico: Ordenanzas fiscales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/29/BOCM-20240229-52.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Humanes de Madrid",
       "description": "Régimen económico: Extracto convocatoria subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/29/BOCM-20240229-53.PDF"
