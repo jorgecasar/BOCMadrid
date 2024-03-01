@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Organización y funcionamiento: Área de Gobierno de Economía, Innovación y Hacienda. Puestos trabajo personal eventual",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/29/BOCM-20240229-42.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Algete",
       "description": "Régimen económico: Padrón fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/29/BOCM-20240229-43.PDF"
