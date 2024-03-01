@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Daganzo de Arriba",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/29/BOCM-20240229-46.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Fuenlabrada",
       "description": "Ofertas de empleo: Proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/29/BOCM-20240229-47.PDF"
