@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 15 de febrero de 2024, de la Universidad Rey Juan Carlos, por la que se anuncia convocatoria pública para la provisión de un puesto de trabajo reservado a personal funcionario mediante el sistema de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/29/BOCM-20240229-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Extracto de la Orden de 2 de diciembre de 2023, de la Consejera de Economía, Hacienda y Empleo, por la que se convocan las subvenciones para el empleo con apoyo de personas con discapacidad, dentro del programa de inclusión laboral de personas con discapacidad en el mercado ordinario de trabajo, para el año 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/02/29/BOCM-20240229-15.PDF"
