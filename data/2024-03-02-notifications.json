@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 19 de febrero de 2024, de la Universidad de Alcalá, por la que se nombra Catedrático de Universidad del Área de Conocimiento de “Ingeniería Telemática” a don Iván Marsá Maestre",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/01/BOCM-20240301-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 16 de febrero de 2024, de la Universidad Rey Juan Carlos, por la que se convoca proceso selectivo para la constitución de bolsa de empleo para nombramientos temporales de funcionarios/as interinos/as de la Escala de Oficial de Oficios de esta Universidad, Especialidad Análisis de Datos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/01/BOCM-20240301-17.PDF"
