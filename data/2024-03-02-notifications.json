@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 16 de febrero de 2024, de la Universidad Rey Juan Carlos, por la que se convoca proceso selectivo para la constitución de bolsa de empleo para nombramientos temporales de funcionarios/as interinos/as de la Escala de Oficial de Oficios de esta Universidad, Especialidad Análisis de Datos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/01/BOCM-20240301-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Digitalización",
       "description": "Orden 22/2024, de 19 de febrero, de la Consejería de Digitalización, por la que se resuelven parcialmente las solicitudes de subvenciones de bonos digitales para colectivos económicamente vulnerables (C15.I3) en el marco del Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea-Next Generation EU (Programa Único-Bono Social) en la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/01/BOCM-20240301-18.PDF"
