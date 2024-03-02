@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Orden 217/2024, de 20 de febrero, de la Consejera de Sanidad, por la que se resuelve la convocatoria aprobada por Orden 1875/2023, de 5 de diciembre, de esta Consejería de Sanidad (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 19 de diciembre), para la provisión de un puesto de trabajo vacante en la citada Consejería por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/01/BOCM-20240301-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Acuerdo de 28 de febrero de 2024, del Consejo de Gobierno, por el que se nombra a los vocales de la Comisión Regional de Coordinación de las Policías Locales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/01/BOCM-20240301-13.PDF"
