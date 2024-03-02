@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 53/2024, de 16 de febrero, del Consejero de Educación, Ciencia y Universidades, por la que se acepta la donación del archivo personal de doña Teresa Berganza Vargas para la Escuela Superior de Canto de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/01/BOCM-20240301-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Resolución de 16 de febrero de 2024, de la Secretaría General Técnica de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se publican las subvenciones concedidas, durante el cuarto trimestre de 2023, por la Dirección General de Agricultura, Ganadería y Alimentación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/01/BOCM-20240301-20.PDF"
