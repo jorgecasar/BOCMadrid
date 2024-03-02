@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Convenio de 16 de febrero de 2024, relativo a la incorporación del Ayuntamiento de Brunete al modelo de gestión de Canal de Isabel II, entre la Comunidad de Madrid, Canal de Isabel II y el Ayuntamiento de Brunete",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/01/BOCM-20240301-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Orden 297/2024, de 16 de febrero, de la Consejera de Familia, Juventud y Asuntos Sociales, por la que se declara el importe del crédito presupuestario disponible para el procedimiento de concesión directa de ayudas económicas de pago único por nacimiento o adopción múltiple en la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/01/BOCM-20240301-22.PDF"
