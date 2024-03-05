@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Extracto de la Orden 329/2024, de 14 de febrero, del Consejero de Educación, Ciencia y Universidades, por la que se convoca el IX Concurso de Oratoria en Primaria de la Comunidad de Madrid correspondiente al curso escolar 2023-2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/04/BOCM-20240304-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 16 de febrero de 2024, de la Universidad de Alcalá, por la que se publica el plan de estudios de Máster Universitario en Fisioterapia en Salud de la Mujer y Salud Pélvica",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/04/BOCM-20240304-26.PDF"
