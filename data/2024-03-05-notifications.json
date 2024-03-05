@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Resolución de 16 de febrero de 2024, de la Universidad de Alcalá, por la que se publica el plan de estudios de Máster Universitario en Fisioterapia en Salud de la Mujer y Salud Pélvica",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/04/BOCM-20240304-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Resolución de 16 de febrero de 2024, de la Universidad de Alcalá, por la que se modifica el plan de estudios de Máster Universitario en Acceso a la Abogacía y la Procura",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/04/BOCM-20240304-27.PDF"
     }
