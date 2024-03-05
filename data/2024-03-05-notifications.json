@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Alameda del Valle",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/04/BOCM-20240304-52.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Alameda del Valle",
       "description": "Ofertas de empleo: Proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/04/BOCM-20240304-53.PDF"
     }
