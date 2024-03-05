@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 21 de febrero de 2024, de la Universidad Autónoma de Madrid, por la que se nombran funcionarios/as de carrera de la Escala de Ayudantes de Archivos, Bibliotecas y Museos de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/04/BOCM-20240304-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 20 de febrero de 2024, de la Universidad de Alcalá, por la que se nombra Catedrático de Universidad del Área de Conocimiento de “Tecnología Electrónica”, a don Manuel Ocaña Miguel",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/04/BOCM-20240304-20.PDF"
