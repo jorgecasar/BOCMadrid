@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Resolución de 21 de febrero de 2024, de la Dirección General de Inspección y Ordenación Sanitaria, por la que se hace público el Plan de Inspección de Sanidad para el año 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/06/BOCM-20240306-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Orden 101/2024, de 21 de febrero, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se delegan en la Dirección General de Emergencias de la Agencia de Seguridad y Emergencias Madrid 112, determinadas funciones del organismo pagador de los gastos financiados por los Fondos Europeos Agrícolas, en el marco del PEPAC 2023-2027, atribuidas a la Dirección General de Agricultura, Ganadería y Alimentación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/06/BOCM-20240306-28.PDF"
