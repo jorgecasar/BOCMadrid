@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Extracto de la Orden 357/2024, de 22 de febrero, de la Consejería de Cultura, Turismo y Deporte de la Comunidad de Madrid, por la que se convocan las ayudas a la edición de libros correspondientes al año 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/06/BOCM-20240306-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Acuerdo de 20 de febrero de 2024, de extinción por Resolución de mutuo acuerdo del Convenio entre la Universidad Carlos III de Madrid y la Comunidad de Madrid (Consejería de Presidencia) sobre la realización de prácticas por parte de los alumnos del grado en Derecho, doble grado en Derecho-ADE, doble grado en Derecho-Economía, doble grado en Derecho-CC Políticas y doble grado en Estudios Internacionales y Derecho",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/06/BOCM-20240306-30.PDF"
