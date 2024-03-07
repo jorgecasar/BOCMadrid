@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Digitalización",
-      "description": "Orden 23/2024, de 22 de febrero, de la Consejería de Digitalización, de corrección de errores de la Orden 2/2024, de 8 de enero, de la Consejería de Digitalización, por la que se resuelven parcialmente las solicitudes de subvenciones de bonos digitales para colectivos económicamente vulnerables (C15.I3) en el marco del Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea-Next Generation EU (Programa Único-Bono Social) en la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/06/BOCM-20240306-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Resolución de 21 de febrero de 2024, de la Dirección General de Inspección y Ordenación Sanitaria, por la que se hace público el Plan de Inspección de Sanidad para el año 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/06/BOCM-20240306-27.PDF"
