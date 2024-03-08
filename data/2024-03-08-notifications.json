@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Las Rozas de Madrid",
-      "description": "Ofertas de empeo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/07/BOCM-20240307-42.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Las Rozas de Madrid",
       "description": "Urbanismo: Expropiación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/07/BOCM-20240307-43.PDF"
     }
