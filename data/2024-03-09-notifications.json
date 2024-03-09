@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 26 de febrero de 2024, de la Universidad de Alcalá, por la que se nombra Catedrático de Universidad del Área de Conocimiento de “Análisis Geográfico Regional”, a don Francisco Javier Escobar Martínez",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/08/BOCM-20240308-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 4 de marzo de 2024, del Rector magnífico de la Universidad Rey Juan Carlos, por la que se dispone la publicación de la modificación parcial de la Relación de Puestos de Trabajo de Personal Técnico, Gestión y Administración y Servicios Laboral de esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/08/BOCM-20240308-18.PDF"
