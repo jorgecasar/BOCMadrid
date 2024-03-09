@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 4 de marzo de 2024, del Rector magnífico de la Universidad Rey Juan Carlos, por la que se dispone la publicación de la modificación parcial de la Relación de Puestos de Trabajo de Personal Técnico, Gestión y Administración y Servicios Laboral de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/08/BOCM-20240308-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Resolución de 6 de marzo de 2024, de la Dirección General de Transportes y Movilidad de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se nombra el Tribunal para las pruebas de obtención y renovación de la capacitación profesional de los Consejeros de Seguridad para el transporte de mercancías peligrosas, a celebrar en el mes de abril de 2024, en la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/08/BOCM-20240308-19.PDF"
