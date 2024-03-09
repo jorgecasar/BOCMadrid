@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "El Escorial",
-      "description": "Personal: Nombramiento funcionarios carrera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/08/BOCM-20240308-50.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Galapagar",
       "description": "Organización y funcionamiento: Régimen dedicación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/08/BOCM-20240308-51.PDF"
