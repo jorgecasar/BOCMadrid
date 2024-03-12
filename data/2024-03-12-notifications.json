@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 27 de febrero de 2024, del Rectorado de la Universidad de Alcalá, por la que se ordena la publicación de la Relación de Puestos de Trabajo del Personal Docente e Investigador a 31 de diciembre de 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/11/BOCM-20240311-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Acuerdo de 24 de febrero de 2024, de la Coordinadora Ejecutiva y Apoderada de la Fundación Felipe II, por el que se anuncia la convocatoria del proceso selectivo para la cobertura mediante convocatoria pública del puesto de Administrativo/a",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/11/BOCM-20240311-20.PDF"
