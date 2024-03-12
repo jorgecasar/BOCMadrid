@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "El Escorial",
-      "description": "Régimen económico: Extracto convocatoria subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/11/BOCM-20240311-47.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "El Escorial",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/11/BOCM-20240311-48.PDF"
     }
