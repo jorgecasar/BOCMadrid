@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Puentes Viejas",
-      "description": "Personal: Nombramiento funcionario carrera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/11/BOCM-20240311-54.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Puentes Viejas",
       "description": "Personal: Nombramiento personal laboral",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/11/BOCM-20240311-55.PDF"
     }
