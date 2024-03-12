@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 517/2024, de 27 de febrero, del Consejero de Educación, Ciencia y Universidades, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacante en la Consejería de Educación, Ciencia y Universidades por el procedimiento de Concurso de Méritos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/11/BOCM-20240311-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 271/2024, de 29 de febrero, de la Consejería de Sanidad, por la que se convoca, para su cobertura interina, un puesto de trabajo vacante en dicha Consejería y se prevé la constitución de lista de espera",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/11/BOCM-20240311-15.PDF"
