@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "El Escorial",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/11/BOCM-20240311-48.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Gascones",
       "description": "Organización y funcionamiento: Régimen retribuciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/11/BOCM-20240311-49.PDF"
