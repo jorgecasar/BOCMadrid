@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 22 de febrero de 2024, de la Rectora de la Universidad Autónoma de Madrid, por la que se delegan competencias en materia de aprobación y firma de convenios de cotutela de tesis doctoral a favor del Vicerrector o la Vicerrectora de Investigación y Biblioteca de dicha Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/12/BOCM-20240312-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Extracto del Acuerdo de 28 de febrero de 2024, por parte de la Comisión de Estudios Oficiales de Posgrado y Doctorado, del XXI Programa de Becas UAH-BSCH “Miguel de Cervantes” de residencia para estudios de máster en la Universidad de Alcalá. Curso 2024-2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/12/BOCM-20240312-17.PDF"
