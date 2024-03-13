@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "description": "Orden 504/2024, de 27 de febrero, de la Consejera de Familia, Juventud y Asuntos Sociales, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacantes, por el procedimiento de Concurso de Méritos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/12/BOCM-20240312-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 5 de marzo de 2024, de la Dirección General de Presupuestos, relativa a la gestión presupuestaria para el año 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/12/BOCM-20240312-15.PDF"
