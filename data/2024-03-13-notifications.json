@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Extracto del Acuerdo de 28 de febrero de 2024, por parte de la Comisión de Estudios Oficiales de Posgrado y Doctorado, del XXI Programa de Becas UAH-BSCH “Miguel de Cervantes” de residencia para estudios de máster en la Universidad de Alcalá. Curso 2024-2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/12/BOCM-20240312-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Extracto de la Resolución Rectoral de 5 de marzo de 2024, de la Universidad Rey Juan Carlos, por la que se aprueban las Bases Reguladoras y se hace pública la Convocatoria de Premios a los mejores Trabajos Fin de Grado, Trabajos Fin de Máster y Tesis Doctorales relacionados con los objetivos de desarrollo sostenible (ODS), defendidos en 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/12/BOCM-20240312-18.PDF"
