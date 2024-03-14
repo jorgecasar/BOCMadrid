@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 27 de febrero de 2024, de la Universidad de Alcalá, por la que se nombra Catedrático de Universidad del Área de Conocimiento de “Organización de Empresas”, a don Fernando Javier Crecente Romero",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 28 de febrero de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba el Plan Estratégico de Subvenciones en materia de concesión de ayudas a empresas artesanas de la Comunidad de Madrid para la promoción y formación para el período 2024-2026",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-11.PDF"
