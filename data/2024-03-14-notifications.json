@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Talamanca de Jarama",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-60.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Torrejón de Ardoz",
       "description": "Régimen económico: Extracto convocatoria subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-61.PDF"
