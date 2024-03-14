@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "El Escorial",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-44.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Fresnedillas de la Oliva",
       "description": "Régimen económico: Ordenanzas fiscales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-45.PDF"
