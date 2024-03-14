@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Arganda del Rey",
-      "description": "Personal: Nombramiento funcionaria carrera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-37.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Arganda del Rey",
       "description": "Personal: Nombramiento funcionario carrera",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-38.PDF"
     }
