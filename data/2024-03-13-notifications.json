@@ -1,0 +1,567 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 62,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2024/03/13/BOCM-20240313062.PDF",
+      "total": 70,
+      "items": {
+        "Comunidad de Madrid": 32,
+        "Administración Local Ayuntamientos": 37,
+        "Otros Anuncios": 1
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 29 de febrero de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Medio Ambiente, Agricultura e Interior, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 2 de marzo de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en la Consejería de Economía, Hacienda y Empleo, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 2 de marzo de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Economía, Hacienda y Empleo, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 4 de marzo de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicha Consejería, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 1 de marzo de 2024, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden de la Consejera de Economía, Hacienda y Empleo de 29 de noviembre de 2023 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 15 de diciembre), para la provisión de un puesto de trabajo vacante en dicha Consejería, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 1 de marzo de 2024, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden de la Consejera de Economía, Hacienda y Empleo de 19 de diciembre de 2023 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 5 de enero de 2024), para la provisión de dos puestos de trabajo vacantes en la Consejería de Medio Ambiente, Agricultura e Interior (Agencia de Seguridad y Emergencias Madrid 112), de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Orden 298/2024, de 1 de marzo, de la Consejera de Sanidad, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Orden 345/2024, de 28 de febrero, del Consejero de Cultura, Turismo y Deporte, por la que se cesan y nombran vocales titulares y suplentes del Consejo Regional de Patrimonio Cultural de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-8.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Orden 439/2024, de 1 de marzo, del Consejero de Cultura, Turismo y Deporte, por la que se resuelve la convocatoria aprobada mediante Orden 2267/2023, de 13 de diciembre (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 22 de diciembre), para la provisión de puestos de trabajo por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-9.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad de Alcalá",
+      "description": "Resolución de 27 de febrero de 2024, de la Universidad de Alcalá, por la que se nombra Catedrático de Universidad del Área de Conocimiento de “Organización de Empresas”, a don Fernando Javier Crecente Romero",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-10.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 28 de febrero de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba el Plan Estratégico de Subvenciones en materia de concesión de ayudas a empresas artesanas de la Comunidad de Madrid para la promoción y formación para el período 2024-2026",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-11.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 28 de febrero de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba el Plan Estratégico de Subvenciones en materia de concesión de ayudas al comercio ambulante de la Comunidad de Madrid para el período 2024-2026",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-12.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 28 de febrero de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba el Plan Estratégico de Subvenciones en materia de concesión de ayudas a municipios de la Comunidad de Madrid para el desarrollo de actividades de promoción comercial y ferial para el período 2024-2026",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-13.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 11 de marzo de 2024, por la que se hace público el Acuerdo de 11 de marzo de 2024, de la Junta Electoral para las elecciones a la Cámara Agraria de la Comunidad de Madrid, en el que se procede a la proclamación de vocales electos de las elecciones convocadas por Decreto 253/2023, de 22 de noviembre",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-14.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia y Administración Local",
+      "description": "Adenda de 29 de febrero de 2024, al convenio de colaboración entre la Agencia de la Comunidad de Madrid para la Reeducación y Reinserción del Menor Infractor y la Asociación para la Gestión de la Integración Social (GINSO), por la que se determina el número de plazas reservadas en el Centro de Ejecución de Medidas Judiciales “Teresa de Calcuta” durante el período comprendido entre el 1 de marzo y el 30 de junio de 2024",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-15.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Anuncio de 28 de febrero de 2024, de formalización del contrato titulado “Acuerdo marco para la determinación de las condiciones de suministro de los repuestos exclusivos del fabricante IFE (Knorr Bremse) para el mantenimiento de las puertas de los vehículos del material móvil de Metro de Madrid, S. A.” (expediente 6012300233) (contrato M00009-001)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-16.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 5 de marzo de 2024, de la Gerencia Asistencial de Atención Primaria, por la que se corrigen errores de la convocatoria de licitación del expediente denominado “Suministro de desinfectantes con destino a los centros de salud dependientes de la Gerencia Asistencial de Atención Primaria”. A/SUM-006282/2024",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-17.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 1 de marzo de 2024, del Director-Gerente del Hospital Clínico “San Carlos”, por la que se dispone la publicación, en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante”, de la licitación del contrato, por procedimiento abierto, P. A. 2023-4-360 «Servicio de mantenimiento integral de los equipos electromédicos, de la marca Philips, instalados en el Hospital Clínico “San Carlos” de Madrid»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-18.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 1 de marzo de 2024, de la Dirección-Gerencia del Hospital Universitario “Infanta Leonor”, por la que se hace pública la formalización del contrato titulado «Adquisición de soluciones para el mantenimiento de catéteres y ácido hialurónico intraarticular para grandes articulaciones para el Hospital Universitario “Infanta Leonor” (2 lotes)»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-19.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 1 de marzo de 2024, de la Dirección-Gerencia del Hospital Universitario “Infanta Leonor”, por la que se dispone la publicación de la formalización de la prórroga del contrato denominado «Servicio de mantenimiento integral de los equipos de electromedicina del Hospital Universitario “Infanta Leonor” y centros adscritos»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-20.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 20 de febrero de 2024, del Director General de Agricultura, Ganadería y Alimentación, por la que se anuncia la exposición pública relativa a la autorización de ocupación temporal de la vía pecuaria Colada de Moscatelar, en el término municipal de Daganzo de Arriba, para obra de nueva canalización de fibra óptica avenida de Circunvalación, actuación promovida por Lyntia Networks, S. A. U.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-21.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 21 de febrero de 2024, de la Directora General de Transición Energética y Economía Circular de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se acuerda hacer público el Informe de Impacto Ambiental del proyecto de “Ampliación de fabricación de productos químicos, M-404, km 37,800”, en el término municipal de Valdemoro, promovido por Total Energies Marketing España, S. A. U. (Expediente: 26-EIA-00037.1/2023)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-22.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 28 de febrero de 2024, del Director General de Agricultura, Ganadería y Alimentación, por la que se anuncia la exposición pública relativa a la autorización de ocupación temporal de las vías pecuarias Cordel de Valladolid tramo 1, Cordel de Valladolid tramo 2, Cordel de la Calleja de los Poyales, Descansadero de las Angustias y Vereda del Atajo de los Picutos, en el término municipal de Guadarrama, para renovación de red en varias calles del municipio, actuación promovida por Canal de Isabel II, S. A., M. P.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-23.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 28 de febrero de 2024, de la Directora General de Transición Energética y Economía Circular de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se acuerda hacer público el Informe Ambiental Estratégico del Plan Especial de regulación del uso Servicios Empresariales, en los ámbitos de uso característico Terciario Oficinas, en el término municipal de Alcobendas, promovido por el Ayuntamiento de Alcobendas (expediente: 26-UB2-00175.1/2023, SIA 23/173)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-24.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Adenda de 22 de febrero de 2024, de prórroga del convenio de colaboración entre la Comunidad de Madrid, el Ayuntamiento de Madrid y la Mancomunidad del Este para la gestión de residuos urbanos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-25.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Resolución de 27 de febrero de 2024, para la incoación del expediente de declaración de Bien de Interés Cultural, en la categoría de Conjunto de Bienes Muebles, del Relicario del Monasterio del Santísimo Sacramento de Religiosas Bernardas, en Boadilla del Monte (Madrid)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-26.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Resolución de 27 de febrero de 2024, de la Dirección General de Patrimonio Cultural y Oficina del Español, por la que se incoa el expediente de declaración como Bien de Interés Patrimonial de la pintura “Gitana meditando”, obra de Isidro Nonell Monturiol",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-27.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Resolución de 27 de febrero de 2024, de la Dirección General de Patrimonio Cultural y Oficinal del Español, por la que se incoa el expediente de declaración como Bien de Interés Patrimonial de la pintura “Jardines de Aranjuez”, obra de Santiago Rusiñol i Prats",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-28.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Resolución de 27 de febrero de 2024, de la Dirección General de Patrimonio Cultural y Oficinal del Español, por la que se incoa el expediente de declaración como Bien de Interés Patrimonial de la pintura “Paisaje con montañas, palacio y jardín”, obra de Lucas van Gassel",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-29.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Resolución de 28 de febrero de 2024, de la Dirección General de Patrimonio Cultural y Oficina del Español, por la que se incoa el expediente de declaración como Bien de Interés Cultural de la Comunidad de Madrid, en la categoría de monumento, de la antigua fábrica CLESA, en Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-30.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Resolución de 28 de febrero de 2024, de la Dirección General de Patrimonio Cultural y Oficinal del Español, por la que se incoa el expediente de declaración como bien de interés cultural de la Comunidad de Madrid, en la categoría de Monumento, de la iglesia parroquial de San Vicente Mártir, en Braojos de la Sierra (Madrid)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-31.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 28 de febrero de 2024, entre la Comunidad de Madrid y MADCUP, S. L., con motivo de la organización del IV Evento Internacional “MADCUP 2024”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-32.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Régimen económico: Área de Gobierno de Economía, Innovación y Hacienda. Convocatoria concesión subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-33.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Régimen económico: Área de Gobierno de Economía, Innovación y Hacienda. Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-34.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Régimen económico: Área de Gobierno de Economía, Innovación y Hacienda. Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-35.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcorcón",
+      "description": "Personal: Nombramiento funcionarios carrera",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-36.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Arganda del Rey",
+      "description": "Personal: Nombramiento funcionaria carrera",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-37.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Arganda del Rey",
+      "description": "Personal: Nombramiento funcionario carrera",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-38.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Arganda del Rey",
+      "description": "Personal: Nombramiento funcionaria carrera",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-39.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Boadilla del Monte",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-40.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Colmenarejo",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-41.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Colmenarejo",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-42.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "El Berrueco",
+      "description": "Otros anuncios: Candidatura juez de paz",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-43.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "El Escorial",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-44.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Fresnedillas de la Oliva",
+      "description": "Régimen económico: Ordenanzas fiscales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-45.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Fuenlabrada",
+      "description": "Otros anuncios: Concesión medalla ciudad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-46.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Galapagar",
+      "description": "Régimen económico: Padrón fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-47.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Griñón",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-48.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Griñón",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-49.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Griñón",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-50.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Griñón",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-51.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Griñón",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-52.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Majadahonda",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-53.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Majadahonda",
+      "description": "Personal: Nombramiento funcionario carrera",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-54.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Morata de Tajuña",
+      "description": "Otros anuncios: Plan actuación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-55.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Perales de Tajuña",
+      "description": "Régimen económico: Padrones fiscales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-56.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Prádena del Rincón",
+      "description": "Organización y funcionamiento: Régimen dedicación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-57.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Prádena del Rincón",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-58.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Soto del Real",
+      "description": "Régimen económico: Presupuesto general 2024",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-59.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Talamanca de Jarama",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-60.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrejón de Ardoz",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-61.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrejón de Ardoz",
+      "description": "Ofertas de empleo: Oferta empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-62.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrejón de la Calzada",
+      "description": "Régimen económico: Padrones fiscales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-63.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrelodones",
+      "description": "Licencias: Once Café y Libros, S. L. U.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-64.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torremocha de Jarama",
+      "description": "Régimen económico: Ordenanza carné vecinal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-65.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Valdemaqueda",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-66.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villaviciosa de Odón",
+      "description": "Personal: Relación puestos trabajo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-67.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Mancomunidad Intermunicipal de La Encina",
+      "description": "Ofertas de empleo: Oferta empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-68.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Mancomunidad de Servicios Sociales y Mujer La Maliciosa",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/13/BOCM-20240313-69.PDF"
+    }
+  }
+]
