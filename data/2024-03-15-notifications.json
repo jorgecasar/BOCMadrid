@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Colmenar de Oreja",
-      "description": "Ofertas de empleo: Oferta empleo público",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/14/BOCM-20240314-44.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Colmenar Viejo",
       "description": "Régimen económico: Ordenanza impuesto construcciones obras",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/14/BOCM-20240314-45.PDF"
