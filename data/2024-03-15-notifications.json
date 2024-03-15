@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Licencias: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Elrow Town Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/14/BOCM-20240314-34.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Contratación: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Concesión demanial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/14/BOCM-20240314-35.PDF"
     }
