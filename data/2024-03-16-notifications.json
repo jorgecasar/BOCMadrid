@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 26 de febrero de 2024, de la Universidad Complutense de Madrid, por la que se nombra Profesor Titular de Universidad a D. Diego Palacios Cerezales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/15/BOCM-20240315-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 26 de febrero de 2024, de la Universidad Complutense de Madrid, por la que se nombran funcionarios de los Cuerpos Docentes Universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/15/BOCM-20240315-31.PDF"
     }
