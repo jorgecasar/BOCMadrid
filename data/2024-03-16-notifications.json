@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 26 de febrero de 2024, de la Universidad Complutense de Madrid, por la que se nombran funcionarios de los Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/15/BOCM-20240315-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 5 de marzo de 2024, de la Universidad de Alcalá, por la que se publica la ampliación de la Oferta de Empleo Público de Personal Docente e Investigador para el ejercicio 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/15/BOCM-20240315-32.PDF"
