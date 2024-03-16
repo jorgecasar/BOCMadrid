@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Resolución 23/2024, de 5 de marzo, del Director del Centro de Enseñanza Superior Cardenal Cisneros, por la que se hace pública la oferta de empleo de dos plazas de duración indefinida en la Fundación Universitaria Fray Francisco Jiménez de Cisneros",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/15/BOCM-20240315-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 303/2024, de 5 de marzo, de la Consejería de Sanidad, por la que se resuelve la convocatoria aprobada mediante Orden 1630/2023, de 30 de octubre (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 8 de noviembre de 2023), para la provisión de puestos de trabajo por el procedimiento de Concurso de Méritos en la Consejería de Sanidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/15/BOCM-20240315-20.PDF"
