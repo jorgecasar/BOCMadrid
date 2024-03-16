@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Extracto de la Orden de 13 de marzo de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se declara el importe del crédito disponible destinado a financiar la concesión directa de subvenciones de coste salarial de las personas con discapacidad contratadas en Centros Especiales de Empleo del ámbito de la Comunidad de Madrid, que no hayan sido beneficiarios de estas subvenciones en el año 2023, y se establece el plazo de presentación de solicitudes",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/15/BOCM-20240315-34.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 541/2024, de 26 de febrero, de la Consejería de Educación, Ciencia y Universidades, por la que se aceptan renuncias en relación con las becas concedidas mediante la Orden 3897/2023, de 7 de octubre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria de becas para el estudio de Bachillerato en la Comunidad de Madrid para el curso 2023-2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/15/BOCM-20240315-35.PDF"
