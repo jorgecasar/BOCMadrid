@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio de 23 de enero de 2024, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y Moisés Nieto, S. L. U., para la realización de prácticas externas de los alumnos de la Escuela Superior de Diseño",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/18/BOCM-20240318-36.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 14 de marzo de 2024, por el que se convoca la licitación para la contratación del “Servicio relativo a la póliza de seguro de Todo Riesgo Daños Materiales en Instalaciones de Metro de Madrid, S. A.” (Expediente 6012400099)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/18/BOCM-20240318-37.PDF"
