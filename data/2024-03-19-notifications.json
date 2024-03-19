@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Ambite",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/18/BOCM-20240318-52.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Arroyomolinos",
       "description": "Ofertas de empleo: Proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/18/BOCM-20240318-53.PDF"
