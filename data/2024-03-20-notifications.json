@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Campo Real",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/19/BOCM-20240319-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Ciempozuelos",
       "description": "Régimen económico: Precios públicos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/19/BOCM-20240319-36.PDF"
