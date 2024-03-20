@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Extracto de la Orden 293/2024, de 28 de febrero, de la Consejería de Cultura, Turismo y Deporte, por la que se convoca la XXXV edición de los “Circuitos de Artes Plásticas de la Comunidad de Madrid”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/19/BOCM-20240319-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Extracto de la Orden 408/2024, de 28 de febrero, de la Consejería de Cultura, Turismo y Deporte, por la que se convocan ayudas a municipios de la Comunidad de Madrid, para la realización de actividades relacionadas con el teatro, la danza, la música y la cinematografía, para el año 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/19/BOCM-20240319-13.PDF"
     }
