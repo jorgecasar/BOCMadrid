@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "San Martín de la Vega",
-      "description": "Régimen económico: Calendario fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/19/BOCM-20240319-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "San Martín de la Vega",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/19/BOCM-20240319-50.PDF"
     }
