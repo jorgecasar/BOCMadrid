@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Arganda del Rey",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/19/BOCM-20240319-34.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Campo Real",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/19/BOCM-20240319-35.PDF"
