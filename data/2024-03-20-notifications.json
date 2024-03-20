@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Meco",
-      "description": "Urbanismo: Convenio reparcelación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/19/BOCM-20240319-45.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Moraleja de Enmedio",
       "description": "Régimen económico: Calendario fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/19/BOCM-20240319-46.PDF"
