@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Resolución de 11 de marzo de 2024, del Director General de Recursos Humanos, por la que se emplaza a los posibles interesados para que puedan personarse como demandados en el recurso contencioso-administrativo interpuesto por doña Rebeca García Martín",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/20/BOCM-20240320-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Adenda de prórroga de 7 de marzo de 2024, del convenio entre la Comunidad de Madrid, a través de la Consejería de Sanidad, el Servicio Madrileño de Salud y la Asociación de Hemofilia de la Comunidad de Madrid para impulsar el uso del carnet de identificación del paciente con hemofilia",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/20/BOCM-20240320-30.PDF"
