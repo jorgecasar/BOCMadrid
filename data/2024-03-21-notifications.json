@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 8 de marzo de 2024 de la Universidad Autónoma de Madrid, por la que se convocan pruebas selectivas para el ingreso en la Escala Especial Superior de Sistemas y Tecnologías de la Información de la Universidad Autónoma de Madrid, por el sistema general de oposición libre",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/20/BOCM-20240320-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 8 de marzo de 2024, de la Universidad Autónoma de Madrid, por la que se convocan pruebas selectivas para el ingreso en la Escala Especial Técnica de Gestión Universitaria de la Universidad Autónoma de Madrid, por el sistema general de oposición libre",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/20/BOCM-20240320-16.PDF"
     }
