@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Extracto de la Orden 667/2024, de 9 de marzo, del Consejero de Educación, Ciencia y Universidades, por la que se convocan las ayudas a alumnos con discapacidad que cursan estudios universitarios o de enseñanzas artísticas superiores para el curso 2023-2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/20/BOCM-20240320-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Orden 669/2024, de 22 de febrero, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se convocan pruebas para la obtención del certificado acreditativo del personal de control de acceso a espectáculos públicos y actividades recreativas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/20/BOCM-20240320-22.PDF"
