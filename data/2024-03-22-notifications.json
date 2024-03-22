@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Régimen económico: O. A",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/21/BOCM-20240321-37.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Urbanismo: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Disolución junta compensación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/21/BOCM-20240321-38.PDF"
     }
