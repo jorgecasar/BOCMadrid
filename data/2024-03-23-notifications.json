@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Boadilla del Monte",
-      "description": "Personal: Nombramiento funcionario carrera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/22/BOCM-20240322-47.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Brea de Tajo",
       "description": "Organización y funcionamiento: Delegación funciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/22/BOCM-20240322-48.PDF"
