@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Campo Real",
-      "description": "Ofertas de empleo: Oferta empleo público",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/22/BOCM-20240322-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Collado Mediano",
       "description": "Régimen económico: Ordenanza fiscal tasa documentos administrativos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/22/BOCM-20240322-50.PDF"
