@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Licencias: Distrito de Retiro. Plan especial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/22/BOCM-20240322-44.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Ajalvir",
       "description": "Organización y funcionamiento: Ordenanza convivencia ciudadana",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/22/BOCM-20240322-45.PDF"
