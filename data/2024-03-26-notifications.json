@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Organización y funcionamiento: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Estatutos junta compensación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/25/BOCM-20240325-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Organización y funcionamiento: Área de Gobierno de Vicealcaldía, Portavoz, Seguridad y Emergencias. Organización Área Urbanismo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/25/BOCM-20240325-33.PDF"
     }
