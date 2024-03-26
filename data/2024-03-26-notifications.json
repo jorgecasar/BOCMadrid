@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Parla",
-      "description": "Urbanismo: Convenio urbanístico",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/25/BOCM-20240325-59.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Pelayos de la Presa",
       "description": "Régimen económico: Cuenta general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/25/BOCM-20240325-60.PDF"
