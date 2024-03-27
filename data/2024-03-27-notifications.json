@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 8 de marzo de 2024, de la Universidad Rey Juan Carlos, por la que se nombra a doña María Pilar Martino Alba como Catedrática de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/26/BOCM-20240326-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 12 de marzo de 2024, de la Universidad Rey Juan Carlos, por la que se nombra a doña Eva María Mora Valentín como Catedrática de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/26/BOCM-20240326-8.PDF"
     }
