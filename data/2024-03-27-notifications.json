@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Digitalización",
-      "description": "Orden 26/2024, de 13 de marzo, de la Consejería de Digitalización, por la que se regula la entrega de 802 ordenadores portátiles estándar, destinados a Entidades Locales de la Comunidad de Madrid de menos de 20.000 habitantes",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/26/BOCM-20240326-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Resolución de 1 de marzo de 2024, de la Secretaría General Técnica de la Consejería Presidencia, Justicia y Administración Local, por la que se anuncia la formalización del contrato “Servicio de limpieza de las dependencias e instalaciones de la Consejería de Presidencia, Justicia y Administración Local (3 lotes)”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/26/BOCM-20240326-12.PDF"
