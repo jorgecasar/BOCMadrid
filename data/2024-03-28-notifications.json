@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Coslada",
-      "description": "Régimen económico: Notificación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/27/BOCM-20240327-56.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "El Álamo",
       "description": "Urbanismo: Plan general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/27/BOCM-20240327-57.PDF"
