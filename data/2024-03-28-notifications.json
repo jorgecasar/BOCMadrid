@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Extracto de la Orden de 21 de marzo de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se convocan las ayudas a las empresas industriales madrileñas para la adquisición de medios productivos en el año 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/27/BOCM-20240327-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Resolución de 6 de octubre de 2023, de la Dirección General de Enseñanzas Artísticas, por la que se dispone la publicación de la oferta de másteres en Enseñanzas Artísticas en centros de Enseñanzas Artísticas Superiores que se imparten a partir del curso académico 2023-2024 en la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/27/BOCM-20240327-20.PDF"
