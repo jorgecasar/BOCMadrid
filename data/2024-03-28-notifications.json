@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Brunete",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/27/BOCM-20240327-51.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Cercedilla",
       "description": "Organización y funcionamiento: Reglamento Saneamiento Aguas Residuales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/03/27/BOCM-20240327-52.PDF"
