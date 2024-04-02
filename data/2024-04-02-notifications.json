@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "El Escorial",
-      "description": "Régimen económico: Ordenanzas fiscales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/02/BOCM-20240402-61.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Móstoles",
       "description": "Régimen económico: Extracto convocatoria subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/02/BOCM-20240402-62.PDF"
