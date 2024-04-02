@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 15 de marzo de 2024, por la que se acuerda publicar en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID la aprobación y entrada en vigor del Reglamento de Administración Electrónica de la Universidad de Alcalá",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/02/BOCM-20240402-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Carlos III",
       "description": "Resolución de 6 de marzo de 2024, de la Universidad Carlos III de Madrid, por la que se modifica el nombramiento de la Mesa Permanente de Contratación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/02/BOCM-20240402-30.PDF"
