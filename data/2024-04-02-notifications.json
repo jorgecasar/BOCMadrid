@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 6 de marzo de 2024, de la Universidad Carlos III de Madrid, por la que se modifica el nombramiento de la Mesa Permanente de Contratación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/02/BOCM-20240402-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 15 de marzo de 2024, del Rector de la Universidad Rey Juan Carlos, por la que se convocan los VI Premios de Divulgación Científica de la Universidad Rey Juan Carlos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/02/BOCM-20240402-31.PDF"
