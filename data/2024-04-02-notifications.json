@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Extracto de la Orden 292/2024, de 13 de marzo, de la Consejería de Cultura, Turismo y Deporte, por la que se convocan ayudas a la creación en artes visuales para el año 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/02/BOCM-20240402-28.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 15 de marzo de 2024, por la que se acuerda publicar en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID la aprobación y entrada en vigor del Reglamento de Administración Electrónica de la Universidad de Alcalá",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/02/BOCM-20240402-29.PDF"
