@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Resolución de 14 de marzo de 2024, de la Universidad de Alcalá, por la que se nombra Catedrática de Universidad del Área de Conocimiento de “Química Analítica”, a doña Ana María Díez Pascual",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/03/BOCM-20240403-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Resolución de 14 marzo 2024, de la Universidad de Alcalá, por la que se nombra Profesor Titular de Universidad del Área de Conocimiento de “Zoología”, a don Daniel Martín Vega",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/03/BOCM-20240403-12.PDF"
     }
