@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Resolución de 14 marzo 2024, de la Universidad de Alcalá, por la que se nombra Profesor Titular de Universidad del Área de Conocimiento de “Zoología”, a don Daniel Martín Vega",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/03/BOCM-20240403-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Resolución de 14 de marzo de 2024, de la Universidad de Alcalá, por la que se nombra Profesor Titular de Universidad del Área de Conocimiento de “Psicología Evolutiva y de la Educación”, a don Jesús Pablo Jodra Jiménez",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/03/BOCM-20240403-13.PDF"
     }
