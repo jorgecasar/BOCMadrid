@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Alcorcón",
-      "description": "Organización y funcionamiento: Nombramiento personal eventual",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/03/BOCM-20240403-44.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Alcorcón",
       "description": "Régimen económico: Padrón fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/03/BOCM-20240403-45.PDF"
     }
