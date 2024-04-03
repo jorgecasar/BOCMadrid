@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Acuerdo de 19 de marzo de 2024, de delegación de competencia en la Comisión de Servicios y Actividades del Consejo Social, para la aprobación de la distribución de becas de colaboración que asigna anualmente el Ministerio de Educación, Formación Profesional y Deportes a la Universidad de Alcalá",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/03/BOCM-20240403-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Resolución de 18 de marzo de 2024, de la Secretaría General Técnica de la Consejería de Presidencia, Justicia y Administración Local por la que se dispone la publicación del anuncio previo relativo al contrato “Obras de construcción del nuevo edificio judicial de Móstoles (Madrid)”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/03/BOCM-20240403-21.PDF"
