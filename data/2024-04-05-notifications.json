@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 860/2024, de 19 de marzo, del Consejero de Educación, Ciencia y Universidades, por la que se rectifica error material en la Orden 3503/2023, de 14 de septiembre, del Consejero de Educación, Ciencia y Universidades, por la que se autoriza la implantación de planes de estudios de enseñanzas universitarias oficiales de grado y máster en las universidades y centros de la Comunidad de Madrid, así como el cambio de denominación del Máster Universitario en Fisioterapia Oncológica de la Universidad Europea de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/05/BOCM-20240405-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Carlos III",
       "description": "Resolución de 22 de marzo de 2024, del rector de la Universidad Rey Juan Carlos por la que se ordena la publicación del acuerdo de Consejo de Gobierno de 29 de septiembre de 2023 por la que se aprueba la creación y puesta en funcionamiento del Instituto de Investigación de Tecnologías para la Sostenibilidad (ITPS) como un instituto universitario de investigación propio de la Universidad Rey Juan Carlos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/05/BOCM-20240405-14.PDF"
