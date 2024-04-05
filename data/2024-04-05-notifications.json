@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Urbanismo: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Plan especial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/05/BOCM-20240405-38.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcalá de Henares",
       "description": "Otros anuncios: Notificación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/05/BOCM-20240405-39.PDF"
