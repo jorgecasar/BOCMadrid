@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Corrección de errores de las Resoluciones de 22 de marzo de 2024, del Rector de la Universidad Rey Juan Carlos,  por las que se ordena la publicación de los Acuerdos de Consejo de Gobierno de 29 de septiembre de 2023, por los que se aprueba la creación y puesta en funcionamiento del Instituto de Investigación en Cambio Global (IICG) y del Instituto de Investigación de Tecnologías para la Sostenibilidad (ITPS) como institutos universitarios de investigación propios de la Universidad Rey Juan Carlos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/08/BOCM-20240408-40.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Adenda de 20 marzo 2024, de prórroga del convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Presidencia, Justicia e Interior y la International Police Association (IPA) Madrid, sobre actividades de formación e interés policial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/08/BOCM-20240408-41.PDF"
