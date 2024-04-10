@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "La Hiruela",
-      "description": "Régimen económico: Calendario fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/10/BOCM-20240410-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Navalcarnero",
       "description": "Urbanismo: Estudio detalle",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/10/BOCM-20240410-36.PDF"
