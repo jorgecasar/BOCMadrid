@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Griñón",
-      "description": "Régimen económico: Padrón fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/10/BOCM-20240410-34.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "La Hiruela",
       "description": "Régimen económico: Calendario fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/10/BOCM-20240410-35.PDF"
