@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Boadilla del Monte",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/10/BOCM-20240410-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Canencia",
       "description": "Régimen económico: Presupuesto general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/10/BOCM-20240410-25.PDF"
