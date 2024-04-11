@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Aranjuez",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/10/BOCM-20240410-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Aranjuez",
       "description": "Urbanismo: Informe evaluación edificios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/10/BOCM-20240410-23.PDF"
     }
