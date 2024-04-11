@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Extracto del Acuerdo de 19 de marzo de 2024, del Consejo Social de la Universidad de Alcalá, por el que se convoca el XIX Premio del Consejo Social a la Transferencia del Conocimiento Universidad-Sociedad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/10/BOCM-20240410-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Corrección de errores de la Adenda de 7 de marzo de 2024, al convenio entre la Comunidad de Madrid, a través de la Consejería de Sanidad, el Servicio Madrileño de Salud y la Asociación Mamás en Acción, para la implantación del proyecto “Curasana” mediante el acompañamiento de los pacientes en los centros sanitarios del Servicio Madrileño de Salud",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/10/BOCM-20240410-10.PDF"
