@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Acuerdo de 10 de abril de 2024, del Consejo de Gobierno, por el que se nombran Vocales del Consejo Asesor de Asuntos Europeos de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/12/BOCM-20240412-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Resolución de 5 de marzo de 2024, de la Dirección General de Recursos Humanos y Relaciones con la Administración de Justicia, de la Consejería de Presidencia, Justicia y Administración Local, por la que se convoca concurso específico para la provisión de puestos de trabajo singularizados en el Instituto de Medicina Legal y Ciencias Forenses de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/12/BOCM-20240412-2.PDF"
     }
