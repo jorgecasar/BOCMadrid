@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Complutense de Madrid",
-      "description": "Resolución conjunta de 15 de marzo de 2024, de la Universidad Complutense de Madrid y de la Consejería de Sanidad de la Comunidad de Madrid por la que se nombra Profesor Titular de Universidad con plaza vinculada a D. Miguel Ángel Idoate Gastearena",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/12/BOCM-20240412-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 20 de marzo de 2024, de la Universidad Complutense de Madrid, por la que se nombran funcionarios de los Cuerpos Docentes Universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/12/BOCM-20240412-22.PDF"
     }
