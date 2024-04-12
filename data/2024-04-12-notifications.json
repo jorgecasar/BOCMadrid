@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "El Molar",
-      "description": "Otros anuncios: Candidatura juez de paz",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/12/BOCM-20240412-51.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Fuenlabrada",
       "description": "Régimen económico: Oficina Tributaria Ayuntamiento de Fuenlabrada. Padrones fiscales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/12/BOCM-20240412-52.PDF"
