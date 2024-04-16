@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Corrección de errores de la Orden 647/2024, de 3 de abril, de la Consejería de Cultura, Turismo y Deporte, por la que se resuelve la convocatoria aprobada por Orden 234/2024, de 6 de febrero, de la Consejería de Cultura, Turismo y Deporte (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 16 de febrero), para la provisión de un puesto de trabajo vacante en la citada Consejería por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/15/BOCM-20240415-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 3 de abril de 2024, de la Universidad Autónoma de Madrid, por la que se nombra funcionarios/as de carrera de la Escala Especial Superior de Sistemas y Tecnologías de la Información de esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/15/BOCM-20240415-14.PDF"
