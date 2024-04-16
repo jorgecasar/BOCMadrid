@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 3 de abril de 2024, de la Universidad Autónoma de Madrid, por la que se nombra funcionarios/as de carrera de la Escala Especial Superior de Sistemas y Tecnologías de la Información de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/15/BOCM-20240415-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 12 de abril de 2024, de la Universidad Autónoma de Madrid, por la que se convoca proceso selectivo para la constitución de una lista de espera de funcionarios/as interinos/as de Letrados de la Universidad Autónoma de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/15/BOCM-20240415-15.PDF"
     }
