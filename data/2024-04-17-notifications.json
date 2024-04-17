@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "El Boalo",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/17/BOCM-20240417-63.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Galapagar",
       "description": "Organización y funcionamiento: Delegación funciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/17/BOCM-20240417-64.PDF"
