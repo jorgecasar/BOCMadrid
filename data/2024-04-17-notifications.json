@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 2 de abril de 2024, de la Universidad de Alcalá, por la que se nombra Profesora Titular de Universidad del Área de Conocimiento de “Bioquímica y Biología Molecular” a doña Laura Muñoz Moreno",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/17/BOCM-20240417-34.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 13 de abril de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se amplía el crédito presupuestario disponible en 2024 para financiar las ayudas destinadas a proyectos de digitalización de la pyme madrileña, cofinanciadas por el Fondo Europeo de Desarrollo Regional (FEDER) en el marco del Programa de la Comunidad de Madrid 2021-2027",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/17/BOCM-20240417-35.PDF"
