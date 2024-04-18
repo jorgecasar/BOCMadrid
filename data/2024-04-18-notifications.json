@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Asamblea de Madrid",
-      "description": "Resolución de 16 de abril de 2024, de la Presidencia de la Asamblea de Madrid, por la que se nombra al Excmo. Sr. D. Joaquín Leguina Herrán, Presidente de la Cámara de Cuentas de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/18/BOCM-20240418-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 8 de abril de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se resuelve la convocatoria aprobada por Orden de 6 de febrero de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 16 de febrero), para la provisión de un puesto de trabajo vacante en la citada Consejería por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/18/BOCM-20240418-2.PDF"
