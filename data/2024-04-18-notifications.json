@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Las Rozas de Madrid",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/18/BOCM-20240418-57.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Las Rozas de Madrid",
       "description": "Contratación: Autorizaciones demaniales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/18/BOCM-20240418-58.PDF"
     }
