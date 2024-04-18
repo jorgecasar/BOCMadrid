@@ -1,17 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 92,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2024/04/18/BOCM-20240418092.PDF",
-      "total": 78,
-      "items": {
-        "Comunidad de Madrid": 44,
-        "Administración Local Ayuntamientos": 34
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Asamblea de Madrid",
