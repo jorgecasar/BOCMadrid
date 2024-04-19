@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Hoyo de Manzanares",
-      "description": "Régimen económico: Subvenciones nominativas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/18/BOCM-20240418-56.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Las Rozas de Madrid",
       "description": "Ofertas de empleo: Proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/18/BOCM-20240418-57.PDF"
