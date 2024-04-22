@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Miraflores de la Sierra",
-      "description": "Ofertas de empleo: Oferta empleo público",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/22/BOCM-20240422-51.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Navarredonda y San Mamés",
       "description": "Régimen económico: Cuenta general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/22/BOCM-20240422-52.PDF"
