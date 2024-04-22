@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Miraflores de la Sierra",
-      "description": "Régimen económico: Matrícula impuestos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/22/BOCM-20240422-50.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Miraflores de la Sierra",
       "description": "Ofertas de empleo: Oferta empleo público",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/22/BOCM-20240422-51.PDF"
     }
