@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Disposiciones y Anuncios del Estado",
-      "description": "Instituto Nacional de Estadística. Delegación Provincial de la Oficina del Censo Electoral de Madrid. Elecciones europeas 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/22/BOCM-20240422-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Madrid",
       "description": "Urbanismo: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Plan general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/22/BOCM-20240422-33.PDF"
