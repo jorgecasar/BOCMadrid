@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Extracto de la Orden 1837/2024, de 18 de abril, del Consejero de Educación, Ciencia y Universidades, por la que se aprueba la convocatoria de becas para el estudio de Bachillerato en la Comunidad de Madrid correspondiente al curso 2024-2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/23/BOCM-20240423-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 15 de abril de 2024, del Sr. Rector Magfco. de la Universidad Rey Juan Carlos, por la que se aprueban las Bases Reguladoras y se hace pública la convocatoria de Ayudas a las asociaciones de Estudiantes de la Universidad Rey Juan Carlos para el año 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/23/BOCM-20240423-28.PDF"
