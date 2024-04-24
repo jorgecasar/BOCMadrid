@@ -1,18 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 97,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2024/04/24/BOCM-20240424097.PDF",
-      "total": 85,
-      "items": {
-        "Comunidad de Madrid": 48,
-        "Administración Local Ayuntamientos": 36,
-        "Administración de Justicia": 1
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Presidencia de La Comunidad",
