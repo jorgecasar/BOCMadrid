@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Extracto de la Orden de 13 de abril de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se convocan ayudas al comercio ambulante de la Comunidad de Madrid para el año 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/24/BOCM-20240424-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Extracto de la Orden 1236/2024, de 8 de abril, del Consejero de Educación, Ciencia y Universidades, por la que se convocan para el año 2024 las ayudas a los Ayuntamientos de la región para el sostenimiento de los colegios públicos de Educación Infantil, Educación Primaria y/o Educación Especial radicados en su municipio, en los que se imparte Educación Secundaria Obligatoria, primer ciclo de Educación Infantil o en los que se escolarizan alumnos censados en otros municipios por falta o insuficiencia de oferta educativa",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/24/BOCM-20240424-22.PDF"
