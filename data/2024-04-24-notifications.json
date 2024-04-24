@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Aranjuez",
-      "description": "Urbanismo: Delimitación unidad ejecución",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/24/BOCM-20240424-56.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Batres",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/24/BOCM-20240424-57.PDF"
