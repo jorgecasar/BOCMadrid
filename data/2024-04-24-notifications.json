@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Digitalización",
-      "description": "Resolución de 10 de abril de 2024, de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante”, modificación del contrato “Adquisición, mantenimiento y soporte del software Oracle”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/24/BOCM-20240424-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Convenio de 12 de abril de 2024, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y la Universidad Autónoma de Madrid, para la realización de prácticas externas, trabajo fin de grado y trabajo fin de máster por estudiantes del Grado Universitario en Derecho de dicha Universidad.",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/24/BOCM-20240424-30.PDF"
