@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución conjunta de 3 de abril de 2024, de la Universidad Rey Juan Carlos y la Consejería de Sanidad de la Comunidad de Madrid, por la que se nombran profesores titulares de universidad con plazas vinculadas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/24/BOCM-20240424-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 11 de abril de 2024, de la Universidad Rey Juan Carlos, por la que se resuelve la convocatoria para la provisión de un puesto de trabajo reservado a personal funcionario, mediante el sistema de Libre Designación, convocada por Resolución de 15 de febrero de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 29 de febrero)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/24/BOCM-20240424-17.PDF"
     }
