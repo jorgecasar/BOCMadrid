@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Decreto 33/2024, de 24 de abril, del Consejo de Gobierno, por el que se concede la Gran Cruz de la Orden del Dos de Mayo a don Fernando Eugenio Martín Pozueco, Cabo 1.o del Ejército de Tierra",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/25/BOCM-20240425-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Decreto 34/2024, de 24 de abril, del Consejo de Gobierno, por el que se concede la Gran Cruz de la Orden del Dos de Mayo a los ciudadanos rumanos residentes en la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/25/BOCM-20240425-27.PDF"
     }
