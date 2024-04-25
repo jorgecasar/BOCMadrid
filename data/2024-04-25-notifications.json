@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Decreto 47/2024, de 24 de abril, del Consejo de Gobierno, por el que se nombra Viceconsejero de Política y Organización Educativa a don José Carlos Fernández Borreguero",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/25/BOCM-20240425-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 1307/2024, de 10 de abril, del Consejero de Educación, Ciencia y Universidades, por la que cesan y se nombran Consejeros Titulares y Suplentes en el Consejo Escolar de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/25/BOCM-20240425-17.PDF"
     }
