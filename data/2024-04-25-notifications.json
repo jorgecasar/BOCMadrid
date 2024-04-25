@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Decreto 30/2024, de 24 de abril, del Consejo de Gobierno, por el que se concede la Gran Cruz de la Orden del Dos de Mayo a la Policía Nacional",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/25/BOCM-20240425-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Decreto 31/2024, de 24 de abril, del Consejo de Gobierno, por el que se concede la Gran Cruz de la Orden del Dos de Mayo a Telefónica, S. A.",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/25/BOCM-20240425-24.PDF"
     }
