@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Extracto de la Orden 1213/2024, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se aprueba la convocatoria de ayudas a empresas pertenecientes a los sectores agrícola, ganadero, forestal e industria asociada o agroalimentaria, para la realización de proyectos de investigación, desarrollo e innovación, para 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/25/BOCM-20240425-42.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 11 de abril de 2024, de la Universidad Complutense de Madrid, por la que se publica el plan de estudios del Máster Universitario en Estudios sobre Nacionalismo e Identidades Nacionales/Master in Nationalism Studies por la Universidad Complutense de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/25/BOCM-20240425-43.PDF"
