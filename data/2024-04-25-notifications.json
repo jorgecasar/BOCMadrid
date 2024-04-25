@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Decreto 28/2024, de 24 de abril, del Consejo de Gobierno, por el que se modifica el Decreto 248/2023, de 11 de octubre, del Consejo de Gobierno, por el que se establece la estructura orgánica de la Consejería de Educación, Ciencia y Universidades",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/25/BOCM-20240425-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Decreto 27/2024, de 24 de abril, del Consejo de Gobierno, por el que se modifica el Decreto 68/2012, de 12 de julio, del Consejo de Gobierno, por el que se regula la estructura orgánica del Canal de Isabel II",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/25/BOCM-20240425-2.PDF"
