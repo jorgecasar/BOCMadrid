@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Getafe",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/26/BOCM-20240426-64.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Las Rozas de Madrid",
       "description": "Urbanismo: Estudio detalle",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/26/BOCM-20240426-65.PDF"
