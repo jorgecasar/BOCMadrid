@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 10 de abril de 2024, de la Universidad Complutense de Madrid, por la que se nombra a Dña. Covadonga Álvarez Álvarez, Profesora Titular de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/30/BOCM-20240430-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 10 de abril de 2024, de la Universidad Complutense de Madrid, por la que se nombra a Dña. Marta Mohedano Sánchez Profesora Titular de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/30/BOCM-20240430-9.PDF"
     }
