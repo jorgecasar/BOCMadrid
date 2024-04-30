@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Digitalización",
-      "description": "Resolución 250/2024, de 17 de abril, de la Consejera-Delegada de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se delega de forma permanente el ejercicio de determinadas competencias",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/30/BOCM-20240430-3.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Orden de 18 de abril de 2024, del Consejero de Vivienda, Transportes e Infraestructuras, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en la Consejería de Vivienda, Transportes e Infraestructuras, por el procedimiento de Concurso de Méritos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/30/BOCM-20240430-4.PDF"
