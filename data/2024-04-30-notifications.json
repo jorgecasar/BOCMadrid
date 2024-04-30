@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Ambite",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/30/BOCM-20240430-50.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Arroyomolinos",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/30/BOCM-20240430-51.PDF"
