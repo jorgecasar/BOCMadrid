@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Decreto 51/2024, de 30 de abril, del Consejo de Gobierno, por el que se concede, a título póstumo, la Gran Cruz de la Orden del Dos de Mayo al Guardia Civil don José Antonio Rosa Alcocer",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/01/BOCM-20240501-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Convenio de 13 de marzo de 2024, entre la Comunidad de Madrid (Consejería de Presidencia, Justicia y Administración Local) y el Ilustre Colegio de Procuradores de Madrid para la prestación del servicio de representación procesal en el ejercicio 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/01/BOCM-20240501-2.PDF"
     }
