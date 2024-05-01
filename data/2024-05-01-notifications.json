@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Disposiciones y Anuncios del Estado",
-      "description": "Junta Electoral de Zona de Madrid. Elecciones Parlamento Europeo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/01/BOCM-20240501-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Disposiciones y Anuncios del Estado",
       "description": "Junta Electoral de Zona de Navalcarnero. Elecciones Parlamento Europeo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/01/BOCM-20240501-13.PDF"
     }
