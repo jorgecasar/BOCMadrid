@@ -1,0 +1,62 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 104,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2024/05/02/BOCM-20240502104.PDF",
+      "total": 9,
+      "items": {
+        "Comunidad de Madrid": 6,
+        "Administración de Justicia": 3
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia y Administración Local",
+      "description": "Convenio de 15 de abril de 2024, entre la Comunidad de Madrid (Consejería de Presidencia, Justicia y Administración Local) y el Consejo de Colegios de Abogados de la Comunidad de Madrid para la prestación del turno de oficio en el ejercicio 2024",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/02/BOCM-20240502-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia y Administración Local",
+      "description": "Convenio de 16 de abril de 2024, entre la Comunidad de Madrid, a través de la Consejería de Presidencia, Justicia y Administración Local, y el Colegio de Registradores de la Propiedad, Mercantiles y de Bienes Muebles de España, para la integración de servicios de bases gráficas",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/02/BOCM-20240502-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia y Administración Local",
+      "description": "Convenio de 16 de abril de 2024, entre la Comunidad de Madrid (Consejería de Presidencia, Justicia y Administración Local) y el Colegio de Registradores de la Propiedad, Mercantiles y de Bienes Muebles de España, para la colaboración en acciones formativas sobre inscripción de patrimonio público en el Registro de la Propiedad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/02/BOCM-20240502-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Convenio de 17 de abril de 2024, entre la Comunidad de Madrid (Instituto Regional de Seguridad y Salud en el Trabajo) y la Asociación de Empresas de la Construcción de Madrid (AECOM), para la concesión directa de una subvención para la realización durante 2024 de acciones incluidas en el VI Plan Director de Prevención de Riesgos Laborales de la Comunidad de Madrid 2021-2024",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/02/BOCM-20240502-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Convenio de 17 de abril de 2024, entre la Comunidad de Madrid (Instituto Regional de Seguridad y Salud en el Trabajo) y la Asociación Empresarial de Alimentos de la Comunidad de Madrid (ASEACAM) para la concesión directa de una subvención para la realización durante 2024 de acciones incluidas en el VI Plan Director de Prevención de Riesgos Laborales de la Comunidad de Madrid 2021-2024",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/02/BOCM-20240502-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Acuerdo de 16 de abril de 2024, de prórroga del convenio entre la Comunidad de Madrid (Consejería de Medio Ambiente, Agricultura e Interior) y el Ayuntamiento de Majadahonda para la adhesión de información relativa a su patrimonio de suelo disponible al Portal de Suelo de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/02/BOCM-20240502-6.PDF"
+    }
+  }
+]
