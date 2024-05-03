@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "description": "Resolución 2555/2024, de 29 de abril, del Director General de Servicios Sociales e Integración, por la que se concede ayudas del bono social térmico 2023 a 49.994 beneficiarios del bono social eléctrico a 31 de diciembre de 2022 en la Comunidad de Madrid y por la que se inicia el plazo de renuncia de los beneficiarios incluidos en esta Resolución al derecho de las ayudas del bono social térmico 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/03/BOCM-20240503-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Resolución 46/2024, de 8 de abril, del Director General de Deportes, por la que se publica en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID la relación de los beneficiarios de las subvenciones concedidas por la Consejería de Cultura, Turismo y Deporte, a instancia de la Dirección General de Deportes, durante el período comprendido desde el 1 de enero hasta el 31 de marzo de 2024 con expresión de cantidad concedida y finalidad o finalidades de la subvención",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/03/BOCM-20240503-24.PDF"
