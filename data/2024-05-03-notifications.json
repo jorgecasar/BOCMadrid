@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "El Vellón",
-      "description": "Régimen económico: Cuenta general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/03/BOCM-20240503-45.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "El Vellón",
       "description": "Régimen económico: Ordenanza fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/03/BOCM-20240503-46.PDF"
     }
