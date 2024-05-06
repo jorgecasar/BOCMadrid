@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Collado Villalba",
-      "description": "Personal: Nombramiento funcionaria carrera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/06/BOCM-20240506-64.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "El Escorial",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/06/BOCM-20240506-65.PDF"
