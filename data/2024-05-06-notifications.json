@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Extracto de la Resolución de 19 de abril de 2024, por la que se convocan ayudas al estudio para personas refugiadas en la Universidad Rey Juan Carlos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/06/BOCM-20240506-41.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Resolución de 23 de abril de 2024, del Director General de Recursos Humanos, por la que se emplaza a los posibles interesados para que puedan personarse como demandados en el recurso contencioso- administrativo interpuesto por doña Cristina Bueno Fernández",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/06/BOCM-20240506-42.PDF"
