@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 22 de abril de 2024, de la Universidad Autónoma de Madrid, por la que se nombran funcionarios/as de carrera de la Escala Auxiliar de Archivos, Bibliotecas y Museos de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/06/BOCM-20240506-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 30 de abril de 2024, de la Universidad Autónoma de Madrid, por la que se convocan pruebas selectivas para la funcionarización, mediante el sistema de concurso-oposición, de la plantilla de personal laboral técnico, de gestión de administración y servicios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/06/BOCM-20240506-32.PDF"
     }
