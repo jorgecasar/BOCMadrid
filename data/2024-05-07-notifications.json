@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Buitrago del Lozoya",
-      "description": "Régimen económico: Ordenanza fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/07/BOCM-20240507-50.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Buitrago del Lozoya",
       "description": "Régimen económico: Presupuesto general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/07/BOCM-20240507-51.PDF"
     }
