@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Extracto de la Resolución de 22 de abril de 2024, de la Universidad de Alcalá, por la que se publica la convocatoria 2024 para la financiación de Proyectos de Investigación Universidad de Alcalá-Cortes de Castilla-La Mancha",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/07/BOCM-20240507-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Extracto de la Resolución de 24 de abril de 2024, del Rector de la Universidad Rey Juan Carlos, por la que se convocan, en régimen de concurrencia competitiva, un máximo de 11 ayudas económicas a estudiantes de la Universidad Rey Juan Carlos, para participar en el “Programa de Voluntariado Internacional de la Universidad Rey Juan Carlos”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/07/BOCM-20240507-15.PDF"
