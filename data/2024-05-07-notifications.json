@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Villa del Prado",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/07/BOCM-20240507-60.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Villanueva de Perales",
       "description": "Régimen económico: Presupuesto general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/07/BOCM-20240507-61.PDF"
