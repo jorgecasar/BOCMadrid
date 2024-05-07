@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Orden de 17 de abril de 2024, de la Consejería de Economía, Hacienda y Empleo, por la que se delega el ejercicio de determinadas competencias, y se desconcentra el protectorado de fundaciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/07/BOCM-20240507-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Resolución de 15 de abril de 2024, de la Dirección General de Educación Concertada, Becas y Ayudas al Estudio, por la que se da publicidad a las autorizaciones y modificaciones o extinciones de la autorización de centros docentes privados aprobadas por la Consejería de Educación, Ciencia y Universidades en el tercer trimestre de 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/07/BOCM-20240507-13.PDF"
