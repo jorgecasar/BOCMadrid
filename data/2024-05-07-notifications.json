@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Disposiciones y Anuncios del Estado",
-      "description": "Junta Electoral de Zona de Navalcarnero. Elecciones Parlamento Europeo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/07/BOCM-20240507-40.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Madrid",
       "description": "Régimen económico: Área de Gobierno de Políticas de Vivienda. Convocatoria subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/07/BOCM-20240507-41.PDF"
