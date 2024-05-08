@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 24 de abril de 2024, de la Universidad Rey Juan Carlos, por la que se anuncian convocatorias de concursos para la provisión de plazas de Profesor Ayudante Doctor",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/08/BOCM-20240508-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 1860/2024, de 18 de abril, de la Consejería de Educación, Ciencia y Universidades, por la que se aceptan renuncias en relación con las becas concedidas mediante la Orden 4075/2023, de 24 de octubre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria de becas para el estudio de Formación Profesional de Grado Medio en la Comunidad de Madrid para el curso 2023-2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/08/BOCM-20240508-33.PDF"
