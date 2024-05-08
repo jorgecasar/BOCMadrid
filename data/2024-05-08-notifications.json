@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Campo Real",
-      "description": "Régimen económico: Matrícula impuestos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/08/BOCM-20240508-63.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Chapinería",
       "description": "Régimen económico: Padrones fiscales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/08/BOCM-20240508-64.PDF"
