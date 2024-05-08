@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 24 de abril de 2024, de la Universidad Rey Juan Carlos, por la que se convoca concurso de acceso a plazas de Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/08/BOCM-20240508-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 24 de abril de 2024, de la Universidad Rey Juan Carlos, por la que se anuncian convocatorias de concursos para la provisión de plazas de Profesor Ayudante Doctor",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/08/BOCM-20240508-32.PDF"
     }
