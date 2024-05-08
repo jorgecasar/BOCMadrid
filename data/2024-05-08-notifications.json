@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Alcalá de Henares",
-      "description": "Régimen económico: Padrón fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/08/BOCM-20240508-61.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Alcalá de Henares",
       "description": "Otros anuncios: Autorización demanial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/08/BOCM-20240508-62.PDF"
     }
