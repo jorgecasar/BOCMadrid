@@ -1,19 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 110,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2024/05/09/BOCM-20240509110.PDF",
-      "total": 78,
-      "items": {
-        "Comunidad de Madrid": 31,
-        "Disposiciones y Anuncios del Estado": 1,
-        "Administración Local Ayuntamientos": 36,
-        "Administración de Justicia": 10
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
