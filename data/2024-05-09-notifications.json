@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Decreto 50/2024, de 30 de abril, del Consejo de Gobierno, por el que se declara Bien de Interés Cultural del Patrimonio Inmaterial de la Comunidad de Madrid, la Cetrería",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/09/BOCM-20240509-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Extracto de la Resolución conjunta de 24 de abril de 2024, del Vicerrector de Investigación, Innovación y Transferencia de la Universidad Rey Juan Carlos y del Vicerrector de Investigación y Transferencia de la Universidad de Alcalá, por la que se aprueba la Convocatoria Premios 2024 - Campus de Excelencia Internacional “Energía Inteligente” - Universidad Rey Juan Carlos/Universidad de Alcalá",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/09/BOCM-20240509-17.PDF"
