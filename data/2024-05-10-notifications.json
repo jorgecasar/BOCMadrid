@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "El Berrueco",
-      "description": "Organización y funcionamiento: Ordenanza venta ambulante",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/10/BOCM-20240510-64.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "El Berrueco",
       "description": "Organización y funcionamiento: Régimen dedicación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/10/BOCM-20240510-65.PDF"
     }
