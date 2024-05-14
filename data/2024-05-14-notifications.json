@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 2032/2024, de 29 de abril, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria aprobada por Orden 293/2024, de 8 de febrero, del Consejero de Educación, Ciencia y Universidades (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 21 de febrero), para la provisión de dos puestos de trabajo vacantes en la Consejería de Educación, Ciencia y Universidades, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/14/BOCM-20240514-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 689/2024, de 30 de abril, de la Consejería de Sanidad, de corrección de errores de la Orden 1900/2023, de la Consejera de Sanidad, por la que se aprueba la relación definitiva del personal laboral fijo y funcionario de carrera adscritos al Servicio Madrileño de Salud que se integra en el régimen del personal estatutario",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/14/BOCM-20240514-11.PDF"
