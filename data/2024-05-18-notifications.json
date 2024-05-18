@@ -1,18 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 118,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2024/05/18/BOCM-20240518118.PDF",
-      "total": 16,
-      "items": {
-        "Comunidad de Madrid": 9,
-        "Administración Local Ayuntamientos": 1,
-        "Administración de Justicia": 6
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
