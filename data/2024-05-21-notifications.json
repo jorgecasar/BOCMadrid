@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Majadahonda",
-      "description": "Personal: Nombramiento funcionario carrera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/21/BOCM-20240521-57.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Parla",
       "description": "Régimen económico: Padrones fiscales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/21/BOCM-20240521-58.PDF"
