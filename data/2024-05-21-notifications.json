@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Fuenlabrada",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/21/BOCM-20240521-53.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "La Cabrera",
       "description": "Otros anuncios: Candidaturas juez de paz",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/21/BOCM-20240521-54.PDF"
