@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "La Cabrera",
-      "description": "Otros anuncios: Candidaturas juez de paz",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/21/BOCM-20240521-54.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "La Hiruela",
       "description": "Régimen económico: Saldo obligaciones reconocidas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/21/BOCM-20240521-55.PDF"
