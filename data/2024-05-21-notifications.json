@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 8 de mayo de 2024, de la Gerencia de la Universidad de Alcalá, por la que se resuelve el concurso-oposición para el ingreso, por el sistema general de acceso libre, en la Escala de Letrados/as de la Universidad de Alcalá, convocado por Resolución de 9 de mayo de 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/21/BOCM-20240521-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Extracto de la Orden 1071/2024, de 11 de abril, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se convocan para el año 2024 ayudas para el control del rendimiento lechero",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/21/BOCM-20240521-24.PDF"
