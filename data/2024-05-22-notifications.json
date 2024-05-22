@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 13 de mayo de 2024, de la Universidad Carlos III de Madrid, por la que se convoca concurso de acceso a plazas del Cuerpo de Catedráticas y Catedráticos de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/22/BOCM-20240522-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Digitalización",
       "description": "Orden 52/2024, de 9 de mayo, de la Consejería de Digitalización, por la que se aprueba el Plan Estratégico de Subvenciones de la Consejería de Digitalización para el año 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/22/BOCM-20240522-20.PDF"
