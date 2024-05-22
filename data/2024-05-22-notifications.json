@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Digitalización",
-      "description": "Orden 52/2024, de 9 de mayo, de la Consejería de Digitalización, por la que se aprueba el Plan Estratégico de Subvenciones de la Consejería de Digitalización para el año 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/22/BOCM-20240522-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 1967/2024, de 26 de abril, del Consejero de Educación, Ciencia y Universidades, por la que se resuelven las solicitudes de las ayudas individualizadas de transporte escolar para el curso 2021-2022, al amparo del acuerdo de 27 de noviembre de 2018, del Consejo de Gobierno, por el que se aprueban las normas reguladoras del procedimiento de concesión directa de ayudas individualizadas para el transporte escolar",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/22/BOCM-20240522-21.PDF"
