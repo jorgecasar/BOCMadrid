@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Decreto 56/2024, de 22 de mayo, del Consejo de Gobierno, por el que se nombra Presidente del Consejo de Transparencia y Protección de Datos de la Comunidad de Madrid a D. Jesús María González García",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/23/BOCM-20240523-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Acuerdo de 22 de mayo de 2024, del Consejo de Gobierno, por el que se designa nuevo vocal del Consejo de Administración de la Agencia de la Comunidad de Madrid para la Reeducación y Reinserción del Menor Infractor en representación de la Administración de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/23/BOCM-20240523-3.PDF"
     }
