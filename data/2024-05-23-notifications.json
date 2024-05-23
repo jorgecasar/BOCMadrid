@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Colmenarejo",
-      "description": "Régimen económico: Padrón fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/23/BOCM-20240523-62.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Coslada",
       "description": "Ofertas de empleo: Reglamento Orgánico Municipal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/23/BOCM-20240523-63.PDF"
