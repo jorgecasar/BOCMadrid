@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 30 de abril de 2024, de la Universidad Carlos III de Madrid, por la que se nombra personal funcionario de carrera de la Escala Técnica Media de Investigación y Transferencia de (Subgrupo A2) de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/27/BOCM-20240527-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 14 de mayo de 2024, de la Universidad Rey Juan Carlos, por la que se convoca proceso selectivo para la constitución de una bolsa de empleo para nombramientos temporales de funcionarios/as interinos/as de la Escala Oficial de Oficios de esta Universidad, Especialidad Nuevas Tecnologías",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/27/BOCM-20240527-18.PDF"
