@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 14 de mayo de 2024, de la Universidad Rey Juan Carlos, por la que se convoca proceso selectivo para la constitución de una bolsa de empleo para nombramientos temporales de funcionarios/as interinos/as de la Escala Oficial de Oficios de esta Universidad, Especialidad Nuevas Tecnologías",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/27/BOCM-20240527-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Resolución de 7 de mayo de 2024, de la Dirección General de Enseñanzas Artísticas, por la que se concreta para el año 2024 la inscripción en la parte y prueba específica de acceso a ciclos formativos de grado medio y de grado superior de las enseñanzas profesionales de artes plásticas y diseño en la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/27/BOCM-20240527-19.PDF"
