@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Alcalá de Henares",
-      "description": "Régimen económico: Matrícula impuestos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/27/BOCM-20240527-46.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Alcalá de Henares",
       "description": "Urbanismo: Plan especial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/27/BOCM-20240527-47.PDF"
     }
