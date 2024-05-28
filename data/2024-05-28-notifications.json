@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Resolución de 17 de de mayo de 2024, del Director General de Recursos Humanos, por la que se emplaza a los posibles interesados para que puedan personarse como demandados en el recurso contencioso-administrativo interpuesto por don Javier Liébana Castillo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/28/BOCM-20240528-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 23 de mayo de 2024, de declaración de desierto de la licitación para la contratación del “Servicio de mantenimiento del software IBM instalado en Centro de Operaciones de Mantenimiento y de Monitorización de Instalaciones y Telecomunicaciones (COMMIT)” (Expediente 6012400075)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/28/BOCM-20240528-26.PDF"
