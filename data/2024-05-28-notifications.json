@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Moraleja de Enmedio",
-      "description": "Régimen económico: Calendario fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/28/BOCM-20240528-63.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Moraleja de Enmedio",
       "description": "Régimen económico: Ordenanza fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/28/BOCM-20240528-64.PDF"
     }
