@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Digitalización",
-      "description": "Orden 48/2024, de 13 de mayo, de la Consejería de Digitalización, por la que se crea la red de centros de capacitación digital de la Comunidad de Madrid y se regula el procedimiento de adhesión a la red",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/28/BOCM-20240528-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Acuerdo de 14 de mayo de 2024, del Consejo de Gobierno, por el que se aprueba una cuota suplementaria en la tarifa de alcantarillado del municipio de Getafe, con destino a la financiación de obras de infraestructuras hidráulicas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/28/BOCM-20240528-15.PDF"
