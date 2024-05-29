@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Carlos III",
-      "description": "Resolución de 17 de mayo de 2024, de la Universidad Carlos III de Madrid, por la que se nombra personal funcionario de carrera de la Escala Técnica Auxiliar de Informática (Subgrupo C1) de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/29/BOCM-20240529-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Carlos III",
       "description": "Resolución de 27 de mayo de 2024, de la Universidad Carlos III de Madrid, por la que se nombra personal funcionario de carrera de la Escala Administrativa (Subgrupo C1) de esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/29/BOCM-20240529-13.PDF"
     }
