@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 936/2024, de 17 de mayo, de la Consejería de Cultura, Turismo y Deporte, por la que se establecen las Comisiones Sectoriales del Consejo de Cultura de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/30/BOCM-20240530-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Orden 1306/2024, de 22 de mayo, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se convocan elecciones para la renovación de vocales del Consejo Regulador de la Denominación de Origen “Vinos de Madrid”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/30/BOCM-20240530-20.PDF"
