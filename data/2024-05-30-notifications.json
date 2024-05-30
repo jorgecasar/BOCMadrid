@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Régimen económico: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Notificación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/30/BOCM-20240530-39.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Régimen económico: Pleno del Ayuntamiento. Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/30/BOCM-20240530-40.PDF"
     }
