@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Boadilla del Monte",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/30/BOCM-20240530-51.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Brunete",
       "description": "Régimen económico: Presupuesto general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/30/BOCM-20240530-52.PDF"
