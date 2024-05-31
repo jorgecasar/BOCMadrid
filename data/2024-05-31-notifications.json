@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Disposiciones y Anuncios del Estado",
-      "description": "Ministerio de Transportes y Movilidad Sostenible. ADIF Administrador de Infraestructuras Ferroviarias. Expropiación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/31/BOCM-20240531-56.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Madrid",
       "description": "Otros anuncios: Área de Gobierno de Obras y Equipamientos. Proyecto urbanización",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/31/BOCM-20240531-57.PDF"
