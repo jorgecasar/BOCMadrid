@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Otros anuncios: Área de Gobierno de Obras y Equipamientos. Proyecto urbanización",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/31/BOCM-20240531-57.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Otros anuncios: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Concesión premios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/05/31/BOCM-20240531-58.PDF"
     }
