@@ -1,0 +1,70 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 130,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2024/06/01/BOCM-20240601130.PDF",
+      "total": 12,
+      "items": {
+        "Comunidad de Madrid": 7,
+        "Administración de Justicia": 5
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Decreto 55/2024, de 22 de mayo, del Consejo de Gobierno, por el que se aprueban las tarifas máximas de los servicios de abastecimiento, saneamiento y reutilización del agua en la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/01/BOCM-20240601-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 17 de mayo de 2024, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa KCI Clinic Spain, S. L. (Código número 28103852012024)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/01/BOCM-20240601-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 20 de mayo de 2024, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa Club de Tenis Chamartín (código número 28005972011990)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/01/BOCM-20240601-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 20 de mayo de 2024, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa Prisa Media, S. A. U. (código número 28103612012023)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/01/BOCM-20240601-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 20 de mayo de 2024, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo del Sector de Aparcamientos, Garajes y Estaciones Terminales de Autobuses de la Comunidad de Madrid suscrito por las organizaciones empresariales ASESGA y AMEGA y por la representación sindical UGT y CC. OO. (código número 28102195012018)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/01/BOCM-20240601-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Orden 1826/2024, de 24 de mayo, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se aprueban las tarifas de los servicios de abastecimiento, saneamiento y reutilización del agua prestados por Canal de Isabel II, Sociedad Anónima, M. P.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/01/BOCM-20240601-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Convenio de 17 de mayo de 2024, entre la Consejería de Familia, Juventud y Asuntos Sociales y la Asociación de Padres y Amigos de Niños Diferentes de Getafe, Comunidad de Madrid y territorio nacional (APANID), para el desarrollo de una línea de colaboración con la finalidad de favorecer el proceso de autonomía de los jóvenes entre 18 y 21 años con discapacidad intelectual, física, sensorial y/o mixta que salen del sistema de protección de la Comunidad de Madrid por mayoría de edad y que carecen de los apoyos familiares necesarios",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/01/BOCM-20240601-7.PDF"
+    }
+  }
+]
