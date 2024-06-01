@@ -1,17 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 130,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2024/06/01/BOCM-20240601130.PDF",
-      "total": 12,
-      "items": {
-        "Comunidad de Madrid": 7,
-        "Administración de Justicia": 5
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
