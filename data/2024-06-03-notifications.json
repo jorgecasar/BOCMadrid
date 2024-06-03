@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcorcón",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/03/BOCM-20240603-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Campo Real",
       "description": "Régimen económico: Presupuesto general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/03/BOCM-20240603-50.PDF"
