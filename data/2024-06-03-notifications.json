@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "La Cabrera",
-      "description": "Organización y funcionamiento: Reglamento Sesiones Plenarias",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/03/BOCM-20240603-57.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Las Rozas de Madrid",
       "description": "Organización y funcionamiento: Delegación funciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/03/BOCM-20240603-58.PDF"
