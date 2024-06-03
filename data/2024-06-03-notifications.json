@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 17 de mayo de 2024, de la Universidad de Alcalá, por la que se nombra Catedrático de Universidad del Área de Conocimiento de “Física Aplicada” a don Juan José Blanco Ávalos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/03/BOCM-20240603-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 2188/2024, de 20 de mayo, del Consejero de Educación, Ciencia y Universidades, por la que se autoriza a dos colegios públicos de Educación Infantil y Primaria a impartir el primer ciclo de Educación Infantil a partir del curso 2024-2025, en el marco del Plan de Recuperación, Transformación y Resiliencia",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/03/BOCM-20240603-21.PDF"
