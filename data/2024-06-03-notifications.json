@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Getafe",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/03/BOCM-20240603-56.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "La Cabrera",
       "description": "Organización y funcionamiento: Reglamento Sesiones Plenarias",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/03/BOCM-20240603-57.PDF"
