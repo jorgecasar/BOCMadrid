@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Urbanismo: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Proyecto reparcelación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/04/BOCM-20240604-61.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Urbanismo: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Estudio detalle",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/04/BOCM-20240604-62.PDF"
     }
