@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Corrección de errores del Decreto 55/2024, de 22 de mayo, del Consejo de Gobierno, por el que se aprueban las tarifas máximas de los servicios de abastecimiento, saneamiento y reutilización del agua en la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Decreto 57/2024, de 29 de mayo, del Consejo de Gobierno, por el que se aprueba el Reglamento de desarrollo parcial de la Ley 6/2016, de 24 de noviembre, por la que se ordena el ejercicio de las profesiones del deporte en la Comunidad de Madrid, en relación con la comunicación previa y los procedimientos de acreditación para el ejercicio de las profesiones del deporte, así como el aseguramiento de la responsabilidad civil por la prestación de servicios deportivos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-3.PDF"
