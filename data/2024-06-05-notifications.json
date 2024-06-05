@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Orden de 30 de mayo de 2024, de la Consejería de Economía, Hacienda y Empleo, por la que se dictan las normas de elaboración de los presupuestos generales de la Comunidad de Madrid para el año 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Corrección de errores del Decreto 55/2024, de 22 de mayo, del Consejo de Gobierno, por el que se aprueban las tarifas máximas de los servicios de abastecimiento, saneamiento y reutilización del agua en la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-2.PDF"
