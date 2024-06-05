@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Torrejón de Ardoz",
-      "description": "Personal: Nombramiento funcionarios carrera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-64.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Torrejón de Ardoz",
       "description": "Personal: Nombramiento funcionarias carrera",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-65.PDF"
     }
