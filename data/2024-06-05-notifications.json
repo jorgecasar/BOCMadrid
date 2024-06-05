@@ -1,0 +1,710 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 133,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2024/06/05/BOCM-20240605133.PDF",
+      "total": 87,
+      "items": {
+        "Comunidad de Madrid": 36,
+        "Administración Local Ayuntamientos": 51
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 30 de mayo de 2024, de la Consejería de Economía, Hacienda y Empleo, por la que se dictan las normas de elaboración de los presupuestos generales de la Comunidad de Madrid para el año 2025",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Corrección de errores del Decreto 55/2024, de 22 de mayo, del Consejo de Gobierno, por el que se aprueban las tarifas máximas de los servicios de abastecimiento, saneamiento y reutilización del agua en la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Decreto 57/2024, de 29 de mayo, del Consejo de Gobierno, por el que se aprueba el Reglamento de desarrollo parcial de la Ley 6/2016, de 24 de noviembre, por la que se ordena el ejercicio de las profesiones del deporte en la Comunidad de Madrid, en relación con la comunicación previa y los procedimientos de acreditación para el ejercicio de las profesiones del deporte, así como el aseguramiento de la responsabilidad civil por la prestación de servicios deportivos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia y Administración Local",
+      "description": "Orden de 27 de mayo de 2024, del Consejero de Presidencia, Justicia y Administración Local, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en la Consejería de Presidencia, Justicia y Administración Local, por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia y Administración Local",
+      "description": "Orden de 27 de mayo de 2024, de la Consejería de Presidencia, Justicia y Administración Local, por la que se resuelve la convocatoria aprobada mediante Orden de 22 de marzo de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 4 de abril), del Consejero de Presidencia, Justicia y Administración Local, por la que se aprobó convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Presidencia, Justicia y Administración Local, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 24 de mayo de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería Economía, Hacienda y Empleo por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 24 de mayo de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Economía, Hacienda y Empleo por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 24 de mayo de 2024, de la Consejera de Economía, Hacienda y Empleo por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Economía, Hacienda y Empleo por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-8.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Corrección de errores de la Resolución de 7 de mayo de 2024, de la Dirección General de Función Pública, por la que se aprueban las relaciones definitivas de personas aspirantes admitidas y excluidas en las pruebas selectivas del proceso extraordinario de estabilización de empleo temporal del personal laboral para el acceso a plazas de la categoría profesional de Titulado Superior Especialista, Especialidad de Investigación Agropecuaria, Alimentaria y Medioambiental (Grupo I, Nivel 10, Área B), de la Comunidad de Madrid, se publica la relación definitiva de personas aspirantes excluidas en las citadas pruebas, y se anuncia la celebración del primer ejercicio de la fase de oposición",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-9.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 9 de mayo de 2024, de la Dirección General de Función Pública, por la que se resuelve el proceso extraordinario de estabilización de empleo temporal del personal funcionario para el ingreso en el Cuerpo de Técnicos Superiores Facultativos de Archivos, Bibliotecas y Museos, Especialidad Museos, de Administración Especial, Grupo A, Subgrupo A1, de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-10.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 21 de mayo de 2024, de la Dirección General de Función Pública, por la que se modifica la composición del Tribunal Calificador de los procesos selectivos, por el sistema general de acceso libre y de promoción interna, para el ingreso en el Cuerpo de Ingenieros y Arquitectos Superiores, Escala de Ingeniería Superior, Especialidad de Urbanismo, Edificación, Obras Públicas y Restauración y Conservación del Patrimonio Histórico, de Administración Especial, Grupo A, Subgrupo A1, de la Comunidad de Madrid, convocados mediante Orden 597/2021, de 17 de noviembre, de la Consejería de Economía, Hacienda y Empleo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-11.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 23 de mayo de 2024, de la Dirección General de Función Pública por la que se modifica la composición del Tribunal Calificador del proceso selectivo para acceso a plazas de carácter laboral de la categoría profesional de Socorrista (Grupo IV, Nivel 3, Área C) de la Comunidad de Madrid, convocadas mediante Orden 450/2021, de 13 de octubre, de la consejería de economía, hacienda y empleo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-12.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Orden de 24 de mayo de 2024, de la Consejera de Familia, Juventud y Asuntos Sociales, por la que se resuelve la convocatoria aprobada mediante Orden de 19 de febrero de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 29 de febrero), para la provisión de un puesto de trabajo por el procedimiento de Concurso de Méritos en la Consejería de Familia, Juventud y Asuntos Sociales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-13.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Orden de 24 de mayo de 2024, de la Consejera de Familia, Juventud y Asuntos Sociales, por la que se resuelve la convocatoria aprobada mediante Orden de 20 de febrero de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 29 de febrero), para la provisión de puestos de trabajo por el procedimiento de Concurso de Méritos en la Consejería de Familia, Juventud y Asuntos Sociales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-14.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 22 de mayo de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se declara el importe de la ampliación en 142.200 euros del crédito disponible destinado a dar cobertura financiera a la convocatoria para el año 2024 de subvenciones para el empleo con apoyo de personas con discapacidad, dentro del programa de inclusión laboral de personas con discapacidad en el mercado ordinario de trabajo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-15.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Resolución de 14 de mayo de 2024, de la Dirección General de Educación Secundaria, Formación Profesional y Régimen Especial, por la que se aprueba la actualización de la carta de servicios del Instituto de Educación Secundaria “Hotel Escuela”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-16.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Orden 1828/2024, de 24 de mayo, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se modifica la línea 1 del Anexo IV del Plan Estratégico de Subvenciones de la Consejería para el período 2024-2027, aprobado mediante Orden 396/2024, de 2 de febrero",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-17.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia y Administración Local",
+      "description": "Resolución de 14 de mayo de 2024, de la Secretaría General Técnica de la Consejería de Presidencia, Justicia y Administración Local, por la que se dispone la publicación del anuncio de información previa relativo al contrato “Servicio de vigilancia de la salud para el personal de la Administración de Justicia en la Comunidad de Madrid”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-18.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Resolución de 16 de mayo de 2024, de la Secretaria General Técnica de la Consejería de Educación, Ciencia y Universidades, por la que se hace pública la formalización del contrato de servicios denominado “Asistencia técnica a la Dirección General Investigación e Innovación Tecnológica, para el análisis y seguimiento de las actuaciones del VI Plan Regional de Investigación Científica e Innovación Tecnológica de la Comunidad de Madrid, desarrolladas durante las anualidades de 2022, 2023, 2024 y 2025, y para la elaboración de un informe final de seguimiento del período 2022-2025”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-19.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Anuncio de 3 de junio de 2024, por el que se convoca la licitación para la contratación de un “Servicio de mantenimiento integral de murales ornamentales” (expediente 6012400208)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-20.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 21 de mayo de 2024, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de «Suministro de Enhertu 100 Mg, medicamentos de distribución exclusiva de la firma Daiichi Sankyo España, S. A., para el Servicio de Farmacia del Hospital Universitario “12 de Octubre”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-21.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 23 de mayo de 2024, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre”, por la que se dispone la publicación, en los boletines oficiales y en el “perfil del contratante”, de la formalización del contrato de «Suministro de instrumental y material fungible para la realización de actos quirúrgicos con el sistema de cirugía robótica Da Vinci, exclusivo de la firma “Abex Excelencia Robótica, S. L.”, para el Hospital Universitario “12 de Octubre”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-22.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 25 de mayo de 2024, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización de la prórroga del contrato, para el «Servicio de mantenimiento del sistema Farmis-Oncofarm, exclusivos de la firma Informática Médico Farmacéutica, S. L., para la gestión de los tratamientos oncohematológicos, en el Hospital Universitario “12 de Octubre”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-23.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 25 de mayo de 2024, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización de la prórroga del contrato para el «Servicio de mantenimiento del sistema Philips isite de gestión de imagen médica (PACS), de la firma Philips Ibérica, S. A., instalado en el Hospital Universitario “12 de Octubre”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-24.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 23 de mayo de 2024, de la Dirección-Gerencia del Hospital Clínico “San Carlos” de Madrid, por la que se dispone la publicación, en los boletines oficiales y en el “perfil del contratante”, de la formalización del contrato AMPA 2023-0-061 «Acuerdo marco para suministro de Teriflunomida 14 mg, con destino al Servicio de Farmacia del Hospital Clínico “San Carlos” de Madrid»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-25.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 24 de mayo de 2024, del Director-Gerente del Hospital Clínico “San Carlos”, por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante”, de la licitación del contrato por procedimiento abierto P, A. 2023-4-313: «Servicio de mantenimiento integral de los equipos electromédicos de la marca General Electric instalados en el Hospital Clínico “San Carlos” de Madrid»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-26.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 9 de mayo de 2024, de la Directora General de Transición Energética y Economía Circular de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se acuerda hacer público el Informe de Impacto Ambiental del proyecto denominado «Instalación de GLP en estación de servicio “Valdemorillo” situada en la carretera M-600 p. k. 14», en el término municipal de Valdemorillo, promovido por Disa Península, S. L. U., (Expediente: 26-EIA-00048.4/2023)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-27.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 22 mayo de 2024, del Director General de Agricultura, Ganadería y Alimentación, por la que se anuncia la exposición pública relativa a la autorización de ocupación temporal de la vía pecuaria Cañada Real Coruñesa, en el término municipal de Alpedrete, para renovación de red de abastecimiento en la avenida Reina Victoria, actuación promovida por Canal de Isabel II, M. P., S. A. (Exp. Ocup. 0181/24)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-28.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 22 de mayo de 2024, de la Directora General de Transición Energética y Economía Circular de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se acuerda hacer público el Informe Ambiental Estratégico de la Modificación Puntual no Sustancial de las Normas Subsidiarias del Planeamiento Municipal de Villar del Olmo. Ordenación del Nuevo Colegio del término municipal de Villar del Olmo, promovido por el Ayuntamiento de Villar del Olmo. (Expediente: 10-UB2-00008.6/2023, SIA 23/008)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-29.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 24 de mayo de 2024, de la Directora General de Transición Energética y Economía Circular de la Consejería de Medio Ambiente, Agricultura e Interior por la que se acuerda hacer público el Informe Ambiental Estratégico del Plan Especial de Infraestructuras para la mejora de la ETAP de Pinilla en el término municipal de Lozoya, promovido por el Canal de Isabel II. (Expediente: 26-UB2-00082.3/2024, SIA 24/082)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-30.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Resolución de 22 de mayo de 2024, de la Secretaría General Técnica de la Consejería de Familia, Juventud y Asuntos Sociales, por la que se dispone la publicación de la licitación del contrato de servicios denominado “Gestión de los pisos tutelados de Torrejón de Ardoz (Madrid) para la atención a personas mayores”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-31.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Resolución de 27 de mayo de 2024, de la Gerencia de la Agencia Madrileña de Atención Social, por la que se dispone la publicación en los boletines oficiales y en el perfil de contratante de la licitación del contrato titulado “Suministro e instalación de sistemas de detección de gas para diversos centros de la Agencia Madrileña de Atención Social (2 lotes)”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-32.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Resolución de 23 de mayo de 2024, de imposibilidad de ejercicio de actividad de agencia de viajes a “Valdeleku, S. L.” y “Un Mundo Express Viajes y Turismo, S. L.”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-33.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 16 de mayo de 2024, entre la Comunidad de Madrid, a través de la Consejería de Cultura, Turismo y Deporte, y la Federación de Madrileña de Voleibol para la organización de campus de promoción deportiva, detección de talentos y tecnificación en las instalaciones deportivas “Agrupación Deportiva Islas Filipinas”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-34.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 17 de mayo de 2024, entre la Comunidad de Madrid, a través de la Consejería de Cultura, Turismo y Deporte, y la Federación de Baloncesto de Madrid, para la organización de campus de promoción deportiva, detección de talentos y tecnificación en las instalaciones deportivas “Agrupación Deportiva Islas Filipinas”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-35.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 17 de mayo de 2024, entre la Comunidad de Madrid, a través de la Consejería de Cultura, Turismo y Deporte, y la Federación Madrileña de Espeleología, para la organización de campus de promoción deportiva, detección de talentos y tecnificación en las instalaciones deportivas “San Vicente de Paúl”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-36.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcobendas",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-37.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Aldea del Fresno",
+      "description": "Organización y funcionamiento: Delegación funciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-38.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Aldea del Fresno",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-39.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Belmonte de Tajo",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-40.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Camarma de Esteruelas",
+      "description": "Contratación: Estudio viabilidad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-41.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Carabaña",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-42.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Ciempozuelos",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-43.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Coslada",
+      "description": "Organización y funcionamiento: Reglamento Orgánico Municipal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-44.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Cubas de la Sagra",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-45.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Daganzo de Arriba",
+      "description": "Organización y funcionamiento: Delegación funciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-46.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Daganzo de Arriba",
+      "description": "Régimen económico: Cuenta general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-47.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Fuenlabrada",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-48.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Fuenlabrada",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-49.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Fuenlabrada",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-50.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Fuenlabrada",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-51.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Fuenlabrada",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-52.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Fuenlabrada",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-53.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Griñón",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-54.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Guadarrama",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-55.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Moraleja de Enmedio",
+      "description": "Régimen económico: Ordenanza fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-56.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Móstoles",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-57.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Navalcarnero",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-58.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Martín de Valdeiglesias",
+      "description": "Régimen económico: Cuenta general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-59.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Sevilla la Nueva",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-60.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Soto del Real",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-61.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Soto del Real",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-62.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Soto del Real",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-63.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrejón de Ardoz",
+      "description": "Personal: Nombramiento funcionarios carrera",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-64.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrejón de Ardoz",
+      "description": "Personal: Nombramiento funcionarias carrera",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-65.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrejón de Ardoz",
+      "description": "Personal: Nombramiento funcionarios carrera",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-66.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrejón de Ardoz",
+      "description": "Personal: Nombramiento funcionarios carrera",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-67.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrejón de Ardoz",
+      "description": "Personal: Nombramiento funcionario carrera",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-68.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrejón de Ardoz",
+      "description": "Personal: Nombramiento funcionario carrera",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-69.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrejón de Ardoz",
+      "description": "Personal: Nombramiento funcionarios carrera",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-70.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrejón de Ardoz",
+      "description": "Personal: Nombramiento funcionario carrera",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-71.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrejón de Ardoz",
+      "description": "Personal: Nombramiento funcionario carrera",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-72.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrejón de Ardoz",
+      "description": "Personal: Nombramiento funcionarios carrera",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-73.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrejón de Ardoz",
+      "description": "Personal: Nombramiento funcionario carrera",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-74.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrejón de Ardoz",
+      "description": "Personal: Nombramiento funcionario carrera",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-75.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrejón de Ardoz",
+      "description": "Personal: Nombramiento personal laboral",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-76.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrejón de Ardoz",
+      "description": "Personal: Nombramientos funcionarios carrera",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-77.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrejón de Ardoz",
+      "description": "Personal: Nombramiento personal laboral",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-78.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrejón de Velasco",
+      "description": "Personal: Nombramiento funcionario carrera",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-79.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrelodones",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-80.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrelodones",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-81.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrelodones",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-82.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrelodones",
+      "description": "Otros anuncios: Candidaturas juez de paz",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-83.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Valdeavero",
+      "description": "Régimen económico: Cuenta general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-84.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Valdemorillo",
+      "description": "Licencias: Dismadel, S. L.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-85.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Velilla de San Antonio",
+      "description": "Régimen económico: Ordenanza tasa escuela música",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-86.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villanueva del Pardillo",
+      "description": "Organización y funcionamiento: Delegación funciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/05/BOCM-20240605-87.PDF"
+    }
+  }
+]
