@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcalá de Henares",
-      "description": "Régimen económico: Extracto convocatoria subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/06/BOCM-20240606-41.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcorcón",
       "description": "Régimen económico: Extracto convocatoria subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/06/BOCM-20240606-42.PDF"
