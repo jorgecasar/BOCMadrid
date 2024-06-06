@@ -1,18 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 134,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2024/06/06/BOCM-20240606134.PDF",
-      "total": 81,
-      "items": {
-        "Comunidad de Madrid": 39,
-        "Administración Local Ayuntamientos": 39,
-        "Administración de Justicia": 3
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
