@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Urbanismo: Distrito de Moncloa-Aravaca. Plan especial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/07/BOCM-20240607-51.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcobendas",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/07/BOCM-20240607-52.PDF"
