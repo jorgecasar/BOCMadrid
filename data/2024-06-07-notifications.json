@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio periódico indicativo de 27 de mayo de 2024, relativo al “Contrato de servicio de mantenimiento de la infraestructura”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/07/BOCM-20240607-33.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio periódico indicativo de 27 de mayo de 2024, relativo al contrato de obras de reforma integral de instalaciones eléctricas (alta tensión y baja tensión) del depósito de Canillejas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/07/BOCM-20240607-34.PDF"
     }
