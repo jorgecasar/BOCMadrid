@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Boadilla del Monte",
-      "description": "Personal: Nombramiento funcionario carrera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/07/BOCM-20240607-59.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Buitrago del Lozoya",
       "description": "Régimen económico: Presupuesto general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/07/BOCM-20240607-60.PDF"
