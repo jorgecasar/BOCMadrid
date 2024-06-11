@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Extracto de la Orden 2277/2024, de 27 de mayo, de la Consejería de Educación, Ciencia y Universidades, por la que se convocan ayudas para la contratación de ayudantes de investigación y técnicos de laboratorio para el año 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/10/BOCM-20240610-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Orden de 29 de mayo de 2024, de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se publica el tercer listado definitivo de solicitantes excluidos en el procedimiento de concesión directa de las ayudas a las personas arrendatarias en situación de vulnerabilidad sobrevenida, convocadas mediante Acuerdo de 26 de octubre de 2022, del Consejo de Gobierno de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/10/BOCM-20240610-25.PDF"
