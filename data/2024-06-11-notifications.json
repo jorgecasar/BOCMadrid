@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 29 de mayo de 2024, de la Universidad Politécnica de Madrid, por la que se convocan concursos para la provisión de plazas de personal docente e investigador contratado: Profesor Permanente Laboral con Certificado I3/R3",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/10/BOCM-20240610-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 22 de mayo de 2024, del Director General de la Fundación Clínica Universitaria de la Universidad Rey Juan Carlos, por la que se anuncia la cobertura mediante convocatoria pública ordinaria de dos plazas de Odontólogo/a y una plaza de Auxiliar de Clínica",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/10/BOCM-20240610-23.PDF"
