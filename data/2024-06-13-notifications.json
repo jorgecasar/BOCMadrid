@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Resolución de 3 de junio de 2024, del Director-Gerente del O. A. Consorcio Regional de Transportes Públicos Regulares de Madrid, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicho organismo, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/12/BOCM-20240612-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 870/2024, de 30 de mayo, de la Consejera de Sanidad, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/12/BOCM-20240612-12.PDF"
