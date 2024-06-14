@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Decreto 60/2024, de 12 de junio, del Consejo de Gobierno, por el que cesa don Francisco Javier Galán Serapio como Consejero Delegado de la Agencia de Contratación Sanitaria de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/13/BOCM-20240613-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Decreto 61/2024, de 12 de junio, del Consejo de Gobierno, por el que cesa don José Nieves González, como Director General de Gestión Económico-Financiera del Servicio Madrileño de Salud",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/13/BOCM-20240613-18.PDF"
     }
