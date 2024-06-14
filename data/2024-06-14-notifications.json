@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Anuncio de 4 de junio de 2024, por el que se convocan las bases del procedimiento de selección para cubrir cinco puestos indefinidos en la Fundación de la Universidad Autónoma de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/13/BOCM-20240613-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Orden de 21 de mayo de 2024, de la Consejería de Presidencia, Justicia y Administración Local, por la que se modifica la Orden de 6 de septiembre de 2023, por la que se establecen las bases reguladoras de las subvenciones dirigidas a financiar actuaciones de bioeconomía en municipios con dificultades demográficas en el marco del Plan de Recuperación, Transformación y Resiliencia financiadas por la Unión Europea-NextGenerationEU (C4.I4b) y se aprueba la convocatoria para el año 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/13/BOCM-20240613-24.PDF"
