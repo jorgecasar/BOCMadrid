@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 5 de junio de 2024, de la Gerencia de la Universidad de Alcalá, por la que anuncia publicación de convocatoria de concurso-oposición de promoción interna y libre para la provisión de puestos vacantes de Personal Técnico, de Gestión y de Administración y Servicios Laboral",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/17/BOCM-20240617-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 4 de junio de 2024, de la Universidad Rey Juan Carlos, por la que se declaran desiertas las convocatorias de varios puestos de trabajo de PTGAS de la Universidad Rey Juan Carlos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/17/BOCM-20240617-22.PDF"
