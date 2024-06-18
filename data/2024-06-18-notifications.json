@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Extracto de la Orden 1008/2024, del Consejero de Cultura, Turismo y Deporte, por la que se convocan subvenciones a ayuntamientos de municipios de la Comunidad de Madrid de menos de 2.500 habitantes, para la mejora de la seguridad, accesibilidad y mantenimiento de las instalaciones deportivas municipales para el año 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/17/BOCM-20240617-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 4 de junio de 2024, de la Universidad Autónoma de Madrid, por la que se publica la modificación de determinados planes de estudios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/17/BOCM-20240617-36.PDF"
