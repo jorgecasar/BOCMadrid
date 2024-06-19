@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Extracto de la Orden 2794/2024, de 14 de junio, de la Consejería de Educación, Ciencia y Universidades, por la que se declara el importe de los créditos disponibles para la concesión directa de ayudas a ayuntamientos para la realización de actividades extraescolares en Colegios Públicos de la Comunidad de Madrid y la apertura de los Colegios Públicos los días no lectivos, durante el curso 2024-2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/18/BOCM-20240618-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Orden 1830/2024, de 24 de mayo, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se establecen las bases reguladoras de las ayudas para inversiones forestales no productivas en montes de titularidad privada de la Comunidad de Madrid, en actuaciones selvícolas con objetivos ambientales y en actuaciones para restauración de daños, cofinanciadas por el Fondo Europeo Agrícola de Desarrollo Rural (FEADER) en el Marco del Plan Estratégico de la PAC 2023-2027 y se aprueba la convocatoria de estas ayudas para el ejercicio 2024-2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/18/BOCM-20240618-26.PDF"
