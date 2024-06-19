@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 30 de mayo de 2024, de la Universidad Complutense de Madrid, por la que se convoca concurso de acceso a plaza de Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/18/BOCM-20240618-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 6 de junio de 2024, de la Gerencia de la Universidad de Alcalá, por la que se resuelve el proceso selectivo de concurso-oposición de estabilización de empleo temporal para la provisión de puestos vacantes de personal laboral de la categoría profesional de Técnico Especialista, Grupo C, nivel salarial C1, de la especialidad “Mantenimiento. Multifunción”, convocado por Resolución de 21 de noviembre de 2022",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/18/BOCM-20240618-22.PDF"
