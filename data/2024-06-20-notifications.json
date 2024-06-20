@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Extracto de la Orden 2141/2024, de 14 de mayo, del Consejero de Educación, Ciencia y Universidades, por la que se convocan los Premios Extraordinarios de Educación Secundaria Obligatoria de la Comunidad de Madrid correspondientes al año académico 2023-2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/20/BOCM-20240620-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Orden de 8 de mayo de 2024, del Consejero de Medio Ambiente, Agricultura e Interior, por la que se aprueba la concesión de la subvención para la creación o mantenimiento de unidades caninas destinadas a los cuerpos de policía local de los ayuntamientos integrados en el Programa de Apoyo a las Policías Locales de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/20/BOCM-20240620-25.PDF"
