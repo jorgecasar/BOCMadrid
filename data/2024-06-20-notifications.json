@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "description": "Decreto 64/2024, de 19 de junio, del Consejo de Gobierno, por el que se modifica el Decreto 230/2015, de 20 de octubre, del Consejo de Gobierno, por el que se establece la estructura orgánica de la Agencia Madrileña de Atención Social",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/20/BOCM-20240620-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Acuerdo de 19 de junio de 2024, del Consejo de Gobierno, por el que se cesa y nombra a los vocales del Consejo de Formación Profesional de la Comunidad de Madrid y de su Comisión Permanente",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/20/BOCM-20240620-2.PDF"
