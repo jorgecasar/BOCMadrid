@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Extracto de la Orden de 11 de junio de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se convocan ayudas para el año 2024 dirigidas a asociaciones, federaciones y confederaciones de la Comunidad de Madrid para el desarrollo de actividades de promoción y de proyectos para la digitalización del comercio minorista y los servicios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/20/BOCM-20240620-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Extracto de la Orden 2141/2024, de 14 de mayo, del Consejero de Educación, Ciencia y Universidades, por la que se convocan los Premios Extraordinarios de Educación Secundaria Obligatoria de la Comunidad de Madrid correspondientes al año académico 2023-2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/20/BOCM-20240620-24.PDF"
