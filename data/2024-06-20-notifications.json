@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 11 de junio de 2024, de la Universidad Carlos III de Madrid, por la que se nombra Profesor Titular de Universidad a don Andrés Anca Couce",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/20/BOCM-20240620-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Orden de 21 de mayo de 2024, de la Consejería de Presidencia, Justicia y Administración Local, por la que se aprueban las bases reguladoras que han de regir las convocatorias de concesión de subvenciones destinadas a la ayuda asistencial a los emigrantes madrileños que estén en situación de precariedad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/20/BOCM-20240620-21.PDF"
