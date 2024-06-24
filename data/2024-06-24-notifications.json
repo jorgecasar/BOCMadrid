@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Disposiciones y Anuncios del Estado",
-      "description": "Delegación del Gobierno en Madrid. Área Funcional de Industria y Energía. Autorización administrativa",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/24/BOCM-20240624-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Disposiciones y Anuncios del Estado",
       "description": "Ministerio de Transportes y Movilidad Sostenible. ADIF Administrador de Infraestructuras Ferroviarias. Expropiación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/24/BOCM-20240624-32.PDF"
     }
