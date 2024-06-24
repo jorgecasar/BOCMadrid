@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcobendas",
-      "description": "Régimen económico: Extracto convocatoria subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/24/BOCM-20240624-41.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Algete",
       "description": "Ofertas de empleo: Oferta empleo público",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/24/BOCM-20240624-42.PDF"
