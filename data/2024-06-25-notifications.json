@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Adenda de 6 de junio de 2024, de modificación del convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Sanidad, el Servicio Madrileño de Salud y la Universidad Europea de Madrid, para la enseñanza clínica práctica en el grado de Medicina",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/25/BOCM-20240625-33.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Adenda de 11 de junio de 2024, de prórroga del convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Sanidad, el Servicio Madrileño de Salud y la Universidad San Pablo-CEU, para la enseñanza clínica práctica en el grado de Medicina en centros de atención primaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/25/BOCM-20240625-34.PDF"
     }
