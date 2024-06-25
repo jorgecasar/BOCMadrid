@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Extracto del Acuerdo de 12 de junio de 2024, del Vicerrector de Planificación, Coordinación y Relaciones Institucionales, por la que se convoca la VI Edición de los Premios Emprendimiento Social 2024 de la Universidad Complutense de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/25/BOCM-20240625-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Extracto de la Resolución de 14 de junio de 2024, del Rector de la Universidad Rey Juan Carlos,  por la que se aprueban las bases reguladoras y se hace pública la convocatoria de premios a los mejores trabajos Fin de Grado, Trabajos Fin de Máster y Tesis Doctorales, relacionados con el Turismo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/25/BOCM-20240625-27.PDF"
