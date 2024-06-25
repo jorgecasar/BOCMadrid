@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Disposiciones y Anuncios del Estado",
-      "description": "Delegación del Gobierno en Madrid. Área Funcional de Industria y Energía. Autorización administrativa",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/25/BOCM-20240625-46.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Madrid",
       "description": "Licencias: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/25/BOCM-20240625-47.PDF"
