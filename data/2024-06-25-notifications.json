@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Gascones",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/25/BOCM-20240625-60.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Mejorada del Campo",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/25/BOCM-20240625-61.PDF"
