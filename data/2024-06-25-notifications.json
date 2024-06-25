@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Ajalvir",
-      "description": "Régimen económico: Ordenanzas fiscales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/25/BOCM-20240625-50.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcalá de Henares",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/25/BOCM-20240625-51.PDF"
