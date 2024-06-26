@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Coslada",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/26/BOCM-20240626-59.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Cubas de la Sagra",
       "description": "Urbanismo: Proyecto reparcelación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/26/BOCM-20240626-60.PDF"
