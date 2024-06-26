@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Extracto de la Orden de 6 de junio de 2024, del Consejero de Presidencia, Justicia y Administración Local, por la que se aprueba la convocatoria para el año 2024 de subvenciones destinadas a entidades sin ánimo de lucro cuyo objeto sea la atención a las víctimas del terrorismo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/26/BOCM-20240626-36.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Extracto de la Orden 2889/2024, del Consejero de Educación, Ciencia y Universidades, por la que se aprueba la convocatoria de becas de Formación Profesional de Grado Medio correspondiente al curso 2024-2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/26/BOCM-20240626-37.PDF"
