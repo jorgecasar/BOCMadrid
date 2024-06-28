@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "El Álamo",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/28/BOCM-20240628-48.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Getafe",
       "description": "Urbanismo: Modificación sustancial plan general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/28/BOCM-20240628-49.PDF"
