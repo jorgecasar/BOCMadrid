@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 19 de junio de 2024, de la Universidad de Alcalá, por la que se anuncian las convocatorias de concursos para la provisión de plazas de Profesorado Permanente Laboral y Profesorado Temporal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/28/BOCM-20240628-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Orden de 24 de junio de 2024, de la Consejería de Presidencia, Justicia y Administración Local, para la selección de los Grupos de Acción Local (GAL) y sus estrategias de desarrollo local participativo en el marco del Plan Estratégico de la Política Agraria Comunitaria (PEPAC) 2023-2027",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/28/BOCM-20240628-16.PDF"
