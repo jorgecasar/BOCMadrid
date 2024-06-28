@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcorcón",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/28/BOCM-20240628-40.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Arganda del Rey",
       "description": "Urbanismo: Plan parcial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/28/BOCM-20240628-41.PDF"
