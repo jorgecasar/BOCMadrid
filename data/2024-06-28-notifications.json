@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Las Rozas de Madrid",
-      "description": "Otros anuncios: Autorización demanial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/28/BOCM-20240628-50.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Leganés",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/06/28/BOCM-20240628-51.PDF"
