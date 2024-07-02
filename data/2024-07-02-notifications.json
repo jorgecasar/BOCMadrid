@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Resolución de 27 de junio de 2024, complementaria de la Resolución de 14 de mayo de 2024, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se declara superado el proceso selectivo mediante Concurso de Méritos por el turno libre para el acceso a la condición de personal estatutario fijo en la categoría de Facultativo Especialista en Reumatología (Personal Sanitario del Grupo A, Subgrupo A1), se publica la relación de plazas ofertadas y se fija la fecha y el procedimiento a seguir para la elección de plazas por los aspirantes y la entrega de documentación acreditativa (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 23 de mayo de 2024)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/01/BOCM-20240701-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 27 de junio de 2024, complementaria de la Resolución de 14 de mayo de 2024, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se declara superado el proceso selectivo mediante Concurso de Méritos por el turno libre para el acceso a la condición de personal estatutario fijo en la categoría de Médico/a de Urgencia Hospitalaria (Personal Sanitario del Grupo A, Subgrupo A1), se publica la relación de plazas ofertadas y se fija la fecha y el procedimiento a seguir para la elección de plazas por los aspirantes y la entrega de documentación acreditativa (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 23 de mayo de 2024)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/01/BOCM-20240701-20.PDF"
     }
