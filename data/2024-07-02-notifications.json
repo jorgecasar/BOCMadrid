@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Extracto del Acuerdo de 17 de junio de 2024, de la Comisión de Investigación de la Universidad de Alcalá, por el que se convocan los Premios para Jóvenes Investigadores de la UAH 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/01/BOCM-20240701-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Extracto del Acuerdo de 17 de junio de 2024, de la Comisión de Investigación de la Universidad de Alcalá, por el que se convocan los Premios a la Excelencia Investigadora UAH 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/01/BOCM-20240701-31.PDF"
     }
