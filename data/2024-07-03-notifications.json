@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Complutense de Madrid",
-      "description": "Extracto de la Resolución de 18 de junio de 2024, por la que se convocan Becas Internacionales dirigidas a estudiantes de países de América Latina y el Caribe para iniciar estudios oficiales de Máster de la UCM en el curso 2024-25",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/03/BOCM-20240703-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Complutense de Madrid",
       "description": "Extracto del Acuerdo de 26 de junio de 2024, del Vicerrector de Planificación, Coordinación y Relaciones Institucionales, por la que se convoca la XII Edición de los Premios Emprendimiento Universitario 2024, de la Universidad Complutense de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/03/BOCM-20240703-28.PDF"
     }
