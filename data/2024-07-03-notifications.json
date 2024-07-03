@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 1215/2024, de 26 de junio, de la Consejería de Cultura, Turismo y Deporte, por la que se conceden ayudas en el año 2024 a deportistas madrileños por participar en competiciones deportivas oficiales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/03/BOCM-20240703-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Complutense de Madrid",
       "description": "Extracto de la Resolución de 18 de junio de 2024, por la que se convocan Becas Internacionales dirigidas a estudiantes de países de América Latina y el Caribe para iniciar estudios oficiales de Máster de la UCM en el curso 2024-25",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/03/BOCM-20240703-27.PDF"
