@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Decreto 72/2024, de 3 de julio, del Consejo de Gobierno, por el que cesa doña María Milagros de Pedro Conal, como Directora de Área Territorial de Madrid-Este",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/04/BOCM-20240704-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Decreto 73/2024, de 3 de julio, del Consejo de Gobierno, por el que se nombra Director de Área Territorial de Madrid-este a don Marcos Rafael Moreno Sánchez",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/04/BOCM-20240704-11.PDF"
     }
