@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Decreto 71/2024, de 3 de julio, del Consejo de Gobierno, por el que se nombra Director General de Educación Infantil, Primaria y Especial a don Juan Alberto Gutiérrez Romero",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/04/BOCM-20240704-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Decreto 72/2024, de 3 de julio, del Consejo de Gobierno, por el que cesa doña María Milagros de Pedro Conal, como Directora de Área Territorial de Madrid-Este",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/04/BOCM-20240704-10.PDF"
     }
