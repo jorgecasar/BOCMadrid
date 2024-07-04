@@ -1,19 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 158,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2024/07/04/BOCM-20240704158.PDF",
-      "total": 80,
-      "items": {
-        "Comunidad de Madrid": 47,
-        "Disposiciones y Anuncios del Estado": 1,
-        "Administración Local Ayuntamientos": 30,
-        "Otros Anuncios": 2
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
