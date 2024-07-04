@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Digitalización",
-      "description": "Decreto de 3 de julio de 2024, del Consejo de Gobierno, por el que se cesa a doña Silvia Roldán Fernández como Viceconsejera de Digitalización",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/04/BOCM-20240704-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Digitalización",
       "description": "Decreto 69/2024, de 3 de julio, del Consejo de Gobierno, por el que se nombra Viceconsejero de Digitalización a don Manuel Pérez Gómez",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/04/BOCM-20240704-7.PDF"
     }
