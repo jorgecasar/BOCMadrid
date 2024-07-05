@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Organización y funcionamiento: Área de Gobierno de Políticas de Vivienda. Encomienda gestión",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/05/BOCM-20240705-51.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Régimen económico: Área de Gobierno de Políticas Sociales, Familia e Igualdad. Extracto convocatoria subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/05/BOCM-20240705-52.PDF"
     }
