@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Corrección de errores del extracto del Acuerdo de 24 de mayo de 2024, de la Comisión de Relaciones Externas del Consejo Social de la Universidad de Alcalá, por el que se aprueba la Convocatoria de renovación de Becas de Excelencia del Consejo Social para el curso académico 2024-2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/08/BOCM-20240708-28.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 28 de junio de 2024, del Rector Magnífico de la Universidad Rey Juan Carlos, por la que se aprueban las bases reguladoras y se hace pública la convocatoria para la concesión de Ayudas a la Excelencia, cofinanciadas por el Banco Santander, dirigidas a los estudiantes que cursen por primera vez un máster universitario en la Universidad Rey Juan Carlos en el curso 2024-2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/08/BOCM-20240708-29.PDF"
