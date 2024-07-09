@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Extracto de la Orden de 25 de junio de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se declara el importe de la ampliación en 475.405,00 euros del crédito disponible destinado a dar cobertura financiera a la convocatoria de subvenciones, en el año 2024, para la realización del programa público de empleo-formación de la Comunidad de Madrid de Cualificación Profesional en ocupaciones con competencias profesionales emergentes",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/08/BOCM-20240708-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 2390/2024, de 20 de junio, del Consejero de Educación, Ciencia y Universidades, por la que se autoriza el cese de proyectos propios de formación profesional, en centros privados de la Comunidad de Madrid a partir del año académico 2024-2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/08/BOCM-20240708-22.PDF"
