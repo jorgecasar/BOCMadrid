@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 24 de junio de 2024, de la Universidad de Alcalá, por la que se convoca concurso de acceso a plaza de funcionario de carrera de los Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/08/BOCM-20240708-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Carlos III",
       "description": "Resolución de 26 de junio de 2024, de la Universidad Carlos III de Madrid, por la que se nombra personal funcionario de Cuerpos Docentes Universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/08/BOCM-20240708-20.PDF"
