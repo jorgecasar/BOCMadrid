@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio de colaboración de 23 de junio de 2024, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y la Real Academia Nacional de Farmacia para difundir su finalidad y recursos entre los docentes de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/08/BOCM-20240708-34.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 4 de julio de 2024, de adjudicación del contrato titulado “Servicio de mantenimiento de láminas instaladas en vidrios y otras superficies y del tratamiento de paramentos metálicos y de vidrio en estaciones y dependencias de la Red de Metro de Madrid”. (Expediente 6012300081)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/08/BOCM-20240708-35.PDF"
