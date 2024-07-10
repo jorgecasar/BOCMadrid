@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Aranjuez",
-      "description": "Organización y funcionamiento: Junta Gobierno",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/10/BOCM-20240710-61.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Aranjuez",
       "description": "Organización y funcionamiento: Delegación funciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/10/BOCM-20240710-62.PDF"
     }
