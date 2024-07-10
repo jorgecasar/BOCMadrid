@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcorcón",
-      "description": "Personal: Nombramiento funcionario carrera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/10/BOCM-20240710-59.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Ambite",
       "description": "Organización y funcionamiento: Régimen dedicación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/10/BOCM-20240710-60.PDF"
