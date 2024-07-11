@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Getafe",
-      "description": "Personal: Plantilla personal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/11/BOCM-20240711-53.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Los Molinos",
       "description": "Ofertas de empleo: Proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/11/BOCM-20240711-54.PDF"
