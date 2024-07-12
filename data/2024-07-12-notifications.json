@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio de colaboración de 20 de junio de 2024, en materia de Educación Infantil, suscrito entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y el Ayuntamiento de Fresnedillas de la Oliva",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/11/BOCM-20240711-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 9 de julio de 2024, por el que se convoca la licitación para la contratación del servicio de “Medición de la calidad del servicio de Metro de Madrid mediante la técnica de Cliente Misterioso” (expediente 6012400261)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/11/BOCM-20240711-22.PDF"
