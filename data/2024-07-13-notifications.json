@@ -1,17 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 166,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2024/07/13/BOCM-20240713166.PDF",
-      "total": 21,
-      "items": {
-        "Comunidad de Madrid": 17,
-        "Administración de Justicia": 4
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
