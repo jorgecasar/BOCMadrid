@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Resolución de 28 de junio de 2024, la Universidad de Alcalá, por la que se publica la Oferta de Empleo Público de Personal Docente e Investigador para el ejercicio 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/15/BOCM-20240715-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Resolución de 3 de julio de 2024, de la Universidad de Alcalá, por la que se convoca concurso de movilidad para la provisión de plaza de funcionario de carrera de los cuerpos docentes universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/15/BOCM-20240715-22.PDF"
     }
