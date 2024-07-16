@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Extracto de la Orden 1112/2024, de 24 de junio, del Consejero de Cultura, Turismo y Deporte por la que se convocan las ayudas para actuaciones de conservación, recuperación y restauración de bienes inmuebles privados con protección de bien de interés cultural o bien de interés patrimonial correspondientes a 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/16/BOCM-20240716-41.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 15 de julio de 2024, de la Universidad Autónoma de Madrid, por la que se declara el mes de agosto de 2024, inhábil a los efectos señalados en la presente Resolución",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/16/BOCM-20240716-42.PDF"
