@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Extracto de la Orden 2373/2024, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se hace pública la declaración del crédito presupuestario disponible en el ejercicio 2024 para financiar las ayudas a los municipios de la Comunidad de Madrid, de población igual o inferior a 2.500 habitantes, para la recogida y transporte de los residuos domésticos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/16/BOCM-20240716-40.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Extracto de la Orden 1112/2024, de 24 de junio, del Consejero de Cultura, Turismo y Deporte por la que se convocan las ayudas para actuaciones de conservación, recuperación y restauración de bienes inmuebles privados con protección de bien de interés cultural o bien de interés patrimonial correspondientes a 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/16/BOCM-20240716-41.PDF"
