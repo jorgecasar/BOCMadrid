@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 5 de julio de 2024, de la Universidad Rey Juan Carlos, por la que se nombra a doña Ana Felicitas Muñoz Pérez como Catedrática de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/16/BOCM-20240716-36.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Digitalización",
       "description": "Orden 91/2024, de 2 de julio, de la Consejería de Digitalización, por la que se modifica parcialmente el Plan Estratégico de Subvenciones de la Consejería de Digitalización para el año 2024, aprobado por Orden 52/2024, de 9 de mayo, de la Consejería de Digitalización",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/16/BOCM-20240716-37.PDF"
