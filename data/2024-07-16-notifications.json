@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 5 de julio de 2024, de la Universidad Politécnica de Madrid, por la que se publica la Oferta de Empleo Público para el ejercicio 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/16/BOCM-20240716-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 5 de julio de 2024, de la Universidad Politécnica de Madrid, por la que se convocan concursos de acceso a plazas de los Cuerpos Docentes Universitarios (Catedráticos de Universidad con certificado I3/R3)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/16/BOCM-20240716-33.PDF"
     }
