@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 15 de julio de 2024, de la Universidad Autónoma de Madrid, por la que se declara el mes de agosto de 2024, inhábil a los efectos señalados en la presente Resolución",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/16/BOCM-20240716-42.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 2 de julio de 2024, de la Secretaría General Técnica de la Consejería de Economía, Hacienda y Empleo, por la que se anuncia la formalización del contrato “Diagnóstico global del pequeño comercio minorista de Madrid 2024”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/16/BOCM-20240716-43.PDF"
