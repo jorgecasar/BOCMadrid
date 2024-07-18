@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 1 de julio de 2024, de la Universidad Complutense de Madrid, por la que se nombra a D. Simone Belli Profesor Titular de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/18/BOCM-20240718-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 9 de julio de 2024, de la Universidad Autónoma de Madrid, por la que se convoca concurso de acceso a plazas de Docentes Universitarios entre Acreditados: Profesores Permanentes Laborales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/18/BOCM-20240718-21.PDF"
