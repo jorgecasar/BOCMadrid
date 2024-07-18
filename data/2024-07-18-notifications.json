@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Acuerdo de 10 de julio de 2024, del Consejo de Gobierno, por el que se aprueba definitivamente la Modificación Puntual número 3 del Plan General de Ordenación Urbana de Alcobendas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/18/BOCM-20240718-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Extracto de la Orden 2255/2024, de 16 de julio, de la Consejera de Familia, Juventud y Asuntos Sociales, por la que se amplía el plazo de presentación de solicitudes establecido en la Orden 1676/2024, de 30 de mayo, de la Consejera de Familia, Juventud y Asuntos Sociales, por la que se convocan los premios Emprendimiento Joven-Carné Joven Comunidad de Madrid, correspondientes al año 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/18/BOCM-20240718-31.PDF"
