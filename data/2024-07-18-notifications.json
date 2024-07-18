@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 3 de julio de 2024, del Rector de la Universidad Politécnica de Madrid, por la que se declara el mes de agosto inhábil a los efectos señalados en esta Resolución",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/18/BOCM-20240718-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Extracto de la Convocatoria de la Directora General de la Fundación General de la Universidad de Alcalá, de fecha 9 de julio de 2024, por la que se convocan ayudas por compensación de gastos de alojamiento y transporte a estudiantes extranjeros hablantes nativos de inglés matriculados en Estudios de Máster de formación permanente en Centros de la Universidad de Alcalá, curso 2024-2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/18/BOCM-20240718-36.PDF"
