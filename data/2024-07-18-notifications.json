@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Extracto de la Resolución de 8 de julio de 2024, de la Universidad Complutense de Madrid, por la que se convocan ayudas extraordinarias para estudiantes matriculados en estudios oficiales en el curso 2023-2024, en situación de vulnerabilidad socioeconómica, que necesiten alojamiento alternativo en período no lectivo de verano",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/18/BOCM-20240718-34.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 3 de julio de 2024, del Rector de la Universidad Politécnica de Madrid, por la que se declara el mes de agosto inhábil a los efectos señalados en esta Resolución",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/18/BOCM-20240718-35.PDF"
