@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 17 de julio de 2024, de la Universidad Autónoma de Madrid, por la que se convoca proceso selectivo para la constitución de una lista de espera de funcionarios/as interinos/as de la Escala Especial Auxiliar de Gestión Universitaria de la Universidad Autónoma de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/18/BOCM-20240718-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 8 de julio de 2024, de la Universidad Rey Juan Carlos, por la que se anuncia convocatoria pública para la provisión de un puesto de trabajo reservado a personal funcionario mediante el sistema de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/18/BOCM-20240718-24.PDF"
