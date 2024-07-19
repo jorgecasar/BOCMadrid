@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Bustarviejo",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/19/BOCM-20240719-55.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Camarma de Esteruelas",
       "description": "Régimen económico: Precios privados",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/19/BOCM-20240719-56.PDF"
