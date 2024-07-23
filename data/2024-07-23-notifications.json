@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 11 de julio de 2024, de la Universidad Rey Juan Carlos, por la que se nombran Catedráticos de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/23/BOCM-20240723-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 19 de julio de 2024, de la Universidad Rey Juan Carlos, por la que se convoca concurso de traslado, para la provisión de un puesto de trabajo vacante en la relación de puestos de trabajo de Personal Técnico, de Gestión y de Administración y Servicios Laboral",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/23/BOCM-20240723-32.PDF"
     }
