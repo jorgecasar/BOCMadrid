@@ -1,19 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 174,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2024/07/23/BOCM-20240723174.PDF",
-      "total": 111,
-      "items": {
-        "Comunidad de Madrid": 62,
-        "Disposiciones y Anuncios del Estado": 4,
-        "Administración Local Ayuntamientos": 44,
-        "Otros Anuncios": 1
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
