@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Disposiciones y Anuncios del Estado",
-      "description": "Delegación del Gobierno en Madrid. Área Funcional de Industria y Energía. Autorización administrativa",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/23/BOCM-20240723-64.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Disposiciones y Anuncios del Estado",
       "description": "Ministerio de Hacienda y Función Pública. Agencia Estatal de Administración Tributaria. Padrón fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/23/BOCM-20240723-65.PDF"
     }
