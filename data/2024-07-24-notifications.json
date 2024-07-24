@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 3207/2024, de 12 de julio, del Consejero de Educación, Ciencia y Universidades, por la que se autoriza a cuatro colegios de educación infantil y primaria a impartir Educación Secundaria Obligatoria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/23/BOCM-20240723-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Resolución de 11 de julio de 2024, de la Secretaría General Técnica de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se publican las subvenciones concedidas durante el segundo trimestre de 2024 por la Dirección General de Biodiversidad y Gestión Forestal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/23/BOCM-20240723-36.PDF"
