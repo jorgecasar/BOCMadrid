@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Coslada",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/29/BOCM-20240729-50.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Daganzo de Arriba",
       "description": "Régimen económico: Matrícula impuestos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/29/BOCM-20240729-51.PDF"
