@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 15 de julio de 2024, de la Rectora de la Universidad Autónoma de Madrid, por la que se publica la modificación parcial de la Relación de Puestos de Trabajo del Personal Técnico, de Gestión y de Administración y Servicios Funcionario de esta Universidad, aprobada en Consejo de Gobierno de 11 de julio de 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/29/BOCM-20240729-4.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 15 de julio de 2024, de la Universidad Autónoma de Madrid, por la que se publica la Oferta de Empleo Público para el ejercicio 2024 del Personal Docente e Investigador",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/29/BOCM-20240729-5.PDF"
     }
