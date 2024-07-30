@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 11 de julio de 2024, del Rectorado de la Universidad Autónoma de Madrid, por la que se publica la oferta de empleo público para el ejercicio 2024, correspondiente al Personal Técnico, de Gestión y de Administración y Servicios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/30/BOCM-20240730-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Carlos III",
       "description": "Resolución de 16 de julio de 2024, de la Universidad Carlos III de Madrid, por la que se publica la Oferta de Empleo Público para el ejercicio 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/30/BOCM-20240730-10.PDF"
