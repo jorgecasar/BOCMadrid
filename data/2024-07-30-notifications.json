@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "San Martín de la Vega",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/30/BOCM-20240730-62.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Torrejón de la Calzada",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/30/BOCM-20240730-63.PDF"
