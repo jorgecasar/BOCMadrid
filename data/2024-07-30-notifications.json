@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Pinto",
-      "description": "Urbanismo: Estudio detalle",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/30/BOCM-20240730-61.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "San Martín de la Vega",
       "description": "Ofertas de empleo: Proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/30/BOCM-20240730-62.PDF"
