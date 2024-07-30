@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 16 de julio de 2024, de la Universidad Carlos III de Madrid, por la que se publica la Oferta de Empleo Público para el ejercicio 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/30/BOCM-20240730-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Orden de 24 de julio de 2024, de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se declara el importe del crédito presupuestario disponible en el año 2024 para el programa mi primera vivienda y se abre el plazo de presentación de solicitudes de adhesión para las entidades financieras",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/30/BOCM-20240730-11.PDF"
