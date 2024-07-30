@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Coslada",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/30/BOCM-20240730-53.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "El Molar",
       "description": "Organización y funcionamiento: Ordenanza carné usuario",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/30/BOCM-20240730-54.PDF"
