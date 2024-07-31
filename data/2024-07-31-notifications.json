@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "description": "Resolución 3494/2024, de 15 de julio, de la Dirección General de Evaluación, Calidad e Innovación, por la que se establecen los criterios que han de regir el régimen de inscripción del servicio de asistencia personal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/31/BOCM-20240731-38.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Decreto 83/2024, de 24 de julio, del Consejo de Gobierno, por el que se declara Bien de Interés Cultural de la Comunidad de Madrid, la pintura titulada “Guillermo de Moncada. Barón de Cerbeillo”, obra de Jan van Kessel el Viejo y Willem van Herp",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/31/BOCM-20240731-39.PDF"
