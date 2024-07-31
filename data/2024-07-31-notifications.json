@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 1366/2024, de 16 de julio, del Consejero de Cultura, Turismo y Deporte, por la que se aprueban las Tablas de Valoración de determinadas series documentales de titularidad pública de la Administración de la Comunidad de Madrid y de las Entidades Locales madrileñas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/31/BOCM-20240731-41.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Adenda de 12 de julio de 2024, de prórroga del convenio de colaboración entre la Agencia de la Comunidad de Madrid para la Reeducación y Reinserción del Menor Infractor y la Universidad Pontificia Comillas para el desarrollo de programas de cooperación educativa",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/31/BOCM-20240731-42.PDF"
