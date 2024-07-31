@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 23 de julio de 2024, de la Universidad Carlos III de Madrid, por la que se nombra personal funcionario de carrera de la Escala Superior de Técnicos/as de Administración General (Subgrupo A1) de esta universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/31/BOCM-20240731-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Orden de 12 de julio de 2024, de la Consejería de Presidencia, Justicia y Administración Local, por la que se aprueban las bases reguladoras de las ayudas para el fomento de la actividad comercial en municipios de la Comunidad de Madrid con población inferior a 1.000 habitantes",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/31/BOCM-20240731-33.PDF"
