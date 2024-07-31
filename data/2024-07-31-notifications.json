@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Decreto 83/2024, de 24 de julio, del Consejo de Gobierno, por el que se declara Bien de Interés Cultural de la Comunidad de Madrid, la pintura titulada “Guillermo de Moncada. Barón de Cerbeillo”, obra de Jan van Kessel el Viejo y Willem van Herp",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/31/BOCM-20240731-39.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 1365/2024, de 16 de julio, del Consejero de Cultura, Turismo y Deporte, por la que se aprueban las Tablas de Valoración de determinadas series documentales de titularidad privada de asociaciones y colegios profesionales madrileños",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/07/31/BOCM-20240731-40.PDF"
     }
