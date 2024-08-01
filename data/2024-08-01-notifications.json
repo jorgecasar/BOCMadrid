@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Extracto del Acuerdo de 17 de julio de 2024, de la Comisión de Investigación de la Universidad de Alcalá, por el que se convocan los Contratos Predoctorales de Formación de Personal Investigador 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/01/BOCM-20240801-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Extracto del Acuerdo de 17 de julio de 2024, de la Comisión de Investigación de la Universidad de Alcalá, por el que se convocan los Contratos Predoctorales de Formación de Profesorado Universitario 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/01/BOCM-20240801-33.PDF"
     }
