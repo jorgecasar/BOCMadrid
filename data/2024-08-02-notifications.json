@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 24 de julio de 2024, de la Universidad Politécnica de Madrid, por la que se convocan concursos de acceso a plazas de los cuerpos docentes",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/02/BOCM-20240802-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 22 de julio de 2024, por la que se ordena la publicación de la modificación del Reglamento sobre Carrera Horizontal del Personal Técnico, de Gestión y de Administración y Servicios funcionario de la Universidad Rey Juan Carlos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/02/BOCM-20240802-7.PDF"
