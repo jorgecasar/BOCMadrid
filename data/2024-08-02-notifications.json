@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 22 de julio de 2024, de la Universidad Autónoma de Madrid, por la que se publica la modificación de determinados planes de estudios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/02/BOCM-20240802-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 18 de julio de 2024, del Rector de la Universidad Rey Juan Carlos, por la que se declara inhábil el mes de agosto de 2024, a efectos de cómputo de plazos en los procedimientos administrativos de la Universidad Rey Juan Carlos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/02/BOCM-20240802-14.PDF"
