@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 22 de julio de 2024, de formalización del contrato titulado “Servicio de transporte en vehículos turismo para los agentes de Metro de Madrid”. Expediente 6012400111. Contrato 7224000451",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/05/BOCM-20240805-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Resolución de 24 de julio de 2024, del Director General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se emplaza a los interesados en el recurso contencioso-administrativo, procedimiento abreviado número 717/2022, a fin de que puedan personarse en autos, si a su derecho conviniere",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/05/BOCM-20240805-32.PDF"
