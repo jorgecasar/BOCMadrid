@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Cercedilla",
-      "description": "Régimen económico: Padrones fiscales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/05/BOCM-20240805-54.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Cercedilla",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/05/BOCM-20240805-55.PDF"
     }
