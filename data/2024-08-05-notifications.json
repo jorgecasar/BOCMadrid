@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Organización y funcionamiento: Área de Gobierno de Vicealcaldía, Portavoz, Seguridad y Emergencias. Junta Gobierno",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/05/BOCM-20240805-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Personal: Área de Gobierno de Economía, Innovación y Hacienda. Plantilla personal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/05/BOCM-20240805-50.PDF"
     }
