@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Orden 1086/2024, de 17 de julio, de la Consejera de Sanidad, por la que se fija el número máximo anual de nombramientos de personal emérito del Servicio Madrileño de Salud correspondientes a los años 2023 y 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/05/BOCM-20240805-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 22 de julio de 2024, de la Gerencia de la Universidad de Alcalá, por la que se publica la Oferta de Empleo Público de Personal Técnico, de Gestión y de Administración y Servicios para el año 2024 resultante de la tasa de reposición de efectivos prevista en la Ley 31/2022, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/05/BOCM-20240805-13.PDF"
