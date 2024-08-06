@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Disposiciones y Anuncios del Estado",
-      "description": "Ministerio de Inclusión, Seguridad Social y Migraciones. Tesorería General de la Seguridad Social. Subasta inmuebles",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/06/BOCM-20240806-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Madrid",
       "description": "Licencias: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/06/BOCM-20240806-50.PDF"
