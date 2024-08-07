@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Manzanares el Real",
-      "description": "Personal: Nombramiento funcionarios carrera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/07/BOCM-20240807-46.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Manzanares el Real",
       "description": "Personal: Nombramiento personal laboral",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/07/BOCM-20240807-47.PDF"
     }
