@@ -1,18 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 187,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2024/08/07/BOCM-20240807187.PDF",
-      "total": 58,
-      "items": {
-        "Comunidad de Madrid": 33,
-        "Administración Local Ayuntamientos": 23,
-        "Administración de Justicia": 2
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
