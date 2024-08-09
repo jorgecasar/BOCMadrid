@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Urbanismo: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Plan general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/08/BOCM-20240808-39.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alameda del Valle",
       "description": "Régimen económico: Calendario fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/08/BOCM-20240808-40.PDF"
