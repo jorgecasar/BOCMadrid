@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Collado Mediano",
-      "description": "Personal: Nombramiento personal laboral",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/08/BOCM-20240808-44.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "El Escorial",
       "description": "Régimen económico: Extracto convocatoria subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/08/BOCM-20240808-45.PDF"
