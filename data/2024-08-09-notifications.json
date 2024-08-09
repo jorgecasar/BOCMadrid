@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Humanes de Madrid",
-      "description": "Organización y funcionamiento: Delegación funciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/08/BOCM-20240808-53.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Humanes de Madrid",
       "description": "Organización y funcionamiento: Junta Gobierno",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/08/BOCM-20240808-54.PDF"
     }
