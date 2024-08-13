@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Urbanismo: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Plan parcial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/13/BOCM-20240813-37.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcalá de Henares",
       "description": "Urbanismo: Proyecto urbanización",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/13/BOCM-20240813-38.PDF"
