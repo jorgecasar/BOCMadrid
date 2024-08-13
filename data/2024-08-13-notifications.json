@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Listado de 17 de julio de 2024, de las cooperativas cuyas cuentas anuales han quedado depositadas en el Registro de Cooperativas de la Comunidad de Madrid en el segundo trimestre del año 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/13/BOCM-20240813-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Resolución de 30 de julio de 2024, de la Secretaria General Técnica de la Consejería de Educación, Ciencia y Universidades, por la que se dispone la publicación de la convocatoria del contrato denominado: “Servicio de limpieza de diferentes inmuebles de la Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid” a adjudicar por procedimiento abierto con una pluralidad de criterios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/13/BOCM-20240813-10.PDF"
