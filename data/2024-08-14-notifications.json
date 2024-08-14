@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Convenio de 31 de julio de 2024, entre la Comunidad de Madrid (Consejería de Medio Ambiente, Agricultura e Interior) y el Ayuntamiento de Gargantilla del Lozoya y Pinilla de Buitrago, en materia de animales potencialmente peligrosos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/14/BOCM-20240814-39.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Resolución de 1 de agosto de 2024, de Canal de Isabel II, S. A., M. P., por la que se hace pública la formalización del contrato adjudicado por procedimiento abierto para servicio de calibrado y adquisición de sistemas de detección biológica multiplexados de bajo coste para la medición de biomarcadores en las aguas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/14/BOCM-20240814-40.PDF"
     }
