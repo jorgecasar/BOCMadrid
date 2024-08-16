@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Meco",
-      "description": "Régimen económico: Ordenanza fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/16/BOCM-20240816-66.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Navacerrada",
       "description": "Organización y funcionamiento: Nombramiento personal eventual",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/16/BOCM-20240816-67.PDF"
