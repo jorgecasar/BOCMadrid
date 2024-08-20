@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Colmenarejo",
-      "description": "Personal: Nombramiento funcionarias carrera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/20/BOCM-20240820-34.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Coslada",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/20/BOCM-20240820-35.PDF"
