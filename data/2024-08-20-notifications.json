@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 3488/2024, de 5 de agosto, del Consejero de Educación, Ciencia y Universidades, por la que se conceden los premios correspondientes al IX Concurso de Oratoria en Primaria de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/20/BOCM-20240820-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Orden 2254/2024, de 5 de agosto, de la Consejería de Familia, Juventud y Asuntos Sociales, por la que se actualizan anexos de la Orden 2372/2023, de 25 de julio, de la Consejería de Familia, Juventud y Asuntos Sociales, por la que se aprueba la Cartera de Servicios Sociales de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/20/BOCM-20240820-12.PDF"
