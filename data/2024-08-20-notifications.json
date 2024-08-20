@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Las Rozas de Madrid",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/20/BOCM-20240820-45.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Navacerrada",
       "description": "Personal: Nombramiento funcionario carrera",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/20/BOCM-20240820-46.PDF"
