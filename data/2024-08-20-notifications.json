@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Rozas de Puerto Real",
-      "description": "Régimen económico: Ordenanza fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/20/BOCM-20240820-47.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Rozas de Puerto Real",
       "description": "Régimen económico: Coeficientes valor terrenos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/20/BOCM-20240820-48.PDF"
     }
