@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio de colaboración de 30 de julio de 2024, en materia de Educación Infantil suscrito entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y el Ayuntamiento de Tres Cantos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/21/BOCM-20240821-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Resolución de 12 de julio de 2024, de la Dirección-Gerencia del Consorcio Regional de Transportes de Madrid, por la que se dispone la publicación, en los boletines oficiales y en el “perfil del contratante”, de la formalización del contrato denominado “Toma de datos de la explotación de las distintas redes de transporte de la Comunidad de Madrid (2024)”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/21/BOCM-20240821-10.PDF"
