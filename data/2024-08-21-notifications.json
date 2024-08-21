@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Pozuelo de Alarcón",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/21/BOCM-20240821-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "San Lorenzo de El Escorial",
       "description": "Organización y funcionamiento: Delegación funciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/21/BOCM-20240821-36.PDF"
