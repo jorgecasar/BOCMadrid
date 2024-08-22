@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Fresnedillas de la Oliva",
-      "description": "Ofertas de empleo: Oferta empleo público",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/22/BOCM-20240822-40.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Fuente el Saz de Jarama",
       "description": "Régimen económico: Cuenta general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/22/BOCM-20240822-41.PDF"
