@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "description": "Resolución 3804/2024, de 9 de agosto, por la que se efectúa la corrección de errores materiales advertidos en la Resolución 3629/2024, de 22 de julio, por la que se tienen por desistidos a beneficiarios de la ayuda del bono social térmico 2020",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/23/BOCM-20240823-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Anuncio de 14 de agosto de 2024, por el que se convoca licitación para la contratación de servicios de “Identificación y captación de inversión extranjera directa para la Comunidad de Madrid, para la Fundación Madrid por la Competitividad”. (Expediente 22-2024)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/23/BOCM-20240823-9.PDF"
