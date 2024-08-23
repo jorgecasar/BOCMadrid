@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Alcalá de Henares",
-      "description": "Organización y funcionamiento: Delegación funciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/23/BOCM-20240823-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Alcalá de Henares",
       "description": "Régimen económico: Precios públicos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/23/BOCM-20240823-22.PDF"
     }
