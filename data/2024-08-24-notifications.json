@@ -1,0 +1,62 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 202,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2024/08/24/BOCM-20240824202.PDF",
+      "total": 10,
+      "items": {
+        "Comunidad de Madrid": 6,
+        "Administración de Justicia": 4
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 12 de agosto de 2024, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa BSH Electrodomésticos España, S. A. (código número 28103891012024)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/24/BOCM-20240824-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 12 de agosto de 2024, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa Ouigo España, S. A. U. (código número 28103902012024)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/24/BOCM-20240824-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 12 de agosto de 2024, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa Limpieza Viaria y Recogida de Residuos Sólidos Urbanos Ciempozuelos (código número 28103411012022)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/24/BOCM-20240824-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 12 de agosto de 2024, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa Vertederos de Residuos, S. A.-Urbaser, S. A. (UTE Las Dehesas) (código número 28103091012021)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/24/BOCM-20240824-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 12 de agosto de 2024, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo del sector de transporte de pasajeros de la Comunidad de Madrid en vehículo de turismo mediante arrendamiento con licencia VTC, suscrito por las organizaciones empresariales Unauto VTC Madrid y Aseval, y por la representación sindical el Sindicato Libre de Transporte (SLT) (código número 28103225012022)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/24/BOCM-20240824-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Convenio de 5 de agosto de 2024, entre la Comunidad de Madrid, a través de la Consejería de Educación, Ciencia y Universidades y la Universidad Complutense de Madrid, para la concesión directa de una subvención destinada a financiar durante 2024, los gastos derivados de la gestión del Distrito Universitario Único Madrileño, por importe de 300.000 euros",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/24/BOCM-20240824-6.PDF"
+    }
+  }
+]
