@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Villalbilla",
-      "description": "Régimen económico: Ordenanza ayudas económicas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/26/BOCM-20240826-52.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Villalbilla",
       "description": "Régimen económico: Ordenanza fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/26/BOCM-20240826-53.PDF"
     }
