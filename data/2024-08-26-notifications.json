@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "El Escorial",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/26/BOCM-20240826-39.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Fuenlabrada",
       "description": "Organización y funcionamiento: Ordenanza zona bajas emisiones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/26/BOCM-20240826-40.PDF"
