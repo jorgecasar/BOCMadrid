@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "San Agustín del Guadalix",
-      "description": "Ofertas de empleo: Oferta empleo público",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/26/BOCM-20240826-46.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "San Martín de la Vega",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/26/BOCM-20240826-47.PDF"
