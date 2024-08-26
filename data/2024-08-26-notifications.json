@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Extracto de la Orden de 26 de julio de 2024, de la Consejería de Economía, Hacienda y Empleo, por la que se convocan ayudas a proyectos de inversión para la modernización, digitalización e innovación tecnológica de las pequeñas y medianas empresas y empresarios individuales de los sectores comercial, de servicios y artesano de la Comunidad de Madrid para el año 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/26/BOCM-20240826-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 3430/2024, de 5 de agosto, del Consejero de Educación, Ciencia y Universidades, por la que se convocan para el año 2024 los Premios “Fermina Orduña”, de la Comunidad de Madrid, a la innovación tecnológica",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/26/BOCM-20240826-14.PDF"
