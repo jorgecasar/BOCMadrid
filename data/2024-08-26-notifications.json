@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "San Martín de la Vega",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/26/BOCM-20240826-47.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "San Martín de Valdeiglesias",
       "description": "Organización y funcionamiento: Programa gestión colonias felinas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/26/BOCM-20240826-48.PDF"
