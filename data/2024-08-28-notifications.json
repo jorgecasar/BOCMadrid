@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Orden 1361/2024, de 19 de agosto, de la Consejera de Sanidad, por la que se resuelve la convocatoria aprobada por Orden 758/2024, de 7 de mayo, de esta Consejería de Sanidad (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 20 de mayo), para la provisión de un puesto de trabajo vacante en la citada Consejería por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/28/BOCM-20240828-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 29 de julio de 2024, de la Universidad Complutense de Madrid, por la que se convoca concurso de acceso a plaza de Cuerpos Docentes Universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/28/BOCM-20240828-7.PDF"
