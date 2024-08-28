@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Getafe",
-      "description": "Ofertas de empleo: Bases proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/28/BOCM-20240828-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Lozoya",
       "description": "Ofertas de empleo: Proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/28/BOCM-20240828-31.PDF"
