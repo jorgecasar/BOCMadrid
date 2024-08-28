@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcalá de Henares",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/28/BOCM-20240828-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Belmonte de Tajo",
       "description": "Régimen económico: Cuenta general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/28/BOCM-20240828-23.PDF"
