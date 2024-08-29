@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Boadilla del Monte",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/29/BOCM-20240829-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Boadilla del Monte",
       "description": "Ofertas de empleo: Oferta empleo público",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/29/BOCM-20240829-26.PDF"
     }
