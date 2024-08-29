@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "San Fernando de Henares",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/29/BOCM-20240829-39.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Torrejón de Ardoz",
       "description": "Régimen económico: Padrones fiscales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/29/BOCM-20240829-40.PDF"
