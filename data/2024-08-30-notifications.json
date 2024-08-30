@@ -1,17 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 207,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2024/08/30/BOCM-20240830207.PDF",
-      "total": 90,
-      "items": {
-        "Comunidad de Madrid": 65,
-        "Administración Local Ayuntamientos": 25
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
