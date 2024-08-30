@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Acuerdo de 28 de agosto de 2024, del Consejo de Gobierno, por el que se reelige a vocales del Consejo Social de la Universidad Autónoma de Madrid, en representación de la comunidad universitaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/30/BOCM-20240830-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Acuerdo de 28 de agosto de 2024, del Consejo de Gobierno, por el que se cesa y se nombra a vocales del Consejo Social de la Universidad Autónoma de Madrid y del Consejo Social de la Universidad Complutense de Madrid, en representación de los intereses sociales, designados por el Ayuntamiento de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/30/BOCM-20240830-15.PDF"
     }
