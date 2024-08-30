@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 28 de agosto de 2024, del Rector Magnífico de la Universidad Rey Juan Carlos, por la que se dispone la publicación de la modificación parcial de la Relación de Puestos de Trabajo de Personal Técnico, Gestión y Administración y Servicios de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/30/BOCM-20240830-41.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 3454/2024, de 8 de agosto, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria de ayudas para la contratación de personal investigador predoctoral en formación de 2023",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/30/BOCM-20240830-42.PDF"
