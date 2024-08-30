@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Decreto 87/2024, de 28 de agosto, del Consejo de Gobierno, por el que se establece para la Comunidad de Madrid el plan de estudios del curso de especialización de formación profesional en Modelado de la Información de la Construcción (BIM)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/30/BOCM-20240830-3.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Decreto 88/2024, de 28 de agosto, del Consejo de Gobierno, por el que se establece para la Comunidad de Madrid el plan de estudios del curso de especialización de formación profesional en Digitalización del Mantenimiento Industrial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/30/BOCM-20240830-4.PDF"
     }
