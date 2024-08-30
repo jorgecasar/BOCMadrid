@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Decreto 89/2024, de 28 de agosto, del Consejo de Gobierno, por el que se establece para la Comunidad de Madrid el plan de estudios de las enseñanzas conducentes a la obtención del título de Técnico Deportivo en Atletismo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/30/BOCM-20240830-5.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Orden de 8 de agosto de 2024, del Consejero de Presidencia, Justicia y Administración Local, por la que se modifica la composición del Tribunal Calificador del proceso selectivo para el ingreso en el Cuerpo de Letrados, de Administración Especial, Grupo A, Subgrupo A1, de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/30/BOCM-20240830-6.PDF"
