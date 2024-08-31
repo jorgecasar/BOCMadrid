@@ -1,0 +1,45 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 208,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2024/08/31/BOCM-20240831208.PDF",
+      "total": 4,
+      "items": {
+        "Comunidad de Madrid": 4
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Convenio de 6 de agosto de 2024, sobre Cooperación Estadística e Intercambio de Información entre el Instituto Nacional de Estadística y la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/31/BOCM-20240831-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Convenio de 2 de julio de 2024, entre la Comunidad de Madrid (a través de la Consejería de Vivienda, Transportes e Infraestructuras) y la Empresa Municipal del Suelo y la Vivienda de Getafe, S. A., en virtud del cual se instrumenta la concesión directa de una subvención para la prestación de servicios de oficina de rehabilitación y para la ejecución de actuaciones de urbanización, reurbanización y mejora del entorno físico en el Entorno Residencial de Rehabilitación Programada de “Barrio Juan de la Cierva. Fase I”, en el municipio de Getafe, y se definen las obligaciones de la Empresa Municipal del Suelo y la Vivienda de Getafe, S. A., como entidad colaboradora, dentro del Programa 1 del Real Decreto 853/2021, de 5 de octubre, y en el Marco de C02.I01 del Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea, Next-Generation-EU",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/31/BOCM-20240831-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Convenio de 24 de julio de 2024, de cooperación educativa entre la Comunidad de Madrid, a través de la Consejería de Sanidad, el Servicio Madrileño de Salud, el Hospital Universitario Fundación Alcorcón y la Fundación José Ortega y Gasset-Gregorio Marañón (Instituto Universitario de Investigación Ortega-Marañón), para la realización de prácticas del Máster Oficial Universitario de Bioética Clínica en centros sanitarios de la Red Pública de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/31/BOCM-20240831-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Convenio de 30 de julio de 2024, de cooperación educativa entre la Comunidad de Madrid, a través de la Consejería de Sanidad, el Servicio Madrileño de Salud y la Escuela de Enfermería y Fisioterapia “San Juan de Dios”, integrada en la Universidad Pontificia Comillas, para el desarrollo de prácticas formativas por parte de estudiantes del “Máster Universitario en Cuidados Paliativos” en centros sanitarios del SERMAS",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/08/31/BOCM-20240831-4.PDF"
+    }
+  }
+]
