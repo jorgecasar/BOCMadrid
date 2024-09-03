@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Acuerdo de 27 de agosto de 2024, del Consejo de Administración de la Agencia de Contratación Sanitaria de la Comunidad de Madrid, por el que se delega el ejercicio de determinadas competencias",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/03/BOCM-20240903-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Acuerdo de 27 de agosto de 2024, del Consejo de Administración de la Agencia de Contratación Sanitaria de la Comunidad de Madrid, por la que se designa, con carácter permanente, a los miembros de la Mesa de Contratación de la Agencia de Contratación Sanitaria de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/03/BOCM-20240903-33.PDF"
     }
