@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Corrección de errores del extracto de la Orden de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se amplía el plazo de presentación de solicitudes establecido en la Orden de 6 de mayo de 2024, de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se convocan subvenciones para la ejecución de obras de mejora o rehabilitación de edificios de uso predominante residencial para vivienda previstas dentro en el Programa 1 –de ayuda a las actuaciones de rehabilitación a nivel de barriodel Real Decreto 853/2021, de 5 de octubre, y en el marco de C02.I01 del Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea-Next Generation EU, en el Entorno Residencial de Rehabilitación Programada de “El Gorronal. Fase I”, en el municipio de Collado Villalba",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/03/BOCM-20240903-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Acuerdo de 27 de agosto de 2024, del Consejo de Administración de la Agencia de Contratación Sanitaria de la Comunidad de Madrid, por el que se delega el ejercicio de determinadas competencias",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/03/BOCM-20240903-32.PDF"
