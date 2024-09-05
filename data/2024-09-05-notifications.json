@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Parla",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/05/BOCM-20240905-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Pozuelo del Rey",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/05/BOCM-20240905-36.PDF"
