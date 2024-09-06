@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Disposiciones y Anuncios del Estado",
-      "description": "Instituto Nacional de Estadística. Delegación Provincial de la Oficina del Censo Electoral de Madrid. Sorteo candidatos a jurados",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/06/BOCM-20240906-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Disposiciones y Anuncios del Estado",
       "description": "Ministerio para la Transición Ecológica y el Reto Demográfico. Dirección General de Política Energética y Minas. Autorización administrativa",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/06/BOCM-20240906-33.PDF"
     }
