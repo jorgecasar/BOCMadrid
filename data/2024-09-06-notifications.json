@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 4045/2024, de 5 de septiembre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria de becas para comedor escolar para alumnos escolarizados en centros sostenidos con fondos públicos de la Comunidad de Madrid para el curso 2024-2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/06/BOCM-20240906-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Orden 2927/2024, de 26 de agosto, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se modifica la Orden 684/2016, de 28 de abril, por la que se establecen las bases reguladoras de las ayudas destinadas a las Agrupaciones de Defensa Sanitaria ganaderas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/06/BOCM-20240906-12.PDF"
