@@ -1,17 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 214,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2024/09/07/BOCM-20240907214.PDF",
-      "total": 12,
-      "items": {
-        "Comunidad de Madrid": 7,
-        "Administración de Justicia": 5
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
