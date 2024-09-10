@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Régimen económico: O. A",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/09/BOCM-20240909-47.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Contratación: Área de Gobierno de Economía, Innovación y Hacienda. Concesión demanial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/09/BOCM-20240909-48.PDF"
     }
