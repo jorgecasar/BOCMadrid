@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 9 de septiembre de 2024, de la Universidad Autónoma de Madrid, por la que se convoca proceso selectivo para la constitución de una lista de espera de funcionarios/as interinos/as de la Escala Especial Técnica de Servicios de la Universidad Autónoma de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/11/BOCM-20240911-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Carlos III",
       "description": "Resolución de 2 de septiembre de 2024, de la Universidad Carlos III de Madrid, por la que se anuncia la publicación de la convocatoria de proceso selectivo, por el sistema general de acceso libre por concurso oposición, para el ingreso en la Escala Auxiliar Administrativa de la Universidad Carlos III de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/11/BOCM-20240911-14.PDF"
