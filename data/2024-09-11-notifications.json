@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Disposiciones y Anuncios del Estado",
-      "description": "Ministerio para la Transición Ecológica y el Reto Demográfico. Área Funcional de Industria y Energía. Autorización administrativa",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/11/BOCM-20240911-42.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Disposiciones y Anuncios del Estado",
       "description": "Ministerio para la Transición Ecológica y el Reto Demográfico. Dirección General de Política Energética y Minas. Autorización administrativa",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/11/BOCM-20240911-43.PDF"
     }
