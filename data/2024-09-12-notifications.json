@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Boadilla del Monte",
-      "description": "Urbanismo: Calificación suelo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/12/BOCM-20240912-39.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Casarrubuelos",
       "description": "Régimen económico: Padrón fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/12/BOCM-20240912-40.PDF"
