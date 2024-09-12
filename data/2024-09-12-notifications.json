@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Ciempozuelos",
-      "description": "Régimen económico: Ordenanza fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/12/BOCM-20240912-41.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Ciempozuelos",
       "description": "Ofertas de empleo: Proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/12/BOCM-20240912-42.PDF"
     }
