@@ -1,18 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 218,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2024/09/12/BOCM-20240912218.PDF",
-      "total": 58,
-      "items": {
-        "Comunidad de Madrid": 35,
-        "Disposiciones y Anuncios del Estado": 1,
-        "Administración Local Ayuntamientos": 22
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
