@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Pinto",
-      "description": "Organización y funcionamiento: Junta Gobierno",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/12/BOCM-20240912-52.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Sevilla la Nueva",
       "description": "Régimen económico: Padrón fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/12/BOCM-20240912-53.PDF"
