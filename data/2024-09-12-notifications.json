@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Disposiciones y Anuncios del Estado",
-      "description": "Ministerio de Hacienda y Función Pública. Gerencia Regional del Catastro de Madrid. Notificación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/12/BOCM-20240912-36.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Madrid",
       "description": "Régimen económico: O. A",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/12/BOCM-20240912-37.PDF"
