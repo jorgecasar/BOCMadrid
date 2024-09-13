@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "El Molar",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/13/BOCM-20240913-52.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Fuenlabrada",
       "description": "Régimen económico: Centro de Iniciativas para la Formación y el Empleo (CIFE). Extracto convocatoria subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/13/BOCM-20240913-53.PDF"
