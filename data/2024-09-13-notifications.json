@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Parla",
-      "description": "Régimen económico: Padrón fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/13/BOCM-20240913-59.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Pinto",
       "description": "Organización y funcionamiento: Delegación funciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/13/BOCM-20240913-60.PDF"
