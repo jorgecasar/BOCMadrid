@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Las Rozas de Madrid",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/13/BOCM-20240913-56.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Las Rozas de Madrid",
       "description": "Urbanismo: Disolución junta compensación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/13/BOCM-20240913-57.PDF"
     }
