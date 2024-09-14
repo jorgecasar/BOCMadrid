@@ -1,0 +1,46 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 220,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2024/09/14/BOCM-20240914220.PDF",
+      "total": 9,
+      "items": {
+        "Comunidad de Madrid": 4,
+        "Administración de Justicia": 5
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 27 de agosto de 2024, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa Ascan Servicios Urbanos, Sociedad Limitada (código número 28103131012021)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/14/BOCM-20240914-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 1 de septiembre de 2024, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa Valoriza Servicios Medioambientales en el servicio de recogida selectiva de envases de Fuenlabrada (código número 28103651012023)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/14/BOCM-20240914-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Convenio de 29 de agosto de 2024, entre el Servicio Madrileño de Salud y la Asociación Adela Madrid, mediante el que se instrumenta una subvención nominativa, por importe de 240.000 euros, para la atención domiciliaria y actuaciones terapéuticas de fisioterapia y logopedia de las personas afectadas por esclerosis lateral amiotrófica (ELA) y la potenciación de la información y formación sanitaria de pacientes y familias para el año 2024",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/14/BOCM-20240914-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 30 de agosto de 2024, entre la Comunidad de Madrid y la Asociación Diversa Global, para el posicionamiento turístico, nacional e internacional, de la Comunidad de Madrid como destino turístico inclusivo para la diversidad. 2025-2026",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/14/BOCM-20240914-4.PDF"
+    }
+  }
+]
