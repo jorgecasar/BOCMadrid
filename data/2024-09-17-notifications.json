@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Régimen económico: Área de Gobierno de Economía, Innovación y Hacienda. Extracto convocatoria subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/17/BOCM-20240917-55.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Régimen económico: Distrito de Vicálvaro. Extracto convocatoria subvenciones I",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/17/BOCM-20240917-56.PDF"
     }
