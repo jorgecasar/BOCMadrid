@@ -1,17 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 222,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2024/09/17/BOCM-20240917222.PDF",
-      "total": 79,
-      "items": {
-        "Comunidad de Madrid": 54,
-        "Administración Local Ayuntamientos": 25
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
