@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Moralzarzal",
-      "description": "Régimen económico: Ordenanza fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-55.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Moralzarzal",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-56.PDF"
     }
