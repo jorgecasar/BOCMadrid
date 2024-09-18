@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Ajalvir",
-      "description": "Régimen económico: Ordenanza fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-46.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Aranjuez",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-47.PDF"
