@@ -1,0 +1,574 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 223,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2024/09/18/BOCM-20240918223.PDF",
+      "total": 70,
+      "items": {
+        "Comunidad de Madrid": 41,
+        "Administración Local Ayuntamientos": 29
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia y Administración Local",
+      "description": "Orden de 9 de septiembre de 2024, del Consejero de Presidencia, Justicia y Administración Local, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en la Consejería de Presidencia, Justicia y Administración Local, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 6 de septiembre de 2024, de la Consejería de Economía, Hacienda y Empleo, por la que se nombra personal funcionario de carrera del Cuerpo de Ingenieros y Arquitectos Técnicos, Escala de Ingeniería Técnica, Especialidad de Industria, Energía y Minas, de Administración Especial, Grupo A, Subgrupo A2, de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 9 de septiembre de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en la Consejería de Economía, Hacienda y Empleo, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 9 de septiembre de 2024, de la Consejera de Economía, Hacienda y Empleo, por la que se resuelve la convocatoria aprobada por Orden de 26 de junio de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 9 de julio de 2024), para la provisión de un puesto de trabajo en dicha Consejería por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 12 de septiembre de 2024, de  la Consejería de Economía, Hacienda y Empleo, por la que se procede a la corrección de la Orden de 5 de septiembre de 2024, por la que se nombran funcionarios de carrera del Cuerpo de Diplomados en Salud Pública, Escala de Salud Pública, Especialidad de Enfermería, de Administración Especial, Grupo A, Subgrupo A2, de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 6 de septiembre de 2024, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden de la Consejera de Economía, Hacienda y Empleo de 10 de mayo de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 23 de mayo), para la provisión de tres puestos de trabajo vacantes en dicha Consejería, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 6 de septiembre de 2024, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden de la Consejera de Economía, Hacienda y Empleo de 27 de junio de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 10 de julio), para la provisión de un puesto de trabajo vacante en dicha Consejería, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 6 de septiembre de 2024, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden de la Consejera de Economía, Hacienda y Empleo de 11 de junio de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 25 de junio), para la provisión de un puesto de trabajo vacante en la Consejería de Vivienda, Transportes e Infraestructuras, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-8.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 9 de septiembre de 2024, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden de la Consejera de Economía, Hacienda y Empleo, de 8 de julio de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 23 de julio), para la provisión de un puesto de trabajo vacante en dicha Consejería, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-9.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Corrección de errores de la Resolución de 10 de septiembre de 2024, de la Dirección General de Recursos Humanos, por la que se convocan listas extraordinarias permanentemente abiertas en determinadas especialidades del Cuerpo de Profesores de Enseñanza Secundaria y del Cuerpo de Profesores de Música y Artes Escénicas",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-10.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Orden de 6 de septiembre de 2024, de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se resuelve la convocatoria aprobada por Orden de 1 de julio de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 16 de julio), para la provisión de un puesto de trabajo en dicha Consejería (Agencia de Vivienda Social) por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-11.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Orden de 9 de septiembre de 2024, de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se resuelve la convocatoria aprobada por Orden de 18 de abril de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 30 de abril), para la provisión de varios puestos de trabajo vacantes en dicha consejería por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-12.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Orden 2974/2024, de 6 de septiembre, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se resuelve la convocatoria aprobada por Orden 1781/2024, de 21 de mayo (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 30 de mayo de 2024), para la provisión de puestos de trabajo vacantes en dicha Consejería por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-13.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Anuncio de 9 de septiembre de 2024, por el que se hace pública la convocatoria del proceso selectivo para la cobertura de 3 plazas (una con cargo a la tasa de reposición y dos con cargo a la tasa de reposición específica), autorizadas por la Consejería de Economía, Hacienda y Empleo de la Comunidad de Madrid, en fechas 4 de junio de 2024 y 15 de abril de 2024, respectivamente",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-14.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Orden 2581/2024, de 6 de septiembre, de la Consejera de Familia, Juventud y Asuntos Sociales, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante, por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-15.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Orden 2586/2024, de 6 de septiembre, de la Consejera de Familia, Juventud y Política Social, por la que se resuelve la convocatoria aprobada por Orden 1409/2024, de 23 de abril (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 7 de mayo de 2024), corrección de errores (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 27 de mayo de 2024), para la provisión de varios puestos de trabajo vacantes en la Agencia Madrileña de Atención Social por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-16.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Orden 1639/2024, de 5 de septiembre, de la Consejería de Cultura, Turismo y Deporte, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en dicha Consejería, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-17.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Orden 1641/2024, de 6 de septiembre, de la Consejería de Cultura, Turismo y Deporte, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicha Consejería, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-18.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 30 de agosto de 2024, de la Consejera de Economía, Hacienda y Empleo, de 30 de agosto de 2024, por la que se declara el importe del crédito presupuestario, destinado a la ampliación del crédito disponible para la concesión directa en el año 2024, de ayudas para el fomento de la responsabilidad social y la conciliación laboral",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-19.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Acuerdo de 3 de julio de 2024, del Consejo de Gobierno, por el que se suprime el Precio Público “Servicios del Plan Alquila”, Epígrafe “D 04” del Anexo I del Acuerdo de 23 de julio de 1998, del Consejo de Gobierno, por el que se establece el Catálogo actualizado de Servicios y Actividades susceptibles de ser retribuidos mediante precios públicos en el ámbito de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-20.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Orden 2571/2024, de 3 de septiembre, de la Consejera de Familia, Juventud y Asuntos Sociales, por la que se amplía el plazo máximo para resolver y notificar establecido en el dispongo décimo quinto apartado 2 de la Orden 1419/2024, de 25 de abril, de la Consejera de Familia, Juventud y Asuntos Sociales de la Comunidad de Madrid, por la que se convocan, para el año 2024, subvenciones a entidades sin fin de lucro, en concepto mantenimiento de centros y servicios, para la atención social especializada a personas con enfermedad mental grave y duradera",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-21.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Orden 1571/2024, de 3 de septiembre, de la Consejería de Cultura, Turismo y Deporte, por la que se amplía el plazo máximo para resolver y notificar establecido en la Orden 2317/2023, de 27 de diciembre, de la Consejería de Cultura, Turismo y Deporte, por la que se convocan las ayudas a entidades culturales privadas sin ánimo de lucro para la realización de actividades culturales relacionadas con el teatro, la música, la danza, la cinematografía, las artes visuales y la moda como disciplina creativa para el año 2024, modificada por la Orden 513/2024, de 15 de marzo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-22.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Orden 1572/2024, de 3 de septiembre, de la Consejería de Cultura, Turismo y Deporte, por la que se amplía el plazo máximo para resolver y notificar establecido en la Orden 408/2024, de 28 de febrero, de la Consejería de Cultura, Turismo y Deporte, por la que se convocan las ayudas a municipios de la Comunidad de Madrid para la realización de actividades relacionadas con el teatro, la danza, la música y la cinematografía para el año 2024",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-23.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Orden 1579/2024, de 3 de septiembre, de la Consejería de Cultura, Turismo y Deporte, por la que se amplía el plazo máximo para resolver y notificar establecido en la Orden 292/2024, de 13 de marzo, de la Consejería de Cultura, Turismo y Deporte, por la que se convocan ayudas a la creación en artes visuales para el año 2024",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-24.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 30 de agosto de 2024, de la Dirección General de Patrimonio y Contratación, por la que se dispone la publicación, en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante”, de la adenda modificativa del contrato de arrendamiento de la planta segunda del edificio Serantes, sito en la plaza de Pablo Ruiz Picasso, número 11, de Madrid, para albergar unidades administrativas dependientes de la División de Empleo de la Consejería de Economía, Hacienda y Empleo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-25.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Digitalización",
+      "description": "Resolución de 3 de septiembre de 2024, de la Consejera-Delegada de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se dispone la publicación, en los boletines oficiales y en el “perfil del contratante”, de la formalización del contrato titulado “Mantenimiento de licencias de software de Documentum-Opentext”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-26.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Convenio de colaboración de 26 de agosto de 2024, en materia de Educación Infantil suscrito entre la Comunidad de Madrid, Consejería de Educación, Ciencia y Universidades y el Ayuntamiento de Algete",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-27.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Convenio de colaboración de 29 de agosto de 2024, en materia de Educación Infantil, suscrito entre la Comunidad de Madrid, Consejería de Educación, Ciencia y Universidades, y el Ayuntamiento de Aranjuez",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-28.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Convenio de colaboración de 29 de agosto de 2024, en materia de Educación Infantil, suscrito entre la Comunidad de Madrid, Consejería de Educación, Ciencia y Universidades, y el Ayuntamiento de Boadilla del Monte",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-29.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Anuncio de 16 de septiembre de 2024, por el que se convoca la licitación para la contratación del “Suministro de bandajes para el mantenimiento de ruedas elásticas de los vehículos de material móvil de Metro de Madrid” (expediente 6012400321)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-30.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 4 de septiembre de 2024, del Secretario General Técnico de la Consejería de Sanidad, por la que se dispone la publicación en el “perfil del contratante” de Internet y en los diarios oficiales del anuncio de formalización del contrato de Servicios denominado: “Vigilancia y seguridad de los inmuebles donde se ubican las unidades administrativas de la Consejería de Sanidad de la Comunidad de Madrid 2024-2026.” Expediente 2/2024 (A/SER-002063/2024C01)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-31.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 4 de septiembre de 2024, del Director General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se emplaza a los interesados en el recurso contencioso-administrativo, procedimiento ordinario número 508/2023, a fin de que puedan personarse en autos, si a su derecho conviniere",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-32.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 5 de septiembre de 2024, del Director General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se emplaza a los interesados en el recurso contencioso-administrativo, procedimiento ordinario número 938/2024, a fin de que puedan personarse en autos, si a su derecho conviniere",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-33.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 5 de septiembre de 2024, de la Dirección-Gerencia del Hospital Universitario “Ramón y Cajal”, por la que se dispone la publicación en los boletines oficiales y en el “perfil de contratante” en Internet de la formalización del contrato de: «Suministro de prótesis de rodilla primaria con destino al Servicio de Traumatología del Hospital Universitario “Ramón y Cajal”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-34.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 5 de septiembre de 2024, de la Gerencia del Hospital Universitario “La Paz”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la convocatoria del contrato de: “Suministro de kits de parches de hidrogel para hipotermia y normotermia”. P. A. 2024-0-73",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-35.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 4 de septiembre de 2024, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización de la prórroga del contrato para el «Servicio de mantenimiento de los equipos electromédicos marca General Electric Healthcare instalados en el Hospital Universitario “12 de Octubre” y sus Centros de Especialidades periféricos adscritos (Carabanchel, Orcasitas y Villaverde)»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-36.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 4 de septiembre de 2024, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato mixto de «Suministro y servicio de implantación y soporte de la plataforma tecnológica del proveedor Mysphera para la identificación, localización y trazabilidad de los pacientes atendidos en los nuevos quirófanos y salas de intervencionismo del Nuevo Bloque Técnico y de Hospitalización (NBTYH) y a los quirófanos de cirugía mayor ambulatoria (CMA) del centro ambulatorio (CAA) del Hospital Universitario “12 de Octubre”, en el marco del proyecto de quirófanos inteligentes»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-37.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 5 de septiembre de 2024, del Director-Gerente del Hospital Clínico “San Carlos” de Madrid, dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del adelanto de la tercera prórroga del contrato del PA 2022-0-022, “Suministro de prótesis valvulares cardíacas para el Servicio de Cirugía Cardiaca del Hospital Clínico “San Carlos” de Madrid”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-38.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 3 de septiembre de 2024, del Director General de Agricultura, Ganadería y Alimentación, por la que se anuncia la exposición pública relativa a la autorización de ocupación temporal de la vía pecuaria Vereda de Valdecabañas, en el término municipal de Arganda del Rey, para realizar obras de renovación red de abastecimiento contrato 102/2018, lote 8, calle Valdecabañas, actuación promovida por Canal de Isabel II, M. P., S. A. (Exp. Ocup. 0549/24)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-39.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Resolución de 6 de septiembre de 2024, de la Gerencia de la Agencia Madrileña de Atención Social, por la que se dispone la publicación, en los boletines oficiales y en el “perfil del contratante”, de la formalización del lote 3 del expediente titulado “Transporte escolar para residencias infantiles adscritas a la Agencia Madrileña de Atención Social, para los cursos escolares 2024-2025 y 2025-2026 (seis lotes)”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-40.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Adenda primera de 3 de septiembre de 2024, al convenio entre la Comunidad de Madrid y la Asociación de Productores y Teatros de Madrid (APTEM), para el posicionamiento turístico de la Comunidad de Madrid como destino mundial del musical en español",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-41.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Organización y funcionamiento: Área de Gobierno de Vicealcaldía, Portavoz, Seguridad y Emergencias. Oferta empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-42.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Régimen económico: Distrito de Villaverde. Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-43.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Urbanismo: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Estudio detalle",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-44.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Ajalvir",
+      "description": "Organización y funcionamiento: Ordenanza convivencia ciudadana",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-45.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Ajalvir",
+      "description": "Régimen económico: Ordenanza fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-46.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Aranjuez",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-47.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Aranjuez",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-48.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Cobeña",
+      "description": "Organización y funcionamiento: Ordenanza fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-49.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Colmenar Viejo",
+      "description": "Otros anuncios: Desafectación dominio público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-50.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Gargantilla del Lozoya y Pinilla de Buitrago",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-51.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Gargantilla del Lozoya y Pinilla de Buitrago",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-52.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Guadarrama",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-53.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Hoyo de Manzanares",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-54.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Moralzarzal",
+      "description": "Régimen económico: Ordenanza fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-55.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Moralzarzal",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-56.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Móstoles",
+      "description": "Personal: Nombramiento",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-57.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Paracuellos de Jarama",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-58.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Paracuellos de Jarama",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-59.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Paracuellos de Jarama",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-60.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Pinto",
+      "description": "Licencias: Licencia actividad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-61.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Martín de Valdeiglesias",
+      "description": "Régimen económico: Matrícula impuestos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-62.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Martín de Valdeiglesias",
+      "description": "Régimen económico: Matrícula impuestos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-63.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Valdemoro",
+      "description": "Régimen económico: Ordenanzas fiscales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-64.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villalbilla",
+      "description": "Régimen económico: Padrones fiscales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-65.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villanueva de la Cañada",
+      "description": "Régimen económico: Ordenanza fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-66.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villanueva del Pardillo",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-67.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villaviciosa de Odón",
+      "description": "Ofertas de empleo: Oferta empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-68.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Mancomunidad Intermunicipal de Servicios Sociales Las Vegas",
+      "description": "Régimen económico: Cuenta general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-69.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Mancomunidad de Servicios Sociales Mejorada-Velilla",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-70.PDF"
+    }
+  }
+]
