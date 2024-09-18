@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Régimen económico: Distrito de Villaverde. Extracto convocatoria subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-43.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Urbanismo: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Estudio detalle",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/18/BOCM-20240918-44.PDF"
     }
