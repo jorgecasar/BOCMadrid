@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 3717/2024, de 4 de septiembre, del Consejero de Educación, Ciencia y Universidades, por la que se conceden los premios del XV Concurso de Narración y de Recitado de Poesía para los alumnos de Educación Primaria en la Comunidad de Madrid, correspondientes al curso escolar 2023-2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/19/BOCM-20240919-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Acuerdo de 18 de septiembre de 2024, del Consejo de Gobierno, por el que se concede la Medalla Internacional de las Artes de la Comunidad de Madrid, en su edición de 2024, a don Manuel Álvarez-Beigbeder Pérez, conocido artísticamente como Manuel Alejandro",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/19/BOCM-20240919-10.PDF"
