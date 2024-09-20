@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Ambite",
-      "description": "Régimen económico: Ordenanza fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/19/BOCM-20240919-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Anchuelo",
       "description": "Régimen económico: Presupuesto general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/19/BOCM-20240919-33.PDF"
