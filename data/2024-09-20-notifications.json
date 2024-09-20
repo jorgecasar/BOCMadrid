@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Disposiciones y Anuncios del Estado",
-      "description": "Ministerio de Trasnportes y Movilidad Sostenible. Demarcación de Carreteras del Estado en Madrid. Expropiación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/19/BOCM-20240919-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Disposiciones y Anuncios del Estado",
       "description": "Ministerio de Transportes y Movilidad Sostenible. Demarcación de Carreteras del Estado en Madrid. Expropiación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/19/BOCM-20240919-27.PDF"
     }
