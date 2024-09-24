@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 20 de septiembre de 2024, de la Gerencia de la Universidad de Alcalá, por la que anuncia la publicación de convocatorias de concurso-oposición de promoción interna y libre para la provisión de puestos vacantes de personal técnico, de gestión y de administración y servicios laboral",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/24/BOCM-20240924-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 2 de septiembre de 2024, de la Universidad Rey Juan Carlos, por la que se convoca concurso de acceso a plazas de Cuerpos Docentes Universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/24/BOCM-20240924-12.PDF"
