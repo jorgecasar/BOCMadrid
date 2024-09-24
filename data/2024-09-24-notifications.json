@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Los Santos de la Humosa",
-      "description": "Régimen económico: Ordenanza fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/24/BOCM-20240924-51.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Navalcarnero",
       "description": "Urbanismo: Plan especial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/24/BOCM-20240924-52.PDF"
