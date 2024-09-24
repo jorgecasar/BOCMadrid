@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Braojos",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/24/BOCM-20240924-41.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Collado Mediano",
       "description": "Régimen económico: Anulación devolución ingresos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/24/BOCM-20240924-42.PDF"
