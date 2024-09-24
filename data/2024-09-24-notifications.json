@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Hoyo de Manzanares",
-      "description": "Régimen económico: Notificación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/24/BOCM-20240924-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Hoyo de Manzanares",
       "description": "Urbanismo: Estudio detalle",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/24/BOCM-20240924-50.PDF"
     }
