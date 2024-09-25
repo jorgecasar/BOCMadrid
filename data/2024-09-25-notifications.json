@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Aranjuez",
-      "description": "Personal: Nombramiento",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/25/BOCM-20240925-52.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Camarma de Esteruelas",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/25/BOCM-20240925-53.PDF"
