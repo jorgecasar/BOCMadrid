@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Digitalización",
-      "description": "Orden de 16 de septiembre de 2024, de la Consejería de Digitalización, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicha Consejería por el procedimiento de Concurso de Méritos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/25/BOCM-20240925-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 23 de septiembre de 2024, de la Gerencia de la Universidad de Alcalá, por la que anuncia la publicación de convocatoria de concurso de traslado para la provisión de plazas de Personal Técnico, de Gestión y de Administración y Servicios Laboral de administración y servicios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/25/BOCM-20240925-8.PDF"
