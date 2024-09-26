@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "San Sebastián de los Reyes",
-      "description": "Urbanismo: Estudio detalle",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/26/BOCM-20240926-40.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "San Sebastián de los Reyes",
       "description": "Otros anuncios: Candidaturas juez de paz",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/26/BOCM-20240926-41.PDF"
     }
