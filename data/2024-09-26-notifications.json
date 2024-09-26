@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Decreto 93/2024, de 25 de septiembre, del Consejo de Gobierno, por el que se establecen las fiestas laborales para el año 2025 en la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/26/BOCM-20240926-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Anuncio del extracto de la Orden de la Consejería de Presidencia, Justicia y Administración Local, por la que se convoca la concesión de subvenciones destinadas a asociaciones, centros y entidades sin ánimo de lucro, para la atención y apoyo a la emigración madrileña en situación de precariedad para el año 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/26/BOCM-20240926-14.PDF"
     }
