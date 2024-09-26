@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Las Rozas de Madrid",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/26/BOCM-20240926-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Majadahonda",
       "description": "Personal: Nombramiento funcionaria carrera",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/26/BOCM-20240926-33.PDF"
