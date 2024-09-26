@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "La Acebeda",
-      "description": "Régimen económico: Cuenta general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/26/BOCM-20240926-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Las Rozas de Madrid",
       "description": "Ofertas de empleo: Proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/26/BOCM-20240926-32.PDF"
