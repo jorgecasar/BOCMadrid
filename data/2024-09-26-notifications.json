@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Anuncio del extracto de la Orden de la Consejería de Presidencia, Justicia y Administración Local, por la que se convoca la concesión de subvenciones destinadas a asociaciones, centros y entidades sin ánimo de lucro, para la atención y apoyo a la emigración madrileña en situación de precariedad para el año 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/26/BOCM-20240926-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Complutense de Madrid",
       "description": "Resolución de 17 de septiembre de 2024, de la Universidad Complutense de Madrid, por la que se convocan premios por excelencia docente",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/26/BOCM-20240926-15.PDF"
