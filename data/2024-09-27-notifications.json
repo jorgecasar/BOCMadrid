@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Acuerdo de 25 de septiembre de 2024, del Consejo de Gobierno, por el que se reelige a don Gabriel de Arriba de la Fuente, como vocal del Consejo Social de la Universidad de Alcalá, en representación de la comunidad universitaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/27/BOCM-20240927-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Resolución de 25 de septiembre de 2024, de la Dirección General de Recursos Humanos, por la que se modifica la lista de seleccionados del procedimiento selectivo para ingreso en el Cuerpo de Maestros y para adquisición de nuevas especialidades en el citado Cuerpo, convocado por Resolución de 1 de febrero de 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/27/BOCM-20240927-10.PDF"
     }
