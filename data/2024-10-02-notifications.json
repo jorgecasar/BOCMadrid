@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Ofertas de empleo: Área de Gobierno de Vicealcaldía, Portavoz, Seguridad y Emergencias. Oferta empleo público",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/02/BOCM-20241002-48.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Urbanismo: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Plan general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/02/BOCM-20241002-49.PDF"
     }
