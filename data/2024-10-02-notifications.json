@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 4187/2024, de 13 de septiembre, por la que se modifican los conciertos educativos de determinados centros docentes privados aprobados por la Orden 3324/2024, de 22 de julio, del Consejero de Educación, Ciencia y Universidades",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/02/BOCM-20241002-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Orden 3178/2024, de 22 de septiembre, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se acuerda la tramitación de urgencia de las ayudas a los municipios de la Comunidad de Madrid, de población igual o inferior a 2.500 habitantes, para la recogida y transporte de los residuos domésticos en el ejercicio 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/02/BOCM-20241002-21.PDF"
