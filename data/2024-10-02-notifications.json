@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Corrección de errores del extracto de la Orden de 9 de septiembre de 2024, de la Consejería de Economía, Hacienda y Empleo, por la que se convocan para 2024 las subvenciones dirigidas a la reducción de la siniestralidad laboral mediante la mejora de las condiciones de seguridad y salud en el trabajo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/02/BOCM-20241002-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 4187/2024, de 13 de septiembre, por la que se modifican los conciertos educativos de determinados centros docentes privados aprobados por la Orden 3324/2024, de 22 de julio, del Consejero de Educación, Ciencia y Universidades",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/02/BOCM-20241002-20.PDF"
