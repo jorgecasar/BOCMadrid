@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Orden 3178/2024, de 22 de septiembre, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se acuerda la tramitación de urgencia de las ayudas a los municipios de la Comunidad de Madrid, de población igual o inferior a 2.500 habitantes, para la recogida y transporte de los residuos domésticos en el ejercicio 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/02/BOCM-20241002-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 1394/2024, de 18 de septiembre, del Consejero de Cultura, Turismo y Deporte, por la que se resuelve la convocatoria de la XXXV Edición de los “Circuitos de artes plásticas de la Comunidad de Madrid”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/02/BOCM-20241002-22.PDF"
