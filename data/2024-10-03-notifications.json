@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madarcos",
-      "description": "Régimen económico: Cuenta general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/03/BOCM-20241003-57.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Miraflores de la Sierra",
       "description": "Ofertas de empleo: Oferta empleo público",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/03/BOCM-20241003-58.PDF"
