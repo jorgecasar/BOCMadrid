@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Los Molinos",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/03/BOCM-20241003-56.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Madarcos",
       "description": "Régimen económico: Cuenta general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/03/BOCM-20241003-57.PDF"
