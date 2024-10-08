@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "El Escorial",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/08/BOCM-20241008-48.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Fresno de Torote",
       "description": "Organización y funcionamiento: Programa gestión colonias felinas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/08/BOCM-20241008-49.PDF"
