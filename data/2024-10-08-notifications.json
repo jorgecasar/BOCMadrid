@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 25 de septiembre de 2024, de la Universidad de Alcalá, por la que se convoca concurso de acceso a plaza de funcionario de carrera de los cuerpos docentes universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/08/BOCM-20241008-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Resolución de 11 de septiembre de 2024, de la Secretaria General Técnica de la Consejería de Presidencia, Justicia y Administración Local, por la que se publican las subvenciones concedidas durante el segundo trimestre de 2024 por la Dirección General de Reequilibrio Territorial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/08/BOCM-20241008-12.PDF"
