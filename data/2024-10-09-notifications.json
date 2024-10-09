@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 25 de septiembre de 2024, de la Universidad Rey Juan Carlos, por la que se anuncian convocatoria de concurso para la provisión de plazas de Profesor Permanente Laboral",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/09/BOCM-20241009-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 27 de septiembre de 2024, del Director General de la Fundación Clínica Universitaria de la Universidad Rey Juan Carlos, por la que se anuncia la cobertura mediante convocatoria pública ordinaria de una plaza de terapeuta ocupacional, dos plazas de fisioterapeutas, una plaza de neuropsicólogo/a, una plaza de psicólogo/a y una plaza de neuropsicólogo/a",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/09/BOCM-20241009-22.PDF"
     }
