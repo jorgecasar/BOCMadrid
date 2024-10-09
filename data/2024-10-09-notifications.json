@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "El Escorial",
-      "description": "Organización y funcionamiento: Ordenanza absentismo escolar",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/09/BOCM-20241009-61.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "El Escorial",
       "description": "Personal: Relación puestos trabajo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/09/BOCM-20241009-62.PDF"
     }
