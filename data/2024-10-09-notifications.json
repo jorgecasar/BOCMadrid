@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "El Escorial",
-      "description": "Personal: Relación puestos trabajo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/09/BOCM-20241009-62.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Fresno de Torote",
       "description": "Régimen económico: Ordenanza fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/09/BOCM-20241009-63.PDF"
