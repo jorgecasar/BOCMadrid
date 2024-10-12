@@ -1,17 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 244,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2024/10/12/BOCM-20241012244.PDF",
-      "total": 28,
-      "items": {
-        "Comunidad de Madrid": 22,
-        "Administración de Justicia": 6
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
