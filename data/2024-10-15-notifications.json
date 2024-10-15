@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 10 de octubre de 2024, de la Universidad Rey Juan Carlos, por la que se anuncia convocatoria pública para la provisión de varios puestos de trabajo reservados a personal funcionario mediante el sistema de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/14/BOCM-20241014-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 1 de octubre de 2024, de la Directora General de Formación, por la que se hace pública la relación de subvenciones concedidas con cargo al Programa 241A “Formación para el empleo” de la Consejería de Economía, Hacienda y Empleo, durante el tercer trimestre del ejercicio 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/14/BOCM-20241014-21.PDF"
