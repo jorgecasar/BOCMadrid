@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Alcalá de Henares",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/14/BOCM-20241014-45.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Alcalá de Henares",
       "description": "Licencias: Licencia actividad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/14/BOCM-20241014-46.PDF"
     }
