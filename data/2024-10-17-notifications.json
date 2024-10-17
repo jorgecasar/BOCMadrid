@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "El Atazar",
-      "description": "Régimen económico: Cuenta general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/17/BOCM-20241017-52.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "El Escorial",
       "description": "Régimen económico: Ordenanzas fiscales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/17/BOCM-20241017-53.PDF"
