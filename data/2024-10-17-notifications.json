@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Extracto del Acuerdo de 10 de octubre de 2024, del Vicerrector de Planificación, Coordinación y Relaciones Institucionales, por la que se convoca la I Edición de los Premios a Iniciativas Emprendedoras en Preincubadoras 2024 de la Universidad Complutense de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/17/BOCM-20241017-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Extracto del Acuerdo de 2 de octubre de 2024, de la Comisión de Investigación de la Universidad de Alcalá, por el que se convocan las Ayudas de Financiación Puente a Grupos Consolidados 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/17/BOCM-20241017-23.PDF"
