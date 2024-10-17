@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 7 de octubre de 2024, de la Rectora de la Universidad Autónoma de Madrid, por la que se publica la modificación parcial de la relación de puestos de trabajo del Personal Técnico, de Gestión y de Administración y Servicios Funcionario de esta Universidad, aprobada en Consejo de Gobierno de 4 de octubre de 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/17/BOCM-20241017-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 4 de octubre de 2024, de la Universidad Rey Juan Carlos, por la que se resuelve la provisión de varios puestos de trabajo reservados a personal funcionario mediante el sistema de Libre Designación, convocada por Resolución de 25 de junio de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID del día 27 de junio)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/17/BOCM-20241017-18.PDF"
