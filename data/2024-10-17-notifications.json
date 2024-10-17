@@ -1,18 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 248,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2024/10/17/BOCM-20241017248.PDF",
-      "total": 78,
-      "items": {
-        "Comunidad de Madrid": 40,
-        "Administración Local Ayuntamientos": 37,
-        "Otros Anuncios": 1
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
