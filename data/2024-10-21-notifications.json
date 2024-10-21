@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio interadministrativo de 26 de septiembre de 2024, entre la Comunidad de Madrid y el Ayuntamiento de Paracuellos de Jarama, para la prevención y control del absentismo escolar",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/21/BOCM-20241021-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Convenio interadministrativo de 26 de septiembre de 2024, entre la Comunidad de Madrid y el Ayuntamiento de Morata de Tajuña, para la prevención y control del absentismo escolar",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/21/BOCM-20241021-26.PDF"
     }
