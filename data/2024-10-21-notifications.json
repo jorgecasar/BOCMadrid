@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Digitalización",
-      "description": "Extracto de la Orden 144/2024, de 10 de octubre, de la Consejería de Digitalización, por la que se aprueba la convocatoria de los premios Solución Digital Startup Comunidad de Madrid para el año 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/21/BOCM-20241021-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 4633/2024, de 16 de octubre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria de becas para la escolarización en el primer ciclo de Educación Infantil en centros de titularidad privada para el curso 2024-2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/21/BOCM-20241021-15.PDF"
