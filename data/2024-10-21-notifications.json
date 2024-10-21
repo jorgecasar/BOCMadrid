@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio interadministrativo de 30 de septiembre de 2024, entre la Comunidad de Madrid y el Ayuntamiento de Coslada, para la prevención y control del absentismo escolar",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/21/BOCM-20241021-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Convenio interadministrativo de 30 de septiembre de 2024, entre la Comunidad de Madrid y el Ayuntamiento de Tielmes, para la prevención y control del absentismo escolar",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/21/BOCM-20241021-30.PDF"
     }
