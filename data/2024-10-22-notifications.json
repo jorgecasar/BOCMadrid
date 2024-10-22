@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 4337/2024, de 3 de octubre, del Consejero de Educación, Ciencia y Universidades, por la que se cesa y se nombra Consejera Titular en el Consejo Escolar de la Comunidad de Madrid, por el grupo de profesores",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/21/BOCM-20241021-5.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Orden de 8 de octubre de 2024, de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en dicha Consejería (Agencia de Vivienda Social) por el procedimiento de Concurso de Méritos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/21/BOCM-20241021-6.PDF"
