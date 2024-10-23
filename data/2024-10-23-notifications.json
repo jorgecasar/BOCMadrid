@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Arganda del Rey",
-      "description": "Personal: Nombramiento funcionarias carrera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/23/BOCM-20241023-39.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Arroyomolinos",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/23/BOCM-20241023-40.PDF"
