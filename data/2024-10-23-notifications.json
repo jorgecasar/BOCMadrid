@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Organización y funcionamiento: Área de Gobierno de Vicealcaldía, Portavoz, Seguridad y Emergencias. Delegación funciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/23/BOCM-20241023-37.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Arganda del Rey",
       "description": "Organización y funcionamiento: Ordenanza tramitación licencias apertura",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/23/BOCM-20241023-38.PDF"
