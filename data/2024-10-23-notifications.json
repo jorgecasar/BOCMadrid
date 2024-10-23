@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio interadministrativo de 30 de septiembre de 2024, entre la Comunidad de Madrid y el Ayuntamiento de Tres Cantos para la prevención y control del absentismo escolar",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/23/BOCM-20241023-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Convenio interadministrativo de 30 de septiembre de 2024, entre la Comunidad de Madrid y el Ayuntamiento de El Álamo, para la prevención y control del absentismo escolar",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/23/BOCM-20241023-21.PDF"
     }
