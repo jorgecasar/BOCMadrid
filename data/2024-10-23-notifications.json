@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio interadministrativo de 30 de septiembre de 2024, entre la Comunidad de Madrid y el Ayuntamiento de La Cabrera, para la prevención y control del absentismo escolar",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/23/BOCM-20241023-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Convenio interadministrativo de 30 de septiembre de 2024, entre la Comunidad de Madrid y el Ayuntamiento de Valdetorres de Jarama para la prevención y control del absentismo escolar",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/23/BOCM-20241023-18.PDF"
     }
