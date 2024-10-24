@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Orden 1699/2024, de 14 de octubre, de la Consejera de Sanidad, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/24/BOCM-20241024-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Acuerdo de 23 de octubre de 2024, del Consejo de Gobierno, por el que se cesa a don Miguel Ángel García García, y se nombra, en su sustitución, a don Pedro Cervel Lobo, como vocal de la Comisión Regional de Coordinación de las Policías Locales, en representación de la asociación más representativa que agrupa a los jefes de Policía Local de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/24/BOCM-20241024-9.PDF"
