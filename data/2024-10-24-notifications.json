@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Convenio de 26 de septiembre de 2024, entre el Instituto Madrileño de Investigación y Desarrollo Rural, Agrario y Alimentario (IMIDRA) y el Ayuntamiento de Torremocha de Jarama, para el desarrollo del proyecto de planta experimental de variedades de pistacho en su municipio",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/24/BOCM-20241024-39.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Resolución de 8 de octubre de 2024, de la Dirección General de Patrimonio Cultural y Oficina del Español, para la incoación del expediente de declaración como Bien de Interés Cultural del dibujo “Vista de la ermita y Fiesta de San Isidro en Madrid”, anónimo francés",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/24/BOCM-20241024-40.PDF"
