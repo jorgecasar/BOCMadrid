@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 15 de octubre de 2024, de la Universidad de Alcalá, por la que se convoca concurso de acceso por promoción interna a plaza de funcionario/as de carrera de los cuerpos docentes universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/24/BOCM-20241024-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 4137/2024, de 10 de octubre, de la Consejería de Educación, Ciencia y Universidades, por la que se desarrolla el Decreto 60/2022, de 13 de julio, del Consejo de Gobierno, por el que se crea el Instituto Superior Madrileño de Innovación Educativa y se establece el régimen jurídico y la estructura de la red de formación permanente del profesorado de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/24/BOCM-20241024-14.PDF"
