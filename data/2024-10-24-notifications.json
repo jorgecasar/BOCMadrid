@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Extracto del Acuerdo de 15 de octubre de 2024, del Pleno del Consejo Social de la Universidad Autónoma de Madrid, por el que se aprueban las bases y se convoca la primera edición de los Premios del Consejo Social a la Mejor Trayectoria Solidaria de la Comunidad Universitaria de la Universidad Autónoma de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/24/BOCM-20241024-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Extracto de la Resolución de 15 de octubre de 2024, del Sr. Rector Magfco. de la Universidad Rey Juan Carlos, por la que se aprueban y hacen públicas las bases reguladoras de la convocatoria 2024 de movilidad de estudiantes para prácticas en el extranjero dentro del programa Erasmus+",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/24/BOCM-20241024-19.PDF"
