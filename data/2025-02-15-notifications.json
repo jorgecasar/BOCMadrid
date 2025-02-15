@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Algete",
-      "description": "Régimen económico: Ordenanza fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/14/BOCM-20250214-58.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Algete",
       "description": "Régimen económico: Ordenanza general subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/14/BOCM-20250214-59.PDF"
     }
