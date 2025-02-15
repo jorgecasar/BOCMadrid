@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Orden 136/2025, de 4 de febrero, de la Consejería de Sanidad, por la que se convocan, para su cobertura interina, dos puestos de trabajo vacantes en dicha Consejería y se prevé la constitución de lista de espera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/14/BOCM-20250214-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Resolución 1/2025, de 29 de enero, de la Presidenta de la Agencia Madrileña para el Apoyo a las Personas Adultas con Discapacidad, por la que se dispone el cese y el nombramiento de miembros del Consejo de Administración de la Agencia Madrileña para el Apoyo a las Personas Adultas con Discapacidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/14/BOCM-20250214-10.PDF"
