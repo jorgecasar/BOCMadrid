@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución conjunta de 10 de enero de 2025, de la Universidad Rey Juan Carlos y la Consejería de Sanidad de la Comunidad de Madrid, por la que se convoca concurso de acceso a plazas vinculadas de cuerpos docentes universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/14/BOCM-20250214-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 5 de febrero de 2025, de la Universidad Rey Juan Carlos, por la que se nombra a don Daniel Melchor Puyol Santos como Profesor Titular de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/14/BOCM-20250214-13.PDF"
     }
