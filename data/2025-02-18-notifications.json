@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Extracto de la Orden de 4 de febrero de 2025, de la Consejera de Economía, Hacienda y Empleo, por la que se convocan ayudas para el año 2025 dirigidas a asociaciones, federaciones y confederaciones de la Comunidad de Madrid para el desarrollo de actividades de promoción y de proyectos para la digitalización del comercio minorista y los servicios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/17/BOCM-20250217-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 5791/2024, de 10 de diciembre, por la que se modifican los conciertos educativos de determinados centros docentes privados aprobados por la Orden 3324/2024, de 22 de julio, del Consejero de Educación, Ciencia y Universidades",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/17/BOCM-20250217-26.PDF"
