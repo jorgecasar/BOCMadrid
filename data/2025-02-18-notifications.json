@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 20 de enero de 2025, de la Rectora de la Universidad Autónoma de Madrid, por la que se resuelve la convocatoria pública para la provisión de un puesto de trabajo vacante mediante el sistema de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/17/BOCM-20250217-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Orden de 29 de enero de 2025, de la Consejería de Presidencia, Justicia y Administración Local, por la que se modifica la Orden 268/2022, de 22 de junio, de la Consejería de Administración Local y Digitalización, por la que se aprueban las bases reguladoras de las subvenciones destinadas a Agrupaciones de Municipios de la Comunidad de Madrid para el sostenimiento en común de puestos de trabajo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/17/BOCM-20250217-23.PDF"
