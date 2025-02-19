@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Resolución de 3 de febrero de 2025, del Director General de Universidades, por la que se da publicidad al acuerdo de la comisión coordinadora de la prueba de acceso a la universidad por el que se determinan las fechas de realización de las pruebas correspondientes al año 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/18/BOCM-20250218-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 3 de febrero de 2025, por la que se publican diversos planes de estudio de Grado y Máster Universitario de la Universidad Politécnica de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/18/BOCM-20250218-33.PDF"
