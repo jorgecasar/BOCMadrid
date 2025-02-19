@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Extracto de la Orden de 6 de febrero de 2025, de la Consejería de Economía, Hacienda y Empleo, por la que se convocan ayudas al comercio ambulante de la Comunidad de Madrid para el año 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/18/BOCM-20250218-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Resolución de 3 de febrero de 2025, del Director General de Universidades, por la que se da publicidad al acuerdo de la comisión coordinadora de la prueba de acceso a la universidad por el que se determinan las fechas de realización de las pruebas correspondientes al año 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/18/BOCM-20250218-32.PDF"
