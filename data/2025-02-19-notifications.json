@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 3 de febrero de 2025, por la que se publican diversos planes de estudio de Grado y Máster Universitario de la Universidad Politécnica de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/18/BOCM-20250218-33.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 3 de febrero de 2025, por la que se publica el cambio de denominación del Máster Universitario en Biotecnología Agroforestal por el de Máster Universitario en Biotecnología y Bioingeniería Vegetal por la Universidad Politécnica de Madrid y el plan de estudios actualizado",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/18/BOCM-20250218-34.PDF"
     }
