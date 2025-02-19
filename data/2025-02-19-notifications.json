@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 198/2025, de 30 de enero, del Consejero de Educación, Ciencia y Universidades, por la que se dispone el cese y el nombramiento de vocales del Consejo Universitario de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/18/BOCM-20250218-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Resolución 516/2025, de 5 de febrero, del Director-Gerente de la Agencia de Vivienda Social, por la que se adjudica definitivamente el puesto de carrera vacante en el organismo denominado “Conductor Alto Cargo”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/18/BOCM-20250218-16.PDF"
