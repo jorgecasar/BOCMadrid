@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 7 de febrero de 2025, de la Universidad Rey Juan Carlos, por la que se nombra a doña María Jesús Arrazola Vacas como Catedrática de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/19/BOCM-20250219-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 7 de febrero de 2025, de la Universidad Rey Juan Carlos, por la que se nombra a doña Patricia Catalá Mesón como Profesora Titular de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/19/BOCM-20250219-31.PDF"
     }
