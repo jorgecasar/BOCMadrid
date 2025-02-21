@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Régimen económico: Área de Gobierno de Economía, Innovación y Hacienda. Extracto convocatoria subvenciones PROMOC",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/20/BOCM-20250220-46.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Régimen económico: Distrito de Villa de Vallecas. Extracto convocatoria subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/20/BOCM-20250220-47.PDF"
     }
