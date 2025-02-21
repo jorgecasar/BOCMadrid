@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Extracto del Acuerdo de la Comisión de Investigación de la Universidad de Alcalá de 31 de enero de 2025, por el que se convocan las Ayudas para la Organización de Congresos 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/20/BOCM-20250220-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 10 de febrero de 2025, del Rector Magnífico de la Universidad Rey Juan Carlos, por la que se aprueba y se hace pública la convocatoria, y sus correspondientes bases reguladoras de las ayudas KA171 a la movilidad internacional de estudiantes a terceros países no asociados al programa Eramsus+ para realizar estudios en el curso académico 2024/2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/20/BOCM-20250220-23.PDF"
