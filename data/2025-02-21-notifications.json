@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio de 29 de enero de 2025, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) e Ingenostrum, S. L., para la realización de prácticas externas de los alumnos de la Escuela Superior de Diseño",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/20/BOCM-20250220-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 17 de febrero de 2025, por el que se convoca la licitación para la contratación del servicio de soporte para el mantenimiento de instalaciones de baja tensión (expediente 6012500047)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/20/BOCM-20250220-28.PDF"
