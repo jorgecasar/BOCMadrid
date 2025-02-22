@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 7 de febrero de 2025, de la Universidad de Alcalá, por la que se convocan concursos de acceso a plazas de funcionarios de carrera de los cuerpos docentes universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/21/BOCM-20250221-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Carlos III",
       "description": "Resolución de 11 de febrero de 2025, de la Universidad Carlos III de Madrid, por la que se ordena la publicación del Acuerdo del Consejo Social de 11 de diciembre de 2024 de creación de Escalas propias de Personal Funcionario de la Universidad Carlos III de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/21/BOCM-20250221-22.PDF"
