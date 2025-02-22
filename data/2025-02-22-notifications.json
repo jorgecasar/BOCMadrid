@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Decreto 5/2025, de 19 de febrero, del Consejo de Gobierno, por el que se declara bien de interés cultural de la Comunidad de Madrid, en la categoría de monumento, la antigua fábrica Clesa, en Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/21/BOCM-20250221-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 304/2025, de 12 de febrero, del Consejero de Cultura, Turismo y Deporte, por la que se declara Bien de Interés Patrimonial de la Comunidad de Madrid la pintura Paisaje con montañas, palacio y jardín, atribuida a Lucas Van Gassel",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/21/BOCM-20250221-28.PDF"
     }
