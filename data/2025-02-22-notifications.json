@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 3 de febrero de 2025 de la Universidad Autónoma de Madrid, por la que se publica la modificación del plan de estudios conducente al título universitario oficial de Máster Universitario en Genética y Biología Celular por la Universidad Autónoma de Madrid; la Universidad Complutense de Madrid y la Universidad de Alcalá (4312466)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/21/BOCM-20250221-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Adenda de 5 de febrero de 2025, de prórroga al convenio entre la Tesorería General de la Seguridad Social y la Administración de la Comunidad de Madrid, sobre intercambio recíproco de información",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/21/BOCM-20250221-33.PDF"
