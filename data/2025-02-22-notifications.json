@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 11 de febrero de 2025, de la Universidad Carlos III de Madrid, por la que se ordena la publicación del Acuerdo del Consejo Social de 11 de diciembre de 2024 de creación de Escalas propias de Personal Funcionario de la Universidad Carlos III de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/21/BOCM-20250221-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 332/2025, de 6 de febrero, de la Consejería de Educación, Ciencia y Universidades, por la que se aceptan renuncias en relación con las becas concedidas mediante la Orden 4879/2024, de 25 de octubre, del Consejero de Educación, Ciencia y Universidades por la que se resuelve la convocatoria de becas para el estudio de Bachillerato en la Comunidad de Madrid para el curso 2024-2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/21/BOCM-20250221-23.PDF"
