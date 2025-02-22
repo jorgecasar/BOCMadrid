@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Orden 127/2025, de 7 de febrero, de la Consejería de Sanidad, por la que se renueva la autorización de funcionamiento de centros sanitarios adscritos a la Consejería de Sanidad de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/21/BOCM-20250221-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Orden 373/2025,  de 10 de febrero, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se aprueban las bases reguladoras para la concesión de ayudas dirigidas a las microempresas, pequeñas y medianas empresas (pymes) para el desarrollo de proyectos de ecodiseño y el fomento de la economía circular en la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/21/BOCM-20250221-26.PDF"
