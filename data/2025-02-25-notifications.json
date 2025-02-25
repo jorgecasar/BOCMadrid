@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 275/2025, de 6 de febrero, del Consejero de Educación, Ciencia y Universidades, por la que se adjudican los Diplomas de Aprovechamiento y de Mención Honorífica en Educación Secundaria Obligatoria correspondientes al curso 2023-2024 en la Comunidad de Madrid y se dispone la publicación de los listados correspondientes",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/24/BOCM-20250224-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 291/2025, de 4 de febrero, por la que se modifican los conciertos educativos de determinados centros docentes privados aprobados por la Orden 3324/2024, de 22 de julio, del Consejero de Educación, Ciencia y Universidades",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/24/BOCM-20250224-22.PDF"
     }
