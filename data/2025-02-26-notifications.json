@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 13 de febrero de 2025, de la Universidad Rey Juan Carlos, por la que se nombra a don Pedro Leo Llorente como Profesor Titular de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/25/BOCM-20250225-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 5 de febrero de 2025, de la Directora General de Autónomos y Emprendimiento, por la que se hace pública la relación de subvenciones concedidas con cargo al Programa 241N “Desarrollo del Trabajo Autónomo, de la Economía Social y de la Responsabilidad Social de las Empresas” de la Consejería de Economía, Hacienda y Empleo de la Comunidad de Madrid, durante el cuarto trimestre del ejercicio 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/25/BOCM-20250225-19.PDF"
