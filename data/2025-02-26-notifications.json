@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 12 de febrero de 2025, de la Universidad Politécnica de Madrid, por la que se anuncia convocatoria pública para cubrir, mediante el sistema de Libre Designación, la plaza de personal laboral, puesto funcional de Coordinador Negociación Colectiva e Institucional",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/25/BOCM-20250225-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Carlos III",
       "description": "Resolución de 13 de febrero de 2025, de la Universidad Carlos III de Madrid, por la que se anuncia la convocatoria para la provisión, por el sistema de libre designación, de un puesto de trabajo en esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/25/BOCM-20250225-15.PDF"
