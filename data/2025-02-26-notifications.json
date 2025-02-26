@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Corrección de errores de la Resolución de 27 de enero de 2025, de la Universidad Rey Juan Carlos, por la que se nombra Profesor Titular de Universidad a don Javier Enrique Otero García",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/25/BOCM-20250225-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 5 de febrero de 2025, de la Universidad Rey Juan Carlos, por la que se anuncia convocatoria de concurso para la provisión de plazas de Profesor Permanente Laboral",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/25/BOCM-20250225-17.PDF"
     }
