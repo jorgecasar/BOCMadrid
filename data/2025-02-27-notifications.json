@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 270/2025, de 5 de febrero, de la Consejería de Cultura, Turismo y Deporte, por la que se determina la composición del Jurado de los “Premios Siete Estrellas del Deporte de la Comunidad de Madrid”, de las ediciones 2022 y 2023",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/26/BOCM-20250226-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Complutense de Madrid",
       "description": "Extracto de la Resolución de 7 de febrero de 2025, del Rector, por la que se convoca el Premio Complutense de Literatura 2025 para estimular y reconocer la creación literaria entre los estudiantes universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/26/BOCM-20250226-31.PDF"
