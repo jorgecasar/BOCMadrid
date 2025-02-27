@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 391/2025, de 13 de febrero, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria de ayudas para la implantación del programa de auxiliares de danza en centros educativos madrileños a desarrollar en el curso académico 2024-2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/26/BOCM-20250226-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Resolución de 13 de febrero de 2025, de la Dirección General de Infraestructuras de Transporte Colectivo, por la que se aprueba el Mapa Estratégico de Ruido de Metro de Madrid Fase IV",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/26/BOCM-20250226-22.PDF"
