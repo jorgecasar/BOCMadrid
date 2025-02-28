@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "La Serna del Monte",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/27/BOCM-20250227-54.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Las Rozas de Madrid",
       "description": "Régimen económico: Presupuesto general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/27/BOCM-20250227-55.PDF"
