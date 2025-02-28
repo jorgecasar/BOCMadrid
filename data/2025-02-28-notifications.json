@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 17 de febrero de 2025, de la Universidad Rey Juan Carlos, por la que se convoca concurso de acceso a plazas de cuerpos docentes universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/27/BOCM-20250227-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Corrección de errores de la Orden de 10 de febrero de 2025, de la Consejería de Economía, Hacienda y Empleo, por la que se establecen las condiciones para la renovación del Programa de Emisión de Pagarés de la Comunidad de Madrid por un importe nominal máximo de 1.000.000.000,00 de euros",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/27/BOCM-20250227-27.PDF"
