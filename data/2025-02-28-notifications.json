@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 14 de febrero de 2025, de la Universidad Carlos III de Madrid, por la que se anuncia la convocatoria de concurso público para la contratación de tres Investigadores Distinguidos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/27/BOCM-20250227-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 17 de febrero de 2025, de la Universidad Rey Juan Carlos, por la que se convoca concurso de acceso a plazas de cuerpos docentes universitarios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/02/27/BOCM-20250227-26.PDF"
