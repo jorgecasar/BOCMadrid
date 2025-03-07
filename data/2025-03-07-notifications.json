@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 277/2025, de 20 de febrero, del Consejero de Educación, Ciencia y Universidades, por la que se acuerda la creación de la Facultad de Ciencias de la Salud de la Universidad Politécnica de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/06/BOCM-20250306-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 404/2025, de 20 de febrero, del Consejero de Educación, Ciencia y Universidades, por la que se aprueba el Plan Anual de Publicaciones 2025 de la Consejería de Educación, Ciencia y Universidades",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/06/BOCM-20250306-19.PDF"
     }
