@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Extracto de la Orden 396/2025, de 17 de febrero, del Consejero de Educación, Ciencia y Universidades, por la que se convoca el XXXII Certamen de Teatro Escolar de la Comunidad de Madrid correspondiente al curso escolar 2024-2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/07/BOCM-20250307-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 177/2025, de 24 de febrero, de la Consejera de Sanidad, por la que se modifica y corrigen errores de la Orden de 13 de diciembre de 2024, por la que se aprueba el Plan Estratégico de Subvenciones de la Consejería de Sanidad de la Comunidad de Madrid para los años 2025, 2026 y 2027",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/07/BOCM-20250307-20.PDF"
