@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 25 de febrero de 2025, de la Universidad Rey Juan Carlos, por la que se resuelve la provisión de varios puestos de trabajo reservados a personal funcionario mediante el sistema de Libre Designación, convocada por Resolución de 17 de diciembre de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 19 de diciembre)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/07/BOCM-20250307-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Acuerdo de 26 de febrero de 2025, del Consejo de Gobierno, por el que se aprueban las normas reguladoras del procedimiento de concesión directa de ayudas para el fomento de la actividad comercial en municipios de la Comunidad de Madrid con población inferior a 1.000 habitantes",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/07/BOCM-20250307-12.PDF"
