@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Ciempozuelos",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/07/BOCM-20250307-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Collado Villalba",
       "description": "Régimen económico: Padrón fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/07/BOCM-20250307-50.PDF"
