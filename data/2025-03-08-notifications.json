@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Extracto de la Orden 587/2025, del Consejero de Medio Ambiente, Agricultura e Interior, por la que se aprueba la convocatoria de las subvenciones públicas para fomentar actuaciones a desarrollar en las áreas de influencia socioeconómica del Parque Nacional de la Sierra de Guadarrama para 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/07/BOCM-20250307-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Extracto de la Orden 299/2025, de 21 de febrero, de la Consejería de Cultura, Turismo y Deporte, por la que se convoca la XXXVI Edición de los Circuitos de Artes Plásticas de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/07/BOCM-20250307-22.PDF"
