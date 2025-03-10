@@ -1,0 +1,78 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 57,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2025/03/08/BOCM-20250308057.PDF",
+      "total": 12,
+      "items": {
+        "Comunidad de Madrid": 8,
+        "Administración de Justicia": 4
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 21 de febrero de 2025, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa 20 Minutos Editora, S. L. U. (Código número 28104001012025)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/08/BOCM-20250308-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 21 de febrero de 2025, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la Empresa Aleatica, S. A .U. (código número 28104012012025)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/08/BOCM-20250308-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Corrección de errores en la adenda de 19 de diciembre de 2024, de prórroga del Convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo, y la entidad de formación Entidad de Formación Internacional, Vocacional y Emprendimiento, S. L., para la información, orientación y apoyo en la inscripción en el procedimiento de acreditación de competencias profesionales adquiridas a través de la experiencia laboral u otras vías no formales e informales en el ámbito de la Comunidad de Madrid en el marco del componente 20 “Plan Estratégico de Impulso de la Formación Profesional”, del Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea-NextgenerationEU",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/08/BOCM-20250308-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Adenda tercera de 23 de diciembre de 2024, de prórroga del convenio de colaboración de 15 de marzo de 2022 entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo; CaixaBank, S. A., y Nuevo Micro Bank, S. A. U., para la colaboración en la puesta en marcha de una línea de financiación por parte de Nuevo Micro Bank, S. A. U., para potenciar el autoempleo e incentivar la actividad emprendedora",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/08/BOCM-20250308-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Digitalización",
+      "description": "Convenio de colaboración de 19 de febrero de 2025, entre la Comunidad de Madrid (Consejería de Digitalización) y Founderz Emprendimiento, S. L., en el ámbito del componente 19, inversión 1 “Plan Nacional de Competencias Digitales (Digital Skills)” con cargo al Plan de Recuperación, Transformación y Resiliencia del Gobierno de España, financiado por la Unión Europea-Next Generation UE, para la formación en inteligencia artificial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/08/BOCM-20250308-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Convenio de 20 de diciembre de 2024, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y el Servicio de Cooperación y de Acción Cultural de la Embajada de Francia en España, para regular la realización de los exámenes oficiales que permitan la obtención del Diploma de Estudios en Lengua Francesa en su versión Scolaire en institutos de Educación Secundaria de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/08/BOCM-20250308-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Convenio de 17 de febrero de 2025, entre la Comunidad de Madrid (Consejería de Familia, Juventud y Asuntos Sociales) y la Unión de Agencias de Viajes (UNAV) para el desarrollo del programa “Rutas Culturales para Mayores” de la Comunidad de Madrid durante los años 2025-2026",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/08/BOCM-20250308-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 20 de febrero de 2025, de cooperación educativa entre la Comunidad de Madrid (Consejería de Cultura, Turismo y Deporte) y el Centro de Educación Superior TAI Escuela Universitaria de Artes, para realizar el programa de prácticas académicas externas, así como el proyecto fin de carrera/trabajo de fin de grado/máster de sus alumnos, en los museos dependientes de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/08/BOCM-20250308-8.PDF"
+    }
+  }
+]
