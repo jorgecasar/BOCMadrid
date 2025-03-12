@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Orden de 25 de febrero de 2025, de la Consejería de Presidencia, Justicia y Administración Local, por la que se toma razón, se declara y se da publicidad a la disolución de la Mancomunidad de Servicios Múltiples Navalafuente-Valdemanco",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/11/BOCM-20250311-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Resolución de 21 de febrero de 2025, de la Dirección General de Carreteras, por la que se aprueba los planes de acción contra el ruido de la red de carreteras de la Comunidad de Madrid cuarta fase",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/11/BOCM-20250311-18.PDF"
