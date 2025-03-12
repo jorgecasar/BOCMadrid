@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Brunete",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/11/BOCM-20250311-48.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Brunete",
       "description": "Otros anuncios: Candidatura juez de paz",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/11/BOCM-20250311-49.PDF"
     }
