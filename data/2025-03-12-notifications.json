@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Guadarrama",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/11/BOCM-20250311-56.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Guadarrama",
       "description": "Personal: Nombramiento funcionarios carrera",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/11/BOCM-20250311-57.PDF"
     }
