@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Las Rozas de Madrid",
-      "description": "Urbanismo: Estudio detalle",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/13/BOCM-20250313-45.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Loeches",
       "description": "Régimen económico: Padrón fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/13/BOCM-20250313-46.PDF"
