@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Extracto del Acuerdo de 26 de febrero de 2025, de la Comisión de Investigación de la Universidad de Alcalá, por el que se convocan las Ayudas para la realización de Proyectos de Investigación UAH 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/13/BOCM-20250313-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Extracto del Acuerdo de 26 de febrero de 2025, de la Comisión de Investigación de la Universidad de Alcalá, por el que se convocan las Ayudas para el mantenimiento y mejora de la Calidad Editorial de Revistas Científicas 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/13/BOCM-20250313-19.PDF"
     }
