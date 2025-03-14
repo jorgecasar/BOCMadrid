@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Pozuelo de Alarcón",
-      "description": "Personal: Nombramiento funcionarios carrera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/13/BOCM-20250313-53.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Pozuelo del Rey",
       "description": "Ofertas de empleo: Oferta empleo público",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/13/BOCM-20250313-54.PDF"
