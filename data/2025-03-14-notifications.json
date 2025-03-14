@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Resolución de 3 de marzo de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se nombra personal estatutario fijo en la categoría de Enfermero/a",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/13/BOCM-20250313-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Orden 414/2025, de 28 de febrero, de la Consejería de Familia, Juventud y Asuntos Sociales, por la que se dispone el cese y nombramiento de un vocal del Consejo de Cooperación al Desarrollo de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/13/BOCM-20250313-13.PDF"
