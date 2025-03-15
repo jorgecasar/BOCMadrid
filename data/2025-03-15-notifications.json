@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Orden 437/2025, de 3 de marzo, de la Consejera de Sanidad, por la que se resuelve la convocatoria aprobada por Orden 38/2025, de 13 de enero, de la Consejería de Sanidad (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 24 de enero), para la provisión de un puesto de trabajo vacante en la citada Consejería por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/14/BOCM-20250314-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Orden 438/2025, de 3 de marzo, de la Consejera de Sanidad, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/14/BOCM-20250314-10.PDF"
     }
