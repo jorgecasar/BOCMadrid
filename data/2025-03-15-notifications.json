@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 25 de febrero de 2025, de la Universidad Complutense de Madrid, por la que se nombran funcionarios de los Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/14/BOCM-20250314-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución conjunta de 3 de marzo de 2025, de la Universidad de Alcalá y la Consejería de Sanidad de Castilla-La Mancha, por la que se nombra Profesora Titular de Universidad del Área de Conocimiento de Medicina, con plaza vinculada en el Hospital Universitario General de Guadalajara, a doña Olga María Mediano San Andrés",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/14/BOCM-20250314-22.PDF"
