@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcobendas",
-      "description": "Régimen económico: Matrícula impuestos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/14/BOCM-20250314-56.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcorcón",
       "description": "Personal: Relación puestos trabajo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/14/BOCM-20250314-57.PDF"
