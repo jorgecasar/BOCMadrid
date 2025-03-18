@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 5 de marzo de 2025, de la Universidad Rey Juan Carlos, por la que se nombran Profesores Titulares de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/17/BOCM-20250317-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 626/2025, de 5 de marzo, de la Consejería de Cultura, Turismo y Deporte, por la que se concede subvención al Ayuntamiento de Fresnedillas de la Oliva, cuyo recurso administrativo ha sido estimado, derivado de la Orden 1408/2024 por la que se conceden las ayudas a municipios de la Comunidad de Madrid o sus entes deportivos municipales por la organización o participación en actividades de deporte infantil para la temporada 22-23",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/17/BOCM-20250317-22.PDF"
