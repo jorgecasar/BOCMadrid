@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 5 de marzo de 2025, de la Universidad Rey Juan Carlos, por la que se nombra a don Claudio José Múnez Alba como Catedrático de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/17/BOCM-20250317-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 5 de marzo de 2025, de la Universidad Rey Juan Carlos, por la que se nombra a don Marin Lujak como Profesor Titular de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/17/BOCM-20250317-18.PDF"
     }
