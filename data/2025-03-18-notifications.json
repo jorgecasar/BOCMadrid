@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 5 de marzo de 2025,  de la Universidad Autónoma de Madrid, por la que se adjudican los puestos de trabajo de personal funcionario Técnico de Gestión y de Administración y Servicios, convocados para su provisión a concurso de méritos general-puestos de bibliotecas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/17/BOCM-20250317-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 5 de marzo de 2025, de la Universidad Autónoma de Madrid, por la que se adjudican los puestos de trabajo de personal funcionario técnico, de gestión y de administración y servicios, convocados para su provisión a Concurso de Méritos Específico, puestos de Bibliotecas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/17/BOCM-20250317-16.PDF"
     }
