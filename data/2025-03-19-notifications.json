@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Coslada",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/18/BOCM-20250318-56.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Coslada",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/18/BOCM-20250318-57.PDF"
     }
