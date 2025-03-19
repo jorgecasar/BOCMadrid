@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Convenio de colaboración de 3 de marzo de 2025, entre la Comunidad de Madrid, a través de la Consejería de Sanidad, el Servicio Madrileño de Salud y la Universidad Camilo José Cela, para la enseñanza clínica práctica en el Grado de Medicina",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/18/BOCM-20250318-36.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 6 de marzo de 2025, del Director General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se emplaza a los interesados en el recurso contencioso administrativo, procedimiento abreviado número 383/2024, a fin de que puedan personarse en autos, si a su derecho conviniere",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/18/BOCM-20250318-37.PDF"
     }
