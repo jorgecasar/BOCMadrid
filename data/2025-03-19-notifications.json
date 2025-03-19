@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Alcorcón",
-      "description": "Régimen económico: Padrón fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/18/BOCM-20250318-50.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Alcorcón",
       "description": "Personal: Nombramiento",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/18/BOCM-20250318-51.PDF"
     }
