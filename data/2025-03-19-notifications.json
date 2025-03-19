@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Convenio de 30 de diciembre de 2024, regulador de las condiciones de adhesión del Ayuntamiento de Madrid al Consorcio Regional de Transportes de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/18/BOCM-20250318-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Convenio de colaboración de 3 de marzo de 2025, entre la Comunidad de Madrid, a través de la Consejería de Sanidad, el Servicio Madrileño de Salud y la Universidad Camilo José Cela, para la enseñanza clínica práctica en el Grado de Medicina",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/18/BOCM-20250318-36.PDF"
