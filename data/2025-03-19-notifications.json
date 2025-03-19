@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Anuncio de 7 de marzo de 2025, Universitas XXI, S. T. U., por el que se hace pública la convocatoria de un proceso selectivo para la cobertura de dos vacantes",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/18/BOCM-20250318-5.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Resolución de 25 de febrero de 2025, de la Dirección-Gerencia del Hospital General Universitario “Gregorio Marañón” del Servicio Madrileño de la Salud, por la que se resuelve la convocatoria de fecha 17 de septiembre de 2024 de un puesto de Jefe/a de Servicio de Oncología Médica",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/18/BOCM-20250318-6.PDF"
