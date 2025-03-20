@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Extracto de la Orden 394/2025, de 23 de febrero, del Consejero de Educación, Ciencia y Universidades, por la que se convocan las ayudas a estudiantes con discapacidad que cursan estudios universitarios o de enseñanzas artísticas superiores para el curso 2024-2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/19/BOCM-20250319-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Acuerdo de 12 de marzo de 2025, del Consejo de Gobierno, por el que se aprueba definitivamente la Decimoctava Modificación Puntual del Plan General de Ordenación Urbana de Getafe, en el ámbito ZOI 04, “Los Olivos”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/19/BOCM-20250319-19.PDF"
