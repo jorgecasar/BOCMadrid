@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 10 de marzo de 2025, del Rector magnífico de la Universidad Rey Juan Carlos, por la que se dispone la publicación de la modificación parcial de la Relación de Puestos de Trabajo de Personal Técnico, de Gestión y de Administración y Servicios Eventual de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/19/BOCM-20250319-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Extracto de la Orden de la Consejería de Presidencia, Justicia y Administración Local, por la que se declara el importe del crédito presupuestario disponible para 2025 para financiar las subvenciones a municipios de menos de 20.000 habitantes, para la ejecución de actuaciones de inversión encaminadas a incrementar su capacidad residencial real en régimen de alquiler social o precio asequible",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/19/BOCM-20250319-16.PDF"
