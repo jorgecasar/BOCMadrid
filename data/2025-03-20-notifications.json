@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio de 26 de febrero de 2025, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y Asociación Compañía de Danza Mobile para la realización de prácticas externas de los alumnos del Conservatorio Superior de Danza “María de Ávila”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/19/BOCM-20250319-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 17 de marzo de 2025, por el que se convoca la licitación para la contratación de unas obras de línea de alta regularidad en línea 6: Acondicionamiento de cuartos técnicos para Metro de Madrid. (Expediente 6012500085)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/19/BOCM-20250319-26.PDF"
