@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Orden 474/2025, de 7 de marzo, de la Consejera de Sanidad, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/19/BOCM-20250319-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Anuncio de 18 de marzo de 2025, por el que se hace pública la convocatoria del proceso selectivo para la cobertura de 1 plaza, autorizadas por la Consejería de Economía, Hacienda y Empleo de la Comunidad de Madrid, en fechas 15 de abril de 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/19/BOCM-20250319-14.PDF"
