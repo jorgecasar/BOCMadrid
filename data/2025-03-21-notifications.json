@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Orden 479/2025, de 10 de marzo, de la Consejera de Sanidad por la que se aprueba convocatoria pública para la provisión de dos puestos de trabajo vacantes en la Consejería de Sanidad, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/20/BOCM-20250320-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Orden 480/2025, de 10 de marzo, de la Consejera de Sanidad por la que se aprueba convocatoria pública para la provisión de cuatro puestos de trabajo vacantes en la Consejería de Sanidad, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/20/BOCM-20250320-7.PDF"
     }
