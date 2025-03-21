@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 10 de marzo de 2025, del Rector de la Universidad Complutense de Madrid, por la que se ordena la publicación de la modificación parcial de la Relación de Puestos de Trabajo del Personal Técnico, de Gestión y de Administración y Servicios Laboral de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/20/BOCM-20250320-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 10 de marzo de 2025, de la Universidad Politécnica de Madrid, por la que se nombran funcionarios de carrera en la Escala Auxiliar Administrativa, Grupo C, Subgrupo C2, de la Universidad Politécnica de Madrid, por el sistema general de acceso libre",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/20/BOCM-20250320-17.PDF"
