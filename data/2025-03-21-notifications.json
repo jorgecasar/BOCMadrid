@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcorcón",
-      "description": "Personal: Nombramiento",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/20/BOCM-20250320-54.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Becerril de la Sierra",
       "description": "Régimen económico: Tarifas autotaxi",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/20/BOCM-20250320-55.PDF"
