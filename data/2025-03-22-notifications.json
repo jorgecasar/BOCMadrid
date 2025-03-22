@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Decreto rectoral 4/2025, de 10 de marzo, de establecimiento de los Vicerrectorados de la Universidad Complutense de Madrid, de delegación de competencias y de diversas cuestiones de índole organizativa",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/21/BOCM-20250321-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 5 de marzo de 2025, por la que se publican diversos planes de estudio de Grado y Máster Universitario de la Universidad Politécnica de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/21/BOCM-20250321-9.PDF"
