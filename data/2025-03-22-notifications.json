@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Navalafuente",
-      "description": "Régimen económico: Calendario fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/21/BOCM-20250321-50.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Navalagamella",
       "description": "Régimen económico: Padrones fiscales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/21/BOCM-20250321-51.PDF"
