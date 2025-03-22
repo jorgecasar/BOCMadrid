@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "La Cabrera",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/21/BOCM-20250321-43.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Las Rozas de Madrid",
       "description": "Organización y funcionamiento: Ordenanza",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/21/BOCM-20250321-44.PDF"
