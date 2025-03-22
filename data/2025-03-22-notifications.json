@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Meco",
-      "description": "Régimen económico: Ordenanza fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/21/BOCM-20250321-47.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Móstoles",
       "description": "Régimen económico: Extracto convocatoria subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/21/BOCM-20250321-48.PDF"
