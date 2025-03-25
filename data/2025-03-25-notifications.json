@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Organización y funcionamiento: Área de Gobierno de Vicealcaldía, Portavoz, Seguridad y Emergencias. Reglamento Registro Contratos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/24/BOCM-20250324-51.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Régimen económico: Área de Gobierno de Vicealcaldía, Portavoz, Seguridad y Emergencias. Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/24/BOCM-20250324-52.PDF"
     }
