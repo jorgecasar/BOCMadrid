@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Bustarviejo",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/24/BOCM-20250324-55.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Cadalso de los Vidrios",
       "description": "Régimen económico: Precio público",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/24/BOCM-20250324-56.PDF"
