@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Navas del Rey",
-      "description": "Régimen económico: Padrones fiscales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/26/BOCM-20250326-50.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Navas del Rey",
       "description": "Ofertas de empleo: Oferta empleo público",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/26/BOCM-20250326-51.PDF"
     }
