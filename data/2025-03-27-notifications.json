@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Moralzarzal",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/26/BOCM-20250326-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Navas del Rey",
       "description": "Régimen económico: Padrones fiscales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/26/BOCM-20250326-50.PDF"
