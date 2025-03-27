@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 5 de marzo de 2025, de la Universidad Complutense de Madrid, por la que se convoca concurso de acceso a plazas de cuerpos docentes universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/26/BOCM-20250326-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Carlos III",
       "description": "Resolución de 14 de marzo de 2025, de la Universidad Carlos III de Madrid, por la que se corrigen los errores materiales advertidos en la Resolución de la Universidad Carlos III de Madrid por la que se publica la Relación de Puestos de Trabajo de personal técnico, de gestión y de administración y servicios funcionario de la Universidad Carlos III de Madrid, aprobada en Consejo de Gobierno de 11 de diciembre de 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/26/BOCM-20250326-16.PDF"
