@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Resolución de 14 de marzo de 2025, de la Dirección de Gerencia del Hospital Universitario de Getafe, por la que se aprueba la publicación del desistimiento del expediente PAPC 2025-1-13 de “Suministro de material fungible para inyector de FDG-F18”, para el Hospital Universitario de Getafe",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/27/BOCM-20250327-52.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 14 de marzo de 2025, de la Dirección de Gerencia del Hospital Universitario de Getafe, por la que se aprueba la publicación del desistimiento del expediente PACU 2025-1-14, de “Reactivos para realizar la identificación de microorganismos mediante espectrometría de masas”, para el Hospital Universitario de Getafe",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/27/BOCM-20250327-53.PDF"
     }
