@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 17 de marzo de 2025, de la Universidad Rey Juan Carlos, por la que se convoca concurso de acceso a plazas de cuerpos docentes universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/27/BOCM-20250327-33.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Digitalización",
       "description": "Corrección de errores de la Orden 95/2024, de la Consejería de Digitalización, de 8 de julio, por la que se hace pública la denegación del pago de las subvenciones de bonos digitales para colectivos económicamente vulnerables (C15.I3), en el marco del Plan de Recuperación, Transformación y Resiliencia, financiado por la UE-Next Generation EU” (programa único-bono social)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/27/BOCM-20250327-34.PDF"
