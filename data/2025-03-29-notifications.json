@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Resolución de 17 de marzo de 2025, de la Universidad de Alcalá, por la que se nombra Profesora Titular de Universidad del Área de Conocimiento de “Química Inorgánica”, a Doña Sandra García Gallego",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/28/BOCM-20250328-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Resolución de 19 de marzo de 2025, de la Universidad de Alcalá, por la que se anuncian las convocatorias de concursos para la provisión de plazas de Profesorado Permanente Laboral, Profesorado Asociado y Profesorado Contratado Temporal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/28/BOCM-20250328-20.PDF"
     }
