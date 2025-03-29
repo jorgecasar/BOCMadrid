@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 110/2025, de 17 de marzo, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve parcialmente la convocatoria aprobada mediante Orden 4465/2024, de 8 de octubre (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 17 de octubre de 2024) de la Consejería de Educación, Ciencia y Universidades, para la provisión de puestos de trabajo por el procedimiento de Concurso de Méritos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/28/BOCM-20250328-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 576/2025, de 18 de marzo, de la Consejera de Sanidad, por la que se resuelve la convocatoria aprobada por Orden 64/2025, de 20 de enero, de esta Consejería de Sanidad (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 30 de enero), para la provisión de un puesto de trabajo vacante en la citada Consejería por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/28/BOCM-20250328-13.PDF"
