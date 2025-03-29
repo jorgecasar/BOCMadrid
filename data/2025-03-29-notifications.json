@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Extracto de la Resolución del Rector Magfco. de la Universidad Rey Juan Carlos, por la que se aprueban y hacen públicas las bases reguladoras y la convocatoria para participar en el Programa Intensivo Combinado (BIP) “Technology Enhanced Learning (TEL) in the pre- and primary school settings” coordinado por Tallinn University, dentro del Programa Erasmus+2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/28/BOCM-20250328-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Extracto de la Resolución rectoral de 20 de marzo de 2025, de la Universidad Rey Juan Carlos, por la que se convocan los VII Premios de Divulgación Científica de la Universidad Rey Juan Carlos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/28/BOCM-20250328-31.PDF"
     }
