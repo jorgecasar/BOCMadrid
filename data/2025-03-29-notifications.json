@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Extracto de la Resolución rectoral de 20 de marzo de 2025, de la Universidad Rey Juan Carlos, por la que se convocan los VII Premios de Divulgación Científica de la Universidad Rey Juan Carlos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/28/BOCM-20250328-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Extracto de la Resolución del Rector de la Universidad Rey Juan Carlos, por la que se convocan ayudas correspondientes al año 2025, cofinanciada por el Banco Santander, dirigidas a los estudiantes de doctorado matriculados en Programas de Doctorado regulados por el Real Decreto 99/2011 y 576/2023, para la realización de tesis encaminadas a la obtención de la mención de “Doctor Internacional” dentro de la Escuela Internacional de Doctorado de la Universidad Rey Juan Carlos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/28/BOCM-20250328-32.PDF"
     }
