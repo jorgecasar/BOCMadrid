@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 25 de febrero de 2025, de la Universidad Rey Juan Carlos, por la que se publica la modificación del plan de estudios de Graduado o Graduada en Lengua de Signos Española y Comunidad Sorda",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/28/BOCM-20250328-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 25 de febrero de 2025, de la Universidad Rey Juan Carlos, por la que se publica la modificación del plan de estudios de Graduado o Graduada en Fundamentos de la Arquitectura",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/28/BOCM-20250328-24.PDF"
     }
