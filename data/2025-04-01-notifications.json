@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 13 de marzo de 2025, de la Dirección General de Promoción Económica e Industrial, por la que se aprueba la revisión 4 del procedimiento para la tramitación como EICI del registro de instalaciones interiores de suministro de agua",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/31/BOCM-20250331-38.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 763/2025, de 18 de marzo, de la Consejería de Educación, Ciencia y Universidades, por la que se aprueban las bases reguladoras para la concesión de becas para la escolarización en el Primer Ciclo de Educación Infantil en centros de titularidad privada",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/03/31/BOCM-20250331-39.PDF"
