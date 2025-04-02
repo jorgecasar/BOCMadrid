@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 19 de marzo de 2025, de la Universidad Rey Juan Carlos, por la que se nombran Profesores Titulares de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/01/BOCM-20250401-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Orden de 17 de marzo de 2025, del Consejero de Presidencia, Justicia y Administración Local, por la que se nombran Notarios con destino en el territorio de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/01/BOCM-20250401-31.PDF"
