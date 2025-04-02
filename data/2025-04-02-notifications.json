@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Extracto de la Orden 739/2025, de 18 de marzo, de la Consejería de Cultura, Turismo y Deporte, por la que se convocan ayudas a empresas y personas físicas para la creación y desarrollo de proyectos de videojuego en la Comunidad de Madrid en 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/01/BOCM-20250401-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Complutense de Madrid",
       "description": "Extracto del Acuerdo de 24 de marzo de 2025, de la Vicerrectora de Formación Permanente, Empleabilidad y Emprendimiento, por la que se convoca la I Edición del programa Santander X Spain Awards: Proyectos Emprendedores Universitarios y Sturtup Universitaria de la Universidad Complutense de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/01/BOCM-20250401-36.PDF"
