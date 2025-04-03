@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Camarma de Esteruelas",
-      "description": "Régimen económico: Cuenta general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/03/BOCM-20250403-54.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Camarma de Esteruelas",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/03/BOCM-20250403-55.PDF"
     }
