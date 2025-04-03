@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Extracto de la Resolución de 19 de marzo de 2025, de la Universidad Complutense de Madrid, por la que se convocan ayudas de movilidad internacional al Programa Erasmus+ KA131, curso 2024/2025 para estudiantes de la Universidad Complutense de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/03/BOCM-20250403-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Politécnica de Madrid",
       "description": "Extracto de convocatoria de ayudas para facilitar la internacionalización de la innovación, la tecnología y los resultados de la I+D+i madrileña, Programa de inmersión emprendedora en China 2025, en el marco del proyecto “RISE, refuerzo e impulso de los servicios de la UPM y de sus comunidades temáticas como entidades de enlace”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/03/BOCM-20250403-21.PDF"
