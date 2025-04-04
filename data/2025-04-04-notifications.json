@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Régimen económico: Distrito de Moratalaz. Extracto convocatoria subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/03/BOCM-20250403-48.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Contratación: Distrito de Fuencarral-El Pardo. Revisión tarifas contrato",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/03/BOCM-20250403-49.PDF"
     }
