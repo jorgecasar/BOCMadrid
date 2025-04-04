@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Extracto de la Orden 759/2025, de 21 de marzo, de la Consejería de Cultura, Turismo y Deporte de la Comunidad de Madrid, por la que se convocan las ayudas a la edición de libros correspondientes al año 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/03/BOCM-20250403-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Complutense de Madrid",
       "description": "Extracto de la Resolución de 19 de marzo de 2025, de la Universidad Complutense de Madrid, por la que se convocan ayudas de movilidad internacional al Programa Erasmus+ KA131, curso 2024/2025 para estudiantes de la Universidad Complutense de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/03/BOCM-20250403-20.PDF"
