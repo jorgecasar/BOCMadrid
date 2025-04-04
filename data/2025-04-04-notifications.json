@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Cercedilla",
-      "description": "Organización y funcionamiento: Junta gobierno local",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/03/BOCM-20250403-57.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Las Rozas de Madrid",
       "description": "Licencias: Licencia actividad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/03/BOCM-20250403-58.PDF"
