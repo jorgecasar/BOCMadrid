@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Extracto de la Resolución de 26 de marzo de 2025, de la Universidad Complutense de Madrid, por la que se convocan ayudas para la participación en congresos y movilidad de los estudiantes de doctorado de la UCM Curso 2024-2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Digitalización",
       "description": "Resolución de 25 de marzo de 2025, de la Secretaría General Técnica de la Consejería de Digitalización, por la que se dispone la publicación, en el “Diario Oficial de la Unión Europea” y en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID  de la licitación del contrato denominado “Oficina técnica de apoyo al diseño e implantación de servicios complementarios y contenidos digitales en el Servicio Madrileño de Salud”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-20.PDF"
