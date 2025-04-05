@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 25 de marzo 2025, de la Universidad Rey Juan Carlos, por la que se nombra Personal Funcionario de Carrera de la Escala de Gestión de Sistemas e Informática, grupo A, subgrupo A2, de la Universidad Rey Juan Carlos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 26 de marzo de 2025, de la Universidad Rey Juan Carlos, por la que se nombran Profesores Titulares de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-12.PDF"
     }
