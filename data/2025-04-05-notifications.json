@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 25 de marzo de 2025, de la Universidad Autónoma de Madrid, por la que se convocan plazas de Cuerpos de Personal Docente e Investigador Funcionario, para su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 2 de abril de 2025, de la Gerencia de la Universidad de Alcalá, por la que se resuelve el concurso de traslado convocado por Resolución de 23 de septiembre de 2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-10.PDF"
