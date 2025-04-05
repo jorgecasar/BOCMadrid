@@ -1,0 +1,584 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 80,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2025/04/04/BOCM-20250404080.PDF",
+      "total": 72,
+      "items": {
+        "Comunidad de Madrid": 45,
+        "Disposiciones y Anuncios del Estado": 1,
+        "Administración Local Ayuntamientos": 25,
+        "Otros Anuncios": 1
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia y Administración Local",
+      "description": "Orden de 28 de marzo de 2025, del Consejero de Presidencia, Justicia y Administración Local, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en la Consejería de Presidencia, Justicia y Administración Local, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 25 de marzo de 2025, de la Consejera de Economía, Hacienda y Empleo, por la que se resuelve la convocatoria aprobada mediante Orden de 14 de noviembre de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 25 de noviembre de 2025), para la provisión de un puesto de trabajo por el procedimiento de Concurso de Méritos en la citada Consejería",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 24 de marzo de 2025, de la Dirección General de Función Pública, por la que se resuelve el proceso extraordinario de estabilización de empleo temporal para el acceso a plazas de carácter laboral de la categoría profesional de Titulado Superior Especialista, Especialidad de Psiquiatría (Grupo I, Nivel 10, Área D), de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 26 de marzo de 2025, de la Dirección General de Función Pública, por la que se procede a la adjudicación de destinos correspondiente al proceso extraordinario de estabilización de empleo temporal para el acceso a plazas de carácter laboral de la categoría profesional de Titulado Medio, Especialidad de Fisioterapia (Grupo II, Nivel 7, Área D), de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 26 de marzo de 2025, de la Dirección General de Función Pública, por la que se procede a la adjudicación de destinos correspondiente al proceso extraordinario de estabilización de empleo temporal del personal laboral para el acceso a plazas de la categoría profesional de Educador, Especialidad de Centros de Educación Infantil (Grupo III, Nivel 6, Área C) de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Acuerdo de 2 de abril de 2025, del Consejo de Gobierno, por el que se reelige a don Yves Billiet-Prades como vocal del Consejo Social de la Universidad Autónoma de Madrid, en representación de los intereses sociales, designado por las asociaciones empresariales con mayor representación en la Comunidad de Madrid, a propuesta de la Confederación Empresarial de Madrid-CEOE (CEIM)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Orden 604/2025, de 25 de marzo, de la Consejera de Sanidad, por la que se resuelve la convocatoria aprobada por Orden 94/2025, de 27 de enero, de esta Consejería de Sanidad (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 5 de febrero), para la provisión de un puesto de trabajo vacante en la citada Consejería por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Orden de 25 de marzo de 2025, de la Consejera de Familia, Juventud y Asuntos Sociales, por la que se resuelve la convocatoria aprobada por Orden de 30 de enero de 2025, de la Consejera de Familia, Juventud y Asuntos Sociales (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 11 de febrero), para la provisión de un puesto de trabajo vacante en la citada Consejería por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-8.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Autónoma de Madrid",
+      "description": "Resolución de 25 de marzo de 2025, de la Universidad Autónoma de Madrid, por la que se convocan plazas de Cuerpos de Personal Docente e Investigador Funcionario, para su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-9.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad de Alcalá",
+      "description": "Resolución de 2 de abril de 2025, de la Gerencia de la Universidad de Alcalá, por la que se resuelve el concurso de traslado convocado por Resolución de 23 de septiembre de 2024",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-10.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Rey Juan Carlos",
+      "description": "Resolución de 25 de marzo 2025, de la Universidad Rey Juan Carlos, por la que se nombra Personal Funcionario de Carrera de la Escala de Gestión de Sistemas e Informática, grupo A, subgrupo A2, de la Universidad Rey Juan Carlos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-11.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Rey Juan Carlos",
+      "description": "Resolución de 26 de marzo de 2025, de la Universidad Rey Juan Carlos, por la que se nombran Profesores Titulares de Universidad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-12.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Orden 741/2025, de 18 de marzo, del Consejero de Educación, Ciencia y Universidades, por la que se conceden las ayudas individualizadas de concesión directa de desayuno escolar, a los alumnos de segundo ciclo de Educación Infantil y de Educación Primaria, de los centros sostenidos con fondos públicos de la Comunidad de Madrid que dispongan del servicio de desayuno escolar, pertenecientes a familias perceptoras de la Renta Mínima de Inserción o del Ingreso Mínimo Vital, durante el período lectivo del curso escolar 2024-2025",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-13.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Orden 513/2025, de 17 de marzo, de la Consejería de Familia, Juventud y Asuntos Sociales de la Comunidad de Madrid, por la que se convocan, para el año 2025, subvenciones a entidades sin fin de lucro en concepto de mantenimiento de centros y servicios, para la atención social especializada a personas con enfermedad mental grave y duradera",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-14.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Extracto de la Orden 513/2025, de 17 de marzo, de la Consejería de Familia, Juventud y Asuntos Sociales de la Comunidad de Madrid, por la que se convocan, para el año 2025, subvenciones a entidades sin fin de lucro en concepto de mantenimiento de centros y servicios, para la atención social especializada a personas con enfermedad mental grave y duradera",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-15.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Extracto de la Orden 668/2025, de 25 de marzo, del Consejero de Cultura, Turismo y Deporte, por la que se efectúa la convocatoria de ayudas a municipios de la Comunidad de Madrid para la dotación de fondos bibliográficos de sus centros bibliotecarios municipales correspondiente a 2025",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-16.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Extracto de la Orden 668/2025, de 25 de marzo, del Consejero de Cultura, Turismo y Deporte, por la que se efectúa la convocatoria de ayudas a municipios de la Comunidad de Madrid para la dotación de fondos bibliográficos de sus centros bibliotecarios municipales correspondiente a 2025",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-17.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Extracto de la Orden 668/2025, de 25 de marzo, del Consejero de Cultura, Turismo y Deporte, por la que se efectúa la convocatoria de ayudas a municipios de la Comunidad de Madrid para la dotación de fondos bibliográficos de sus centros bibliotecarios municipales correspondiente a 2025",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-18.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Complutense de Madrid",
+      "description": "Extracto de la Resolución de 26 de marzo de 2025, de la Universidad Complutense de Madrid, por la que se convocan ayudas para la participación en congresos y movilidad de los estudiantes de doctorado de la UCM Curso 2024-2025",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-19.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Digitalización",
+      "description": "Resolución de 25 de marzo de 2025, de la Secretaría General Técnica de la Consejería de Digitalización, por la que se dispone la publicación, en el “Diario Oficial de la Unión Europea” y en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID  de la licitación del contrato denominado “Oficina técnica de apoyo al diseño e implantación de servicios complementarios y contenidos digitales en el Servicio Madrileño de Salud”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-20.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Resolución de 24 de marzo de 2025, de la Secretaria General Técnica de la Consejería de Educación, Ciencia y Universidades, por la que se dispone la publicación de la formalización del contrato denominado “Organización de 17 cursos en el extranjero para 425 profesores que prestan servicios en centros educativos públicos de la Comunidad de Madrid en los que se ha implantado el programa bilingüe español-inglés y/o el programa de secciones lingüísticas en lengua francesa/alemana, así como aquellos centros en los que se desarrollan proyectos bilingües en inglés en ciclos formativos de grado superior de formación profesional, dividido en seis lotes”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-21.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Anuncio de 1 de abril de 2025, de adjudicación del contrato titulado “Acuerdo marco para el suministro de repuestos exclusivos del fabricante Hitachi para el mantenimiento de los trenes del material móvil de Metro de Madrid”. (Expediente 6012500010)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-22.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Anuncio de 2 de abril de 2025, de ampliación de plazo de presentación de ofertas de la licitación del servicio de mantenimiento de medidas complementarias de accesibilidad en las estaciones de la red de Metro de Madrid (Expediente 6012500065)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-23.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Anuncio de 2 de abril de 2025, de adjudicación del contrato titulado “Acuerdo marco para los trabajos de reacondicionamiento, mejora ante filtraciones y de monitorización de ascensores” (Expediente 6012400437)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-24.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Anuncio de 2 de abril de 2025, de adjudicación del contrato titulado “Servicio de apoyo al mantenimiento de instalaciones de línea aérea en vías principales y depósitos de Metro de Madrid” (Expediente 6012400435)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-25.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 25 de marzo de 2025, de la Dirección-Gerencia del Centro de Transfusión de la Comunidad de Madrid, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la convocatoria del contrato denominado “Suministro de reactivos necesarios para la detección de ácidos nucleicos del Virus del Nilo (VNO) en donantes de sangre para el Centro de Transfusión de la Comunidad de Madrid”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-26.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 21 de marzo de 2025, de la Dirección-Gerencia del Hospital General Universitario “Gregorio Marañón”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de «Servicio de ejecución de tareas de apoyo relativas a los Sistemas de Información para el Hospital General Universitario “Gregorio Marañón”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-27.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 21 de marzo de 2025, de la Gerencia del Hospital Universitario “La Paz”, por la que se dispone la publicación en los boletines oficiales y en el perfil de contratante en Internet de la formalización del contrato de servicios de mantenimiento integral de los equipos de alta tecnología M/Philips del Hospital Universitario “La Paz” y los centros adscritos. 15.a Modificación P. A. 11/2020",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-28.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 21 de marzo de 2025, de la Gerencia del Hospital Universitario “La Paz”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet, de la formalización del contrato de “Suministro de fundas antitrombosis”. P. A. 2024-0-23",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-29.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 24 de marzo de 2025, de la Gerencia del Hospital Universitario “La Paz”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la formalización del contrato de “Suministro de material fungible y equipamiento para la realización de tratamiento de hemodiálisis en pacientes adultos”. Modificación 2025-9-6 (P. A. 2024-0-9)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-30.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 25 de marzo de 2025, de la Dirección-Gerencia del Hospital Universitario “Ramón y Cajal”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante”, la formalización de la modificación del contrato 2024000011 “Suministro de dispositivos intersomáticos lumbares expandibles mínimamente invasivos con diferentes abordajes con destino al Servicio de Neurocirugía del Hospital Universitario “Ramón y Cajal”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-31.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 26 de marzo de 2025, de la Dirección-Gerencia del Hospital Universitario “Ramón y Cajal”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la convocatoria del contrato de «Adquisición de microcatéter coronario, catéter extractor de trombos y sistema de aterectomía rotacional para angioplastia coronaria con destino al Servicio de Cardiología del Hospital Universitario “Ramón y Cajal”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-32.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 19 de febrero de 2025, de la Dirección General de Transición Energética y Economía Circular, por la que se somete a información pública la petición de autorización administrativa y aprobación del proyecto para la modificación de una línea aérea de 15 kV en calle la Marañosa, sin número, en el término municipal de Getafe, solicitada por UFD Distribución Electricidad, S. A.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-33.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 26 de febrero de 2025, de la Dirección General de Transición Energética y Economía Circular, sobre autorización administrativa de cierre de un centro de transformación ubicado en la calle Mesena, número 80D, con acceso desde calle Manuel Uribe, número 25, en el término municipal de Madrid, solicitado por UFD Distribución Electricidad, S. A. Número expediente: 2024P1439-14-0141-01439.3/2024",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-34.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 12 de marzo de 2025, de la Dirección General de Transición Energética y Economía Circular, por la que se somete a información pública la petición de autorización administrativa y aprobación del proyecto de ejecución para la instalación de la planta fotovoltaica Villamanrique I y su infraestructura de evacuación situada en carretera M-321, sin número, en el término municipal de Villamanrique de Tajo, solicitada por Iberenova Promociones, S. A. U.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-35.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 21 de marzo de 2025, del Director General de Agricultura, Ganadería y Alimentación, por la que se anuncia la exposición pública relativa a la autorización de ocupación temporal de la vía pecuaria Vereda del Puente de Zulema a Camarma, en el término municipal de Alcalá de Henares, para llevar a cabo la instalación de estatuas e iluminación de la obra circuito museal al aire libre, actuación promovida por Ayuntamiento de Alcalá de Henares",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-36.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 21 de marzo de 2025, de la Directora General de Transición Energética y Economía Circular de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se acuerda hacer público el Informe Ambiental Estratégico del Plan Especial de mejora urbana para la finca sita en calle Horcajo, número 20, de polígono industrial “Las Arenas” del término municipal de Pinto, promovido por Rodba, S. A. (Expediente: 26-UB2-00193.0/2024, SIA 24/181)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-37.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 24 de marzo de 2025, de la Directora General de Transición Energética y Economía Circular de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se acuerda hacer público el Informe de Impacto Ambiental del “Proyecto de Urbanización de la UE-11 de Cubas de la Sagra”, en el término municipal de Cubas de la Sagra, promovido por Grupo Inmobiliario Hermafer, S. A. (Expediente: 26-EIA-00052.6/2024)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-38.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Convenio de 21 de marzo de 2025, entre la Comunidad de Madrid (Consejería de Medio Ambiente, Agricultura e Interior) y el Ayuntamiento de Puentes Viejas para la adhesión de información relativa a su patrimonio de suelo disponible al Portal de Suelo de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-39.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Convenio de 21 de marzo de 2025, entre la Comunidad de Madrid (Consejería de Medio Ambiente, Agricultura e Interior) y el Ayuntamiento de Villaconejos para la adhesión de información relativa a su patrimonio de suelo disponible al Portal de Suelo de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-40.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Convenio de 1 de abril de 2025, entre la Comunidad de Madrid a través de la Consejería de Medio Ambiente, Agricultura e Interior (Centro de Asuntos Taurinos) y la Fundación del Toro de Lidia, en virtud del cual se instrumenta la concesión de una subvención nominativa por importe de 1.700.000 euros para financiar la puesta en marcha de la Fiesta del Toro de la Comunidad de Madrid 2025",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-41.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 24 de marzo de 2025, de la Agencia de Seguridad y Emergencias Madrid 112, por la que se dispone la publicación del anuncio previo relativo al contrato “Servicio de seguridad privada en la sede de Las Rozas de Madrid de la Agencia de Seguridad y Emergencias Madrid 112”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-42.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 25 de marzo de 2025, de Canal de Isabel II, Sociedad Anónima, M. P., por la que se hace pública la formalización del contrato adjudicado por procedimiento abierto para Servicios de asistencia técnica y coordinación de seguridad y salud para el proyecto de variante del emisario de vertido y actuaciones en el pretratamiento de la EDAR de Navas del Rey. T. M. Navas del Rey",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-43.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Convenio de colaboración de 14 de noviembre de 2024, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Asuntos Sociales, y el Ayuntamiento de Arroyomolinos para la expedición del “Carné Joven Comunidad de Madrid”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-44.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Convenio de 17 de marzo de 2025, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Asuntos Sociales, y la Asociación El Fanal, para el desarrollo de un servicio de ludoteca y parentalidad positiva en la Cañada Real Galiana en la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-45.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Disposiciones y Anuncios del Estado",
+      "description": "Ministerio de Transportes y Movilidad Sostenible. Demarcación de Carreteras del Estado en Madrid. Expropiación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-46.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Régimen económico: Distrito de Carabanchel. Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-47.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcobendas",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-48.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcorcón",
+      "description": "Personal: Nombramiento funcionarios carrera",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-49.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Aldea del Fresno",
+      "description": "Personal: Relación puestos trabajo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-50.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Becerril de la Sierra",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-51.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Brunete",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-52.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Colmenar Viejo",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-53.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Getafe",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-54.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Getafe",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-55.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Manzanares el Real",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-56.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Navalcarnero",
+      "description": "Organización y funcionamiento: Reglamento Coro Municipal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-57.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Orusco de Tajuña",
+      "description": "Régimen económico: Ordenanza fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-58.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Paracuellos de Jarama",
+      "description": "Organización y funcionamiento: Delegación funciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-59.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Rivas-Vaciamadrid",
+      "description": "Personal: Nombramiento funcionarios carrera",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-60.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Fernando de Henares",
+      "description": "Personal: Nombramientos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-61.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Fernando de Henares",
+      "description": "Personal: Nombramiento",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-62.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Soto del Real",
+      "description": "Contratación: Licitación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-63.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrelaguna",
+      "description": "Régimen económico: Ordenanza fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-64.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrelodones",
+      "description": "Régimen económico: Ordenanzas fiscales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-65.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrelodones",
+      "description": "Régimen económico: Padrones fiscales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-66.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Valdemorillo",
+      "description": "Organización y funcionamiento: Reglamento Régimen Control Interno",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-67.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Valdemoro",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-68.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villaviciosa de Odón",
+      "description": "Régimen económico: Ordenanza fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-69.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Mancomunidad Henares-Jarama",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-70.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Mancomunidad de Servicios del Valle Norte del Lozoya",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/04/BOCM-20250404-71.PDF"
+    }
+  }
+]
