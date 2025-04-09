@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Acuerdo de 7 de marzo de 2025, entre el Ministerio de Sanidad y la Comunidad de Madrid, para fijar las condiciones de la adquisición de vacunas frente a la gripe estacional",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/08/BOCM-20250408-38.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 4 de abril de 2025, del Consejero-Delegado de la Agencia de Contratación Sanitaria, por la que se hace pública la convocatoria de licitación del contrato de obras de construcción de la “Fase III” del Plan Director del Hospital Clínico “San Carlos”, por procedimiento abierto con pluralidad de criterios por trámite de urgencia",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/08/BOCM-20250408-39.PDF"
     }
