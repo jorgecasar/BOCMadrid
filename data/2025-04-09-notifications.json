@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 27 de marzo de 2025, de la Universidad Autónoma de Madrid, por la que se convocan plazas de Cuerpos de Personal Docente e Investigador Funcionario, para su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/08/BOCM-20250408-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 26 de marzo de 2025, de la Universidad Politécnica de Madrid, por la que se convocan concursos para la provisión de plazas de personal docente e investigador contratado: Profesor Permanente Laboral",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/08/BOCM-20250408-17.PDF"
