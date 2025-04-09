@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 27 de marzo de 2025, de la Universidad Carlos III de Madrid, por la que se nombra Catedrático de Universidad a don Miguel Ángel Monge Alcázar",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/08/BOCM-20250408-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Orden de 26 de marzo de 2025, de la Consejería de Presidencia, Justicia y Administración Local, por la que se modifica la Orden de 21 de febrero de 2025, por la que se actualizan los módulos y las cuantías relativas a la subvención de los servicios de Asistencia Jurídica Gratuita de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/08/BOCM-20250408-19.PDF"
