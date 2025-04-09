@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Extracto del Acuerdo de 26 de marzo de 2025, de la Comisión de Investigación de la Universidad de Alcalá, por el que se convocan las Ayudas de Movilidad de Personal Investigador en Formación 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/08/BOCM-20250408-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Extracto del Acuerdo de 26 de marzo de 2025, de la Comisión de Investigación de la Universidad de Alcalá, por el que se convocan las Ayudas de Movilidad de Personal Docente y Personal Investigador 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/08/BOCM-20250408-27.PDF"
     }
