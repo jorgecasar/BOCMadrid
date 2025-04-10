@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Cercedilla",
-      "description": "Régimen económico: Ordenanza fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/09/BOCM-20250409-40.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Cercedilla",
       "description": "Ofertas de empleo: Proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/09/BOCM-20250409-41.PDF"
     }
