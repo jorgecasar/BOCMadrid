@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Extracto de la Resolución Rectoral de la Universidad Rey Juan Carlos de 25 de marzo de 2025, por la que se convocan Ayudas para la Atención Psicológica, financiadas por la Comunidad de Madrid, dirigidas a estudiantes de la Universidad Rey Juan Carlos en el curso 2024-2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/09/BOCM-20250409-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Extracto de la Resolución del Rector Magnífico de la Universidad Rey Juan Carlos, por la que se aprueban y hacen públicas las bases reguladoras y la convocatoria de movilidad del personal para docencia y para formación, en el año 2025, dentro del programa Erasmus+, promovido por la Unión Europea",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/09/BOCM-20250409-12.PDF"
     }
