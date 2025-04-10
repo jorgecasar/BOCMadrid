@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Torres de la Alameda",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/09/BOCM-20250409-61.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Torres de la Alameda",
       "description": "Régimen económico: Extracto convocatoria subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/09/BOCM-20250409-62.PDF"
     }
