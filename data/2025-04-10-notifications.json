@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Getafe",
-      "description": "Régimen económico: Ordenanza fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/09/BOCM-20250409-44.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Getafe",
       "description": "Licencias: Licencia actividad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/09/BOCM-20250409-45.PDF"
     }
