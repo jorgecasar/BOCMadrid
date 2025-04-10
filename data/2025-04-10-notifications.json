@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "description": "Extracto de la Orden 582/2025, de 21 de marzo, de la Consejería de Familia, Juventud y Política Social, por la que se convocan los premios Emprendimiento Joven-Carné Joven Comunidad de Madrid correspondientes al año 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/09/BOCM-20250409-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Extracto de la Resolución Rectoral de la Universidad Rey Juan Carlos de 25 de marzo de 2025, por la que se convocan Ayudas para la Atención Psicológica, financiadas por la Comunidad de Madrid, dirigidas a estudiantes de la Universidad Rey Juan Carlos en el curso 2024-2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/09/BOCM-20250409-11.PDF"
