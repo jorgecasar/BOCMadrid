@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Navalafuente",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/09/BOCM-20250409-50.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Navalagamella",
       "description": "Régimen económico: Presupuesto general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/09/BOCM-20250409-51.PDF"
