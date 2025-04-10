@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Extracto de la Resolución del Rector Magnífico de la Universidad Rey Juan Carlos, por la que se aprueban y hacen públicas las bases reguladoras y la convocatoria de movilidad del personal para docencia y para formación, en el año 2025, dentro del programa Erasmus+, promovido por la Unión Europea",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/09/BOCM-20250409-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Extracto de la Resolución del Rector de la Universidad Rey Juan Carlos, con fecha de 1 de abril de 2025, por la que se convocan, en régimen de concurrencia competitiva, un máximo de 8 ayudas económicas a estudiantes de la Universidad Rey Juan Carlos para participar en el “Programa de Voluntariado Internacional de la Universidad Rey Juan Carlos”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/09/BOCM-20250409-13.PDF"
     }
