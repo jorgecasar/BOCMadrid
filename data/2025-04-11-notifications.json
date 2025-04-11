@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 31 de marzo de 2025, de la Universidad Rey Juan Carlos, por la que se nombra a doña Noa Fogelson como Profesora Titular de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/10/BOCM-20250410-36.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 31 de marzo de 2025, de la Universidad Rey Juan Carlos, por la que se nombra a doña Juana Farfán Montero como Profesora Titular de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/10/BOCM-20250410-37.PDF"
     }
