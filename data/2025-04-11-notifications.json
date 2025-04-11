@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de de 31 de marzo de 2025, la Universidad Rey Juan Carlos, por la que se nombran Profesores Titulares de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/10/BOCM-20250410-38.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Acuerdo de 26 de marzo de 2025, del Consejo de Gobierno, por el que se autoriza la disolución de la sociedad mercantil Interamericana de Aguas de México, S. A., de C. V. (INAMEX), perteneciente al grupo empresarial de Canal de Isabel II",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/10/BOCM-20250410-39.PDF"
