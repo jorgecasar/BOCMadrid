@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 1116/2025, de 3 de abril, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria aprobada por Orden 209/2025, de 30 de enero, del Consejero de Educación, Ciencia y Universidades (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 10 de febrero de 2025), para la provisión de un puesto de trabajo vacante en la Consejería de Educación, Ciencia y Universidades, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/14/BOCM-20250414-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 659/2025, de 2 de abril, de la Consejería de Sanidad, por la que se resuelve la Orden 136/2025, de 4 de febrero, de la referida Consejería (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 14 de febrero de 2025), por la que se convocan para su cobertura interina dos puestos de trabajo en esta Consejería de Sanidad y se constituye lista de espera para futuras coberturas interinas de puestos de esta Consejería",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/14/BOCM-20250414-12.PDF"
