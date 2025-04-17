@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "El Berrueco",
-      "description": "Urbanismo: Normas subsidiarias",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/16/BOCM-20250416-58.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "El Escorial",
       "description": "Ofertas de empleo: Proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/16/BOCM-20250416-59.PDF"
