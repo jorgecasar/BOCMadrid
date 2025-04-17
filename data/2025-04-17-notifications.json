@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "El Escorial",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/16/BOCM-20250416-59.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Fuenlabrada",
       "description": "Organización y funcionamiento: Régimen retribuciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/16/BOCM-20250416-60.PDF"
