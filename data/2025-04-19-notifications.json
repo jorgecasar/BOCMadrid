@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Acuerdo de 26 de marzo de 2025, del Consejo de Gobierno, por el que se autoriza la disolución de la sociedad mercantil Mexaqua, S. A. de C. V., perteneciente al grupo empresarial de Canal de Isabel II",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/17/BOCM-20250417-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Convenio de 14 de marzo de 2025, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y Hola Por Qué, S. Coop. Mad., para la realización de prácticas externas de los alumnos de la Escuela Superior de Diseño",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/17/BOCM-20250417-2.PDF"
