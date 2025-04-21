@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Las Rozas de Madrid",
-      "description": "Urbanismo: Plan general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/21/BOCM-20250421-45.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Leganés",
       "description": "Régimen económico: Extracto convocatoria subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/21/BOCM-20250421-46.PDF"
