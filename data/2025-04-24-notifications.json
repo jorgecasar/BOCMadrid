@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Resolución 21/2025, de 10 de abril, del Director del Centro de Enseñanza Superior Cardenal Cisneros, por la que se hace pública la oferta de empleo de una plaza de duración indefinida en la Fundación Universitaria Fray Francisco Jiménez de Cisneros",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/23/BOCM-20250423-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Orden 1397/2025, de 10 de abril, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se resuelve la convocatoria aprobada por Orden 3673/2024, de 25 de octubre (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 7 de noviembre de 2024), para la provisión de puestos de trabajo vacantes en dicha Consejería por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/23/BOCM-20250423-16.PDF"
