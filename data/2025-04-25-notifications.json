@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Navas del Rey",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/25/BOCM-20250425-56.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Quijorna",
       "description": "Régimen económico: Matrícula impuestos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/25/BOCM-20250425-57.PDF"
