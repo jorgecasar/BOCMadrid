@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Régimen económico: Área de Gobierno de Vicealcaldía, Portavoz, Seguridad y Emergencias. Extracto convocatoria subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/25/BOCM-20250425-36.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Régimen económico: Distrito de Arganzuela. Extracto convocatoria subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/25/BOCM-20250425-37.PDF"
     }
