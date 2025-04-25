@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "San Fernando de Henares",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/25/BOCM-20250425-58.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "San Lorenzo de El Escorial",
       "description": "Organización y funcionamiento: Régimen dedicación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/25/BOCM-20250425-59.PDF"
