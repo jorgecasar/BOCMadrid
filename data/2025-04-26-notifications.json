@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 1494/2025, de 24 de abril, del Consejero de Educación, Ciencia y Universidades, por la que se establecen los servicios mínimos esenciales con ocasión de la huelga convocada para el día 28 de abril de 2025 en las universidades públicas de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/26/BOCM-20250426-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Convenio de 31 de marzo de 2025, entre la Comunidad de Madrid (Instituto Regional de Seguridad y Salud en el Trabajo) y CEIM Confederación Empresarial de Madrid-CEOE, para la realización de actividades conjuntas de asesoramiento, información y sensibilización en prevención de riesgos laborales incluidas en el VII Plan Director de Prevención de Riesgos Laborales de la Comunidad de Madrid 2025-2028",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/26/BOCM-20250426-7.PDF"
