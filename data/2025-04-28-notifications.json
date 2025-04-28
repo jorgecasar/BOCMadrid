@@ -1,18 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 100,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2025/04/28/BOCM-20250428100.PDF",
-      "total": 73,
-      "items": {
-        "Comunidad de Madrid": 33,
-        "Administración Local Ayuntamientos": 39,
-        "Otros Anuncios": 1
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
