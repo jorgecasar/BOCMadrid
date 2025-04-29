@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 6 de abril de 2025, de la Universidad Autónoma de Madrid, por la que se convoca proceso selectivo para la ampliación de lista de espera de funcionarios/as interinos/as de la Escala Auxiliar de Archivos, Bibliotecas y Museos de la Universidad Autónoma de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/28/BOCM-20250428-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 4 de abril de 2025, de la Dirección General de Promoción Económica e Industrial, por la que se establecen los criterios para la realización de inspecciones por organismos de control por cambio de empresa conservadora en ascensores",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/28/BOCM-20250428-18.PDF"
