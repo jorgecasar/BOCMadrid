@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Meco",
-      "description": "Urbanismo: Plan especial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/30/BOCM-20250430-40.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Mejorada del Campo",
       "description": "Organización y funcionamiento: Reglamento Centro Rafael Alberti",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/04/30/BOCM-20250430-41.PDF"
