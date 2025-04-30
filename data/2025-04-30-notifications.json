@@ -1,18 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 102,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2025/04/30/BOCM-20250430102.PDF",
-      "total": 51,
-      "items": {
-        "Comunidad de Madrid": 32,
-        "Administración Local Ayuntamientos": 18,
-        "Otros Anuncios": 1
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
