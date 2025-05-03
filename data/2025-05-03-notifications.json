@@ -1,16 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 105,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2025/05/03/BOCM-20250503105.PDF",
-      "total": 11,
-      "items": {
-        "Comunidad de Madrid": 11
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
