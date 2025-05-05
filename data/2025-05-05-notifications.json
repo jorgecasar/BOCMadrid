@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "La Serna del Monte",
-      "description": "Régimen económico: Ordenanza fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/05/BOCM-20250505-48.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Moralzarzal",
       "description": "Régimen económico: Matrícula impuestos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/05/BOCM-20250505-49.PDF"
