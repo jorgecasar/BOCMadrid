@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Urbanismo: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Plan general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/05/BOCM-20250505-34.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcalá de Henares",
       "description": "Régimen económico: Matrícula impuestos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/05/BOCM-20250505-35.PDF"
