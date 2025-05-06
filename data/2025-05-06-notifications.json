@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 22 de abril de 2025, de la Universidad Autónoma de Madrid, por la que se nombra funcionaria de carrera de la Escala Especial Técnica de Sistemas y Tecnologías de la información de la Universidad Autónoma de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/06/BOCM-20250506-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Carlos III",
       "description": "Resolución de 22 de abril de 2025, de la Universidad Carlos III de Madrid, por la que se anuncia la convocatoria de proceso selectivo, por el sistema general de acceso libre, para la provisión de un puesto de trabajo vacante en la relación de puestos de trabajo de personal técnico, de gestión y de administración y servicios laboral de esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/06/BOCM-20250506-33.PDF"
