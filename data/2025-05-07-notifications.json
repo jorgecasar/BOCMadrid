@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Miraflores de la Sierra",
-      "description": "Régimen económico: Padrones fiscales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/07/BOCM-20250507-58.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Miraflores de la Sierra",
       "description": "Régimen económico: Padrón fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/07/BOCM-20250507-59.PDF"
     }
