@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 1182/2025, de 21 de abril, del Consejero de Educación, Ciencia y Universidades, por la que se autoriza la extensión de la enseñanza bilingüe español–inglés en segundo ciclo de Educación Infantil, su implantación en la etapa de Educación Primaria y su continuidad en la etapa de Educación Secundaria Obligatoria, en centros privados concertados del ámbito de gestión de la Comunidad de Madrid durante el curso 2025-2026",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/07/BOCM-20250507-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 699/2025, de 25 de marzo, por la que se concede una subvención nominativa a la Fundación de la Escuela de Cinematografía y del Audiovisual de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/07/BOCM-20250507-16.PDF"
