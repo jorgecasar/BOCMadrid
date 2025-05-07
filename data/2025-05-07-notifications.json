@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "La Hiruela",
-      "description": "Organización y funcionamiento: Concejo abierto",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/07/BOCM-20250507-54.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "La Hiruela",
       "description": "Régimen económico: Plan presupuestario",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/07/BOCM-20250507-55.PDF"
     }
