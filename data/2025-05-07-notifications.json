@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "La Hiruela",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/07/BOCM-20250507-56.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Meco",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/07/BOCM-20250507-57.PDF"
