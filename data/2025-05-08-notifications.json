@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 4 de abril de 2025, de la Universidad Rey Juan Carlos, por la que se anuncia convocatoria de concurso para la provisión de plazas de Profesor Permanente Laboral",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/08/BOCM-20250508-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 23 de abril de 2025, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba la octava convocatoria de los Reconocimientos y las Menciones en Prevención de Riesgos Laborales de la Comunidad de Madrid correspondiente al año 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/08/BOCM-20250508-27.PDF"
