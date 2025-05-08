@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Cubas de la Sagra",
-      "description": "Otros anuncios: Candidaturas juez de paz",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/08/BOCM-20250508-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "El Escorial",
       "description": "Régimen económico: Matrícula impuesto",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/08/BOCM-20250508-50.PDF"
