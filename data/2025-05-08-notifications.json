@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio periódico indicativo de 23 de abril de 2025, relativo al contrato del servicio de coordinación de seguridad y salud en obras",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/08/BOCM-20250508-33.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio periódico indicativo de 23 de abril de 2025, relativo al contrato del servicio de mantenimiento de los equipos de aire acondicionado de trenes de Línea 1 y 5 de Metro de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/08/BOCM-20250508-34.PDF"
     }
