@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "El Boalo",
-      "description": "Personal: Nombramiento funcionario carrera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/09/BOCM-20250509-58.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Galapagar",
       "description": "Personal: Nombramiento funcionarias carrera",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/09/BOCM-20250509-59.PDF"
