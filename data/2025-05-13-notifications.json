@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 28 de abril de 2025, de la Universidad Rey Juan Carlos, por la que se nombra a doña Gloria Díaz Pardo como Profesora Titular de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/12/BOCM-20250512-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 28 de abril de 2025, de la Universidad Rey Juan Carlos, por la que se nombran Profesores Titulares de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/12/BOCM-20250512-23.PDF"
     }
