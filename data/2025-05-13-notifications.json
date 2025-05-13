@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Fuente el Saz de Jarama",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/12/BOCM-20250512-53.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Galapagar",
       "description": "Régimen económico: Ordenanza fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/12/BOCM-20250512-54.PDF"
