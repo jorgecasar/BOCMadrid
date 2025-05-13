@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio periódico indicativo de 25 de abril de 2025, relativo al contrato del acuerdo marco para el suministro de repuestos industriales para el mantenimiento de las instalaciones y del material móvil de Metro de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/12/BOCM-20250512-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio periódico indicativo de 25 de abril de 2025, relativo al contrato del suministro de mangueras antivibratorias para el mantenimiento de los trenes del material móvil de Metro de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/12/BOCM-20250512-30.PDF"
     }
