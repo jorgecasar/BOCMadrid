@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 30 de abril de 2025, de la Gerencia de la Universidad de Alcalá, por la que se resuelve la convocatoria del puesto de Director/a de los Servicios Informáticos mediante el sistema de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/14/BOCM-20250514-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Asamblea de Madrid",
       "description": "Resolución de 7 de mayo de 2025, de Secretaría General de la Asamblea de Madrid, por la que se amplía con carácter general, en dos días, el plazo para la tramitación de los procedimientos administrativos de la Asamblea de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/14/BOCM-20250514-12.PDF"
