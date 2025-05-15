@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcalá de Henares",
-      "description": "Personal: Plantilla personal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/15/BOCM-20250515-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Buitrago del Lozoya",
       "description": "Organización y funcionamiento: Reglamento Servicio Cultural",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/15/BOCM-20250515-14.PDF"
