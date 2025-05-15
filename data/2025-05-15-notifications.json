@@ -1,18 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 115,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2025/05/15/BOCM-20250515115.PDF",
-      "total": 19,
-      "items": {
-        "Comunidad de Madrid": 12,
-        "Administración Local Ayuntamientos": 4,
-        "Administración de Justicia": 3
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
