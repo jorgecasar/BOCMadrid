@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Orden de 25 de abril de 2025, de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se aprueba el Plan Estratégico de Subvenciones para el año 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/15/BOCM-20250515-3.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Adenda de 24 de abril de 2025, al convenio de gestión integral del servicio de distribución de agua de consumo humano entre la Comunidad de Madrid, Canal de Isabel II y el Ayuntamiento de Torrelodones, de 6 de junio de 2012, para la ampliación del ámbito de aplicación del mismo mediante la inclusión de la urbanización “Monte de los Jarales”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/15/BOCM-20250515-4.PDF"
