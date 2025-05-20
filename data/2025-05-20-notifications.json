@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio periódico indicativo de 5 de mayo de 2025, relativo al contrato del servicio de limpieza y desinfección de los vehículos de Metro de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/19/BOCM-20250519-43.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio periódico indicativo de 5 de mayo de 2025, relativo al contrato de pólizas seguro RCP y RCP-Lima",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/19/BOCM-20250519-44.PDF"
     }
