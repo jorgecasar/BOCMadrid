@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Getafe",
-      "description": "Régimen económico: Padrón fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/21/BOCM-20250521-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Getafe",
       "description": "Licencias: Licencia actividad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/21/BOCM-20250521-50.PDF"
     }
