@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Meco",
-      "description": "Régimen económico: Extracto convocatoria subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/21/BOCM-20250521-53.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Meco",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/21/BOCM-20250521-54.PDF"
     }
