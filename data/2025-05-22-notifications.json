@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Decreto 21/2025, de 21 de mayo, del Consejo de Gobierno, por el que se regula la ordenación y organización del Sistema de Formación Profesional de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/22/BOCM-20250522-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Decreto 26/2025, de 14 de mayo, del Consejo de Gobierno, por el que se establece la ordenación de los campamentos de turismo y de las áreas de acogida y pernocta de autocaravanas, cámperes y vehículos similares con tracción propia en la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/22/BOCM-20250522-2.PDF"
