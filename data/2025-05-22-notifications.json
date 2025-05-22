@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Asamblea de Madrid",
-      "description": "Resolución de 8 de mayo de 2025, de la Presidencia de la Asamblea de Madrid, por la que se designa el Tribunal que ha de juzgar las pruebas selectivas de ingreso en el Cuerpo de Subalternos, escala de Ujieres",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/22/BOCM-20250522-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Orden de 7 de mayo de 2025, del Consejero de Presidencia, Justicia y Administración Local, por la que se aprueba lista de espera de funcionarios interinos del Cuerpo de Técnicos Superiores de Salud Pública, especialidad Psicología",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/22/BOCM-20250522-10.PDF"
