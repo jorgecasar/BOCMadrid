@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Alcalá de Henares",
-      "description": "Régimen económico: Padrón fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/22/BOCM-20250522-59.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Alcalá de Henares",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/22/BOCM-20250522-60.PDF"
     }
