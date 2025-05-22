@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Asamblea de Madrid",
-      "description": "Resolución de 8 de mayo de 2025, de la Presidencia de la Asamblea de Madrid, por la que se designa el Tribunal que ha de juzgar las pruebas selectivas de ingreso en el Cuerpo de Administrativos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/22/BOCM-20250522-4.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Asamblea de Madrid",
       "description": "Resolución de 8 de mayo de 2025, de la Presidencia de la Asamblea de Madrid, por la que se designa el Tribunal que ha de juzgar las pruebas selectivas de ingreso en el Cuerpo de Facultativo de Especialistas Audiovisuales, Escala Ejecutiva",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/22/BOCM-20250522-5.PDF"
     }
