@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "description": "Orden 1203/2025, de 9 de mayo, de la Consejera de Familia, Juventud y Asuntos Sociales, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes, por el procedimiento de Concurso de Méritos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/22/BOCM-20250522-27.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Extracto de la Orden 1815/2025, de 14 de mayo, del Consejero de Educación, Ciencia y Universidades, por la que se convocan los Premios Extraordinarios de Educación Primaria para la mejora de la calidad educativa de la Comunidad de Madrid correspondientes al año académico 2024-2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/22/BOCM-20250522-28.PDF"
