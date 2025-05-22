@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Orden 852/2025, de 7 de mayo, de la Consejera de Sanidad, por la que se declara de uniformidad y gestión centralizada la contratación del suministro de los productos sanitarios necesarios para la prevención y el tratamiento de heridas crónicas, para todos los centros dependientes del Servicio Madrileño de Salud, mediante Acuerdo Marco",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/22/BOCM-20250522-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Resolución de 7 de mayo de 2025, de la Secretaría General Técnica de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se publican las subvenciones concedidas durante el primer trimestre de 2025 por la Dirección General de Biodiversidad y Gestión Forestal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/22/BOCM-20250522-31.PDF"
