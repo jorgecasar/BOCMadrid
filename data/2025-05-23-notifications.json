@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 7 de mayo de 2025, de la Universidad Complutense de Madrid, por la que se nombra a Dña. Ana María de las Heras Cuenca Profesora Titular de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/23/BOCM-20250523-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Complutense de Madrid",
       "description": "Resolución conjunta de 7 de mayo de 2025, de la Universidad Complutense de Madrid y de la Consejería Sanidad de la Comunidad de Madrid, por la que se convoca concurso de acceso a plazas de cuerpos docentes universitarios vinculadas con plazas asistenciales en instituciones sanitarias",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/23/BOCM-20250523-15.PDF"
     }
