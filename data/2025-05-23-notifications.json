@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Orden 726/2025, de 7 de mayo, de la Consejería de Sanidad, por la que se crea el Observatorio de Enfermedades Raras de la Comunidad de Madrid y se regula su composición, organización y funcionamiento",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/23/BOCM-20250523-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Orden 1615/2025, de 9 de mayo, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se establecen las bases reguladoras de las ayudas para la promoción, transformación y comercialización de productos de la pesca y de la acuicultura, cofinanciadas por el Fondo Europeo Marítimo, de Pesca y de Acuicultura (FEMPA), y se aprueba la convocatoria para 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/23/BOCM-20250523-19.PDF"
