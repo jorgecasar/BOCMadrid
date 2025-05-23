@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Orden 711/2025, de 7 de mayo, de la Consejera de Sanidad, por la que se fija el número máximo anual de nombramientos de personal emérito del Servicio Madrileño de Salud correspondientes al año 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/23/BOCM-20250523-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Orden 896/2025, de 12 de mayo, de la Consejera de Sanidad, por la que se resuelve la convocatoria aprobada por Orden 289/2025, de 24 de febrero, de esta Consejería de Sanidad (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 7 de marzo), para la provisión de un puesto de trabajo vacante en la citada Consejería por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/23/BOCM-20250523-11.PDF"
     }
