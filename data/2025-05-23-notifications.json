@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Otros anuncios: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Declaración zona peatonal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/23/BOCM-20250523-39.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Aranjuez",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/23/BOCM-20250523-40.PDF"
