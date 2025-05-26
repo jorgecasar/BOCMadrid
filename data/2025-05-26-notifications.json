@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Decreto 28/2025, de 21 de mayo, del Consejo de Gobierno, por el que se nombra Rector de la Universidad Rey Juan Carlos a don Abraham Duarte Muñoz",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/26/BOCM-20250526-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 1716/2025, de 14 de mayo, del Consejero de Educación, Ciencia y Universidades, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Educación, Ciencia y Universidades, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/26/BOCM-20250526-20.PDF"
     }
