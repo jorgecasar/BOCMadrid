@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Anuncio de 13 de mayo de 2025, de Universitas XXI S.T.U., por el que se hace pública la convocatoria de un proceso selectivo para la cobertura de una vacante",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/26/BOCM-20250526-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Resolución de 12 de mayo de 2025, de la Directora-Gerente del Instituto Madrileño de Investigación y Desarrollo Rural, Agrario y Alimentario, por la que se aprueba convocatoria pública para la provisión, por el procedimiento de Libre Designación, de un puesto de carrera vacante dependiente de este organismo autónomo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/26/BOCM-20250526-24.PDF"
