@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Getafe",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/27/BOCM-20250527-58.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Guadarrama",
       "description": "Organización y funcionamiento: Delegación funciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/27/BOCM-20250527-59.PDF"
