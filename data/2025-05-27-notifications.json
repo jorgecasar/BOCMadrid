@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Campo Real",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/27/BOCM-20250527-44.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Cercedilla",
       "description": "Ofertas de empleo: Proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/27/BOCM-20250527-45.PDF"
