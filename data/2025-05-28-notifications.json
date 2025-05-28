@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcorcón",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/28/BOCM-20250528-44.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Arganda del Rey",
       "description": "Régimen económico: Padrones fiscales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/28/BOCM-20250528-45.PDF"
