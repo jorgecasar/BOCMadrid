@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Collado Mediano",
-      "description": "Régimen económico: Padrón fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/28/BOCM-20250528-47.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Collado Mediano",
       "description": "Régimen económico: Cuenta general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/28/BOCM-20250528-48.PDF"
     }
