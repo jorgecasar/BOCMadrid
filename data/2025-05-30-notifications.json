@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Decreto 33/2025, de 28 de mayo, del Consejo de Gobierno, por el que se declara Bien de Interés Cultural de la Comunidad de Madrid, en la categoría de Monumento, la iglesia parroquial de la Asunción de Nuestra Señora en Valdemorillo (Madrid)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/30/BOCM-20250530-45.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Decreto 34/2025, de 28 de mayo, del Consejo de Gobierno, por el que se declara Bien de Interés Cultural de la Comunidad de Madrid, en la categoría de Zona Arqueológica, el yacimiento de la villa romana “La Torrecilla”, en Perales del Río, Getafe (Madrid)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/30/BOCM-20250530-46.PDF"
     }
