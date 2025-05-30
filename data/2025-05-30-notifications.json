@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Decreto 30/2025, de 28 de mayo, del Consejo de Gobierno, por el que se declara bien de interés cultural de la Comunidad de Madrid, la pintura titulada Sansón y el león, obra de Pedro Pablo Rubens",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/30/BOCM-20250530-42.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Decreto 31/2025, de 28 de mayo, del Consejo de Gobierno, por el que se declara Bien de Interés Cultural del Patrimonio Inmaterial de la Comunidad de Madrid, la Feria del Libro de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/30/BOCM-20250530-43.PDF"
     }
