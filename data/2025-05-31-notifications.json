@@ -1,0 +1,38 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 129,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2025/05/31/BOCM-20250531129.PDF",
+      "total": 8,
+      "items": {
+        "Comunidad de Madrid": 3,
+        "Administración de Justicia": 5
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Decreto 29/2025, de 28 de mayo, del Consejo de Gobierno, por el que se aprueban las tarifas máximas de los servicios de abastecimiento, saneamiento y reutilización del agua en la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/31/BOCM-20250531-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 10 de mayo de 2025, de la Dirección General de Trabajo de la Consejería de Economía, Hacienda y Empleo, sobre registro, depósito y publicación del convenio colectivo de la empresa Metro de Madrid, S. A. (antes: Compañía Metropolitano y Ferrocarril Suburbano (Código número 28000922011981)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/31/BOCM-20250531-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Orden 2107/2025, de 28 de mayo, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se aprueban las tarifas de los servicios de abastecimiento, saneamiento y reutilización del agua prestados por Canal de Isabel II, Sociedad Anónima, M. P.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/31/BOCM-20250531-3.PDF"
+    }
+  }
+]
