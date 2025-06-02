@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Los Molinos",
-      "description": "Ofertas de empleo: Oferta empleo público",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-55.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Lozoya",
       "description": "Organización y funcionamiento: Ordenanza aparcamiento",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-56.PDF"
