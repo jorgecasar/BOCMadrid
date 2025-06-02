@@ -1,0 +1,655 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 130,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2025/06/02/BOCM-20250602130.PDF",
+      "total": 87,
+      "items": {
+        "Comunidad de Madrid": 40,
+        "Administración Local Ayuntamientos": 40,
+        "Otros Anuncios": 7
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia y Administración Local",
+      "description": "Orden de 21 de mayo de 2025, del Consejero de Presidencia, Justicia y Administración Local, por la que se resuelve la convocatoria aprobada mediante Orden de 10 de febrero de 2025 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 20 de febrero de 2025), para la provisión de varios puestos de trabajo vacantes en la Consejería de Presidencia, Justicia y Administración Local, por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 20 de mayo de 2025, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Economía, Hacienda y Empleo por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Corrección de errores de la Orden de 20 de mayo de 2025, de la Consejera de Economía, Hacienda y Empleo, por la que se resuelve la convocatoria aprobada mediante Orden de 28 de enero de 2025 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 7 de febrero), para la provisión de varios puestos de trabajo por el procedimiento de Concurso de Méritos en la Consejería de Economía, Hacienda y Empleo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 21 de mayo de 2025, de la Consejería de Economía, Hacienda y Empleo, por la que se nombra personal funcionario de carrera del Cuerpo de Técnicos Auxiliares de Administración Especial, Escala Docente, Grupo C, Subgrupo C1, de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 13 de mayo de 2025, de la Dirección General de Función Pública, por la que se procede a la adjudicación de destinos correspondiente al proceso extraordinario de estabilización de empleo temporal para el acceso a plazas de carácter laboral de la categoría profesional de Titulado Medio (Grupo II, Nivel 7, Áreas B y D), de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 19 de mayo de 2025, de la Dirección General de Función Pública, por la que se aprueban las relaciones definitivas de personas aspirantes admitidas y excluidas en las pruebas selectivas para el acceso libre de personas con discapacidad intelectual a plazas de carácter laboral de la categoría profesional de Auxiliar de Control e Información (Grupo V, Nivel 2, Área B), de la Comunidad de Madrid, se publica la relación definitiva de personas aspirantes excluidas en las citadas pruebas, y se anuncia la celebración del primer ejercicio de la fase de oposición",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 20 de mayo de 2025, de la Dirección General de Función Pública, por la que se aprueban las relaciones definitivas de personas aspirantes admitidas y excluidas en los procesos selectivos para el acceso, a través del sistema general de acceso libre y de promoción interna, a plazas de la categoría profesional de Educador, Especialidad Educación Infantil (Grupo III, Nivel 6, Área C), de la Comunidad de Madrid, se publica las relaciones definitivas de personas excluidas y se anuncia la celebración del primer ejercicio de la oposición",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 21 de mayo de 2025, de la Dirección General de Función Pública, mediante la que se procede a la exclusión de aspirantes de las pruebas selectivas del proceso extraordinario de estabilización de empleo temporal de personal laboral para el acceso a plazas de la categoría profesional de Educador, Especialidad Personas con Discapacidad Intelectual (Grupo III, Nivel 6, Área C) de la Comunidad de Madrid, al amparo de lo recogido en las disposiciones adicionales sexta y octava de la ley 20/2021, de 28 de diciembre, de Medidas Urgentes para la Reducción de la Temporalidad en el Empleo Público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-8.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 21 de mayo de 2025, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden de la Consejera de Economía, Hacienda y Empleo de 6 de marzo de 2025 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 19 de marzo), para la provisión de un puesto de trabajo vacante en la Consejería de Presidencia, Justicia y Administración Local, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-9.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 26 de mayo de 2025, de la Dirección General de Función Pública, por la que se encomienda a la Comisión Permanente de Selección, la realización de los procesos selectivos para el ingreso, por el sistema general de acceso libre, promoción interna y adquisición de la condición de personal funcionario de carrera, en el Cuerpo de Técnicos y Diplomados Especialistas, en la Escala Gestión de Empleo, de Administración Especial, Grupo A, Subgrupo A2 de la Comunidad de Madrid, se procede a la creación de la Comisión Delegada como órgano colegiado encargado del desarrollo y calificación de dichos procesos selectivos, y se hace pública su composición",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-10.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 26 de mayo de 2025, de la Dirección General de Función Pública, por la que se se encomienda a la Comisión Permanente de Selección, la realización de los procesos selectivos para el ingreso, por el sistema general de acceso libre, en el Cuerpo de Técnicos Superiores de Administración General, Grupo A, Subgrupo A1, de la Comunidad de Madrid, se procede a la creación de la Comisión Delegada como órgano colegiado encargado del desarrollo y calificación de dichos procesos selectivos, y se hace pública su composición",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-11.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Corrección de errores de la Resolución de 23 de mayo de 2025, de la Dirección General de Recursos Humanos, por la que se regula la formación, ordenación y prórroga de las listas de aspirantes a desempeñar puestos en régimen de interinidad en los Cuerpos Docentes no Universitarios (Maestros, Profesores de Enseñanza Secundaria, Profesores Técnicos de Formación Profesional, Profesores Especialistas en Sectores Singulares de Formación Profesional, Profesores de Escuelas Oficiales de Idiomas, Catedráticos y Profesores de Música y Artes Escénicas y Catedráticos, Profesores y Maestros de Taller de Artes Plásticas y Diseño) en los Centros Públicos de la Comunidad de Madrid para el curso 2025-2026",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-12.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Resolución de 28 de mayo de 2025, de la Dirección General de Recursos Humanos, por la que se anuncia la publicación de las listas definitivas de admitidos y excluidos en los procedimientos selectivos para ingreso y acceso a los Cuerpos de Profesores de Enseñanza Secundaria, Especialistas en Sectores Singulares de Formación Profesional, Escuelas Oficiales de Idiomas, Música y Artes Escénicas, Artes Plásticas y Diseño y Maestros de Taller de Artes Plásticas y Diseño, así como procedimiento para la adquisición de nuevas especialidades por los funcionarios de los citados Cuerpos, convocados por Resolución de 20 de febrero de 2025",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-13.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Orden 940/2025, de 21 de mayo, de la Consejera de Sanidad, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-14.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Corrección de errores de la Resolución de 13 de mayo de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se declara superado el proceso selectivo mediante Concurso de Méritos por el turno libre para el acceso a la condición de personal estatutario fijo en la categoría de Facultativo Especialista en Medicina Familiar y Comunitaria en Atención Hospitalaria (Personal Sanitario del Grupo A, Subgrupo A1), se publica la relación de plazas convocadas identificadas y se fija la fecha y el procedimiento a seguir para la elección de plazas por los aspirantes y la entrega de documentación acreditativa (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de  29 de mayo de 2025)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-15.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Corrección de errores de la Resolución de 13 de mayo de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se declara superado el proceso selectivo mediante Concurso de Méritos por el turno libre para el acceso a la condición de personal estatutario fijo en la categoría de Facultativo Especialista en Análisis Clínicos (Personal Sanitario del Grupo A, Subgrupo A1), se publica la relación de plazas ofertadas y se fija la fecha y el procedimiento a seguir para la elección de plazas por los aspirantes y la entrega de documentación acreditativa (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 29 de mayo de 2025)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-16.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 7 de mayo de 2025, de la Dirección Gerencia del Hospital Universitario “La Paz” del Servicio Madrileño de Salud, por la que se convoca un puesto de Jefe/a de Servicio de Pediatría y sus Áreas Específicas, Nefrología Pediátrica en este centro asistencial para su cobertura mediante nombramiento provisional",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-17.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 19 de mayo de 2025, de la Dirección-Gerencia del Hospital Universitario de “La Princesa” del Servicio Madrileño de Salud, por la que se convoca un puesto de Jefe/a de Servicio de Anestesiología y Reanimación en este centro asistencial para su cobertura mediante nombramiento provisional",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-18.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 14 de mayo de 2025, de la Dirección-Gerencia del Hospital Infantil Universitario “Niño Jesús” del Servicio Madrileño de Salud, por la que se convoca un puesto de Jefe/a de Sección de Pediatría y sus Áreas Específicas, Endocrinología Pediátrica, en este centro asistencial para su cobertura mediante nombramiento provisional",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-19.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 8 de mayo de 2025, de la Dirección-Gerencia del Hospital Universitario “El Escorial” del Servicio Madrileño de Salud, por la que se convoca un puesto de Jefe/a de Unidad de Urgencias en este centro asistencial para su cobertura mediante nombramiento provisional",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-20.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Orden 1976/2025, de 21 de mayo, del Consejero de Medio Ambiente, Agricultura e Interior, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Medio Ambiente, Agricultura e Interior, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-21.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad de Alcalá",
+      "description": "Resolución de 21 de mayo de 2025, de la Gerencia de la Universidad de Alcalá, por la que se resuelve el proceso selectivo de concurso-oposición por el sistema de promoción interna y libre para la provisión de puesto vacante de personal laboral de la categoría profesional Titulado/a Medio/a, Grupo B, Nivel Salarial B2, de la especialidad “Asistencia Tecnológica y Desarrollos”, convocado por Resolución de 19 de abril de 2023",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-22.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Carlos III",
+      "description": "Resolución de 22 de mayo de 2025, de la Universidad Carlos III de Madrid, por la que se anuncia la convocatoria para la provisión, por el sistema de libre designación, de tres puestos de trabajo en esta Universidad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-23.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia y Administración Local",
+      "description": "Orden de 19 de mayo de 2025, del Consejero de Presidencia, Justicia y Administración Local, por la que se modifica la Orden de 21 de febrero de 2025, por la que se aprueban las bases reguladoras que regirán las convocatorias del certamen literario “Cuéntame la UE”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-24.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Digitalización",
+      "description": "Orden 100/2025, de 24 de abril, de la Consejería de Digitalización, por la que se hace pública la denegación del pago de las subvenciones de bonos digitales para colectivos económicamente vulnerables (C15.I3) en el marco del Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea-Next Generation EU (Programa Único-Bono Social) en la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-25.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Encomienda de gestión de 19 de mayo de 2025, de la Consejería de Familia, Juventud y Asuntos Sociales a la Consejería de Cultura, Turismo y Deporte de la Comunidad de Madrid, para realizar distintas acciones en materia de actividades culturales y artísticas para jóvenes",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-26.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Rey Juan Carlos",
+      "description": "Extracto de la Resolución del Rector de la Universidad Rey Juan Carlos, por la que se aprueba la II convocatoria, y sus bases reguladoras, del Consejo Social de bolsas de viaje dirigidas a los estudiantes de doctorado matriculados en programas de doctorado regulados por los Reales Decretos 99/2011 y 576/2023, para la participación como ponente en congresos científicos internacionales desde enero hasta agosto de 2025",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-27.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Anuncio periódico indicativo de 21 de mayo de 2025, relativo al contrato de “Servicio de limpieza del material móvil”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-28.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Anuncio periódico indicativo de 21 de mayo de 2025, relativo al contrato de reposición alumbrado estaciones y depósitos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-29.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Anuncio periódico indicativo de 21 de mayo de 2025, relativo al contrato de digitalización del material móvil, proyecto tren digital: adquisición, procesado e integración en la plataforma de datos de los trenes de las series 3000 y 8000-1.a. Las actuaciones incluidas en este pliego podrán ser cofinanciadas al 40 por 100 con cargo al programa FEDER 2021-2027 de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-30.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Anuncio periódico indicativo de 21 de mayo de 2025, relativo al contrato de mantenimiento elementos fotoluminiscentes",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-31.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Anuncio periódico indicativo de 21 de mayo de 2025, relativo al contrato de suministro de ruedas monoblock para el mantenimiento de los vehículos de material móvil de Metro de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-32.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Anuncio periódico indicativo de 21 de mayo de 2025, relativo al contrato de mantenimiento integral pozos ventilación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-33.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Anuncio periódico indicativo de 21 de mayo de 2025, relativo al contrato de “Línea 6 sistemas de explotación ferroviarios”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-34.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Anuncio periódico indicativo de 21 de mayo de 2025, relativo al contrato de “Adecuación alumbrado exterior recintos”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-35.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 20 de mayo de 2025, del Director-Gerente del Hospital Clínico “San Carlos” de Madrid, dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización de la tercera prórroga del contrato del PA 2022-0-028 «Suministro de prótesis valvulares cardiacas transcatéter para los Servicios de Cardiología y de Cirugía Cardiaca del Hospital Clínico “San Carlos” de Madrid»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-36.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 20 de mayo de 2025, del Director-Gerente del Hospital Clínico “San Carlos” de Madrid, dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización de la cuarta prórroga del contrato del PA 2022-0-028 «Suministro de prótesis valvulares cardiacas transcatéter para los Servicios de Cardiología y de Cirugía Cardiaca del Hospital Clínico “San Carlos” de Madrid»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-37.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 21 de mayo de 2025, de la Gerencia del Hospital Universitario “Príncipe de Asturias”, de la convocatoria del contrato de suministros «Material de endoscopias CPRE y varios para el Hospital Universitario “Príncipe de Asturias”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-38.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 19 de mayo de 2025, de la Dirección Médica del Hospital Universitario de Getafe, por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante”, de la prórroga del contrato de “Suministro de material fungible de radiología vascular en el Hospital Universitario de Getafe”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-39.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Anuncio de 22 de mayo de 2025, de Canal de Isabel II, S. A., M. P., por el que se hace pública la convocatoria del contrato por procedimiento abierto para el “Suministro de ampliación de la red de radio de media capacidad del Canal de Isabel II, S. A., M. P.”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-40.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Régimen económico: Área de Gobierno de Vicealcaldía, Portavoz, Seguridad y Emergencias. Ordenanza fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-41.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Contratación: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Licitación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-42.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcorcón",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-43.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Algete",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-44.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Brunete",
+      "description": "Régimen económico: Ordenanza fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-45.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Cobeña",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-46.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Cobeña",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-47.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Cobeña",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-48.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Cobeña",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-49.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Collado Mediano",
+      "description": "Régimen económico: Precios públicos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-50.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Getafe",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-51.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Humanes de Madrid",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-52.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "La Hiruela",
+      "description": "Régimen económico: Cuenta general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-53.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Leganés",
+      "description": "Organización y funcionamiento: Ordenanza tarjeta estacionamiento",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-54.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Los Molinos",
+      "description": "Ofertas de empleo: Oferta empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-55.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Lozoya",
+      "description": "Organización y funcionamiento: Ordenanza aparcamiento",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-56.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Majadahonda",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-57.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Majadahonda",
+      "description": "Urbanismo: Plan general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-58.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Manzanares el Real",
+      "description": "Organización y funcionamiento: Delegación funciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-59.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Meco",
+      "description": "Régimen económico: Cuenta general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-60.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Móstoles",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-61.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Móstoles",
+      "description": "Personal: Nombramiento",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-62.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Navarredonda y San Mamés",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-63.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Pedrezuela",
+      "description": "Otros anuncios: Candidaturas juez de paz",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-64.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Puentes Viejas",
+      "description": "Régimen económico: Cuenta general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-65.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Rivas-Vaciamadrid",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-66.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Fernando de Henares",
+      "description": "Otros anuncios: Candidaturas juez de paz",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-67.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Sebastián de los Reyes",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-68.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Santorcaz",
+      "description": "Ofertas de empleo: Bases generales procesos selectivos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-69.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Tielmes",
+      "description": "Régimen económico: Cuenta general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-70.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Valdeavero",
+      "description": "Otros anuncios: Candidatura juez de paz",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-71.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Valdemoro",
+      "description": "Organización y funcionamiento: Delegación funciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-72.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villalbilla",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-73.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villanueva de la Cañada",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-74.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villanueva de la Cañada",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-75.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villanueva de la Cañada",
+      "description": "Régimen económico: Plan económico financiero",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-76.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villanueva del Pardillo",
+      "description": "Régimen económico: Cuenta general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-77.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Mancomunidad Intermunicipal de Servicios Sociales Vega del Guadalix",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-78.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Mancomunidad de Servicios Sociales THAM",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-79.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Mancomunidad de Servicios Valle Medio del Lozoya",
+      "description": "Organización y funcionamiento: Disolución mancomunidad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-80.PDF"
+    }
+  }
+]
