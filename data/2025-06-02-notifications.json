@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 22 de mayo de 2025, de la Universidad Carlos III de Madrid, por la que se anuncia la convocatoria para la provisión, por el sistema de libre designación, de tres puestos de trabajo en esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Orden de 19 de mayo de 2025, del Consejero de Presidencia, Justicia y Administración Local, por la que se modifica la Orden de 21 de febrero de 2025, por la que se aprueban las bases reguladoras que regirán las convocatorias del certamen literario “Cuéntame la UE”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/02/BOCM-20250602-24.PDF"
