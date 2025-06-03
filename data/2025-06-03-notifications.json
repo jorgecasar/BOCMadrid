@@ -1,18 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 131,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2025/06/03/BOCM-20250603131.PDF",
-      "total": 108,
-      "items": {
-        "Comunidad de Madrid": 66,
-        "Administración Local Ayuntamientos": 41,
-        "Otros Anuncios": 1
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
