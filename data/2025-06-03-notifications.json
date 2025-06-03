@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Extracto de la Orden 1887/2025, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se aprueba la convocatoria para el año 2025 de la prima compensatoria regulada en las Órdenes 2803/2001, de 26 de junio; 8326/2004, de 24 de septiembre, conforme a la Disposición Transitoria de la Orden 5970/2005, de 27 de septiembre; y 224/2006, de 24 de enero, por las que se establecen ayudas para el fomento de la forestación de tierras agrícolas de la Comunidad de Madrid, cofinanciadas por el Fondo Europeo Agrícola de Desarrollo Rural (FEADER), según el Programa de Desarrollo Rural de la Comunidad de Madrid para el período 2014-2020",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/03/BOCM-20250603-41.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 898/2025, de 10 de abril, por la que se le concede una subvención nominativa a la Asociación “Club de Producto Cicloturismo en Madrid”, para el impulso al cicloturismo en la región de Madrid en el año 2025 y se establecen sus bases reguladoras",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/03/BOCM-20250603-42.PDF"
