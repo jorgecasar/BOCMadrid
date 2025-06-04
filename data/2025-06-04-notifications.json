@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio periódico indicativo de 21 de mayo de 2025, relativo al contrato de Mantenimiento integral de plantas de energía y bastidores de UPS",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/04/BOCM-20250604-40.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio periódico indicativo de 21 de mayo de 2025, relativo al contrato de sustitución de enfriadoras y climaveneta, climatizadores y fancoils",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/04/BOCM-20250604-41.PDF"
     }
