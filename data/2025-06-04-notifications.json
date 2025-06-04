@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Convenio de 22 de mayo de 2025, entre la Comunidad de Madrid (Consejería de Medio Ambiente, Agricultura e Interior) y el Ayuntamiento de Pinilla del Valle, para la adhesión de información relativa a su patrimonio de suelo disponible al Portal de Suelo de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/04/BOCM-20250604-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Convenio de 20 de mayo de 2025, entre el Instituto Madrileño de Investigación y Desarrollo Rural, Agrario y Alimentario y la Asociación de Ganaderos para el Control Lechero de Madrid, para la realización de la analítica de muestras de leche recogidas en el desarrollo del control lechero oficial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/04/BOCM-20250604-50.PDF"
     }
