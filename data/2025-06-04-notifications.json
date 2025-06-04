@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio periódico indicativo de 21 de mayo de 2025, relativo al contrato de suscripción a la plataforma SIEM",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/04/BOCM-20250604-42.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio periódico indicativo de 22 de mayo de 2025, relativo al contrato de soporte técnico en el mantenimiento del telemando de energía",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/04/BOCM-20250604-43.PDF"
     }
