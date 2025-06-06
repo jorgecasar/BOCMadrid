@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Disposiciones y Anuncios del Estado",
-      "description": "Ministerio de Hacienda y Función Pública. Gerencia Regional del Catastro de Madrid. Notificación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/06/BOCM-20250606-43.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Madrid",
       "description": "Organización y funcionamiento: Área de Gobierno de Economía, Innovación y Hacienda. Reglamento Registro Contratos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/06/BOCM-20250606-44.PDF"
