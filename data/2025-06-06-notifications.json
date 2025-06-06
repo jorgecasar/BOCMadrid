@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Resolución 2086/2025, de 22 de mayo, de la Dirección-Gerencia de la Agencia de Vivienda Social de la Comunidad de Madrid, por la que se delega la competencia de ordenación y realización de pagos y se establecen los requisitos para la firma mancomunada en las entidades bancarias",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/06/BOCM-20250606-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Corrección de errores del Extracto de la Orden 1578/2025, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se aprueba la convocatoria de ayudas a empresas pertenecientes a los sectores agrícola, ganadero, forestal e industria asociada o agroalimentaria, para la realización de proyectos de investigación, desarrollo e innovación, para 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/06/BOCM-20250606-19.PDF"
