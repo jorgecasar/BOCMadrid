@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Complutense de Madrid",
-      "description": "Extracto de la Resolución de la convocatoria del II Premio al Mejor Trabajo de Fin de Grado con perspectiva de género de la Delegación del Rector para Igualdad de la UCM",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/06/BOCM-20250606-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Complutense de Madrid",
       "description": "Extracto de la Resolución de la convocatoria del III Premio al Mejor Trabajo de Fin de Máster con Perspectiva de Género de la Delegación del Rector para Igualdad de la UCM",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/06/BOCM-20250606-21.PDF"
     }
