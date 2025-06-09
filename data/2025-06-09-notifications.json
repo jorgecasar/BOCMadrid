@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Paracuellos de Jarama",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/09/BOCM-20250609-54.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Paracuellos de Jarama",
       "description": "Otros anuncios: Bases proyectos escuelas deportivas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/09/BOCM-20250609-55.PDF"
     }
