@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Pinto",
-      "description": "Urbanismo: Plan especial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/09/BOCM-20250609-59.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Pinto",
       "description": "Otros anuncios: Catálogo bienes protegidos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/09/BOCM-20250609-60.PDF"
     }
