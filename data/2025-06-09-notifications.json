@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Pelayos de la Presa",
-      "description": "Régimen económico: Cuenta general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/09/BOCM-20250609-57.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Pelayos de la Presa",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/09/BOCM-20250609-58.PDF"
     }
