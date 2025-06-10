@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcorcón",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/10/BOCM-20250610-50.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Becerril de la Sierra",
       "description": "Organización y funcionamiento: Ordenanza general terrazas y veladores",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/10/BOCM-20250610-51.PDF"
