@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio periódico indicativo de 28 de mayo de 2025, relativo al contrato del control y apoyo mantenimiento MCA en equipamiento",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/10/BOCM-20250610-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio periódico indicativo de 28 de mayo de 2025, relativo al contrato de renovación del sistema de seguridad en el depósito de Cuatro Vientos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/10/BOCM-20250610-30.PDF"
     }
