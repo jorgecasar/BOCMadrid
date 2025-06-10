@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Resolución 2022/2025, de 14 de mayo, del Director-Gerente de la Agencia para la Vivienda Social, por la que se aprueba convocatoria pública para la provisión de un puesto de carrera de naturaleza laboral, por el sistema de selección objetiva, vacante en esta Agencia",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/10/BOCM-20250610-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 985/2025, de 27 de mayo, de la Consejera de Sanidad, por la que se resuelve la convocatoria aprobada por Orden 479/2025, de 10 de marzo, de esta Consejería de Sanidad (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 20 de marzo), para la provisión de un puesto de trabajo vacante en la citada Consejería por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/10/BOCM-20250610-8.PDF"
