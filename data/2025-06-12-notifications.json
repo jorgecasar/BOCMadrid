@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 3 de junio de 2025, de la Universidad Rey Juan Carlos, por la que se nombran Profesores Titulares de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/12/BOCM-20250612-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 1284/2025, de 27 de mayo, de la Consejería de Educación, Ciencia y Universidades, por la que se aceptan renuncias en relación con las becas concedidas mediante la Orden 5704/2024, de 3 de diciembre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria de becas para el estudio de Formación Profesional de Grado Superior en la Comunidad de Madrid para el curso 2024-2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/12/BOCM-20250612-25.PDF"
