@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Cercedilla",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/12/BOCM-20250612-48.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Cercedilla",
       "description": "Otros anuncios: Convenio colaboración",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/12/BOCM-20250612-49.PDF"
     }
