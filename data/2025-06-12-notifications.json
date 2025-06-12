@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 2 de junio de 2025, de la Universidad Autónoma de Madrid, por la que se publica la modificación de determinados planes de estudios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/12/BOCM-20250612-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Extracto del Acuerdo por el que se convoca el Programa UAH-Santander de Becas de Residencia “María de Guzmán” para estudiantes internacionales de doctorado en régimen de cotutela para el curso 2025-2026",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/12/BOCM-20250612-31.PDF"
