@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "El Boalo",
-      "description": "Régimen económico: Plan Económico Financiero",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/12/BOCM-20250612-54.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "El Escorial",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/12/BOCM-20250612-55.PDF"
