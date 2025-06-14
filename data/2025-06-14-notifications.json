@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 27 de mayo de 2025, del convenio de colaboración entre Metro de Madrid, S. A., y Alianza del Sueño",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/14/BOCM-20250614-12.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 27 de mayo de 2025, del convenio de colaboración entre el Banco de España y Metro de Madrid, S. A.",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/14/BOCM-20250614-13.PDF"
     }
