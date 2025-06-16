@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 4 de junio de 2025, de la Universidad de Alcalá, por la que se convocan concursos de acceso a plazas de funcionarios de carrera de los Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/16/BOCM-20250616-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Carlos III",
       "description": "Resolución de 4 de junio de 2025, de la Universidad Carlos III de Madrid, por la que se anuncia la convocatoria de proceso selectivo, por el sistema general de acceso libre, para la provisión de ocho puestos de trabajo vacantes en la relación de puestos de trabajo de personal técnico, de gestión y de administración y servicios laboral de esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/16/BOCM-20250616-21.PDF"
