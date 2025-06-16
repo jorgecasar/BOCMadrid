@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Extracto de la Orden 2012/2025, del Consejero de Educación, Ciencia y Universidades, por la que se convocan ayudas para la implantación del programa de auxiliares de danza en centros educativos madrileños a desarrollar en el curso académico 2025-2026",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/16/BOCM-20250616-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Extracto de la Orden 2176/2025, de 13 de junio, del Consejero de Educación, Ciencia y Universidades, por la que se aprueba la convocatoria de becas para el estudio de Bachillerato del sistema educativo español en centros privados autorizados, ubicados en territorio de la Comunidad de Madrid correspondiente al curso 2025-2026",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/16/BOCM-20250616-26.PDF"
     }
