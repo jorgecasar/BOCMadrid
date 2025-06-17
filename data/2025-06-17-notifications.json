@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Organización y funcionamiento: Área de Gobierno de Vicealcaldía, Portavoz, Seguridad y Emergencias. Delegación funciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/17/BOCM-20250617-50.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Urbanismo: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Plan especial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/17/BOCM-20250617-51.PDF"
     }
