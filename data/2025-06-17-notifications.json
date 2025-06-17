@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 3 de junio de 2025, del Rector de la Universidad Complutense de Madrid, por la que se ordena la publicación de la modificación parcial de la Relación de Puestos de Trabajo del Personal Técnico, de Gestión y de Administración y Servicios Funcionario y Laboral de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/17/BOCM-20250617-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 5 de junio de 2025, de la Universidad Politécnica de Madrid, por la que anuncia la convocatoria pública, para su provisión mediante el procedimiento de Libre Designación, plazas vacantes en la Relación de Puestos de Trabajo de Personal Técnico, de Gestión y de Administración y Servicios Funcionario de esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/17/BOCM-20250617-31.PDF"
