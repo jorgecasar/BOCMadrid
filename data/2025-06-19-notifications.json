@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Extracto de la Resolución de 27 de mayo, del Rector, por la que se convoca el V Certamen Complutense de Fotografía Naturalista 2025 FotografiArte UCM, para apoyar la creación artística en formato fotografía naturalista de la comunidad universitaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/19/BOCM-20250619-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Extracto de la Resolución del Rector de la Universidad Rey Juan Carlos,  de 12 de junio de 2025, por la que se aprueban las bases reguladoras y se hace pública la Convocatoria de Ayudas a Deportistas",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/19/BOCM-20250619-16.PDF"
