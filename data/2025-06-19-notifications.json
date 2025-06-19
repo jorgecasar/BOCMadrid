@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "description": "Decreto 37/2025, de 18 de junio, del Consejo de Gobierno, por el que se establece la organización administrativa de la Dirección de la Agencia Madrileña para el Apoyo a Personas Adultas con Discapacidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/19/BOCM-20250619-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Asamblea de Madrid",
       "description": "Resolución de 6 de junio de 2025, de Secretaría General de la Asamblea de Madrid, por la que se aprueban las listas provisionales de admitidos y excluidos para la cobertura de una plaza del Cuerpo Archiveros-Bibliotecarios, Escala Superior, de la Asamblea de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/19/BOCM-20250619-2.PDF"
