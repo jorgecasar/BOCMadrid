@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 9 de junio de 2025, de la Rectora de la Universidad Autónoma de Madrid, por la que se resuelve parcialmente la convocatoria pública para la provisión de tres puestos de trabajo vacante mediante el sistema de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/19/BOCM-20250619-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 2172/2025, de 16 de junio, del Consejero de Educación, Ciencia y Universidades, por la que se declaran los expedientes excluidos en relación con la Orden 2173/2025, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve el procedimiento de concesión directa de ayudas individualizadas de transporte escolar para el curso 2024-2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/19/BOCM-20250619-11.PDF"
