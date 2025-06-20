@@ -1,18 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 146,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2025/06/20/BOCM-20250620146.PDF",
-      "total": 94,
-      "items": {
-        "Comunidad de Madrid": 54,
-        "Administración Local Ayuntamientos": 39,
-        "Otros Anuncios": 1
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
