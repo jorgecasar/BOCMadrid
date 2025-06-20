@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Extracto del Acuerdo de la Comisión de Investigación de la Universidad de Alcalá de 10 de junio de 2025, por el que se convocan los Premios a la Excelencia Investigadora UAH 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/20/BOCM-20250620-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Extracto del Acuerdo de la Comisión de Investigación de la Universidad de Alcalá de 10 de junio de 2025, por el que se convocan las Ayudas de Iniciación en la Actividad Investigadora 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/20/BOCM-20250620-36.PDF"
     }
