@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Licencias: O. A",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/20/BOCM-20250620-55.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcalá de Henares",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/20/BOCM-20250620-56.PDF"
