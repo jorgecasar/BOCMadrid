@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Extracto de la Orden 1571/2025, de 12 de mayo, del Consejero de Educación, Ciencia y Universidades, por la que se convocan los Premios Extraordinarios de Formación Profesional de Grado Superior de la Comunidad de Madrid correspondientes al curso 2024-2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/20/BOCM-20250620-28.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Extracto de la Orden 1609/2025, de 14 de mayo, del Consejero de Educación, Ciencia y Universidades, por la que se convocan los Premios Extraordinarios de la Comunidad de Madrid de Enseñanzas Artísticas Profesionales de Artes Plásticas y Diseño, de Danza y de Música correspondientes al año académico 2024-2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/20/BOCM-20250620-29.PDF"
     }
