@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Convenio de 28 de mayo de 2025, entre el Servicio Madrileño de Salud y la Junta Provincial de Madrid de la Asociación Española contra el Cáncer, mediante el que se instrumenta una subvención nominativa por importe de 600.000 euros para el desarrollo de actividades en materia de cuidados paliativos para el año 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/21/BOCM-20250621-28.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Convenio de 2 de junio de 2025, entre la Comunidad de Madrid (Consejería de Medio Ambiente, Agricultura e Interior) y el Ayuntamiento de Somosierra, para la adhesión de información relativa a su patrimonio de suelo disponible al Portal de Suelo de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/21/BOCM-20250621-29.PDF"
