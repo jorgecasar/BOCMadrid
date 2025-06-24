@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Sanidad",
-      "description": "Orden 1077/2025, de 12 de junio, de la Consejera de Sanidad, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacantes en la Consejería de Sanidad por el procedimiento de Concurso de Méritos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/24/BOCM-20250624-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Sanidad",
       "description": "Resolución de 3 de junio de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud (SERMAS), por la que se procede al reconocimiento y denegación de los niveles 1, 2, 3 y 4 de carrera profesional, evaluados en el procedimiento ordinario del año 2024, relativos al personal Licenciado Sanitario, Diplomado Sanitario, y personal de Formación Profesional del Área Sanitaria y Personal de Gestión y Servicios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/24/BOCM-20250624-11.PDF"
     }
