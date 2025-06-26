@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Corrección de errores de la Resolución de 13 de mayo de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se declara superado el proceso selectivo mediante Concurso de Méritos por el turno libre para el acceso a la condición de personal estatutario fijo en la categoría de Facultativo Especialista en Reumatología (Personal Sanitario del Grupo A, Subgrupo A1, se publica la relación de plazas convocadas identificadas y se fija la fecha y el procedimiento a seguir para la elección de plazas por los aspirantes y la entrega de documentación acreditativa.(BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 29 de mayo de 2025)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/26/BOCM-20250626-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Orden de 2557/2025, de 16 de junio, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se resuelve la convocatoria aprobada mediante Orden 4133/2024, de 20 de noviembre de 2024 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 2 de diciembre de 2024), por la que se aprobó convocatoria pública para la provisión de varios puestos de trabajo vacantes en la Consejería de Medio Ambiente, Agricultura e Interior por el procedimiento de Concurso de Méritos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/26/BOCM-20250626-15.PDF"
