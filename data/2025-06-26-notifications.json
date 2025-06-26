@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Anuncio de 17 de junio de 2025, por el que se convocan las bases del procedimiento de selección para cubrir un puesto indefinido en la Fundación de la Universidad Autónoma de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/26/BOCM-20250626-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 2097/2025, de 6 de junio, del Consejero de Educación, Ciencia y Universidades, por la que se autoriza a cincuenta y dos colegios de Educación Infantil y Primaria a impartir Educación Secundaria Obligatoria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/26/BOCM-20250626-24.PDF"
