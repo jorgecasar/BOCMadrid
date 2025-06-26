@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Extracto de la Orden 2074/2025, de 10 de junio, del Consejero de Educación, Ciencia y Universidades, por la que se convocan para el año 2025 las ayudas a los Ayuntamientos de la región para el sostenimiento de los colegios públicos de Educación Infantil, Educación Primaria y/o Educación Especial radicados en su municipio en los que se imparte Educación Secundaria Obligatoria, primer ciclo de Educación Infantil o en los que se escolarizan alumnos censados en otros municipios por inexistencia o insuficiencia de oferta educativa. (Colegios públicos que escolarizan alumnos de primer ciclo de Educación Infantil)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/26/BOCM-20250626-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Extracto de la Orden 2074/2025, de 10 de junio, del Consejero de Educación, Ciencia y Universidades, por la que se convocan para el año 2025 las ayudas a los Ayuntamientos de la región para el sostenimiento de los colegios públicos de Educación Infantil, Educación Primaria y/o Educación Especial radicados en su municipio en los que se imparte Educación Secundaria Obligatoria, primer ciclo de Educación Infantil o en los que se escolarizan alumnos censados en otros municipios por inexistencia o insuficiencia de oferta educativa. (Colegios públicos que escolarizan alumnos censados en otros municipios por inexistencia o insuficiencia de oferta educativa)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/26/BOCM-20250626-27.PDF"
     }
