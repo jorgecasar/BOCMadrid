@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 24 de junio de 2025 de la Universidad Autónoma de Madrid, por la que se convocan pruebas selectivas para la constitución de una lista de espera de funcionarios/as interinos/as de la Escala Técnica Superior de Administración de la Universidad Autónoma de Madrid, para cubrir un puesto de Letrado/a en la Asesoría Jurídica",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/26/BOCM-20250626-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Autónoma de Madrid",
       "description": "Anuncio de 17 de junio de 2025, por el que se convocan las bases del procedimiento de selección para cubrir un puesto indefinido en la Fundación de la Universidad Autónoma de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/26/BOCM-20250626-23.PDF"
     }
