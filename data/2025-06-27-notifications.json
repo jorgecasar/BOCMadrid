@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Publicación de 17 de junio de 2025, de la relación de subvenciones concedidas por el Ente Público Canal de Isabel II durante el primer trimestre del año 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/27/BOCM-20250627-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Extracto de la Resolución del Rector Magfco. de la Universidad Rey Juan Carlos, por la que se aprueban y hacen públicas las bases reguladoras de la convocatoria para participar en el Programa Intensivo Combinado (BIP) “Transversal and critical digital skills in the era of generative technologies for inclusion, upskilling and reskilling”, dentro del programa Erasmus+ 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/27/BOCM-20250627-24.PDF"
