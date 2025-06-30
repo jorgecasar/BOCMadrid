@@ -1,0 +1,710 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 154,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2025/06/30/BOCM-20250630154.PDF",
+      "total": 87,
+      "items": {
+        "Comunidad de Madrid": 61,
+        "Administración Local Ayuntamientos": 26
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 17 de junio de 2025, de la Dirección General de Función Pública, mediante la que se modifica la Resolución de 27 de diciembre de 2024, del mismo centro directivo, por la que se resuelven las pruebas selectivas del proceso extraordinario de estabilización para el ingreso, mediante el sistema de concurso, en el Cuerpo de Ingenieros y Arquitectos Superiores, Escala de Ingeniería Superior, Especialidad de Ordenación Rural e Industrias Agroalimentarias, de Administración Especial, Grupo A, Subgrupo A1, de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Decreto 39/2025, de 25 de junio, del Consejo de Gobierno, por el que se nombra Rectora de la Universidad Autónoma de Madrid a doña Amaya Mendikoetxea Pelayo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 13 de junio de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convoca Concurso de Traslados Voluntario a plazas de personal estatutario de la categoría de Odontólogo del Servicio de Salud de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 13 de junio de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convoca Concurso de Traslados Voluntario a plazas de personal estatutario de la categoría de Fisioterapeuta del Servicio de Salud de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 13 de junio de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convoca Concurso de Traslados Voluntario a plazas de personal estatutario de la categoría de Terapeuta Ocupacional del Servicio de Salud de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 13 de junio de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convoca Concurso de Traslados Voluntario a plazas de personal estatutario de la categoría de Técnico Superior Especialista en Anatomía Patológica del Servicio de Salud de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 13 de junio de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convoca Concurso de Traslados Voluntario a plazas de personal estatutario de la categoría de Técnico Superior Especialista en Higiene Bucodental del Servicio de Salud de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 13 de junio de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convoca Concurso de Traslados Voluntario a plazas de personal estatutario de la categoría de Telefonista del Servicio de Salud de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-8.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 13 de junio de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convoca Concurso de Traslados Voluntario a plazas de personal estatutario de la categoría de Técnico Superior Especialista en Imagen para el Diagnóstico y Medicina Nuclear del Servicio de Salud de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-9.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 13 de junio de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convoca Concurso de Traslados Voluntario a plazas de personal estatutario de la categoría de Limpiador/a del Servicio de Salud de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-10.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 13 de junio de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convoca Concurso de Traslados Voluntario a plazas de personal estatutario de la categoría de Técnico Superior Especialista en Laboratorio del Servicio de Salud de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-11.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 13 de junio de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convoca Concurso de Traslados Voluntario a plazas de personal estatutario de la categoría de Técnico Superior Especialista en Radioterapia y Dosimetría del Servicio de Salud de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-12.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 13 de junio de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convoca Concurso de Traslados Voluntario a plazas de personal estatutario de la categoría de Trabajador Social del Servicio de Salud de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-13.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 13 de junio de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convoca Concurso de Traslados Voluntario a plazas de personal estatutario de la categoría de Grupo Técnico de la Función Administrativa del Servicio de Salud de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-14.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 13 de junio de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convoca Concurso de Traslados Voluntario a plazas de personal estatutario de la categoría de Grupo de Gestión de la Función Administrativa del Servicio de Salud de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-15.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 13 de junio de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convoca Concurso de Traslados Voluntario a plazas de personal estatutario de la categoría de Cocinero/a del Servicio de Salud de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-16.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 13 de junio de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convoca Concurso de Traslados Voluntario a plazas de personal estatutario de la categoría de Grupo Administrativo de la Función Administrativa del Servicio de Salud de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-17.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 13 de junio de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convoca Concurso de Traslados Voluntario a plazas de personal estatutario de la categoría de Calefactor del Servicio de Salud de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-18.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 13 de junio de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convoca Concurso de Traslados Voluntario a plazas de personal estatutario de la categoría de Conductor/a del Servicio de Salud de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-19.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 13 de junio de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convoca Concurso de Traslados Voluntario a plazas de personal estatutario de la categoría de Matrón/a del Servicio de Salud de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-20.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 13 de junio de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convoca Concurso de Traslados Voluntario a plazas de personal estatutario de la categoría de Fontanero/a del Servicio de Salud de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-21.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 13 de junio de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convoca Concurso de Traslados Voluntario a plazas de personal estatutario de la categoría de Electricista del Servicio de Salud de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-22.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 13 de junio de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convoca Concurso de Traslados Voluntario a plazas de personal estatutario de la categoría de Gobernante/a del Servicio de Salud de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-23.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 13 de junio de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convoca Concurso de Traslados Voluntario a plazas de personal estatutario de la categoría de Peluquero/a del Servicio de Salud de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-24.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 13 de junio de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convoca Concurso de Traslados Voluntario a plazas de personal estatutario de la categoría de Pintor/a del Servicio de Salud de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-25.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 13 de junio de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convoca Concurso de Traslados Voluntario a plazas de personal estatutario de la categoría de Mecánico del Servicio de Salud de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-26.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 13 de junio de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convoca Concurso de Traslados Voluntario a plazas de personal estatutario de la categoría de Médico de Familia en Atención Primaria del Servicio de Salud de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-27.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 13 de junio de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convoca Concurso de Traslados voluntario a plazas de personal estatutario de la categoría de Grupo Auxiliar Administrativo de la Función Administrativa del Servicio de Salud de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-28.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 13 de junio de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convoca Concurso de Traslados voluntario a plazas de personal estatutario de la categoría de Pinche del Servicio de Salud de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-29.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 13 de junio de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convoca Concurso de Traslados Voluntario a plazas de personal estatutario de la categoría de Técnico Medio Sanitario en Cuidados Auxiliares de Enfermería del Servicio de Salud de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-30.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 13 de junio de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convoca conCurso de Traslados voluntario a plazas de personal estatutario de la categoría de Pediatra en Atención Primaria del Servicio de Salud de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-31.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 13 de junio de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convoca Concurso de Traslados Voluntario a plazas de personal estatutario de la categoría de Celador/a del Servicio de Salud de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-32.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 13 de junio de 2025, de la Dirección General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se convoca Concurso de Traslados Voluntario a plazas de personal estatutario de la categoría de Enfermero/a del Servicio de Salud de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-33.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Orden de 18 de junio de 2025, de la Consejera de Familia, Juventud y Asuntos Sociales, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Familia, Juventud y Asuntos Sociales por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-34.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Extracto de la Orden de 20 de junio de 2025, de la Consejera de Economía, Hacienda y Empleo, por la que se convocan, para el año 2025, las ayudas a las unidades de apoyo a la actividad profesional, en el marco de los servicios de ajuste personal y social de los centros especiales de empleo, del programa de inclusión laboral de personas con discapacidad en el mercado de trabajo protegido",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-35.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Extracto de la Orden 2253/2025, del Consejero de Educación, Ciencia y Universidades, por la que se aprueba la convocatoria correspondiente al año 2025 de las ayudas para la adquisición de equipamiento científico-técnico de los laboratorios de la red de laboratorios e infraestructuras científico-técnicas de la Comunidad de Madrid (REDLAB) cofinanciada por el Fondo Europeo de Desarrollo Regional",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-36.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Resolución de 25 de junio de 2025, de la Dirección General de Transportes y Movilidad, por la que se establece la fecha y lugar de celebración de las pruebas para la obtención del certificado de aptitud profesional acreditativo de la cualificación inicial de los conductores de determinados vehículos destinados al transporte por carretera, correspondiente a la cuarta convocatoria del año 2025",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-37.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Resolución 2477/2025, de 17 de junio, del Director-Gerente, por la que se establecen las condiciones para el cambio de régimen a venta de los locales en arrendamiento de la Agencia de Vivienda Social",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-38.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Resolución 2536/2025, de 17 de junio, por la que se establecen los precios de arrendamiento de las plazas de garaje no vinculadas a las viviendas propiedad de la Agencia de Vivienda Social de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-39.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Resolución de 24 de junio de 2025, de la Dirección-Gerencia del Consorcio Regional de Transportes Públicos Regulares de Madrid, por la que se dispone la publicación del acuerdo del Consejo de Administración por el que se determinan los precios de determinados billetes sencillos en transportes por autobús",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-40.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Orden 987/2025, de 11 de junio, de la Consejería de Sanidad, por la que se renueva la autorización de funcionamiento de centros sanitarios adscritos a la Consejería de Sanidad de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-41.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Presidencia, Justicia y Administración Local",
+      "description": "Resolución de 2 de junio de 2025, de la Secretaría General Técnica de la Consejería de Presidencia, Justicia y Administración Local, por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante” del Portal de Contratación Pública de la Comunidad de Madrid del contrato titulado “Subarrendamiento de 25 plazas de aparcamiento en el inmueble sito en la calle Hermanos García Noblejas, número 43, antigua Institución Libre de Enseñanza”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-42.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 16 de junio de 2025, de la Dirección General de Patrimonio y Contratación, por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante” de la adenda modificativa del contrato de arrendamiento suscrito el 31 de octubre de 2011, con la entidad Rivaser, S. L. en relación al edificio sito en la calle Paz, número 7, de Alcobendas",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-43.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 16 de junio de 2025, de la Dirección General de Patrimonio y Contratación, por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante” de la Adenda Modificativa del contrato de arrendamiento suscrito en fecha 31 de marzo de 2006 con la mercantil Dies, S. A., relativo al local comercial ubicado en la planta baja y planta de sótano primero, del inmueble situado en la calle Virgen del Puig, números 3, 5 y 7, de Madrid, para albergar una Oficina de Empleo en el Barrio de la Concepción dependiente de la Consejería de Economía, Hacienda y Empleo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-44.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Digitalización",
+      "description": "Resolución de 11 de junio de 2025, de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la convocatoria del contrato de: Servicios de gobierno, riesgo y cumplimiento de seguridad de la información de Madrid Digital (3 lotes)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-45.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Resolución de 18 de junio de 2025, de la Secretaria General Técnica de la Consejería de Educación, Ciencia y Universidades, por la que se dispone la publicación de la convocatoria del contrato de “Servicio para la gestión de la Escuela Infantil Piruetas de Madrid”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-46.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Anuncio periódico indicativo de 17 de junio de 2025, relativo al contrato del suministro de un tren de reperfilado de carril y aparatos de vía por tecnología de fresado",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-47.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Anuncio periódico indicativo de 17 de junio de 2025, relativo al contrato del servicio de mantenimiento integral de escaleras mecánicas y sustitución de cadenas de peldaños",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-48.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Anuncio periódico indicativo de 17 de junio de 2025, relativo al contrato del servicio de reparación de tarjetas unidad control de puertas (DCU) de los coches 3000 1.a y 9000",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-49.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Anuncio periódico indicativo de 17 de junio de 2025, relativo al contrato del soporte y mantenimiento de infraestructura tecnológica, suscripciones, licencias y mantenimiento de la aplicación giro",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-50.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Anuncio periódico indicativo de 17 de junio de 2025, relativo al contrato de instalación walkies embarcados series 2000a, 2000b, 3000 1.a, 7000, 8000 1.a y 9000",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-51.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Anuncio periódico indicativo de 17 de junio de 2025, relativo al contrato de suministro combustible automoción",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-52.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Anuncio periódico indicativo de 17 de junio de 2025, relativo al contrato de mantenimiento del sistema de detección y protección contra incendios en el material móvil",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-53.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Anuncio periódico indicativo de 17 de junio de 2025, relativo al contrato de “Mantenimiento del sistema de videovigilancia en trenes 3000 1.a de Líneas 4 y 5”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-54.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Anuncio periódico indicativo de 17 de junio de 2025, relativo al contrato de Overhaul y sustitución de elementos de puertas 3000 1.a, 8000 1.a y 7000",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-55.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Anuncio periódico indicativo de 17 de junio de 2025, relativo al contrato del “Reacondicionamiento de escaleras mecánicas”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-56.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 16 de junio de 2025, del Director General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se emplaza a los interesados en el recurso contencioso administrativo, procedimiento ordinario número 1301/2024, a fin de que puedan personarse en autos, si a su derecho conviniere",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-57.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 17 de junio de 2025, de la Gerencia del Hospital Universitario “Infanta Sofía”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la formalización de la 2.a prórroga de contrato: “Suministro de diverso material de uso sanitario”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-58.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 16 de junio de 2025, de la Directora-Gerente del Hospital Universitario “Infanta Cristina”, por la que se dispone la publicación de la formalización del contrato de «Suministro de cobertura quirúrgica desechable para el Hospital Universitario “Infanta Cristina”». PA SUM 2025-02 HUIC",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-59.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 6 de mayo de 2025, entre la Comunidad de Madrid, a través de la Consejería de Cultura, Turismo y Deporte, y la Federación Hípica de Madrid, para la organización de la III Copa de la Comunidad de Madrid de salto de obstáculos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-60.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 3 de junio de 2025, entre la Comunidad de Madrid, a través de la Consejería de Cultura, Turismo y Deporte, y la Federación Madrileña de Ciclismo, para la organización de la XXXVII Vuelta Ciclista a la Comunidad de Madrid, en la categoría sub-23",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-61.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Contratación: Distrito de Retiro. Licitación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-62.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Contratación: Distrito de Retiro. Licitación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-63.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Contratación: Distrito de Retiro. Concesión demanial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-64.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Contratación: Distrito de Retiro. Concesión demanial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-65.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcalá de Henares",
+      "description": "Régimen económico: Cuenta general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-66.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcobendas",
+      "description": "Régimen económico: Autorización demanial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-67.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Aranjuez",
+      "description": "Régimen económico: Padrón fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-68.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Buitrago del Lozoya",
+      "description": "Contratación: Mesa contratación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-69.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Ciempozuelos",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-70.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Colmenar Viejo",
+      "description": "Régimen económico: Cuenta general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-71.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "El Berrueco",
+      "description": "Otros anuncios: Notificación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-72.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "El Berrueco",
+      "description": "Otros anuncios: Notificación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-73.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Leganés",
+      "description": "Licencias: Licencia actividad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-74.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Navalafuente",
+      "description": "Régimen económico: Presupuesto general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-75.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Parla",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-76.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Pozuelo de Alarcón",
+      "description": "Ofertas de empleo: Nombramiento",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-77.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Rivas-Vaciamadrid",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-78.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Fernando de Henares",
+      "description": "Personal: Nombramiento",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-79.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrejón de la Calzada",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-80.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Valdemorillo",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-81.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villalbilla",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-82.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villalbilla",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-83.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villanueva del Pardillo",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-84.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villanueva del Pardillo",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-85.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Mancomunidad Intermunicipal de Servicios El Alberche",
+      "description": "Organización y funcionamiento: Estatutos mancomunidad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-86.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Mancomunidad Intermunicipal de Servicios El Alberche",
+      "description": "Régimen económico: Cuenta general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-87.PDF"
+    }
+  }
+]
