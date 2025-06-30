@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Resolución 2477/2025, de 17 de junio, del Director-Gerente, por la que se establecen las condiciones para el cambio de régimen a venta de los locales en arrendamiento de la Agencia de Vivienda Social",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-38.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Resolución 2536/2025, de 17 de junio, por la que se establecen los precios de arrendamiento de las plazas de garaje no vinculadas a las viviendas propiedad de la Agencia de Vivienda Social de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-39.PDF"
     }
