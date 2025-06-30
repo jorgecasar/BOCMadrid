@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Resolución de 24 de junio de 2025, de la Dirección-Gerencia del Consorcio Regional de Transportes Públicos Regulares de Madrid, por la que se dispone la publicación del acuerdo del Consejo de Administración por el que se determinan los precios de determinados billetes sencillos en transportes por autobús",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-40.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 987/2025, de 11 de junio, de la Consejería de Sanidad, por la que se renueva la autorización de funcionamiento de centros sanitarios adscritos a la Consejería de Sanidad de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-41.PDF"
