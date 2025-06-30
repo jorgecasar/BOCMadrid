@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio periódico indicativo de 17 de junio de 2025, relativo al contrato del “Reacondicionamiento de escaleras mecánicas”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-56.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Resolución de 16 de junio de 2025, del Director General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se emplaza a los interesados en el recurso contencioso administrativo, procedimiento ordinario número 1301/2024, a fin de que puedan personarse en autos, si a su derecho conviniere",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-57.PDF"
