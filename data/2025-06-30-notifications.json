@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio periódico indicativo de 17 de junio de 2025, relativo al contrato de suministro combustible automoción",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-52.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio periódico indicativo de 17 de junio de 2025, relativo al contrato de mantenimiento del sistema de detección y protección contra incendios en el material móvil",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-53.PDF"
     }
