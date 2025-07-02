@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 28 de mayo de 2025, por la que se publica modificación del plan de estudios del Máster Universitario en Ingeniería Agronómica por la Universidad Politécnica de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/02/BOCM-20250702-44.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 28 de mayo de 2025, por la que se publica modificación del plan de estudios del Máster Universitario en Ingeniería de Estructuras, Cimentaciones y Materiales por la Universidad Politécnica de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/02/BOCM-20250702-45.PDF"
     }
