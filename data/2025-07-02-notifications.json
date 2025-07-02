@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 28 de mayo de 2025, por la que se publica modificación del plan de estudios del Máster Universitario en Planeamiento Urbano y Territorial por la Universidad Politécnica de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/02/BOCM-20250702-47.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 28 de mayo de 2025, por la que se publica modificación del plan de estudios del Máster Universitario en Proyectos Arquitectónicos Avanzados por la Universidad Politécnica de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/02/BOCM-20250702-48.PDF"
     }
