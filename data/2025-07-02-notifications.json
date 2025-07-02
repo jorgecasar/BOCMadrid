@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Politécnica de Madrid",
-      "description": "Resolución de 28 de mayo de 2025, por la que se publica modificación del plan de estudios del Máster Universitario en Proyectos Arquitectónicos Avanzados por la Universidad Politécnica de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/02/BOCM-20250702-48.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 17 de junio de 2025, de la Secretaría General Técnica de la Consejería de Economía, Hacienda y Empleo, por la que se hace público el anuncio de información previa del contrato titulado “Transporte regular de uso especial para la Dirección General de Formación (Centro de Formación Profesional para el Empleo en Edificación y Obra Civil de Paracuellos del Jarama) de la Consejería de Economía, Hacienda y Empleo de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/02/BOCM-20250702-49.PDF"
