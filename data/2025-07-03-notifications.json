@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 24 de junio de 2025, de la Rectora de la Universidad Autónoma de Madrid, por la que se resuelve la convocatoria pública para la provisión de un puesto de trabajo vacante mediante el sistema de libre designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/03/BOCM-20250703-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 24 de junio de 2025, de la Universidad Autónoma de Madrid por la que se nombra funcionaria de carrera de la Escala Facultativa de Archivos, Bibliotecas y Museos de esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/03/BOCM-20250703-31.PDF"
     }
