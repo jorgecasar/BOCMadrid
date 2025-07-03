@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Madrid",
-      "description": "Licencias: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Licencia actividad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/03/BOCM-20250703-54.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Madrid",
       "description": "Otros anuncios: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Autorización demanial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/03/BOCM-20250703-55.PDF"
     }
