@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Aranjuez",
-      "description": "Organización y funcionamiento: Reglamento Comité Seguridad y Salud",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/04/BOCM-20250704-45.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Aranjuez",
       "description": "Organización y funcionamiento: Delegación funciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/04/BOCM-20250704-46.PDF"
     }
