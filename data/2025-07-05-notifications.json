@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Adenda de 12 de junio de 2025, de prórroga del convenio de colaboración entre la Comunidad de Madrid, a través de la Consejería de Sanidad, el Servicio Madrileño de Salud, y la Universidad Alfonso X el Sabio para la enseñanza clínica práctica en el Grado de Medicina",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/05/BOCM-20250705-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Convenio de colaboración de 9 de junio de 2025, entre la Comunidad de Madrid, a través de la Consejería de Familia, Juventud y Asuntos Sociales, y el Ayuntamiento de Navas del Rey, para la expedición del “Carné Joven Comunidad de Madrid”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/05/BOCM-20250705-21.PDF"
