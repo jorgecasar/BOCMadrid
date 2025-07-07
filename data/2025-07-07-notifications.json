@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Pozuelo de Alarcón",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/07/BOCM-20250707-58.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "San Martín de la Vega",
       "description": "Organización y funcionamiento: Delegación funciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/07/BOCM-20250707-59.PDF"
