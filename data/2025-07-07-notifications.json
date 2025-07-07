@@ -1,18 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 160,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2025/07/07/BOCM-20250707160.PDF",
-      "total": 66,
-      "items": {
-        "Comunidad de Madrid": 31,
-        "Administración Local Ayuntamientos": 34,
-        "Otros Anuncios": 1
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
