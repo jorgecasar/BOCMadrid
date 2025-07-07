@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Convenio de 9 de junio de 2025, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y Paula Isabel Madariaga Cela para la realización de prácticas extracurriculares remuneradas de los alumnos de la Escuela Superior de Diseño",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/07/BOCM-20250707-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Anuncio de 30 de junio de 2025, por el que se convoca la licitación para la contratación de un servicio relativo a la póliza de seguro de responsabilidad civil general de Metro de Madrid, S. A. (Expediente 6012500177)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/07/BOCM-20250707-20.PDF"
