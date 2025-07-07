@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Orden 1155/2025, de 24 de junio, de la Consejera de Sanidad por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, por el procedimiento de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/07/BOCM-20250707-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Orden de 25 de junio de 2025, de la Consejera de Familia, Juventud y Asuntos Sociales, por la que se resuelve la convocatoria aprobada mediante Orden de 28 de marzo de 2025 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 9 de abril), para la provisión de un puesto de trabajo por el procedimiento de Concurso de Méritos en la Consejería de Familia, Juventud y Asuntos Sociales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/07/BOCM-20250707-9.PDF"
