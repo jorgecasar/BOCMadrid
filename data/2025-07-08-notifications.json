@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Alcorcón",
-      "description": "Ofertas de empleo: Convocatorias proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/08/BOCM-20250708-53.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Alcorcón",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/08/BOCM-20250708-54.PDF"
     }
