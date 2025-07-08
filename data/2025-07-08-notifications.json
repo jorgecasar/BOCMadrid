@@ -1,19 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 161,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2025/07/08/BOCM-20250708161.PDF",
-      "total": 102,
-      "items": {
-        "Comunidad de Madrid": 47,
-        "Disposiciones y Anuncios del Estado": 1,
-        "Administración Local Ayuntamientos": 51,
-        "Otros Anuncios": 3
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Presidencia de La Comunidad",
