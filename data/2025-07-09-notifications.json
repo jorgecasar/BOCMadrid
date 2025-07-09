@@ -1,18 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 162,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2025/07/09/BOCM-20250709162.PDF",
-      "total": 94,
-      "items": {
-        "Comunidad de Madrid": 62,
-        "Administración Local Ayuntamientos": 29,
-        "Otros Anuncios": 3
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Asamblea de Madrid",
