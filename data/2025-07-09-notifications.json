@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Digitalización",
-      "description": "Encomienda de gestión de 26 de junio de 2025, entre la Agencia de Ciberseguridad de la Comunidad de Madrid y la Agencia para la Administración Digital de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/09/BOCM-20250709-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 2136/2025, de 26 de junio, de la Consejería de Educación, Ciencia y Universidades, por la que se aprueban las bases reguladoras de los premios extraordinarios para los ciclos formativos de grado básico y medio de Formación Profesional en el ámbito de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/09/BOCM-20250709-32.PDF"
