@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Extracto de la Convocatoria, de 26 de junio de 2025, de Becas de Excelencia Académica del Consejo Social de la Universidad de Alcalá, para el estudiantado que inicia estudios de Grado, para el curso académico 2025/2026",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/09/BOCM-20250709-38.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Digitalización",
       "description": "Resolución de 20 de junio de 2025, de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” la modificación del contrato “Servicios de telecomunicaciones de la Comunidad de Madrid. Lote 1-Servicio de transporte de datos para el entorno general y acceso centralizado a Internet”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/09/BOCM-20250709-40.PDF"
