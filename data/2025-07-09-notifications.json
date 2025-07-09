@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Asamblea de Madrid",
-      "description": "Anuncio de Reforma del Reglamento de la Asamblea de Madrid, aprobada por el Pleno en su sesión ordinaria celebrada el día 19 de junio de 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/09/BOCM-20250709-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Orden de 27 de junio de 2025, del Consejero de Presidencia, Justicia y Administración Local, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Presidencia, Justicia y Administración Local, por el procedimiento de Concurso de Méritos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/09/BOCM-20250709-2.PDF"
