@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución 26 de junio de 2025, de la Universidad Rey Juan Carlos, por la que se nombra a don José María Cañas Plaza como Catedrático de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/09/BOCM-20250709-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Digitalización",
       "description": "Encomienda de gestión de 26 de junio de 2025, entre la Agencia de Ciberseguridad de la Comunidad de Madrid y la Agencia para la Administración Digital de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/09/BOCM-20250709-31.PDF"
