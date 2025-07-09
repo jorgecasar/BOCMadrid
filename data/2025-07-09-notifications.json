@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Resolución de 25 de junio de 2025, de la Dirección General de Recursos Humanos, por la que se convocan listas extraordinarias permanentemente abiertas en determinadas especialidades del Cuerpo de Catedráticos de Música y Artes Escénicas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/09/BOCM-20250709-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Orden de 30 de junio de 2025, de la Consejería de Vivienda, Transportes e Infraestructuras, por la que resuelve la convocatoria aprobada por Orden de 26 de mayo de 2025 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 29 de mayo de 2025), de esta misma Consejería, para la provisión de un puesto de carrera de naturaleza laboral, por el sistema de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/09/BOCM-20250709-25.PDF"
