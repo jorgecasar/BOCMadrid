@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Decreto 42/2025, de 9 de julio, del Consejo de Gobierno, por el que se aprueba el Reglamento de Espectáculos Taurinos Populares y determinadas actividades formativas taurinas con presencia de público",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/10/BOCM-20250710-3.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Decreto 45/2025, de 9 de julio, del Consejo de Gobierno, por el que cesa doña Rocío López González, como Comisionado del Gobierno para la Atención a las Víctimas del Terrorismo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/10/BOCM-20250710-4.PDF"
