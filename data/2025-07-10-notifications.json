@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Decreto 53/2025, de 9 de julio, del Consejo de Gobierno, por el que se nombra Directora General de Bilingüismo y Calidad de la Enseñanza, a doña Beatriz Rodríguez Merchán",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/10/BOCM-20250710-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Resolución 31/2025, de 26 de junio, del Director del CES Cardenal Cisneros por la que se aprueban las instrucciones internas por las que se regula la contratación laboral en la Fundación Universitaria Fray Francisco Jiménez de Cisneros",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/10/BOCM-20250710-17.PDF"
     }
