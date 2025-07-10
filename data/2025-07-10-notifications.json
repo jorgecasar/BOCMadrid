@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Decreto 56/2025, de 9 de julio, del Consejo de Gobierno, por el que cesa don Gonzalo Cabrera Martín, como Director General de Cultura e Industrias Creativas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/10/BOCM-20250710-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Decreto 57/2025, de 9 de julio, del Consejo de Gobierno, por el que se nombra Director General de Cultura e Industrias Creativas a don Manuel Lagos Gismero",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/10/BOCM-20250710-26.PDF"
     }
