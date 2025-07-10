@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Decreto 48/2025, de 9 de julio, del Consejo de Gobierno, por el que cesa doña Irene Correas Sosa, como Directora General de Autónomos y Emprendimiento",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/10/BOCM-20250710-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Decreto 49/2025, de 9 de julio, del Consejo de Gobierno, por el que se nombra Viceconsejera de Economía y Empleo a doña María del Carmen Tejera Gimeno",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/10/BOCM-20250710-8.PDF"
     }
