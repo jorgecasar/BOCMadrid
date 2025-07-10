@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Convenio de 2 de julio de 2025, entre la Comunidad de Madrid (Consejería de Presidencia, Justicia y Administración Local) y la Federación de Municipios de Madrid, en materia de asistencia jurídica a municipios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/10/BOCM-20250710-39.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Convenio de 12 de junio de 2025, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y G2 Arquitectos Desarrollo de Proyectos Arquitectónicos, S. L., para la realización de prácticas extracurriculares remuneradas de los alumnos de la Escuela Superior de Diseño",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/10/BOCM-20250710-40.PDF"
