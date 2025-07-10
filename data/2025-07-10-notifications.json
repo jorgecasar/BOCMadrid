@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Resolución de 23 de junio de 2025, de la Dirección General de Educación Secundaria, Formación Profesional y Régimen Especial, por la que se establecen las enseñanzas de formación profesional de Grado D, susceptibles de ofertarse en modalidad semipresencial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/10/BOCM-20250710-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Extracto de la Orden de 27 de junio de 2025, de la Consejería de Vivienda, Transportes e Infraestructuras, por la que se convocan subvenciones para la realización de actividades formativas en el Sector del Transporte Público por Carretera en el año 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/10/BOCM-20250710-31.PDF"
