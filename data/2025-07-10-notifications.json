@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Decreto 45/2025, de 9 de julio, del Consejo de Gobierno, por el que cesa doña Rocío López González, como Comisionado del Gobierno para la Atención a las Víctimas del Terrorismo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/10/BOCM-20250710-4.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Decreto 46/2025, de 9 de julio, del Consejo de Gobierno, por el que cesa don Juan Manuel López Zafra, como Director General de Economía",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/10/BOCM-20250710-5.PDF"
