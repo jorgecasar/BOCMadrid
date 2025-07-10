@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Decreto 52/2025, de 9 de julio, del Consejo de Gobierno, por el que cesa don David Cervera Olivares, como Director General de Bilingüismo y Calidad de la Enseñanza",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/10/BOCM-20250710-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Decreto 53/2025, de 9 de julio, del Consejo de Gobierno, por el que se nombra Directora General de Bilingüismo y Calidad de la Enseñanza, a doña Beatriz Rodríguez Merchán",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/10/BOCM-20250710-16.PDF"
     }
