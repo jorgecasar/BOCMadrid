@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcalá de Henares",
-      "description": "Otros anuncios: Notificación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/10/BOCM-20250710-59.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcobendas",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/10/BOCM-20250710-60.PDF"
