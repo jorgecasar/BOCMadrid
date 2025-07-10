@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Decreto 47/2025, de 9 de julio, del Consejo de Gobierno, por el que cesa don Jaime Martínez Muñoz, como Director General de Promoción Económica e Industrial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/10/BOCM-20250710-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Decreto 48/2025, de 9 de julio, del Consejo de Gobierno, por el que cesa doña Irene Correas Sosa, como Directora General de Autónomos y Emprendimiento",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/10/BOCM-20250710-7.PDF"
     }
