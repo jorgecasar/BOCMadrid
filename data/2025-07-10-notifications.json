@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 27 de junio de 2025, de la Universidad Autónoma de Madrid, por la que se declara el mes de agosto de 2025 inhábil a los efectos señalados en la presente Resolución",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/10/BOCM-20250710-37.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 2 de julio de 2025, de la Rectora de la Universidad Autónoma de Madrid, de establecimiento de la estructura del Equipo de Gobierno de la Universidad Autónoma de Madrid, de delegación de competencias y otras cuestiones de índole organizativa",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/10/BOCM-20250710-38.PDF"
     }
