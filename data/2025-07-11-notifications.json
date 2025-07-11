@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Organización y funcionamiento: Área de Gobierno de Economía, Innovación y Hacienda. Plan estratégico subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/11/BOCM-20250711-40.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcorcón",
       "description": "Organización y funcionamiento: Nombramiento concejalías",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/11/BOCM-20250711-41.PDF"
