@@ -1,19 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 164,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2025/07/11/BOCM-20250711164.PDF",
-      "total": 76,
-      "items": {
-        "Comunidad de Madrid": 39,
-        "Administración Local Ayuntamientos": 32,
-        "Administración de Justicia": 4,
-        "Otros Anuncios": 1
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
