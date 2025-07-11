@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Getafe",
-      "description": "Régimen económico: Extracto convocatoria subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/11/BOCM-20250711-56.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Getafe",
       "description": "Otros anuncios: Cesión parcela",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/11/BOCM-20250711-57.PDF"
     }
