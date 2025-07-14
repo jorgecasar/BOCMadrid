@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Extracto de la Orden 2531/2025, de 9 de julio, del Consejero de Educación, Ciencia y Universidades, por la que se aprueba la convocatoria de las becas para el estudio de enseñanzas de formación profesional del Grado D de ciclos formativos de grado medio y grado superior, del sistema educativo español, en centros docentes privados autorizados ubicados en el territorio de la Comunidad de Madrid correspondiente al curso 2025-2026",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/14/BOCM-20250714-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Orden 1969/2025, de 27 de junio, de la Consejera de Familia, Juventud y Asuntos Sociales, por la que se establecen criterios de aplicación de lo dispuesto en el acuerdo de 28 de mayo de 2025, del Consejo de Gobierno, por el que se modifica el acuerdo de 8 de noviembre de 2022, del Consejo de Gobierno, por el que se aprueban las normas reguladoras y se establece el procedimiento de concesión directa de ayudas a mujeres víctimas de violencia de género para favorecer su salida de centros residenciales de la red de atención integral para la violencia de género de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/14/BOCM-20250714-23.PDF"
