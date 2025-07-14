@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 1 de julio de 2025, de la Universidad Complutense de Madrid, por la que se publica la Oferta de Empleo para el ejercicio 2025 del Personal Docente e Investigador",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/14/BOCM-20250714-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 10 de julio de 2025, de la Consejera de Economía, Hacienda y Empleo, por la que se procede a la corrección de errores de la Orden de 16 de junio de 2025, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueban las bases reguladoras para la concesión de subvenciones del Programa de prospección, intermediación y apoyo en el puesto de trabajo de personas con discapacidad que presentan mayores dificultades de inserción laboral",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/14/BOCM-20250714-17.PDF"
