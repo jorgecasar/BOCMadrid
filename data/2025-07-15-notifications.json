@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Extracto de la Orden 2530/2025, de 10 de julio, del Consejero de Educación, Ciencia y Universidades, por la que se aprueba la convocatoria del año 2025 de ayudas de atracción de talento investigador “César Nombela”",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/15/BOCM-20250715-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Extracto de la Orden 2036/2025, de la Consejera de Familia, Juventud y Asuntos Sociales, por la que se convocan los premios Talento Joven-Carné Joven Comunidad de Madrid correspondientes al año 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/15/BOCM-20250715-25.PDF"
