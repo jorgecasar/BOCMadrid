@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "description": "Extracto de la Orden 2036/2025, de la Consejera de Familia, Juventud y Asuntos Sociales, por la que se convocan los premios Talento Joven-Carné Joven Comunidad de Madrid correspondientes al año 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/15/BOCM-20250715-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 1503/2025, de 1 de julio, de la Consejería de Cultura, Turismo y Deporte, por la que se amplía el plazo máximo para resolver y notificar establecido en la Orden 2520/2024, de 26 de diciembre, de la Consejería de Cultura, Turismo y Deporte, por la que se convocan subvenciones destinadas a empresas audiovisuales para el desarrollo de proyectos audiovisuales en la Comunidad de Madrid en 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/15/BOCM-20250715-26.PDF"
