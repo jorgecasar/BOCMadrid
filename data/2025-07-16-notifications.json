@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 24 de junio de 2025, de la Universidad de Alcalá, por la que se publica una modificación de la relación de puestos de trabajo del personal técnico, de gestión y de administración y servicios laboral de este organismo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/16/BOCM-20250716-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 4 de julio de 2025, de la Universidad Rey Juan Carlos, por la que se nombra a doña Ana García Barrios como Catedrática de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/16/BOCM-20250716-19.PDF"
