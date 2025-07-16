@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 2367/2025, de 2 de julio, de la Consejería de Educación, Ciencia y Universidades, por la que se regulan las pruebas para la obtención del título de Bachiller destinadas a personas mayores de veinte años en la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/16/BOCM-20250716-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 2476/2025, de 14 de julio, del Consejero de Educación, Ciencia y Universidades, por la que se establecen las cuantías económicas para la financiación de los libros de texto y material curricular y del servicio de apoyo a la gestión del programa Accede para el curso 2025-2026",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/16/BOCM-20250716-23.PDF"
     }
