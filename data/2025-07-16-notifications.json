@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 2 de julio de 2025, de la Directora General de Formación, por la que se hace pública la relación de subvenciones concedidas con cargo al Programa 241A “Formación para el empleo”, de la Consejería de Economía, Hacienda y Empleo, durante el segundo trimestre del ejercicio 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/16/BOCM-20250716-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 2367/2025, de 2 de julio, de la Consejería de Educación, Ciencia y Universidades, por la que se regulan las pruebas para la obtención del título de Bachiller destinadas a personas mayores de veinte años en la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/16/BOCM-20250716-22.PDF"
