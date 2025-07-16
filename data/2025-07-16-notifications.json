@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Extracto de la Orden 2335/2025, de 2 de julio, del Consejero de Educación, Ciencia y Universidades, por la que se aprueba la convocatoria de becas de Segunda Oportunidad correspondiente al curso 2025-2026",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/16/BOCM-20250716-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Resolución de 8 de julio de 2025, del Director General de Transportes y Movilidad de la Comunidad de Madrid, por la que se habilita temporalmente la utilización de vehículos adaptados “auto taxi” y de “arrendamiento con conductor” con distintivo ambiental C para la prestación del servicio de transporte de personas con discapacidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/16/BOCM-20250716-25.PDF"
