@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Extracto de la Resolución del Rector de la Universidad Rey Juan Carlos, por la que se aprueban y se hacen públicas las bases y la IV Convocatoria del Consejo Social de becas para realizar tesis doctoral en régimen de cotutela para el curso 2025-2026",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/17/BOCM-20250717-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Resolución de 3 de julio de 2025, de la Dirección General de Patrimonio y Contratación, por la que se dispone la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante” adenda al contrato de arrendamiento para uso distinto del de vivienda relativo a los locales 1, 2, 3, 4, 5, 6 y 7 de la calle Granados números 18, 20, 22 y 24, de Torrejón de Ardoz (Madrid)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/17/BOCM-20250717-32.PDF"
