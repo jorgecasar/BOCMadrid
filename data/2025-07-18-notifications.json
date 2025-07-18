@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Resolución 33/2025, de 15 de julio de 2025, del Director del Centro de Enseñanza Superior Cardenal Cisneros, por la que se hace pública la oferta de empleo de cinco plazas de duración indefinida en la Fundación Universitaria Fray Francisco Jiménez de Cisneros",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/18/BOCM-20250718-9.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Resolución de 30 de junio de 2025, de la Secretaría General Técnica de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se definen los formatos de identificación del personal que realice funciones de control, visita y vigilancia en materia de agricultura, ganadería y alimentación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/18/BOCM-20250718-10.PDF"
