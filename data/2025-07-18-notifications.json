@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Extracto de la Orden 2517/2025, de 11 de julio, del Consejero de Educación, Ciencia y Universidades, por la que se convocan para 2025 las ayudas para contribuir a la mejora de la cooperación público privada en materia de I  + D + I mediante proyectos de efecto tractor en consorcio",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/18/BOCM-20250718-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Convenio de 9 de junio de 2025, de gestión integral del servicio de distribución de agua de consumo humano entre la Comunidad de Madrid, Canal de Isabel II, Canal de Isabel II, S. A., M. P., y el Ayuntamiento de Coslada",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/18/BOCM-20250718-18.PDF"
