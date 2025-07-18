@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Alcorcón",
-      "description": "Personal: Nombramiento",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/18/BOCM-20250718-42.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Alcorcón",
       "description": "Personal: Nombramiento funcionaria carrera",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/18/BOCM-20250718-43.PDF"
     }
