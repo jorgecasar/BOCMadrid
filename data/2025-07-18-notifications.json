@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 9 de julio de 2025, de la Universidad Autónoma de Madrid, por la que se nombran funcionarias de carrera de la Escala Especial Básica de Laboratorios y Docencia de la Universidad Autónoma de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/18/BOCM-20250718-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 9 de julio de 2025, la Universidad Rey Juan Carlos, por la que se nombra a don Carlos Horacio Lozano Ascencio como Catedrático de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/18/BOCM-20250718-15.PDF"
