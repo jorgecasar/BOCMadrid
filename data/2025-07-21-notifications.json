@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Listado de 2 de julio de 2025, de las cooperativas cuyas cuentas anuales han quedado depositadas en el Registro de Cooperativas de la Comunidad de Madrid en el trimestre segundo del año 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/21/BOCM-20250721-37.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Convenio de 23 de junio de 2025, entre el Instituto de la Cinematografía y de las Artes Audiovisuales, O. A. y la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) para la realización de prácticas externas de los alumnos de la Escuela Superior de Conservación y Restauración de Bienes Culturales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/21/BOCM-20250721-38.PDF"
