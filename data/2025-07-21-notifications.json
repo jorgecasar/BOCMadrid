@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Extracto del Acuerdo de la Comisión de Investigación de la Universidad de Alcalá, de 9 de julio de 2025, por el que se convocan los Contratos Predoctorales de Formación de Personal Investigador 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/21/BOCM-20250721-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Extracto del Acuerdo de la Comisión de Investigación de la Universidad de Alcalá de 9 de julio de 2025, por el que se convocan los Contratos Predoctorales de Formación de Profesorado Universitario 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/21/BOCM-20250721-32.PDF"
     }
