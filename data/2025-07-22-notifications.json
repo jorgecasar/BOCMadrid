@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 7 de julio de 2025, de la Rectora de la Universidad Autónoma de Madrid, por la que se convoca un puesto de trabajo para su provisión por el sistema de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/22/BOCM-20250722-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Orden de 9 de julio de 2025, de la Consejería de Presidencia, Justicia y Administración Local, por la que se modifica la Orden de 7 de marzo de 2024, por la que se aprueba el Plan Estratégico de Subvenciones de la Consejería de Presidencia, Justicia y Administración Local para los años 2024 y 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/22/BOCM-20250722-7.PDF"
