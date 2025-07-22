@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Alcorcón",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/22/BOCM-20250722-42.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Alcorcón",
       "description": "Personal: Nombramiento funcionaria carrera",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/22/BOCM-20250722-43.PDF"
     }
