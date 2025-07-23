@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Humanes de Madrid",
-      "description": "Urbanismo: Informe evaluación edificios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/23/BOCM-20250723-48.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Humanes de Madrid",
       "description": "Licencias: Licencias actividad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/23/BOCM-20250723-49.PDF"
     }
