@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Anuncio de 21 de julio de 2025, por el que se convoca la licitación para la contratación de un “Servicio gestionado de soporte y mantenimiento de las aplicaciones corporativas de Metro de Madrid” (expediente 6012500200)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/23/BOCM-20250723-28.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Resolución de 4 de julio de 2025, del Director General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se emplaza a los interesados en el recurso contencioso-administrativo, procedimiento ordinario número 1065/2025, a fin de que puedan personarse en autos, si a su derecho conviniere",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/23/BOCM-20250723-29.PDF"
