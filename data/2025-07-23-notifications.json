@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Resolución de 17 de julio de 2025, de la Dirección General de Recursos Humanos, por la que se aprueba y anuncia la publicación de las listas de aspirantes seleccionados en los procedimientos selectivos para el ingreso y acceso a Cuerpos Docentes convocados por Resolución de 20 de febrero de 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/23/BOCM-20250723-5.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Resolución de 21 de julio de 2025, de la Dirección General de Recursos Humanos, por la que se modifican las listas definitivas de admitidos y excluidos al proceso selectivo a cuerpos docentes convocado por Resolución de 20 de febrero de 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/23/BOCM-20250723-6.PDF"
     }
