@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Extracto de la Orden de 17 de julio de 2025, de la Consejería de Economía, Hacienda y Empleo, de convocatoria de subvenciones para la financiación de programas de formación transversales del catálogo de especialidades formativas dirigidos prioritariamente a trabajadores ocupados para los años 2025 y 2026, impartidos en modalidad presencial y mixta",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/23/BOCM-20250723-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Extracto de la Orden de 17 de julio de 2025, de la Consejería de Economía, Hacienda y Empleo, de convocatoria de subvenciones para la financiación de programas de formación transversales del catálogo de especialidades formativas, dirigidos prioritariamente a trabajadores ocupados para los años 2025 y 2026, impartidos en modalidad teleformación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/23/BOCM-20250723-12.PDF"
     }
