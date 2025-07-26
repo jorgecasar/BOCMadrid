@@ -1,17 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 177,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2025/07/26/BOCM-20250726177.PDF",
-      "total": 27,
-      "items": {
-        "Comunidad de Madrid": 23,
-        "Administración de Justicia": 4
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
