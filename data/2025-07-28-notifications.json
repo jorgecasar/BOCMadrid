@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Móstoles",
-      "description": "Personal: Plantilla personal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/28/BOCM-20250728-53.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Móstoles",
       "description": "Otros anuncios: Cesión parcela",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/28/BOCM-20250728-54.PDF"
     }
