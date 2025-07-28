@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 14 de julio de 2025, de la Universidad de Alcalá, por la que se convocan concursos de acceso por promoción interna a plazas de funcionario/as de carrera de los cuerpos docentes universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/28/BOCM-20250728-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Resolución de 9 de julio de 2025, de la Secretaría General Técnica de la Consejería de Presidencia, Justicia y Administración Local, por la que se publican las subvenciones concedidas durante el segundo trimestre de 2025 por la Dirección General de Reequilibrio Territorial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/28/BOCM-20250728-18.PDF"
