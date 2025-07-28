@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Acuerdo de 9 de julio de 2025, del Consejo de Gobierno, por el que se aprueba definitivamente la modificación puntual del Plan General de Ordenación Urbana de Madrid de 1997, para la parcela situada en la avenida de la Guardia, número 21, Distrito de Fuencarral-El Pardo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/28/BOCM-20250728-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Digitalización",
       "description": "Resolución de 14 de julio de 2025, de la Secretaria General Técnica de la Consejería de Digitalización, por la que se dispone la publicación de formalización del contrato: Acuerdo Marco de suministro de los puntos de red multiservicio para equipos informáticos necesarios para el funcionamiento de los centros docentes no universitarios de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/28/BOCM-20250728-21.PDF"
