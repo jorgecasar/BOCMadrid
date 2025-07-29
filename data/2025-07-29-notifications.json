@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 16 de julio de 2025, de la Universidad Rey Juan Carlos, por la que se nombra a don Francisco Mercado Romero como Catedrático de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/29/BOCM-20250729-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 16 de julio de 2025, de la Universidad Rey Juan Carlos, por la que se nombra a doña Yolanda Segura Urraca como Catedrática de Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/29/BOCM-20250729-32.PDF"
     }
