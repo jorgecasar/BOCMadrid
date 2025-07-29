@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 2433/2025, de 11 de julio, del Consejero de Educación, Ciencia y Universidades, por la que se autoriza la extinción de enseñanzas universitarias oficiales de grado, máster y doctorado en las universidades y centros adscritos de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/29/BOCM-20250729-34.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 2593/2025, de 15 de julio, del Consejero de Educación, Ciencia y Universidades, por la que se aprueban las modificaciones de los conciertos educativos de los centros docentes privados para el curso 2025-2026",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/29/BOCM-20250729-35.PDF"
     }
