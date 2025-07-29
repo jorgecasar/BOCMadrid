@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 2593/2025, de 15 de julio, del Consejero de Educación, Ciencia y Universidades, por la que se aprueban las modificaciones de los conciertos educativos de los centros docentes privados para el curso 2025-2026",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/29/BOCM-20250729-35.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Acuerdo de 9 de julio de 2025, del Consejo de Gobierno, por el que se aprueba definitivamente la modificación puntual del Plan General de Ordenación Urbana de Madrid de 1997, para el edificio situado en la calle de Alcalá Galiano, número 1, con vuelta a la calle del Monte Esquinza, número 8, Distrito de Chamberí",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/29/BOCM-20250729-36.PDF"
