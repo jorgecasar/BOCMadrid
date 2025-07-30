@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Disposiciones y Anuncios del Estado",
-      "description": "Delegación del Gobierno en Madrid. Área Funcional de Industria, Energía y Minas. Declaración utilidad pública",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/30/BOCM-20250730-46.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Disposiciones y Anuncios del Estado",
       "description": "Delegación del Gobierno en Madrid. Expropiación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/30/BOCM-20250730-47.PDF"
     }
