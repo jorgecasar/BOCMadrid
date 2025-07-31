@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 28 de julio de 2025, de la Universidad Autónoma de Madrid, por la que se convocan pruebas selectivas para el ingreso en la Escala Administrativa de la Universidad Autónoma de Madrid, por el sistema de promoción interna",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/31/BOCM-20250731-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Extracto de la Orden de 23 de julio de 2025, de la Consejera de Economía, Hacienda y Empleo, por la que se convocan, para el año 2025, las subvenciones de la Ayuda 1 del Programa de inclusión laboral de personas en situación de exclusión social mediante Ayudas a las Empresas de Inserción, cofinanciadas en el marco del programa operativo FSE+ 2021/2027",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/31/BOCM-20250731-26.PDF"
