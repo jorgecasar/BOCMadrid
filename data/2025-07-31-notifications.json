@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Digitalización",
-      "description": "Orden 193/2025, de 18 de julio, de la Consejería de Digitalización, por la que se amplía el plazo de presentación de solicitudes establecido en la Orden 174/2025, de 27 de junio, de la Consejería de Digitalización, por la que se aprueban las bases reguladoras de los Premios Emprendimiento Digital Comunidad de Madrid en ejecución del proyecto RETECH [Redes de Emprendimiento Digital en la Comunidad de Madrid (C13I1PRTR)] y la convocatoria del año 2025 para la presentación de solicitudes por el procedimiento de concurrencia competitiva, en el marco del Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea-Next Generation EU (C13.I1.P11.S13)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/31/BOCM-20250731-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 1824/2025, de 28 de julio, de la Consejería de Cultura, Turismo y Deporte, por la que se dispone un gasto por importe de 1.850.000 euros, en concepto de dotación para la Fundación Orquesta y Coro de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/31/BOCM-20250731-31.PDF"
