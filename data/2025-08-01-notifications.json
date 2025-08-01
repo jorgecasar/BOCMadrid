@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 2595/2025, de 21 de julio, del Consejero de Educación, Ciencia y Universidades, por la que se autoriza la adscripción del Centro de Educación Superior “ISDI” a la Universidad de Alcalá",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/01/BOCM-20250801-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Familia, Juventud y Asuntos Sociales",
       "description": "Orden 2141/2025, de 17 de julio, de la Consejera de Familia, Juventud y Asuntos Sociales, por la que se resuelve la convocatoria de ayudas a municipios de la Comunidad de Madrid destinadas al equipamiento, obras y mejoras de locales juveniles de titularidad municipal para el año 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/01/BOCM-20250801-16.PDF"
