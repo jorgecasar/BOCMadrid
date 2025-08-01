@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 19 de julio de 2025, de la Rectora de la Universidad Autónoma de Madrid, por la que se publica la modificación parcial de la Relación de Puestos de Trabajo del Personal Técnico, de Gestión y de Administración y Servicios Funcionario de esta Universidad, aprobada en Consejo de Gobierno de 17 de julio de 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/01/BOCM-20250801-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 2595/2025, de 21 de julio, del Consejero de Educación, Ciencia y Universidades, por la que se autoriza la adscripción del Centro de Educación Superior “ISDI” a la Universidad de Alcalá",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/01/BOCM-20250801-15.PDF"
