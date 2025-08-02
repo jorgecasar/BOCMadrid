@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Convenio de colaboración de 5 de julio de 2025, entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo, y la Agencia de Colocación Centro de Iniciativas para la Formación y el Empleo de Fuenlabrada para la información, orientación y apoyo en la inscripción en el procedimiento de acreditación de competencias profesionales adquiridas a través de la experiencia laboral u otras vías no formales e informales en el ámbito de la Comunidad de Madrid en el marco del componente 20 “Plan Estratégico de Impulso de la Formación Profesional”, del Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea-Next Generation EU",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/02/BOCM-20250802-3.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Convenio subvención de 8 de julio de 2025, entre la Comunidad de Madrid, a través de la Consejería de Economía, Hacienda y Empleo y la Federación de Cooperativas y de la Economía Social de Madrid (FECOMA) para la realización de actuaciones de fomento del cooperativismo en la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/02/BOCM-20250802-4.PDF"
     }
