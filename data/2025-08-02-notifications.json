@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Convenio de 2 de julio de 2025, para el suministro e instalación de marquesinas y postes en las paradas de los servicios públicos regulares de transporte de viajeros dependientes del Consorcio Regional de Transportes Públicos Regulares de Madrid en el municipio de Valdemorillo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/02/BOCM-20250802-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Convenio de 7 de julio de 2025, entre la Agencia de Seguridad y Emergencias Madrid 112 y el Ayuntamiento de Collado Mediano para establecer un protocolo de actuación de la agrupación municipal de voluntarios de protección civil en el ámbito de la prevención y extinción de incendios y salvamentos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/02/BOCM-20250802-12.PDF"
