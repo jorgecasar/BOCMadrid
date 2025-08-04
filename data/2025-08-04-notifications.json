@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 23 de julio de 2025, de la Universidad Autónoma de Madrid, por la que se convoca Concurso de Méritos general para la provisión de varios puestos de trabajo vacantes en la relación de puestos de trabajo de personal funcionario de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/04/BOCM-20250804-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 23 de julio de 2025, la Universidad Autónoma de Madrid, por la que se publica la Oferta de Empleo Público para el ejercicio 2025 del Personal Docente e Investigador",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/04/BOCM-20250804-27.PDF"
     }
