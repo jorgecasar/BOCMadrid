@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Orden de 24 de julio de 2025, de la Consejería de Presidencia, Justicia y Administración Local, por la que se acuerda la declaración de Mancomunidad de interés general de la Mancomunidad de Servicios Sierra Norte",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/04/BOCM-20250804-29.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Orden de 21 de julio de 2025, de la Consejería de Economía, Hacienda y Empleo, por la que se declara el importe de la ampliación en 70.000 euros del crédito disponible destinado a dar cobertura presupuestaria a la convocatoria de ayudas a municipios de la Comunidad de Madrid para el desarrollo de actividades de promoción comercial y ferial para el año 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/04/BOCM-20250804-30.PDF"
