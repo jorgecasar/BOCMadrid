@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "El Boalo",
-      "description": "Urbanismo: Estudio detalle",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/05/BOCM-20250805-38.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Gargantilla del Lozoya y Pinilla de Buitrago",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/05/BOCM-20250805-39.PDF"
