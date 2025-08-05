@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Los Molinos",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/05/BOCM-20250805-44.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Mejorada del Campo",
       "description": "Organización y funcionamiento: Delegación funciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/05/BOCM-20250805-45.PDF"
