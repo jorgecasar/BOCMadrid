@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Móstoles",
-      "description": "Otros anuncios: Estatutos Junta Compensación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/05/BOCM-20250805-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Pozuelo de Alarcón",
       "description": "Organización y funcionamiento: Reglamento orgánico",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/05/BOCM-20250805-50.PDF"
