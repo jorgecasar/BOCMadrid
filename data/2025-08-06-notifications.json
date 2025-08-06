@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 18 de julio de 2025, de la Universidad Rey Juan Carlos, por la que se publica el plan de estudios de Estudios de Máster Universitario en Competencia Digital y Pensamiento Computacional",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/06/BOCM-20250806-23.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 18 de julio de 2025, de la Universidad Rey Juan Carlos, por la que se publica el plan de estudios de Estudios de Máster en Creación de Animación Audiovisual/Máster in Audiovisual Animation por la Universidad Rey Juan Carlos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/06/BOCM-20250806-24.PDF"
     }
