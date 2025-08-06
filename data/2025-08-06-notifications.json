@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 18 de julio de 2025, de la Universidad Rey Juan Carlos, por la que se publica la modificación del plan de estudios del Máster en Ludificación, Aprendizaje basado en Juegos y Juegos Serios: Docencia y Formación Continua",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/06/BOCM-20250806-41.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 18 de julio de 2025, de la Universidad Rey Juan Carlos, por la que se publica la modificación del plan de estudios de Máster Universitario en Neurocontrol Motor",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/06/BOCM-20250806-42.PDF"
     }
