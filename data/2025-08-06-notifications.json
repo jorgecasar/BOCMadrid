@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 18 de julio de 2025, de la Universidad Rey Juan Carlos, por la que se publica la modificación del plan de estudios de Estudios de Máster Universitario en Ingeniería Industrial por la Universidad Rey Juan Carlos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/06/BOCM-20250806-39.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 18 de julio de 2025, de la Universidad Rey Juan Carlos, por la que se publica la modificación del plan de estudios de Estudios de Máster Universitario en Investigación Aplicada a la Comunicación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/06/BOCM-20250806-40.PDF"
     }
