@@ -1,18 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 186,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2025/08/06/BOCM-20250806186.PDF",
-      "total": 87,
-      "items": {
-        "Comunidad de Madrid": 66,
-        "Disposiciones y Anuncios del Estado": 1,
-        "Administración Local Ayuntamientos": 20
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
