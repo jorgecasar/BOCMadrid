@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Disposiciones y Anuncios del Estado",
-      "description": "Delegación del Gobierno en Madrid. Área Funcional de Industria y Energía. Expropiación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/07/BOCM-20250807-44.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Disposiciones y Anuncios del Estado",
       "description": "Ministerio de Hacienda. Agencia Tributaria Madrid. Período pago impuestos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/07/BOCM-20250807-45.PDF"
     }
