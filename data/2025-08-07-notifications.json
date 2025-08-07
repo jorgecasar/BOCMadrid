@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad de Alcalá",
-      "description": "Resolución de 22 de julio de 2025, de la Universidad de Alcalá, por la que se convocan concursos de acceso a plazas de funcionarios de carrera de los cuerpos docentes universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/07/BOCM-20250807-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad de Alcalá",
       "description": "Resolución de 28 de julio de 2025, de la Gerencia de la Universidad de Alcalá, por la que anuncia publicación de convocatoria de concurso-oposición de promoción interna y libre para la provisión de puestos vacantes de Personal Técnico, de Gestión y de Administración y Servicios Laboral",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/07/BOCM-20250807-8.PDF"
     }
