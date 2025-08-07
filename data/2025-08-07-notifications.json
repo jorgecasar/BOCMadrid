@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Alcorcón",
-      "description": "Urbanismo: Estudio detalle",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/07/BOCM-20250807-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Alcorcón",
       "description": "Otros anuncios: Notificación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/07/BOCM-20250807-50.PDF"
     }
