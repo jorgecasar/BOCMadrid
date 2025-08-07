@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Disposiciones y Anuncios del Estado",
-      "description": "Ministerio de Hacienda. Agencia Tributaria Madrid. Período pago impuestos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/07/BOCM-20250807-45.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Madrid",
       "description": "Régimen económico: Distrito de Tetuán. Extracto convocatoria subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/07/BOCM-20250807-46.PDF"
