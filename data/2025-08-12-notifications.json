@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Extracto de la Orden 2882/2025, de 28 de julio, del Consejero de Medio Ambiente, Agricultura e Interior, por la que se convocan para el año 2025 las subvenciones en régimen de concurrencia competitiva destinadas a la compra de medios materiales para los cuerpos de policía local/municipal de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/12/BOCM-20250812-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 1777/2025, de 24 de julio, del Consejero de Cultura, Turismo y Deporte, por la que se declara Bien de Interés Patrimonial de la Comunidad de Madrid, en la categoría de Monumento, la ermita de Santa Lucía en Alcalá de Henares (Madrid)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/12/BOCM-20250812-12.PDF"
