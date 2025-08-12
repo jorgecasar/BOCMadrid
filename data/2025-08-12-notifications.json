@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 1 de agosto de 2025, de la Fundación General Universidad de Alcalá, por la que se publica la Oferta de Empleo Público para el año 2025 del Personal con Carácter Indefinido, con cargo a la tasa de reposición de efectivos 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/12/BOCM-20250812-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Rey Juan Carlos",
       "description": "Resolución de 29 de julio de 2025, por la que se publica la oferta de empleo público para el ejercicio 2025 del personal docente e investigador de la Universidad Rey Juan Carlos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/12/BOCM-20250812-8.PDF"
