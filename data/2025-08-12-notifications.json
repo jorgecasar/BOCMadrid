@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 29 de julio de 2025, por la que se publica la oferta de empleo público para el ejercicio 2025 del personal docente e investigador de la Universidad Rey Juan Carlos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/12/BOCM-20250812-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Orden de 29 de julio de 2025, de la Consejería de Presidencia, Justicia y Administración Local, por la que se actualizan las bases económicas y módulos de indemnización recogidas en el Anexo II del Decreto 35/2025, de 4 de junio, del Consejo de Gobierno, por el que se regula la Asistencia Jurídica Gratuita en el ámbito de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/12/BOCM-20250812-9.PDF"
