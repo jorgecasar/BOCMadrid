@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Nuevo Baztán",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/12/BOCM-20250812-54.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Nuevo Baztán",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/12/BOCM-20250812-55.PDF"
     }
