@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "El Escorial",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/13/BOCM-20250813-33.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "El Escorial",
       "description": "Ofertas de empleo: Proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/13/BOCM-20250813-34.PDF"
     }
