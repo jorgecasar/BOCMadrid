@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "San Lorenzo de El Escorial",
-      "description": "Ofertas de empleo: Oferta empleo público",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/13/BOCM-20250813-51.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Torrejón de Ardoz",
       "description": "Licencias: Licencia actividad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/13/BOCM-20250813-52.PDF"
