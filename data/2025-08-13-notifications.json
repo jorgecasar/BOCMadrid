@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Venturada",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/13/BOCM-20250813-55.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Venturada",
       "description": "Ofertas de empleo: Proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/13/BOCM-20250813-56.PDF"
     }
