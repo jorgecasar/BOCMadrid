@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Resolución de 30 de julio de 2025, de la Viceconsejería de Política y Organización Educativa, por la que se aprueba el Plan Anual de Actuación de la Inspección Educativa para el curso 2025-2026",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/13/BOCM-20250813-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Acuerdo 65/2025, de 24 de julio, de la Comisión de Urbanismo de Madrid, relativo a la aprobación definitiva de la Modificación Puntual del Plan Especial de Equipamientos “Ciudad de la Justicia” (documento julio 2025) en el término municipal de Madrid, promovido por la Dirección General de Infraestructuras Judiciales de la Consejería de Presidencia, Justicia y Administración Local",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/13/BOCM-20250813-14.PDF"
