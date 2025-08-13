@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Colmenarejo",
-      "description": "Otros anuncios: Notificación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/13/BOCM-20250813-32.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "El Escorial",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/13/BOCM-20250813-33.PDF"
