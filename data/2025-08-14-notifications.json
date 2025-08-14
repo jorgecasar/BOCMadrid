@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Alpedrete",
-      "description": "Régimen económico: Tarifas autotaxi",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/14/BOCM-20250814-25.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Alpedrete",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/14/BOCM-20250814-26.PDF"
     }
