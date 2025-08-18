@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "El Escorial",
-      "description": "Régimen económico: Extracto convocatoria subvenciones",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/18/BOCM-20250818-41.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Gascones",
       "description": "Régimen económico: Presupuesto general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/18/BOCM-20250818-42.PDF"
