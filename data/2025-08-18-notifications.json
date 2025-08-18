@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Las Rozas de Madrid",
-      "description": "Personal: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/18/BOCM-20250818-46.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Meco",
       "description": "Régimen económico: Padrones fiscales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/18/BOCM-20250818-47.PDF"
