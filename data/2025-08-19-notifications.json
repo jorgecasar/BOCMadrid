@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Resolución de 14 de agosto de 2025, de la Dirección General de Recursos Humanos, de la Consejería de Educación, Ciencia y Universidades, por la que se modifica la Resolución de 22 de abril de 2025, de la Dirección General de Recursos Humanos, por la que se aprueba la adjudicación definitiva del concurso de traslados de ámbito estatal de funcionarios docentes de los Cuerpos de Inspectores al Servicio de la Administración Educativa e Inspectores de Educación, Catedráticos, Profesores de Enseñanza Secundaria, Técnicos de Formación Profesional (a extinguir), Especialistas en sectores singulares de Formación Profesional, Escuelas Oficiales de Idiomas, Música y Artes Escénicas, y Profesores y Maestros de Taller de Artes Plásticas y Diseño de la Comunidad de Madrid, convocado por Resolución de 21 de octubre de 2024",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/19/BOCM-20250819-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Vivienda, Transportes e Infraestructuras",
       "description": "Resolución 3277/2025, de 4 de agosto, del Director-Gerente de la Agencia de Vivienda Social, por la que se resuelve la convocatoria pública para la provisión de un puesto de carrera de naturaleza laboral vacante por el sistema de selección objetiva, aprobada por Resolución 2022/2025, de 14 de mayo, de la Dirección-Gerencia de la Agencia de Vivienda Social (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 10 de junio de 2025)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/19/BOCM-20250819-11.PDF"
