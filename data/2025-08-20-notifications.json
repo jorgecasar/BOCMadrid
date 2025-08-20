@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Navacerrada",
-      "description": "Régimen económico: Presupuesto general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/20/BOCM-20250820-45.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "San Agustín del Guadalix",
       "description": "Régimen económico: Modificación presupuestaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/20/BOCM-20250820-46.PDF"
