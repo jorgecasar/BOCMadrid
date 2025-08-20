@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Campo Real",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/20/BOCM-20250820-40.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Canencia",
       "description": "Personal: Relación puestos trabajo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/20/BOCM-20250820-41.PDF"
