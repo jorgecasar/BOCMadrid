@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcorcón",
-      "description": "Organización y funcionamiento: Composición Junta Gobierno",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/20/BOCM-20250820-37.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Brunete",
       "description": "Organización y funcionamiento: Reglamento orgánico",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/20/BOCM-20250820-38.PDF"
