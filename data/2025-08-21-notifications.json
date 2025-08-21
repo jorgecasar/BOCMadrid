@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Complutense de Madrid",
-      "description": "Resolución de 7 de agosto de 2025, de la Universidad Complutense de Madrid, por la que se nombran funcionarios de los Cuerpos Docentes Universitarios",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/21/BOCM-20250821-7.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Autónoma de Madrid",
       "description": "Resolución de 6 de agosto de 2025, del Rectorado de la Universidad Autónoma de Madrid, por la que se publica la oferta de empleo público para el ejercicio 2025, correspondiente al Personal Técnico, de Gestión y de Administración y Servicios",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/21/BOCM-20250821-8.PDF"
