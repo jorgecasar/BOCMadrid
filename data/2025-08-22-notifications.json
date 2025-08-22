@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "El Escorial",
-      "description": "Personal: Nombramiento funcionarios carrera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/22/BOCM-20250822-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Los Santos de la Humosa",
       "description": "Régimen económico: Presupuesto general",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/22/BOCM-20250822-32.PDF"
