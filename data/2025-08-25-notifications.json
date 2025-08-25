@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Extracto de la Orden 3639/2025, del Consejero de Educación, Ciencia y Universidades, por la que se redistribuyen las cuantías inicialmente autorizadas en la Orden 5800/2024, de 13 de diciembre, por la que se aprueba la convocatoria de becas de excelencia académica, correspondiente al curso 2024-2025, para cursar estudios en las universidades y centros superiores de enseñanzas artísticas (turno estudiantes nuevo ingreso centros superiores enseñanzas artísticas)",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/25/BOCM-20250825-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Extracto de la Orden 3639/2025, del Consejero de Educación, Ciencia y Universidades, por la que se redistribuyen las cuantías inicialmente autorizadas en la Orden 5800/2024, de 13 de diciembre, del Consejero de Educación, Ciencia y Universidades, por la que se aprueba la convocatoria de becas de excelencia académica, correspondiente al curso 2024-2025, para cursar estudios en las universidades y centros superiores de enseñanzas artísticas de la Comunidad de Madrid (Turno de estudiantes de nuevo ingreso en la Universidad)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/25/BOCM-20250825-20.PDF"
     }
