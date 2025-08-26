@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Sanidad",
-      "description": "Orden 1388/2025, de 12 de agosto, de la Consejería de Sanidad, por la que se renueva la autorización de funcionamiento de centros sanitarios adscritos a la Consejería de Sanidad de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/26/BOCM-20250826-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Resolución de 12 de agosto de 2025, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato de “Acuerdo marco para la contratación de los servicios de redacción del proyecto y dirección facultativa y coordinación de seguridad y salud de las obras en varios edificios propiedad de Planifica Madrid”, mediante convocatoria pública, en la empresa pública Planifica Madrid, Proyectos y Obras, M. P., S. A.",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/26/BOCM-20250826-15.PDF"
