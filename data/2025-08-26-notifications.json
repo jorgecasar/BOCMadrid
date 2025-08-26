@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Orden de 7 de agosto de 2025, de la Consejería de Economía, Hacienda y Empleo, por la que se crea la oficina delegada del Registro de Personal de la Comunidad de Madrid en la Agencia Madrileña de Atención Social",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/26/BOCM-20250826-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 1388/2025, de 12 de agosto, de la Consejería de Sanidad, por la que se renueva la autorización de funcionamiento de centros sanitarios adscritos a la Consejería de Sanidad de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/26/BOCM-20250826-14.PDF"
