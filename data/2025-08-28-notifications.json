@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Valdemoro",
-      "description": "Personal: Nombramiento funcionario carrera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/28/BOCM-20250828-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Valdemoro",
       "description": "Personal: Nombramiento funcionarios carrera",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/28/BOCM-20250828-31.PDF"
     }
