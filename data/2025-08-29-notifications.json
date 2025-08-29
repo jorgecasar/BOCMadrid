@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcorcón",
-      "description": "Personal: Nombramiento",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Algete",
       "description": "Ofertas de empleo: Oferta empleo público",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-31.PDF"
