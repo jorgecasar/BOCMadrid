@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Decreto 66/2025, de 27 de agosto, del Consejo de Gobierno, por el que se nombra Presidente del Consejo Social de la Universidad Rey Juan Carlos a don Clemente González Soler",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-2.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Decreto 67/2025, de 27 de agosto, del Consejo de Gobierno, por el que se nombra Presidente del Consejo Social de la Universidad Politécnica de Madrid a don Juan Pedro Moreno Jubrías",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-3.PDF"
     }
