@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Meco",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-41.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Rivas-Vaciamadrid",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-42.PDF"
