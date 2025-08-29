@@ -1,0 +1,359 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 206,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2025/08/29/BOCM-20250829206.PDF",
+      "total": 43,
+      "items": {
+        "Comunidad de Madrid": 28,
+        "Disposiciones y Anuncios del Estado": 1,
+        "Administración Local Ayuntamientos": 14
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Decreto 65/2025, de 27 de agosto, del Consejo de Gobierno, por el que se regulan los Premios de Cultura de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Decreto 66/2025, de 27 de agosto, del Consejo de Gobierno, por el que se nombra Presidente del Consejo Social de la Universidad Rey Juan Carlos a don Clemente González Soler",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Decreto 67/2025, de 27 de agosto, del Consejo de Gobierno, por el que se nombra Presidente del Consejo Social de la Universidad Politécnica de Madrid a don Juan Pedro Moreno Jubrías",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Acuerdo de 27 de agosto de 2025, del Consejo de Gobierno, por el que se cesa a doña Cristina Brändle Cerqueira y se nombra, en su sustitución, a doña María Isabel Sánchez Segura, como vocal del Consejo Social de la Universidad Carlos III de Madrid, en representación de la comunidad universitaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Acuerdo de 27 de agosto de 2025, del Consejo de Gobierno, por el que se cesa a don Daniel Jaque García y se nombra, en su sustitución, a doña María Ángeles Martín Cabrejas como vocal del Consejo de Ciencia y Tecnología de la Comunidad de Madrid, en representación de la Universidad Autónoma de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Acuerdo de 27 de agosto de 2025, del Consejo de Gobierno, por el que se nombra a don Mariano Méndez Suárez como vocal del Consejo de Ciencia y Tecnología de la Comunidad de Madrid, en representación de ESIC Universidad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Acuerdo de 27 de agosto de 2025, del Consejo de Gobierno, por el que se cesa a vocales de los Consejos Sociales de la Universidad Autónoma de Madrid, Universidad Politécnica de Madrid y Universidad Rey Juan Carlos, en representación de los intereses sociales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Resolución de 19 de agosto de 2025, de la Dirección General de Recursos Humanos, por la que se nombra funcionarios en prácticas y se relaciona a los aspirantes exentos, con aplazamiento y con renuncia a la realización de la fase de prácticas de los candidatos seleccionados en los procedimientos selectivos a Cuerpos Docentes convocados por Resolución de 20 de febrero de 2025",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-8.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Orden 1471/2025, de 19 de agosto, de la Consejera de Sanidad, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-9.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Anuncio de 20 de agosto de 2025 de la convocatoria  de la Fundación para la Investigación Biomédica del Hospital Universitario “La Paz” (FIBHULP), por la que se convocan 5 plazas de contratos indefinidos con cargo a la tasa de reposición correspondiente al 2025",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-10.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Anuncio de 19 de agosto de 2025, de Canal de Isabel II, S. A., M. P., por el que hace pública la convocatoria de procesos selectivos para la cobertura de puestos indefinidos por turno libre de 2 plazas",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-11.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Digitalización",
+      "description": "Orden 235/2025, de 13 de agosto, de la Consejería de Digitalización, por la que se resuelve la convocatoria de subvenciones dirigidas al desarrollo de casos de uso Blockchain, dentro del programa de redes territoriales de especialización tecnológica en el marco del componente 13 inversión 1 del Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea-Next Generation EU",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-12.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Orden 2637/2025, de 17 de julio, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria 2024 de ayudas para la realización de doctorados industriales en la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-13.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Orden 3664/2025, de 18 de agosto, del Consejero de Educación, Ciencia y Universidades, por la que se establece el procedimiento para la realización del prácticum de los alumnos de los grados de Magisterio, Pedagogía y Psicología, Máster Universitario en Formación del Profesorado de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanza de Idiomas y de la formación equivalente, durante el curso 2025-2026 en centros educativos no universitarios de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-14.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Orden 3795/2025, de 19 de agosto, del Consejero de Educación, Ciencia y Universidades, por la que se convocan para el año 2025 los premios “Fermina Orduña”, de la Comunidad de Madrid, a la innovación tecnológica",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-15.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Convenio de 13 de agosto de 2025, para la gestión del servicio de distribución con renovación de las infraestructuras internas de la Urbanización “El Verdugal”, entre Canal de Isabel II, Canal de Isabel II, Sociedad Anónima, M.P., el Ayuntamiento de Garganta de los Montes y la Urbanización “El Verdugal”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-16.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 18 de agosto de 2025, de la Secretaría General Técnica de la Consejería de Economía, Hacienda y Empleo, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la formalización del contrato titulado «Programa de formación online en competencias digitales dirigidas al sector turístico en el marco del componente 19 “Plan Nacional de Competencias Digitales (Digital Skills)”» con cargo al Plan de Recuperación, Transformación y Resiliencia del Gobierno de España, financiado por la Unión Europea-Next Generation EU",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-17.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Adenda de 17 de julio de 2025, a la segunda prórroga al Convenio de Colaboración entre el Colegio de Registradores de la Propiedad y Mercantiles de España y la Consejería de Economía, Hacienda y Empleo de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-18.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 12 de agosto de 2025, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato 2025-0-17 para el «Suministro de prótesis valvulares implantables con balón para el Hospital Universitario “12 de Octubre”». P. A. 2025-0-17",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-19.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 14 de agosto de 2025, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización de la modificación del contrato, para el «Suministro de dispositivo intracorpóreo de asistencia ventricular izquierda para el Hospital Universitario “12 de Octubre”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-20.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 17 de julio de 2025, de la Dirección General de Transición Energética y Economía Circular, sobre autorización administrativa previa y aprobación del proyecto de ejecución para la ampliación de la subestación denominada STR Navalagamella (ISE81) ubicada en la CTRA. M-521 Navalagamella-Quijorna, km 9,300 en el término municipal de Navalagamella, solicitada por I-DE Redes Eléctricas Inteligentes, S. A. U. Expediente: 2022P1089 - 14-0141-01089.7/2022",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-21.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 29 de julio de 2025, de la Dirección General de Transición Energética y Economía Circular por la que se somete a información pública la solicitud de autorización administrativa y aprobación del proyecto para la instalación de la subestación de maniobra y reparto SMR Socimi-Hilanderas en calle Fundidores, número 40, en el término municipal de Getafe, solicitada por I-DE Redes Eléctricas Inteligentes, S. A. U.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-22.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 6 de agosto de 2025, de la Dirección General de Transición Energética y Economía Circular, por la que se somete a información pública la solicitud de autorización administrativa y aprobación del proyecto para la instalación de 2 líneas de 132 kV en línea 132 kV de ST Melancólicos a ST Pozuelo, en los términos municipales de Madrid y Pozuelo de Alarcón, solicitada por I-DE Redes Eléctricas Inteligentes, S. A. U.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-23.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Resolución de 8 de agosto de 2025, de la Gerencia de la Agencia Madrileña de Atención Social, por la que se hace público el anuncio de información previa del contrato denominado: “Acuerdo marco al que habrán de ajustarse los contratos de obras de conservación, mantenimiento, reforma y reparación simple que no requieren proyecto (20 lotes)”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-24.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "description": "Resolución de 18 de agosto de 2025, de la Gerencia de la Agencia Madrileña de Atención Social, por la que se hace público el anuncio de información previa del contrato denominado: “Servicio de mantenimiento integral de los equipos y sistemas de protección contra incendios en 107 centros adscritos a la Agencia Madrileña de Atención Social” (2 lotes)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-25.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 8 de agosto de 2025, entre la Comunidad de Madrid, a través de la Consejería de Cultura, Turismo y Deporte, y la Federación Madrileña de Balonmano, para el desarrollo del Programa “Activa tu capacidad” 2025-2026",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-26.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 8 de agosto de 2025, entre la Comunidad de Madrid a través de la Consejería de Cultura, Turismo y Deporte, y la Federación Madrileña de Deportes de Discapacitados Físicos, para el desarrollo del Programa “Activa tu capacidad” 2025-2026",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-27.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Convenio de 8 de agosto de 2025, entre la Comunidad de Madrid, a través de la Consejería de Cultura, Turismo y Deporte, y la Federación Madrileña de Hockey, para el desarrollo del Programa “Activa tu capacidad” 2025-2026",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-28.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Disposiciones y Anuncios del Estado",
+      "description": "Ministerio de Transportes y Movilidad Sostenible. Demarcación de Carreteras del Estado en Madrid. Notificación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-29.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcorcón",
+      "description": "Personal: Nombramiento",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-30.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Algete",
+      "description": "Ofertas de empleo: Oferta empleo público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-31.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Aranjuez",
+      "description": "Régimen económico: Padrones fiscales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-32.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Arroyomolinos",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-33.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Brunete",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-34.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Cadalso de los Vidrios",
+      "description": "Régimen económico: Padrones fiscales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-35.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Cadalso de los Vidrios",
+      "description": "Régimen económico: Padrones fiscales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-36.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Colmenarejo",
+      "description": "Régimen económico: Padrón fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-37.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Getafe",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-38.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Getafe",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-39.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Lozoya",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-40.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Meco",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-41.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Rivas-Vaciamadrid",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-42.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Soto del Real",
+      "description": "Organización y funcionamiento: Corrección de errores",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-43.PDF"
+    }
+  }
+]
