@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Decreto 65/2025, de 27 de agosto, del Consejo de Gobierno, por el que se regulan los Premios de Cultura de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Decreto 66/2025, de 27 de agosto, del Consejo de Gobierno, por el que se nombra Presidente del Consejo Social de la Universidad Rey Juan Carlos a don Clemente González Soler",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-2.PDF"
