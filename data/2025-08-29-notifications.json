@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Decreto 67/2025, de 27 de agosto, del Consejo de Gobierno, por el que se nombra Presidente del Consejo Social de la Universidad Politécnica de Madrid a don Juan Pedro Moreno Jubrías",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-3.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Acuerdo de 27 de agosto de 2025, del Consejo de Gobierno, por el que se cesa a doña Cristina Brändle Cerqueira y se nombra, en su sustitución, a doña María Isabel Sánchez Segura, como vocal del Consejo Social de la Universidad Carlos III de Madrid, en representación de la comunidad universitaria",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/29/BOCM-20250829-4.PDF"
     }
