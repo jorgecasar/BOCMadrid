@@ -1,17 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 207,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2025/08/30/BOCM-20250830207.PDF",
-      "total": 4,
-      "items": {
-        "Comunidad de Madrid": 3,
-        "Administración Local Ayuntamientos": 1
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
