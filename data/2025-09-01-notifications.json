@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Extracto de la Orden de la Consejería de Presidencia, Justicia y Administración Local, por la que se convoca la concesión de subvenciones destinadas a asociaciones, centros y entidades sin ánimo de lucro, para la atención y apoyo a la emigración madrileña en situación de precariedad para el año 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/01/BOCM-20250901-15.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Extracto de la Orden de la Consejería de Presidencia, Justicia y Administración Local, por la que se convoca el certamen literario “Cuéntame la UE” para el año 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/01/BOCM-20250901-16.PDF"
     }
