@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Getafe",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/01/BOCM-20250901-54.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Getafe",
       "description": "Ofertas de empleo: Oferta empleo público",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/01/BOCM-20250901-55.PDF"
     }
