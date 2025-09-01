@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 14 de julio de 2025, de la Universidad de Alcalá, por la que se anuncian las convocatorias de concursos para la provisión de plazas de Profesorado Permanente Laboral, Profesorado Asociado y Profesorado Contratado Temporal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/01/BOCM-20250901-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
       "description": "Extracto de la Orden de la Consejería de Presidencia, Justicia y Administración Local, por la que se convoca la concesión de subvenciones destinadas a asociaciones, centros y entidades sin ánimo de lucro, para la atención y apoyo a la emigración madrileña en situación de precariedad para el año 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/01/BOCM-20250901-15.PDF"
