@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Los Santos de la Humosa",
-      "description": "Personal: Relación puestos trabajo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/01/BOCM-20250901-58.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Parla",
       "description": "Ofertas de empleo: Proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/01/BOCM-20250901-59.PDF"
