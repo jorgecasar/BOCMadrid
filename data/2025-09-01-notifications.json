@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 23 de julio de 2025, de la Universidad Autónoma de Madrid, por la que se nombran funcionarias de carrera de la Escala Administrativa de esta Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/01/BOCM-20250901-11.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 17 de julio de 2025, de la Universidad Politécnica de Madrid, por la que se resuelve parcialmente, la convocatoria para la cobertura de diversos puestos de trabajo, por el procedimiento de Libre Designación, anunciada por Resolución de 5 de junio de 2025 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 17 de junio de 2025)",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/01/BOCM-20250901-12.PDF"
