@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Rey Juan Carlos",
-      "description": "Extracto de la Resolución de 28 de julio de 2025, por la que se convocan ayudas al estudio para personas refugiadas en la Universidad Rey Juan Carlos",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/01/BOCM-20250901-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Rey Juan Carlos",
       "description": "Extracto de la Resolución de 30 de julio de 2025, del Rector Magfco. de la Universidad Rey Juan Carlos, por la que se aprueba y se hace pública la convocatoria, y sus correspondientes bases reguladoras de las ayudas KA171 a la movilidad internacional de estudiantes financiada con fondos de política exterior para realizar estudios en el curso académico 2025/2026",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/01/BOCM-20250901-25.PDF"
     }
