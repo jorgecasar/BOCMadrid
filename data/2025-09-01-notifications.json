@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Collado Mediano",
-      "description": "Otros anuncios: Notificación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/01/BOCM-20250901-51.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Cubas de la Sagra",
       "description": "Ofertas de empleo: Oferta empleo público",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/01/BOCM-20250901-52.PDF"
