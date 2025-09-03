@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Orden de 23 de mayo de 2025, de la Consejería de Presidencia, Justicia y Administración Local, por la que se desarrolla el Decreto 6/2017, de 31 de enero, del Consejo de Gobierno, por el que se regula la organización y funcionamiento del Registro de Entidades Locales de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/03/BOCM-20250903-5.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 1876/2025, de 1 de agosto, del Consejero de Cultura, Turismo y Deporte, por la que se conceden ayudas a municipios de la Comunidad de Madrid o sus entes deportivos municipales por la organización o participación en actividades del deporte infantil en la temporada 2023-2024",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/03/BOCM-20250903-6.PDF"
