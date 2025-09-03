@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Madrid",
-      "description": "Urbanismo: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Plan especial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/03/BOCM-20250903-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Colmenar Viejo",
       "description": "Otros anuncios: Notificación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/03/BOCM-20250903-25.PDF"
