@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Presidencia, Justicia y Administración Local",
-      "description": "Decreto 72/2025, de 3 de septiembre, del Consejo de Gobierno, por el que se resuelve la convocatoria para la provisión de varios puestos de letrado vocal de la Comisión Jurídica Asesora de la Comunidad de Madrid, aprobada mediante Orden de 6 de marzo de 2025, del Consejero de Presidencia, Justicia y Administración Local y se nombran Letrados Vocales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/04/BOCM-20250904-1.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 1486/2025, de 25 de agosto, de la Consejera de Sanidad, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en la Consejería de Sanidad, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/04/BOCM-20250904-2.PDF"
