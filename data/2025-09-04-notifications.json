@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Parla",
-      "description": "Régimen económico: Cuenta general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/04/BOCM-20250904-43.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Parla",
       "description": "Personal: Nombramiento funcionario carrera",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/04/BOCM-20250904-44.PDF"
     }
