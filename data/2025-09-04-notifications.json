@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Acuerdo de 27 de agosto de 2025, del Consejo de Gobierno, por el que se aprueba definitivamente la modificación puntual del Plan General de Ordenación Urbana de Madrid para la protección y mejora del uso residencial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/04/BOCM-20250904-10.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Orden 3322/2025, de 22 de agosto, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se regula la inscripción en el Programa Escolar de consumo de frutas, hortalizas y leche de la Unión Europea, para el curso 2025/2026, de los centros escolares de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/04/BOCM-20250904-11.PDF"
     }
