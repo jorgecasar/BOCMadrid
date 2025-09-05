@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Navalcarnero",
-      "description": "Personal: Nombramiento funcionario carrera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/05/BOCM-20250905-47.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Parla",
       "description": "Régimen económico: Padrón fiscal",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/05/BOCM-20250905-48.PDF"
