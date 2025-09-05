@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Galapagar",
-      "description": "Régimen económico: Ordenanza fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/05/BOCM-20250905-44.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Galapagar",
       "description": "Urbanismo: Convenio urbanístico",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/05/BOCM-20250905-45.PDF"
     }
