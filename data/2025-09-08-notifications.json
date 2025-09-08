@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Villanueva del Pardillo",
-      "description": "Personal: Nombramiento funcionario carrera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/08/BOCM-20250908-58.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Mancomunidad Intermunicipal del Sudeste de la Comunidad de Madrid (MISECAM)",
       "description": "Organización y funcionamiento: Estatutos Mancomunidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/08/BOCM-20250908-59.PDF"
