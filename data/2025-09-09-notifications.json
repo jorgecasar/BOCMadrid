@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Extracto de la Orden de 1 de septiembre de 2025, de la Consejería de Economía, Hacienda y Empleo, por la que se convocan subvenciones para la financiación de planes de formación dirigidos a la capacitación para el desarrollo de las funciones relacionadas con el diálogo social y la negociación colectiva promovidos por las organizaciones sindicales en el ámbito de la Comunidad de Madrid para el año 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/09/BOCM-20250909-4.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Extracto de la Orden de 1 de septiembre de 2025, de la Consejería de Economía, Hacienda y Empleo, por la que se convocan subvenciones para la financiación de planes de formación que comprendan únicamente actividades formativas dirigidas a la capacitación para el desarrollo de las funciones relacionadas con la negociación colectiva promovidos por organizaciones sindicales en el ámbito de la Comunidad de Madrid para el año 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/09/BOCM-20250909-5.PDF"
     }
