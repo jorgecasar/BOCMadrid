@@ -1,20 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 215,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2025/09/09/BOCM-20250909215.PDF",
-      "total": 41,
-      "items": {
-        "Comunidad de Madrid": 16,
-        "Disposiciones y Anuncios del Estado": 2,
-        "Administración Local Ayuntamientos": 21,
-        "Administración de Justicia": 1,
-        "Otros Anuncios": 1
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Presidencia, Justicia y Administración Local",
