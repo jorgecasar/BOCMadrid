@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcalá de Henares",
-      "description": "Urbanismo: Plan general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-37.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Alcorcón",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-38.PDF"
