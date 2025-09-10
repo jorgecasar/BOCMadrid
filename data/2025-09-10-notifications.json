@@ -1,0 +1,463 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 216,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2025/09/10/BOCM-20250910216.PDF",
+      "total": 58,
+      "items": {
+        "Comunidad de Madrid": 35,
+        "Administración Local Ayuntamientos": 21,
+        "Administración de Justicia": 2
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 7 de agosto de 2025, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Vivienda, Transportes e Infraestructuras, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 7 de agosto de 2025, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Familia, Juventud y Asuntos Sociales, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 7 de agosto de 2025, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Familia, Juventud y Asuntos Sociales, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 29 de agosto de 2025, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Economía, Hacienda y Empleo por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 27 de agosto de 2025, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden de la Consejera de Economía, Hacienda y Empleo, de 23 de mayo de 2025 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 5 de junio), para la provisión de un puesto de trabajo vacante en la Consejería de Educación, Ciencia y Universidades, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Orden 4077/2025, de 2 de septiembre, Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria aprobada por Orden 2571/2025, de 15 de julio, del Consejero de Educación, Ciencia y Universidades (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 24 de julio de 2025), para la provisión de un puesto de trabajo vacante en la Consejería de Educación, Ciencia y Universidades, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Orden de 29 de agosto de 2025, del Consejero de Vivienda, Transportes e Infraestructuras, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicha Consejería (Agencia de Vivienda Social) por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Orden 3427/2025, de 1 de septiembre, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Medio Ambiente, Agricultura e Interior (Agencia de Seguridad y Emergencias Madrid 112), por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-8.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Autónoma de Madrid",
+      "description": "Resolución de 1 de septiembre de 2025, de la Universidad Autónoma de Madrid, por la que se nombran funcionarias de carrera de la Escala de Gestión Administrativa con Idiomas de esta Universidad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-9.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Orden 3968/2025, de 22 de agosto, del Consejero de Educación, Ciencia y Universidades, por la que se autorizan enseñanzas en el Instituto de Educación Secundaria Eduardo Capa de Arganda del Rey, en el Instituto de Educación Secundaria Marcela de Ulloa de Colmenar de Oreja y en el Instituto de Educación Secundaria Gustavo Adolfo Bécquer de Moraleja de Enmedio, a partir del curso escolar 2025-2026",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-10.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Orden 3969/2025, de 28 de agosto, del Consejero de Educación, Ciencia y Universidades, por la que se dispone la puesta en funcionamiento de tres institutos de Educación Secundaria en los municipios de Arganda del Rey, Colmenar de Oreja y Moraleja de Enmedio, a partir del curso escolar 2025-2026",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-11.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Digitalización",
+      "description": "Resolución de 28 de agosto de 2025, de la Secretaría General Técnica de la Consejería de Digitalización, por la que se dispone la publicación en el “Diario Oficial de la Unión Europa”, en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID y en el “perfil del contratante” del Portal de Contratación de la Comunidad de Madrid, de la formalización del contrato de «Creación de asistente virtual con inteligencia artificial (IA) que proporcione información de un municipio, en el marco de la realización de “test before invest” dentro de los servicios de digitalización en favor de entidades del sector público del programa Europa Digital para 33 municipios de la Comunidad de Madrid con cargo parcial al Plan de Recuperación, Transformación y Resiliencia del Gobierno de España –financiado por la Unión EuropeaNextGenerationEU (c13.i3.p02.s13)»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-12.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Resolución de 21 de agosto de 2025, de la Dirección General de Infraestructuras y Servicios de la Consejería de Educación, Ciencia y Universidades, por la que se dispone la publicación en el “perfil del contratante” de la formalización del «Refuerzo de la red de infraestructuras educativas de la Comunidad de Madrid mediante la “Construcción de un nuevo IES (línea 6) en el barrio del Ensanche de Vallecas, de Madrid”, “Construcción de un nuevo IES (línea 6) en el barrio de El Cañaveral, de Madrid” y “Construcción de un nuevo IES (línea 6) en el barrio de Valdebebas, de Madrid”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-13.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Resolución de 28 de agosto de 2025, de la Secretaria General Técnica de la Consejería de Educación, Ciencia y Universidades, por la que se dispone la publicación de la Formalización del contrato del «Servicio para la gestión de la Escuela Infantil “Adivinanzas” de Alcorcón»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-14.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Convenio de 30 de julio de 2025, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y Móstoles Industrial, S. A. (MOINSA), para la realización de prácticas extracurriculares remuneradas de los alumnos de la Escuela Superior de Diseño",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-15.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Convenio de 31 de julio de 2025, entre la Comunidad de Madrid (Consejería de Educación, Ciencia y Universidades) y Naturcode Smart Label, S.L., para la realización de prácticas extracurriculares remuneradas de los alumnos de la Escuela Superior de Diseño",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-16.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Anuncio de 5 de septiembre de 2025, de adjudicación del contrato titulado “Obras de implantación de ascensores y modernización en la estación de Alto de Extremadura de Metro de Madrid”. (Expediente 6012500060)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-17.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Anuncio de 5 de septiembre de 2025, de adjudicación del contrato titulado “Servicio de mantenimiento integral de la superestructura de vía y drenaje de Metro de Madrid, S. A.” (Expediente 6012500141)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-18.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Anuncio de 5 de septiembre de 2025, de adjudicación del contrato titulado “Suministro de repuestos de inmovilizado en condiciones especialmente ventajosas con el proveedor Hitachi Rail España, S. L. U., para Metro de Madrid” (Expediente 6012500162)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-19.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 22 de julio de 2025, del Director General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se emplaza a los interesados en el recurso contencioso administrativo, procedimiento abreviado número 233/2024, a fin de que puedan personarse en autos, si a su derecho conviniere",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-20.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 22 de julio de 2025, del Director General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se emplaza a los interesados en el recurso contencioso administrativo, procedimiento abreviado número 84/2025, a fin de que puedan personarse en autos, si a su derecho conviniere",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-21.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 5 de agosto de 2025, del Director General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se emplaza a los interesados en el recurso contencioso administrativo, procedimiento abreviado número 428/2024, a fin de que puedan personarse en autos, si a su derecho conviniere",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-22.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 27 de agosto de 2025, del Director General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se emplaza a los interesados en el recurso contencioso-administrativo, procedimiento ordinario número 540/2025, a fin de que puedan personarse en autos, si a su derecho conviniere",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-23.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 27 de agosto de 2025, de la Dirección-Gerencia del SUMMA 112, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato SUMMA PA/SU/01/25 denominado “Suministro de dos vehículos asistenciales tipo UVI móvil banalizados adscritos a la Gerencia del SUMMA 112”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-24.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 27 de agosto de 2025, de la Dirección-Gerencia del Hospital Universitario “12 de octubre”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización de la segunda prórroga del contrato de «Suministro de colistimetato de sodio con destino al Servicio de Farmacia del Hospital Universitario “12 de octubre”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-25.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 29 de agosto de 2025, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización de la prórroga del contrato de suministro de reactivos y material necesario para determinación de paneles farmacológicos y metabólicos por HPLC-MS/MS en el Servicio de Análisis Clínicos-Bioquímica del Hospital Universitario “12 de Octubre”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-26.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 27 de agosto de 2025, de la Dirección-Gerencia del Hospital Universitario de “La Princesa”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización de prórroga del contrato de suministro de Fibrobroncoscopios desechables, para el Hospital Universitario de “La Princesa” de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-27.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 28 de agosto de 2025, del Director-Gerente del Hospital Clínico “San Carlos” de Madrid, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del adelanto de la primera prórroga del contrato del PA 2023-0-014, «Suministro de dispositivo de asistencia ventricular izquierda percutánea y del equipamiento en cesión necesario para la realización de la técnica, para el Servicio de Cardiología del Hospital Clínico “San Carlos”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-28.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 28 de agosto de 2025, del Director-Gerente del Hospital Clínico “San Carlos” de Madrid, dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización de la primera prórroga del contrato del PA 2023-0-038 «Suministro de dispositivos de cierre percutáneo de orejuela izquierda de morfologías variadas, con destino a la unidad de hemodinámica del Hospital Clínico “San Carlos” de Madrid»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-29.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 28 de agosto de 2025, del Director-Gerente del Hospital Clínico “San Carlos” de Madrid, dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización de la primera prórroga del contrato del PNSP 2023-1-040 «Suministro de Sistemas de Válvulas Bicavales Transcatéter Tricvalve® con destino al Servicio de Cardiología del Hospital Clínico “San Carlos” de Madrid»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-30.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 18 de julio de 2025, de la Dirección General de Transición Energética y Economía Circular por la que se somete a información pública la solicitud de autorización administrativa y aprobación del proyecto para la instalación de 1 línea en calle Sauce, número 20, en el término municipal de Fuenlabrada, solicitada por Raloriz, S. L.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-31.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 22 de agosto de 2025, de la Directora General de Urbanismo, por la que se ordena la publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID del fallo de la sentencia firme número 519/2025, de 7 de mayo de 2025, dictada en los autos del Procedimiento Ordinario 161/2024, de la Sección Primera de la Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-32.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 29 de agosto de 2025, de la Secretaría General Técnica de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se dispone la publicación en los diarios y boletines oficiales correspondientes y en el “perfil del contratante” de la convocatoria del contrato de servicios de “Limpieza en diversas dependencias de la Consejería de Medio Ambiente, Agricultura e Interior”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-33.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Acuerdo 64/2025, de 24 de julio, de la Comisión de Urbanismo de Madrid, relativo a la aprobación definitiva del Plan Especial de Infraestructuras “PEI-PFOT 186: PSFV de Morena Solar, Postor Solar, Rececho Solar y líneas asociadas” (documento técnico diciembre 2024), en los términos municipales de Arganda del Rey y Campo Real, promovido por Morena Solar, S. L. U., Postor Solar, S. L. U., Rececho Solar, S. L. U.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-34.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Convenio de 28 de agosto de 2025, entre la Agencia de Seguridad y Emergencias Madrid 112 y Cruz Roja Española en la Comunidad de Madrid, para la colaboración en el sistema integrado de Protección Civil y Emergencias de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-35.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Régimen económico: Distrito de Fuencarral-El Pardo. Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-36.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcalá de Henares",
+      "description": "Urbanismo: Plan general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-37.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcorcón",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-38.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Boadilla del Monte",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-39.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Boadilla del Monte",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-40.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Campo Real",
+      "description": "Régimen económico: Ordenanza fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-41.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Chapinería",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-42.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "El Berrueco",
+      "description": "Organización y funcionamiento: Ordenanza",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-43.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "El Boalo",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-44.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "El Escorial",
+      "description": "Organización y funcionamiento: Delegación funciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-45.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Fuenlabrada",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-46.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Griñón",
+      "description": "Organización y funcionamiento: Delegación funciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-47.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Humanes de Madrid",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-48.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Majadahonda",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-49.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Navalcarnero",
+      "description": "Régimen económico: Padrones fiscales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-50.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Pinto",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-51.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Agustín del Guadalix",
+      "description": "Licencias: Licencia actividad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-52.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrelodones",
+      "description": "Régimen económico: Padrones fiscales",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-53.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villalbilla",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-54.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villanueva de la Cañada",
+      "description": "Otros anuncios: Reglamento condecoraciones y distinciones Policía Local",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-55.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villavieja del Lozoya",
+      "description": "Organización y funcionamiento: Ordenanza precios públicos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-56.PDF"
+    }
+  }
+]
