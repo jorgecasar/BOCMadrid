@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Alcorcón",
-      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-38.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Boadilla del Monte",
       "description": "Régimen económico: Extracto convocatoria subvenciones",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/10/BOCM-20250910-39.PDF"
