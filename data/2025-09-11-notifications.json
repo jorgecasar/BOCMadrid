@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 2 de septiembre de 2025, de la Universidad de Alcalá, por la que se nombra Profesora Titular de Universidad del Área de Conocimiento de “Filología Inglesa”, a doña Raquel Fernández Fernández",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/11/BOCM-20250911-14.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Carlos III",
       "description": "Resolución de 2 de septiembre de 2025, de la Universidad Carlos III de Madrid, por la que se anuncia la convocatoria de concurso público para la contratación de un Investigador/a Distinguido/a",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/11/BOCM-20250911-15.PDF"
