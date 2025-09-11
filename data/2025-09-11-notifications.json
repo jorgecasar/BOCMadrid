@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 1 de septiembre de 2025, de la Rectora de la Universidad Autónoma de Madrid, por la que se convoca un puesto de trabajo para su provisión por el sistema de Libre Designación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/11/BOCM-20250911-13.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad de Alcalá",
       "description": "Resolución de 2 de septiembre de 2025, de la Universidad de Alcalá, por la que se nombra Profesora Titular de Universidad del Área de Conocimiento de “Filología Inglesa”, a doña Raquel Fernández Fernández",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/11/BOCM-20250911-14.PDF"
