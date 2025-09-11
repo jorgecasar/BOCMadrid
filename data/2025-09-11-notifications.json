@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Humanes de Madrid",
-      "description": "Régimen económico: Padrones fiscales",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/11/BOCM-20250911-36.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Humanes de Madrid",
       "description": "Licencias: Licencias actividad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/11/BOCM-20250911-37.PDF"
     }
