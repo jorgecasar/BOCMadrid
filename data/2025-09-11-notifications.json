@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Guadarrama",
-      "description": "Personal: Nombramiento funcionarios carrera",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/11/BOCM-20250911-34.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Humanes de Madrid",
       "description": "Régimen económico: Licencia actividad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/11/BOCM-20250911-35.PDF"
