@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Carlos III",
-      "description": "Resolución de 2 de septiembre de 2025, de la Universidad Carlos III de Madrid, por la que se publica la Oferta de Empleo Público para el ejercicio 2025",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/12/BOCM-20250912-16.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Orden 3452/2025, de 1 de septiembre, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se modifican las líneas de subvención 11, 14, 15, 25, 35, 61, 65, 68 y 69 del Anexo I y se crea la línea 3 del Anexo V del Plan Estratégico de Subvenciones de la Consejería para el período 2024-2027, aprobado mediante Orden 396/2024, de 2 de febrero",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/12/BOCM-20250912-17.PDF"
