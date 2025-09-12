@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
-      "description": "Resolución 3510/2025, de 2 de septiembre, del Director-Gerente de la Agencia para la Vivienda Social, por la que se aprueba convocatoria pública para la provisión de un puesto de carrera de naturaleza laboral, por el sistema de selección objetiva, vacante en esta Agencia",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/12/BOCM-20250912-8.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 1512/2025, de 1 de septiembre, de la Consejera de Sanidad, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacantes en la Consejería de Sanidad, por el procedimiento de Libre Designación",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/12/BOCM-20250912-9.PDF"
