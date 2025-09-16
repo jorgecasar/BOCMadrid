@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 3522/2025, de 1 de agosto, del Consejero de Educación, Ciencia y Universidades, por la que se autoriza la implantación de enseñanzas de formación profesional en centros docentes públicos de la Comunidad de Madrid en los nuevos regímenes y modalidades establecidos en el Decreto 27/2025, de 21 de mayo, del Consejo de Gobierno, por el que se regula la ordenación y organización del Sistema de Formación Profesional de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/16/BOCM-20250916-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 4070/2025, de 4 de septiembre, de la Consejería de Educación, Ciencia y Universidades, por la que se establece para la Comunidad de Madrid el plan de estudios de las enseñanzas conducentes al título de Técnico Superior en Prevención de Riesgos Profesionales",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/16/BOCM-20250916-21.PDF"
     }
