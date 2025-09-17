@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 3521/2025, de 1 de agosto, del Consejero de Educación, Ciencia y Universidades por la que se autorizan enseñanzas de idiomas de régimen especial en Escuelas Oficiales de Idiomas de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/17/BOCM-20250917-43.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 4105/2025, de 3 de septiembre, del Consejero de Educación, Ciencia y Universidades, por la que se aprueba la ampliación de unidades de Primer Ciclo de Educación Infantil en la Casa de Niños “La Colmena” de Colmenar de Oreja",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/17/BOCM-20250917-44.PDF"
     }
