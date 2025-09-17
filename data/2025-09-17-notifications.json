@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Familia, Juventud y Asuntos Sociales",
-      "description": "Extracto de la Orden 1835/2025, de 19 de junio, de la Consejería de Familia, Juventud y Asuntos Sociales, por la que se convocan subvenciones a entidades sin ánimo de lucro para la realización de campos de voluntariado juvenil en la Comunidad de Madrid para el 2026",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/17/BOCM-20250917-50.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Orden 2114/2025, de 5 de septiembre, del Consejero de Cultura, Turismo y Deporte, por la que se cesa y nombra al Secretario del Consejo del Deporte de la Comunidad de Madrid",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/17/BOCM-20250917-51.PDF"
