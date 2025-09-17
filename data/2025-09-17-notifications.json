@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Cultura, Turismo y Deporte",
-      "description": "Orden 2114/2025, de 5 de septiembre, del Consejero de Cultura, Turismo y Deporte, por la que se cesa y nombra al Secretario del Consejo del Deporte de la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/17/BOCM-20250917-51.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Digitalización",
       "description": "Resolución de 28 de agosto de 2025, de la Consejera-Delegada de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización del contrato titulado “Servicios operación extendida ecosistema Formadrid”",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/17/BOCM-20250917-52.PDF"
