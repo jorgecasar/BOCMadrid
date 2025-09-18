@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Rey Juan Carlos",
-      "description": "Resolución de 9 de septiembre de 2025, de la Universidad Rey Juan Carlos, por la que se nombran Catedráticos de Universidad",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/18/BOCM-20250918-24.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Economía, Hacienda y Empleo",
       "description": "Acuerdo de 10 de septiembre de 2025, del Consejo de Gobierno, por el que se aprueban las normas reguladoras y se establece el procedimiento de concesión directa de las subvenciones para la financiación de acciones de formación con compromiso de contratación de los trabajadores desempleados",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/18/BOCM-20250918-25.PDF"
