@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Las Rozas de Madrid",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/18/BOCM-20250918-47.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Las Rozas de Madrid",
       "description": "Personal: Nombramiento funcionario carrera",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/18/BOCM-20250918-48.PDF"
     }
