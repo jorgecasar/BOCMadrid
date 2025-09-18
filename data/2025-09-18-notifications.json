@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Las Rozas de Madrid",
-      "description": "Urbanismo: Plan especial",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/18/BOCM-20250918-49.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Las Rozas de Madrid",
       "description": "Otros anuncios: Convocatoria autorización demanial",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/18/BOCM-20250918-50.PDF"
     }
