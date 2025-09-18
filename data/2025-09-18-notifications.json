@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Carlos III",
-      "description": "Resolución de 8 de septiembre de 2025, de la Universidad Carlos III de Madrid, por la que se anuncia la publicación de la convocatoria de proceso selectivo, por el sistema general de acceso libre y turno de promoción interna por concurso-oposición, para el ingreso en la Escala de Gestión de Sistemas e Informática de la Universidad Carlos III de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/18/BOCM-20250918-22.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Carlos III",
       "description": "Resolución de 16 de septiembre de 2025, de la Universidad Carlos III de Madrid, por la que se anuncia convocatoria de concurso específico de méritos para la provisión de tres puestos de trabajo de personal funcionario Técnico, de Gestión y de Administración y Servicios adscrito a los Subgrupos A1 y A2 en esta Universidad",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/18/BOCM-20250918-23.PDF"
     }
