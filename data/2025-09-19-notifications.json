@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "El Álamo",
-      "description": "Urbanismo: Notificación",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/19/BOCM-20250919-52.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "El Molar",
       "description": "Organización y funcionamiento: Ordenanza espectáculos taurinos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/19/BOCM-20250919-53.PDF"
