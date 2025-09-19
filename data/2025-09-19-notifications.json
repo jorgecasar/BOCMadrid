@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Algete",
-      "description": "Ofertas de empleo: Proceso selectivo",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/19/BOCM-20250919-46.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Algete",
       "description": "Personal: Nombramiento",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/19/BOCM-20250919-47.PDF"
     }
