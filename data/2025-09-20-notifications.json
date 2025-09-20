@@ -1,16 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 225,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2025/09/20/BOCM-20250920225.PDF",
-      "total": 14,
-      "items": {
-        "Comunidad de Madrid": 14
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
