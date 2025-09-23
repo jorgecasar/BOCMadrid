@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Resolución de 11 de septiembre de 2025, de la Universidad Autónoma de Madrid, por la que se convocan plazas de Cuerpos de Personal Docente e Investigador funcionario, para su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/23/BOCM-20250923-19.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Cultura, Turismo y Deporte",
       "description": "Resolución de 10 de septiembre de 2025, de la Directora General de Turismo y Hostelería, por la que se hacen públicas las subvenciones concedidas en el tercer trimestre del año 2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/23/BOCM-20250923-20.PDF"
