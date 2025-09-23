@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Universidad Complutense de Madrid",
-      "description": "Extracto de la Resolución de 8 de septiembre de 2025, de la Universidad Complutense de Madrid, por la que se convocan las Becas “Ana María Lajusticia”, para cursar estudios oficiales de máster universitario en la Facultad de Ciencias Químicas",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/23/BOCM-20250923-21.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Universidad Complutense de Madrid",
       "description": "Extracto de la Resolución de 11 de septiembre de 2025, de la Universidad Complutense de Madrid, por la que se convocan ayudas adicionales para estudiantes residentes en colegios mayores propios de la UCM matriculados en estudios de grado y máster en la Universidad Complutense en el curso 2024-2025",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/23/BOCM-20250923-22.PDF"
     }
