@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Corrección de errores del Decreto 67/2025, de 27 de agosto, del Consejo de Gobierno, por el que se nombra Presidente del Consejo Social de la Universidad Politécnica de Madrid a don Juan Pedro Moreno Jubrías",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/24/BOCM-20250924-20.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 4315/2025, de 12 de septiembre, del Consejero de Educación, Ciencia y Universidades, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacante en la Consejería de Educación, Ciencia y Universidades por el procedimiento de Concurso de Méritos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/24/BOCM-20250924-21.PDF"
     }
