@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
-      "description": "Orden 4168/2025, de 10 de septiembre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria de becas de excelencia académica para cursar estudios en las Universidades y Centros Superiores de Enseñanzas Artísticas de la Comunidad de Madrid durante el curso 2024-2025 (turno de estudiantes que ya cursan estudios) y se dispone un gasto de 4.389.000 euros para tal fin",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/24/BOCM-20250924-33.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 4169/2025, de 10 de septiembre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria de becas de excelencia académica para cursar estudios en las Universidades y Centros Superiores de Enseñanzas Artísticas de la Comunidad de Madrid durante el curso 2024-2025 (turno de estudiantes que inician estudios) y se dispone un gasto de 2.362.500 euros para tal fin",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/24/BOCM-20250924-34.PDF"
     }
