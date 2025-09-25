@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Aranjuez",
-      "description": "Régimen económico: Modificación presupuestaria",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/25/BOCM-20250925-39.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Campo Real",
       "description": "Ofertas de empleo: Convocatoria proceso selectivo",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/25/BOCM-20250925-40.PDF"
