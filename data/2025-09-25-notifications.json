@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Consejería de Medio Ambiente, Agricultura e Interior",
-      "description": "Resolución de 22 de septiembre de 2025, de la Dirección General de Agricultura, Ganadería y Alimentación, por la que se establecen medidas sanitarias para prevenir la difusión de la influenza aviar en la Comunidad de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/25/BOCM-20250925-17.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
       "description": "Extracto de la Orden 3524/2025, de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se hace pública la declaración del crédito presupuestario disponible en el ejercicio 2025 para financiar las ayudas a los municipios de la Comunidad de Madrid, de población igual o inferior a 2.500 habitantes, para la recogida y transporte de los residuos domésticos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/25/BOCM-20250925-18.PDF"
     }
