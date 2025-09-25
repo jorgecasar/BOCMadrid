@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Consejería de Economía, Hacienda y Empleo",
-      "description": "Resolución de 8 de septiembre de 2025, de la Dirección General de Función Pública, por la que se aprueban las relaciones definitivas de personas aspirantes admitidas y excluidas en el proceso selectivo para el personal laboral fijo de las categorías profesionales de titulado superior especialista y Titulado Superior, Grupo I, Niveles 10 y 9, Área B, para la adquisición de la condición de personal funcionario de carrera del Cuerpo de Técnicos Superiores Medioambientales, de Administración Especial, Grupo A, Subgrupo A1, de la Comunidad de Madrid, se publica la relación definitiva de personas excluidas y se anuncia la celebración del primer ejercicio de la oposición",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/25/BOCM-20250925-6.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Resolución de 16 de septiembre de 2025, de la Dirección General de Recursos Humanos, por la que se convocan listas extraordinarias permanentemente abiertas en determinadas especialidades y cuerpos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/25/BOCM-20250925-7.PDF"
