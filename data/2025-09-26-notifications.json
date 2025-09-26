@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Disposiciones y Anuncios del Estado",
-      "description": "Delegación del Gobierno en Madrid. Dirección General de Política Energética y Minas. Autorización administrativa",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/26/BOCM-20250926-48.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Madrid",
       "description": "Régimen económico: O. A",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/26/BOCM-20250926-49.PDF"
