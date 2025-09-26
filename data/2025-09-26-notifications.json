@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Anuncio de 23 de junio de 2025, por el que se convocan las bases del procedimiento de selección para cubrir un puesto indefinido en la Fundación de la Universidad Autónoma de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/26/BOCM-20250926-18.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Sanidad",
       "description": "Orden 1342/2025, de 12 de septiembre, de la Consejería de Sanidad, por la que se resuelve la convocatoria para el año 2025 de subvenciones destinadas a entidades sin ánimo de lucro de la Comunidad de Madrid, dirigidas a la financiación de proyectos para la asistencia sociosanitaria de las personas afectadas por el VIH/SIDA",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/26/BOCM-20250926-19.PDF"
