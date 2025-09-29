@@ -1,18 +1,5 @@
 [
   {
-    "name": "summary",
-    "params": {
-      "number": 232,
-      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2025/09/29/BOCM-20250929232.PDF",
-      "total": 49,
-      "items": {
-        "Comunidad de Madrid": 24,
-        "Administración Local Ayuntamientos": 23,
-        "Administración de Justicia": 2
-      }
-    }
-  },
-  {
     "name": "announcement",
     "params": {
       "title": "Presidencia de La Comunidad",
