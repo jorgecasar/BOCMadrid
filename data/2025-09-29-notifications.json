@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "El Álamo",
-      "description": "Régimen económico: Cuenta general",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/29/BOCM-20250929-31.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "El Molar",
       "description": "Régimen económico: Ordenanza precios públicos",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/29/BOCM-20250929-32.PDF"
