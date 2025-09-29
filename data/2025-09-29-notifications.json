@@ -3,14 +3,6 @@
     "name": "announcement",
     "params": {
       "title": "Manzanares el Real",
-      "description": "Régimen económico: Ordenanza fiscal",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/29/BOCM-20250929-36.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
-      "title": "Manzanares el Real",
       "description": "Personal: Nombramiento funcionario carrera",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/29/BOCM-20250929-37.PDF"
     }
