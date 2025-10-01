@@ -1,0 +1,665 @@
+[
+  {
+    "name": "summary",
+    "params": {
+      "number": 234,
+      "summary": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2025/10/01/BOCM-20251001234.PDF",
+      "total": 85,
+      "items": {
+        "Comunidad de Madrid": 52,
+        "Disposiciones y Anuncios del Estado": 1,
+        "Administración Local Ayuntamientos": 28,
+        "Administración de Justicia": 1,
+        "Otros Anuncios": 3
+      }
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 18 de septiembre de 2025, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Educación, Ciencia y Universidades, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-1.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 18 de septiembre de 2025, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de dos puestos de trabajo vacantes en dicha Consejería (Organismo Autónomo Instituto Regional de Seguridad y Salud en el trabajo), de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-2.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 18 de septiembre de 2025, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Educación, Ciencia y Universidades, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-3.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 18 de septiembre de 2025, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Medio Ambiente, Agricultura e Interior, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-4.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 19 de septiembre de 2025, de la Consejera de Economía, Hacienda y Empleo, por la que se resuelve la convocatoria aprobada mediante Orden de 20 de mayo 2025 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 30 de mayo), para la provisión de un puesto de trabajo por el procedimiento de Concurso de Méritos en la Consejería de Economía, Hacienda y Empleo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-5.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 19 de septiembre de 2025, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en la Consejería de Economía, Hacienda y Empleo por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-6.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 19 de septiembre de 2025, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Economía, Hacienda y Empleo por el procedimiento de Concurso de Méritos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-7.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Orden de 19 de septiembre de 2025, de la Consejera de Economía, Hacienda y Empleo, por la que se resuelve la convocatoria aprobada mediante Orden de 19 de mayo de 2025 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 29 de mayo), para la provisión de un puesto de trabajo por el procedimiento de Concurso de Méritos en la Consejería de Economía, Hacienda y Empleo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-8.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 18 de septiembre de 2025, de la Dirección General de Función Pública, por la que se procede a la adjudicación de destinos correspondiente al proceso selectivo para el acceso, por el sistema general de acceso libre, a plazas de carácter laboral de la categoría profesional de Técnico de Cocina (Grupo III, Nivel 5, Área B) de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-9.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 18 de septiembre de 2025, de la Dirección General de Función Pública, por la que se procede a la adjudicación de destinos correspondiente a los procesos selectivos para el acceso, por el sistema general de acceso libre y por el de promoción interna, a plazas de carácter laboral de la categoría profesional de Titulado Superior, Especialidad Psicología General Sanitaria (Grupo I, Nivel 9, Área D) de la Comunidad de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-10.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 19 de septiembre de 2025, de la Dirección General de Recursos Humanos, por la que se resuelve la convocatoria aprobada por Orden de la Consejera de Economía, Hacienda y Empleo, de 23 de junio de 2025 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 4 de julio), para la provisión de un puesto de trabajo vacante en dicha Consejería, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-11.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Economía, Hacienda y Empleo",
+      "description": "Resolución de 29 de septiembre de 2025, de la Dirección General de Función Pública, por la que se aprueban las relaciones definitivas de personas aspirantes admitidas y excluidas en el proceso selectivo para el personal laboral fijo de las categorías profesionales de Titulado Superior Especialista y Titulado Superior, Grupo I, Niveles 9 y 10, Área B, para la adquisición de la condición de personal funcionario de carrera del Cuerpo de Técnicos Superiores Especialistas, Especialidad Ciencias Experimentales, de Administración Especial, Grupo A, Subgrupo A1, de la Comunidad de Madrid, se publica la relación definitiva de personas excluidas y se anuncia la celebración del primer ejercicio de la oposición",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-12.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Orden 4433/2025, de 19 de septiembre, del Consejero de Educación, Ciencia y Universidades, por la que se resuelve la convocatoria aprobada por Orden 3312/2025, de 24 de julio, del Consejero de Educación, Ciencia y Universidades (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 6 de agosto de 2025), para la provisión de un puesto de trabajo vacante en la Consejería de Educación, Ciencia y Universidades, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-13.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "description": "Orden de 19 de septiembre de 2025, del Consejero de Vivienda, Transportes e Infraestructuras, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Vivienda, Transportes e Infraestructuras, por el procedimiento de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-14.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 8 de septiembre de 2025, de la Dirección-Gerencia del Hospital General Universitario “Gregorio Marañón” del Servicio Madrileño de Salud, por la que se convoca un puesto de Jefe/a de Sección de Anestesiología y Reanimación (Cirugía Mayor Ambulatoria y Procedimientos Ambulatorios) en este centro asistencial para su cobertura mediante nombramiento provisional",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-15.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 10 de septiembre de 2025, de la Dirección-Gerencia del Hospital General Universitario “Gregorio Marañón” del Servicio Madrileño de Salud, por la que se convoca un puesto de Jefe/a de Sección de Alergología (Adultos) en este centro asistencial para su cobertura mediante nombramiento provisional",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-16.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 11 de septiembre de 2025, de la Dirección-Gerencia del Hospital General Universitario “Gregorio Marañón” del Servicio Madrileño de Salud, por la que se convoca un puesto de Jefe/a de Sección de Radiodiagnóstico (Imagen Cardiotorácica) en este centro asistencial para su cobertura mediante nombramiento provisional",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-17.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 11 de septiembre de 2025, de la Dirección-Gerencia del Hospital General Universitario “Gregorio Marañón” del Servicio Madrileño de Salud, por la que se convoca un puesto de Jefe/a de Sección de Radiodiagnóstico (Neurorradiología) en este centro asistencial para su cobertura mediante nombramiento provisional",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-18.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Corrección de errores de la Resolución de 13 de agosto de 2025, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre” del Servicio Madrileño de Salud, por la que se convoca un puesto de Jefe de Sección de Radiofísica Hospitalaria en este centro asistencial para su cobertura mediante nombramiento provisional",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-19.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 10 de septiembre de 2025, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre” del Servicio Madrileño de Salud, por la que se convoca un puesto de Jefe de Sección de Alergología en este centro asistencial para su cobertura mediante nombramiento provisional",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-20.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 10 de septiembre de 2025, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre” del Servicio Madrileño de Salud, por la que se convoca un puesto de Jefe/a de Servicio de Medicina Nuclear en este centro asistencial para su cobertura mediante nombramiento provisional",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-21.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 8 de septiembre de 2025, de la Dirección-Gerencia del Hospital Universitario de “La Princesa” del Servicio Madrileño de Salud, por la que se convoca un puesto de Jefe/a de Servicio de Urología en este centro asistencial para su cobertura mediante nombramiento provisional",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-22.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 16 de septiembre de 2025, de la Dirección-Gerencia del Hospital Universitario “Puerta de Hierro Majadahonda” del Servicio Madrileño de Salud, por la que se convoca un puesto de Jefe/a de Sección de Medicina Preventiva y Salud Pública en este centro asistencial para su cobertura mediante nombramiento provisional",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-23.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 17 de septiembre de 2025, de la Dirección-Gerencia del Hospital Universitario “Puerta de Hierro Majadahonda” del Servicio Madrileño de Salud, por la que se convoca un puesto de Jefe/a de Sección de Cardiología, especialidad de insuficiencia cardiaca avanzada, trasplante e hipertensión pulmonar en este centro asistencial para su cobertura mediante nombramiento provisional",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-24.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Autónoma de Madrid",
+      "description": "Resolución de 21 de septiembre de 2025, de la Rectora de la Universidad Autónoma de Madrid, por la que se resuelve la convocatoria pública para la provisión de un puesto de trabajo vacante mediante el sistema de Libre Designación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-25.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Autónoma de Madrid",
+      "description": "Anuncio de 17 de septiembre de 2025, por el que se convocan las bases del procedimiento de selección para cubrir un puesto indefinido en la Fundación de la Universidad Autónoma de Madrid",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-26.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Politécnica de Madrid",
+      "description": "Resolución de 8 de septiembre de 2025, de la Universidad Politécnica de Madrid, por la que se nombra personal funcionario de carrera en la Escala de Gestión Universitaria, Grupo A, Subgrupo A2, de la Universidad Politécnica de Madrid, por el sistema general de acceso libre y de sistema general de promoción interna",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-27.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad Politécnica de Madrid",
+      "description": "Resolución de 18 de septiembre de 2025, de la Universidad Politécnica de Madrid, por la que se resuelve la convocatoria para la cobertura de diversos puestos de trabajo, por el procedimiento de Libre Designación, anunciada por Resolución de 5 de junio de 2025 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 17 de junio de 2025)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-28.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad de Alcalá",
+      "description": "Resolución de 16 de septiembre de 2025, de la Universidad de Alcalá, por la que se nombra Profesor Titular de Universidad del Área de Conocimiento de “Ingeniería Eléctrica”, a don Carlos Santos Pérez",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-29.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Universidad de Alcalá",
+      "description": "Resolución de 16 de septiembre de 2025, de la Universidad de Alcalá, por la que se nombra Profesor Titular de Universidad del Área de Conocimiento de “Filología Inglesa”, a don Antonio Pareja Lora",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-30.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Orden 4306/2025, de 17 de septiembre, del Consejero de Educación, Ciencia y Universidades, por la que se acuerda la creación de la Facultad de Medicina y Ciencias de la Salud, así como el traslado de la impartición de determinadas enseñanzas universitarias oficiales de grado y máster gestionadas por la Facultad de Ciencias de la Vida y de la Naturaleza, en la Universidad Antonio de Nebrija",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-31.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Orden 4332/2025, de 14 de septiembre, del Consejero de Educación, Ciencia y Universidades, por la que se autoriza la implantación de enseñanzas universitarias oficiales de grado, máster y doctorado de las universidades de la Comunidad de Madrid y de los centros adscritos a las mismas para el curso académico 2025/2026",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-32.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Educación, Ciencia y Universidades",
+      "description": "Orden 4678/2025, de 29 de septiembre, del Consejero de Educación, Ciencia y Universidades, por la que se establecen los servicios mínimos esenciales en los centros docentes y educativos no universitarios públicos y privados sostenidos o no con fondos públicos dependientes de la Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid, con ocasión de la huelga convocada para el día 3 de octubre de 2025",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-33.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Digitalización",
+      "description": "Resolución de 18 de septiembre de 2025, de la Secretaría General Técnica de la Consejería de Digitalización, por la que se dispone la publicación, en el “Diario Oficial de la Unión Europea” y en el Boletín de la Comunidad de Madrid del anuncio de información previa del contrato denominado “Armonización, estandarización y disponibilidad de datos” con cargo al Plan de Recuperación, Transformación y Resiliencia del Gobierno de España, financiado por la Unión Europea-Next Generation EU (C18.I06.P02.S18)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-34.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Digitalización",
+      "description": "Convenio específico de 28 de agosto de 2025, entre la Comunidad de Madrid y el Ayuntamiento de Tres Cantos, para la puesta en marcha de un Centro de Emprendimiento Digital Aeroespacial, y para la realización de actuaciones asociadas al mismo, en el marco del Proyecto RETECH “Redes de Emprendimiento Digital”, Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea, Next Generation EU",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-35.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Digitalización",
+      "description": "Resolución de 17 de septiembre de 2025, de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se dispone la publicación de la rectificación en los boletines oficiales y en el “perfil del contratante” de la convocatoria de licitación por procedimiento abierto con pluralidad de criterios del contrato denominado “Servicio de unificación de los sistemas de recursos humanos y función pública de la Comunidad de Madrid sobre la plataforma de magma, soporte a la gestión y asistencia técnica experta en producto Cegid Peoplenet (2 lotes), cofinanciable al 40% con cargo al programa Feder 2021-2027 de la Comunidad de Madrid”, expediente ECON/000093/2025, y publicado en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID el 1 de septiembre de 2025, número 208",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-36.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Convenio de 12 de septiembre de 2025, entre la Comunidad de Madrid, a través de la Consejería de Sanidad, el Servicio Madrileño de Salud y la Fundación de la Real Federación de Fútbol de Madrid para mejorar la calidad de vida de pacientes menores de edad en hospitales del Servicio Madrileño de Salud, mediante actividades de acompañamiento a través del fútbol en espacios reducidos",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-37.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 17 de septiembre de 2025, del Director General de Recursos Humanos y Relaciones Laborales del Servicio Madrileño de Salud, por la que se emplaza a los interesados en el recurso contencioso-administrativo, procedimiento abreviado número 377/2024, a fin de que puedan personarse en autos, si a su derecho conviniere",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-38.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 19 de septiembre de 2025, del Consejero Delegado de la Agencia de Contratación Sanitaria de la Comunidad de Madrid, por la que se hace pública la convocatoria de licitación del contrato mixto PA SUM-23/2025 (A/SUM-020879/2025) denominado “Suministro de reactivos, accesorios y puesta a disposición del equipamiento necesario para la realización de pruebas de detección rápida para las determinaciones de hemoglobina glicasa (HbA1c) y perfil lipídico en sangre para programa prevecardio-AP con destino a los Centros Sanitarios de la Gerencia Asistencial de Atención Primaria del Servicio Madrileño de Salud”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-39.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 15 de septiembre de 2025, de la Gerencia del Hospital Universitario “La Paz”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la convocatoria del contrato de: «Servicios de transporte con conductor en el Hospital Universitario “La Paz”-Carlos III-Cantoblanco». P. A. 55/2025",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-40.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 18 de septiembre de 2025, de la Gerencia del Hospital Universitario “La Paz”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la convocatoria del contrato de: “Suministro de reactivos y fungibles y la cesión del equipamiento necesario para secuenciación Sanger. P. A. 2025-0-30”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-41.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 18 de septiembre de 2025, de la Gerencia del Hospital Universitario “La Paz”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la convocatoria del contrato de: “Suministro de material fungible y la cesión de equipamiento necesario para la correcta realización de tratamiento de hemodiálisis en pacientes pediátricos”. P. A. 2025-0-15",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-42.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 19 de septiembre de 2025, de la Gerencia del Hospital Universitario “La Paz”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la convocatoria del contrato de: “Suministro de material para fotoféresis y la cesión del equipamiento necesario”. P. A. 2025-0-38",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-43.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 17 de septiembre de 2025, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” de la formalización de la tercera prórroga del contrato de «Suministro de varios medicamentos de distribución exclusiva de la firma “Amgen, S. A.”, para uso de pacientes del Hospital, con destino al Servicio de Farmacia del Hospital Universitario “12 de Octubre”»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-44.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Sanidad",
+      "description": "Resolución de 19 de septiembre de 2025, de la Dirección-Gerencia del Hospital Universitario “Infanta Leonor”, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante” en Internet de la convocatoria del contrato titulado «Suministro e instalación de equipamiento integral para la ventilación mecánica y monitorización funcional pulmonar en pacientes críticos para la unidad de cuidados intensivos del Hospital Universitario “Infanta Leonor” (2 lotes)»",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-45.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 4 de septiembre de 2025, del Director General de Agricultura, Ganadería y Alimentación, por la que se anuncia la exposición pública relativa a la autorización de ocupación temporal de las vías pecuarias Cordel de la Senda Galiana, Colada de las Yeguas, Colada del Estrechillo, Colada del Camino del Puente Viejo, Vereda de Valdecabañas, Colada del Camino Viejo de Chinchón y Colada del Pico de la Fuente del Valle, en los términos municipales de Nuevo Baztán, Arganda del Rey y Morata de Tajuña, para instalación de la línea de evacuación de alta tensión de las PSFVs Galatea I y Galatea II, L/132 kV SET Galatea-SET Morata renovables, actuación promovida por Green Capital Development 56, S. L. U.",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-46.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 5 de septiembre de 2025, del Director General de Agricultura, Ganadería y Alimentación, por la que se anuncia la exposición pública relativa a la autorización de ocupación temporal de las vías pecuarias Cordel de Titulcia o de la Senda Galiana, Vereda de la Blanca. Tramo 1, Vereda de la Blanca. Tramo 2, Vereda del Molino Caído, Colada del Pico de la Fuente del Valle, Cañada de los Lanchares, Cordel de los Manchegos y otras, en los términos municipales de Aranjuez, Chinchón, Titulcia, Morata de Tajuña, Arganda del Rey, Colmenar de Oreja y Loeches, para ejecución de la Línea Promotores Fuencarral SE Borox Fuencarral-SE Colmenar Fuencarral-SE Envatios XXIV y la Línea de MT de la FV Los Pradillos PFOT 550, actuación promovida por Envatios Promoción XIX, S. L. Exp. Ocup. 1013/23",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-47.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 12 de septiembre de 2025, de la Directora General de Transición Energética y Economía Circular de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se acuerda hacer público el Informe de Impacto Ambiental del proyecto de “Planta Solar Fotovoltaica Valdemoro e Infraestructura de Evacuación”, en el término municipal de Valdemoro, promovido por Amazonia Fotovoltaica, S. L. (expediente: 26-EIA-00040.2/2024)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-48.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 12 de septiembre de 2025, de la Directora General de Transición Energética y Economía Circular de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se acuerda hacer público el Informe de Impacto Ambiental del proyecto de “Planta Solar Fotovoltaica Moraleja Solar e Infraestructura de Evacuación”, en los términos municipales de Arroyomolinos y Moraleja de Enmedio, promovido por Enrile PV, S. L. (Expediente: 26-EIA-00032.2/2024)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-49.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Resolución de 16 de septiembre de 2025, de la Secretaría General Técnica de la Consejería de Medio Ambiente, Agricultura e Interior, por la que se dispone la publicación en los diarios y boletines oficiales correspondientes y en el “perfil del contratante” de la convocatoria del contrato de servicios de “Programa de Educación Ambiental Arco Verde de la Comunidad de Madrid, en los Centros de Educación Ambiental Polvoranca y Bosque Sur (Leganés)”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-50.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "description": "Anuncio de 22 de septiembre de 2025, de Canal de Isabel II, S. A., M. P., por el que se hace pública la convocatoria del contrato por procedimiento abierto para el suministro de contadores electrónicos de agua (calibre 15, 20, 32 y 40 mm)",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-51.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Consejería de Cultura, Turismo y Deporte",
+      "description": "Resolución de 18 de septiembre de 2025, de la Secretaría General Técnica de la Consejería de Cultura, Turismo y Deporte, por la que se dispone la publicación en los boletines oficiales y en el “perfil del contratante”, en Internet, de la formalización del contrato de servicios titulado “Servicio de limpieza de las dependencias, instalaciones y edificios de la Consejería de Cultura, Turismo y Deporte de la Comunidad de Madrid, dividido en cuatro lotes”",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-52.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Disposiciones y Anuncios del Estado",
+      "description": "Ministerio para la Transición Ecológica y el Reto Demográfico. Direccion General de Política Energética y Minas. Autorización administrativa",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-53.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Madrid",
+      "description": "Contratación: Área de Gobierno de Urbanismo, Medio Ambiente y Movilidad. Revisión costes contrato",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-54.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Ajalvir",
+      "description": "Régimen económico: Ordenanza",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-55.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcalá de Henares",
+      "description": "Régimen económico: Precio público",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-56.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Alcalá de Henares",
+      "description": "Urbanismo: Plan especial",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-57.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Brunete",
+      "description": "Licencias: Licencia actividad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-58.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Cervera de Buitrago",
+      "description": "Contratación: Licitación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-59.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Ciempozuelos",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-60.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Ciempozuelos",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-61.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Collado Mediano",
+      "description": "Otros anuncios: Candidatura juez de paz",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-62.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Daganzo de Arriba",
+      "description": "Organización y funcionamiento: Delegación funciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-63.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "El Boalo",
+      "description": "Urbanismo: Proyecto reparcelación",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-64.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Fuenlabrada",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-65.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Leganés",
+      "description": "Licencias: Licencia actividad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-66.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Loeches",
+      "description": "Régimen económico: Padrón fiscal",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-67.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Manzanares el Real",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-68.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Miraflores de la Sierra",
+      "description": "Organización y funcionamiento: Estatutos Patronato Residencia Mayores",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-69.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Miraflores de la Sierra",
+      "description": "Urbanismo: Ordenanza declaración responsable",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-70.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Parla",
+      "description": "Régimen económico: Convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-71.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Fernando de Henares",
+      "description": "Ofertas de empleo: Convocatoria proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-72.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Sebastián de los Reyes",
+      "description": "Ofertas de empleo: Proceso selectivo",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-73.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Sebastián de los Reyes",
+      "description": "Urbanismo: Plan general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-74.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "San Sebastián de los Reyes",
+      "description": "Urbanismo: Plan general",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-75.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrejón de Ardoz",
+      "description": "Régimen económico: Extracto convocatoria subvenciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-76.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrejón de Ardoz",
+      "description": "Licencias: Licencia actividad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-77.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrejón de Ardoz",
+      "description": "Licencias: Licencia actividad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-78.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torrejón de Ardoz",
+      "description": "Licencias: Licencia actividad",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-79.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Torres de la Alameda",
+      "description": "Organización y funcionamiento: Delegación funciones",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-80.PDF"
+    }
+  },
+  {
+    "name": "announcement",
+    "params": {
+      "title": "Villanueva del Pardillo",
+      "description": "Régimen económico: Modificación presupuestaria",
+      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-81.PDF"
+    }
+  }
+]
