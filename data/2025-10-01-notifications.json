@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad Autónoma de Madrid",
-      "description": "Anuncio de 17 de septiembre de 2025, por el que se convocan las bases del procedimiento de selección para cubrir un puesto indefinido en la Fundación de la Universidad Autónoma de Madrid",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-26.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Universidad Politécnica de Madrid",
       "description": "Resolución de 8 de septiembre de 2025, de la Universidad Politécnica de Madrid, por la que se nombra personal funcionario de carrera en la Escala de Gestión Universitaria, Grupo A, Subgrupo A2, de la Universidad Politécnica de Madrid, por el sistema general de acceso libre y de sistema general de promoción interna",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-27.PDF"
