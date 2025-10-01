@@ -2,14 +2,6 @@
   {
     "name": "announcement",
     "params": {
-      "title": "Universidad de Alcalá",
-      "description": "Resolución de 16 de septiembre de 2025, de la Universidad de Alcalá, por la que se nombra Profesor Titular de Universidad del Área de Conocimiento de “Filología Inglesa”, a don Antonio Pareja Lora",
-      "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-30.PDF"
-    }
-  },
-  {
-    "name": "announcement",
-    "params": {
       "title": "Consejería de Educación, Ciencia y Universidades",
       "description": "Orden 4306/2025, de 17 de septiembre, del Consejero de Educación, Ciencia y Universidades, por la que se acuerda la creación de la Facultad de Medicina y Ciencias de la Salud, así como el traslado de la impartición de determinadas enseñanzas universitarias oficiales de grado y máster gestionadas por la Facultad de Ciencias de la Vida y de la Naturaleza, en la Universidad Antonio de Nebrija",
       "file": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/01/BOCM-20251001-31.PDF"
